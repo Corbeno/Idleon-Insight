@@ -2,6 +2,7 @@ const fs = require('fs');
 const { off } = require('process');
 
 let example = {
+    source: "",
     name: "",
     bonuses: [],
     worksInGame: true,
@@ -48,15 +49,19 @@ runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
 runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
 
 // console.log(JSON.stringify(output));
-searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
+// searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
 // searchOutput(/.*/i, output);
-//TODO write output to output dir
 
-//parsing functions - should probably move to seperate files?
+fs.writeFile("output/output.json", JSON.stringify(output), (err) => {
+    if(err) throw err;
+})
+
+//parsing functions
 function parseBribeRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
+        source: "Bribe",
         name: key,
         bonuses: [body.desc],
         worksInGame: true
@@ -68,7 +73,8 @@ function parseBubbleRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: body.cauldron + ": " + key,
+        source: body.cauldron,
+        name: key,
         bonuses: [body.description],
         worksInGame: true
     });
@@ -78,7 +84,8 @@ function parsePostOfficeUpgradesRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: "Post Office Box: " + key,
+        source: "Post Office Box",
+        name: key,
         bonuses: function(){
             let r = [];
             for(bonus of body.bonuses){
@@ -95,7 +102,8 @@ function parseBuildingRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: key + " Building Upgrade",
+        source: "Building Upgrade",
+        name: key,
         bonuses: [body.bonus],
         worksInGame: true
     });
