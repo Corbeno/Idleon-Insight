@@ -1,4 +1,5 @@
 const fs = require('fs');
+const { off } = require('process');
 
 let example = {
     name: "",
@@ -10,30 +11,30 @@ let exportedPath = "IdleonWikiBot3.0/exported/";
 let output = [];
 // ----------------------------------- REPO -----------------------------------
 // repo/Worlds/*/
-// runParser(parseBribeRepo, exportedPath + "repo/Worlds/1/BribeRepo.json");
+runParser(parseBribeRepo, exportedPath + "repo/Worlds/1/BribeRepo.json");
 runParser(parseBubbleRepo, exportedPath + "repo/Worlds/2/BubbleRepo.json");
-// runParser(parsePostOfficeUpgradesRepo, exportedPath + "repo/Worlds/2/PostOfficeUpgradesRepo.json");
-// runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
-// runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
-// runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
-// runParser(parseShrineRepo, exportedPath + "repo/Worlds/3/ShrineRepo.json");
+runParser(parsePostOfficeUpgradesRepo, exportedPath + "repo/Worlds/2/PostOfficeUpgradesRepo.json");
+runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
+runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
+runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
+runParser(parseShrineRepo, exportedPath + "repo/Worlds/3/ShrineRepo.json");
 //TODO add world 4 from repo/worlds/4
 
 // repo/Talents/*
-// runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
+runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
 
 // repo/Misc/*
-// runParser(parseAchievementRepo, exportedPath + "repo/Misc/AchievementRepo.json");
-// runParser(parseGemShopRepo, exportedPath + "repo/Misc/GemShopRepo.json");
-// runParser(parseGuildBonusRepo, exportedPath + "repo/Misc/GuildBonusRepo.json");
-// runParser(parseStarSignsRepo, exportedPath + "repo/Misc/StarSignsRepo.json");
-// runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json");
+runParser(parseAchievementRepo, exportedPath + "repo/Misc/AchievementRepo.json");
+runParser(parseGemShopRepo, exportedPath + "repo/Misc/GemShopRepo.json");
+runParser(parseGuildBonusRepo, exportedPath + "repo/Misc/GuildBonusRepo.json");
+runParser(parseStarSignsRepo, exportedPath + "repo/Misc/StarSignsRepo.json");
+runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json");
 
 // repo/Item/* 
-// runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
+runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
 //TODO repo/Item/ItemDetailRepo (weird parsing...)
 //TODO repo/Item/StampDescriptionRepo (need to do some mapping)
-// runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
+runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
 
 // repo/Dungeon/*
 //TODO DungEnanceRepo (might not do because bonuses only apply to dungeons?)
@@ -44,9 +45,11 @@ runParser(parseBubbleRepo, exportedPath + "repo/Worlds/2/BubbleRepo.json");
 //TODO KeychainBonusRepo?
 
 // repo/Arcade/*
-// runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
+runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
 
-console.log(JSON.stringify(output));
+// console.log(JSON.stringify(output));
+searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
+// searchOutput(/.*/i, output);
 //TODO write output to output dir
 
 //parsing functions - should probably move to seperate files?
@@ -60,6 +63,7 @@ function parseBribeRepo(keyValue){
     });
 }
 
+//TODO add which skilling tools give skilling power for some bubbles...
 function parseBubbleRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
@@ -74,7 +78,7 @@ function parsePostOfficeUpgradesRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: key,
+        name: "Post Office Box: " + key,
         bonuses: function(){
             let r = [];
             for(bonus of body.bonuses){
@@ -181,7 +185,7 @@ function parseStarSignsRepo(keyValue){
     }
     
     output.push({
-        name: key + "Star Sign",
+        name: "Star Sign: " + key,
         bonuses: [body.text],
         worksInGame: true
     });
@@ -230,9 +234,18 @@ function parseArcadeBonusRepo(keyValue){
     });
 }
 
-
-
 //helper functions
+function searchOutput(search, output){
+    for(obj of output){
+        for(bonus of obj.bonuses){
+            if(search.test(bonus)){
+                console.log(JSON.stringify(obj));
+                continue;
+            }
+        }
+    }
+}
+
 function runParser(func, path){
     Object.entries(getWikiBotJSON(path)).forEach(func);
 }
@@ -240,7 +253,6 @@ function runParser(func, path){
 function getWikiBotJSON(path){
     let json = JSON.parse(fs.readFileSync(path));
     if(!isJson(json)){
-        //TODO throw error
         console.error("File: " + path + " doesn't contain valid JSON.");
         return -1;
     }
