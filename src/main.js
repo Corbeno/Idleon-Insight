@@ -12,31 +12,30 @@ let exportedPath = "IdleonWikiBot3.0/exported/";
 let output = [];
 // ----------------------------------- REPO -----------------------------------
 // repo/Worlds/*/
-// runParser(parseBribeRepo, exportedPath + "repo/Worlds/1/BribeRepo.json");
-// runParser(parseBubbleRepo, exportedPath + "repo/Worlds/2/BubbleRepo.json");
-// runParser(parsePostOfficeUpgradesRepo, exportedPath + "repo/Worlds/2/PostOfficeUpgradesRepo.json");
-// runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
-// runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
-// runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
-// runParser(parseShrineRepo, exportedPath + "repo/Worlds/3/ShrineRepo.json");
+runParser(parseBribeRepo, exportedPath + "repo/Worlds/1/BribeRepo.json");
+runParser(parseBubbleRepo, exportedPath + "repo/Worlds/2/BubbleRepo.json");
+runParser(parsePostOfficeUpgradesRepo, exportedPath + "repo/Worlds/2/PostOfficeUpgradesRepo.json");
+runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
+runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
+runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
+runParser(parseShrineRepo, exportedPath + "repo/Worlds/3/ShrineRepo.json");
 //TODO add world 4 from repo/worlds/4
 
 // repo/Talents/*
-// runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
+runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
 
 // repo/Misc/*
-// runParser(parseAchievementRepo, exportedPath + "repo/Misc/AchievementRepo.json");
-// runParser(parseGemShopRepo, exportedPath + "repo/Misc/GemShopRepo.json");
-// runParser(parseGuildBonusRepo, exportedPath + "repo/Misc/GuildBonusRepo.json");
-// runParser(parseStarSignsRepo, exportedPath + "repo/Misc/StarSignsRepo.json");
-// runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json");
+runParser(parseAchievementRepo, exportedPath + "repo/Misc/AchievementRepo.json");
+runParser(parseGemShopRepo, exportedPath + "repo/Misc/GemShopRepo.json");
+runParser(parseGuildBonusRepo, exportedPath + "repo/Misc/GuildBonusRepo.json");
+runParser(parseStarSignsRepo, exportedPath + "repo/Misc/StarSignsRepo.json");
+runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json");
 
 // repo/Item/* 
-// runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
-    //TODO repo/Item/ItemDetailRepo (weird parsing...)
-    // runParser(parseItemDetailRepo, exportedPath + "repo/Item/ItemDetailRepo.json"); //INCOMPLETE
+runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
+runParser(parseSpecificItemRepo, exportedPath + "repo/Item/SpecificItemRepo.json"); //INCOMPLETE
 //TODO repo/Item/StampDescriptionRepo (need to do some mapping)
-// runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
+runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
 
 // repo/Dungeon/*
 //TODO DungEnanceRepo (might not do because bonuses only apply to dungeons?)
@@ -47,15 +46,15 @@ let output = [];
 //TODO KeychainBonusRepo?
 
 // repo/Arcade/*
-// runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
+runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
 
 // console.log(JSON.stringify(output));
 // searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
 // searchOutput(/.*/i, output);
 
-// fs.writeFile("output/output.json", JSON.stringify(output), (err) => {
-//     if(err) throw err;
-// })
+fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
+    if(err) throw err;
+})
 
 //parsing functions
 function parseBribeRepo(keyValue){
@@ -243,51 +242,132 @@ function parseArcadeBonusRepo(keyValue){
     });
 }
 
-function parseItemDetailRepo(keyValue){
+function parseSpecificItemRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     //TODO make these globals or smth?
-    const skipList = ["NothingERROR", "aError", "dQuest", "bOre", "bBar", "bLog", "bLeaf", "dFish", "dCritters", "dSouls", "dStatueStone", "aRecipe", "aTalentBook", "aCarryBag", "bCraft", "dTimeCandy", "aInventoryBag", "aStorageChest", "dFishToolkit", "dCard", "dCurrency", "dCardPack"]
-    const armorList = ["aHelmet", "aShirt", "aPants", "aShoes", "aPendant", "aRing", "aChatRingMTX", "aTrophy", "aHelmetMTX", "aCape", "aKeychain"];
-    const armorKeysList = ["Speed", "Reach", "Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence"];
-    //TODO tools display "weapon power", but it should be mining/chopping/etc power....
-    const toolList = ["aPick", "aHatchet", "aFishingRod", "aBugNet", "aTrap", "aSkull", "aDNAgun"];
-    const obolList = ["aObolCircle", "aObolSquare", "aObolHexagon", "aObolSparkle"];
+    const skipList = ["NothingERROR", "aError", "dQuest", "bOre", "bBar", "bLog", "bLeaf", "dFish", "dCritters", "dBugs", "dSouls", "dStatueStone", "aRecipe", "aTalentBook", "aCarryBag", "bCraft", "dTimeCandy", "aInventoryBag", "aStorageChest", "dFishToolkit", "dCard", "dCurrency", "dCardPack"]
     let typeGen = body.typeGen;
     if(skipList.indexOf(typeGen) > -1){
         return;
     }
+    let bonuses = getSpecificItemBonuses(body);
+    if(bonuses[0] === "INSIGHT ERROR"){
+        return;
+    }
+    let displayName = body.displayName;
+    if(displayName === "FILLER"){
+        return;
+    }
     output.push({
-        name: body.displayName,
-        bonuses: function(){
-            if(armorList.indexOf(typeGen) > -1){
-                // console.log(typeGen);
-                let r = [];
-                for(armorKey of armorKeysList){
-                    if(body[armorKey] != 0){
-                        r.push(armorKey + ": " + body[armorKey]);
-                    }
-                }
-                if(body.UQ1val != 0){
-                    r.push(body.UQ1val + body.UQ1txt);
-                }
-                if(body.UQ2val != 0){
-                    r.push(body.UQ2val + body.UQ2txt);
-                }
-                return r;
-            }
-
-            //independent parsing
-            //cOil, aWeapon, cFood, aStamp, dStone
-
-            // console.error("Unhandled typeGen: " + typeGen);
-            return ["INSIGHT ERROR"];
-        }(),
+        name: displayName,
+        bonuses: bonuses,
         worksInGame: true
     });
 }
 
+function getSpecificItemBonuses(body){
+    const armorList = ["aHelmet", "aShirt", "aPants", "aShoes", "aPendant", "aRing", "aChatRingMTX", "aTrophy", "aHelmetMTX", "aCape", "aKeychain"];
+    const toolList = ["aPick", "aHatchet", "aFishingRod", "aBugNet", "aTrap", "aSkull", "aDNAgun"];
+    const obolList = ["aObolCircle", "aObolSquare", "aObolHexagon", "aObolSparkle"]; 
+    const keysList = ["Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence"];
+    const weaponKeysList = ["Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence", "Speed","Reach"];
+    let typeGen = body.typeGen;
+    if(armorList.indexOf(typeGen) > -1){
+        // console.log(typeGen);
+        let r = [];
+        for(armorKey of keysList){
+            if(body[armorKey] != 0){
+                r.push(armorKey + ": " + body[armorKey]);
+            }
+        }
+        if(body.miscUp1 != "" && body.miscUp1 != "00"){
+            r.push(body.miscUp1);
+        }
+        if(body.miscUp2 != "" && body.miscUp2 != "00"){
+            r.push(body.miscUp2);
+        }
+        return r;
+    }
+
+    if(toolList.indexOf(typeGen) > -1){
+        let r = [];
+        r.push(body.Skill_Power + " " + body.Skill + " Power");
+        r.push(body.Speed + " " + body.Skill + " Speed");
+        for(toolKey of keysList){
+            if(body[toolKey] != 0){
+                r.push(toolKey + ": " + body[toolKey]);
+            }
+        }
+        if(body.miscUp1 != "" && body.miscUp1 != "00"){
+            r.push(body.miscUp1);
+        }
+        if(body.miscUp2 != "" && body.miscUp2 != "00"){
+            r.push(body.miscUp2);
+        }
+        return r;
+    }
+
+    if(obolList.indexOf(typeGen) > -1){
+        let r = [];
+        if(body.Skill != ""){
+            r.push(body.Skill_Power + " " + body.Skill + " Power");
+        }
+        for(obolKey of keysList){
+            if(body[obolKey] != 0){
+                r.push(obolKey + ": " + body[obolKey]);
+            }
+        }
+        if(body.miscUp1 != "" && body.miscUp1 != "00"){
+            r.push(body.miscUp1);
+        }
+        if(body.miscUp2 != "" && body.miscUp2 != "00"){
+            r.push(body.miscUp2);
+        }
+        return r;
+    }
+
+    if(typeGen === "aWeapon"){
+        let r = [];
+        for(weaponKey of weaponKeysList){
+            if(body[weaponKey] != 0){
+                r.push(weaponKey + ": " + body[weaponKey]);
+            }
+        }
+        if(body.miscUp1 != "" && body.miscUp1 != "00"){
+            r.push(body.miscUp1);
+        }
+        if(body.miscUp2 != "" && body.miscUp2 != "00"){
+            r.push(body.miscUp2);
+        }
+        return r;
+    }
+
+    switch(typeGen){
+        case "aStamp":
+            return [body.bonus];
+        case "cFood":
+        case "cOil":
+        case "dStone":
+            return [body.description];
+        default:
+            console.error("Unhandled typeGen: " + typeGen); //TODO uncomment once all are implemented
+            return ["INSIGHT ERROR"];
+    }   
+}
+
 //helper functions
+
+function cleanOutput(output){
+    for(obj of output){
+        // console.log(obj);
+        obj.bonuses.forEach(function(bonus, i, bonuses){
+            obj.bonuses[i] = bonus.replace("[", "");
+        })
+    }
+    return output
+}
+
 function searchOutput(search, output){
     for(obj of output){
         for(bonus of obj.bonuses){
