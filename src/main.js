@@ -113,6 +113,7 @@ function parsePrayerRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
+        source: "Prayer",
         name: key,
         bonuses: [body.bonus, body.curse],
         worksInGame: true
