@@ -361,7 +361,7 @@ function getSpecificItemBonuses(body){
 function cleanOutput(output){
     for(obj of output){
         obj.bonuses.forEach(function(bonus, i, bonuses){
-            obj.bonuses[i] = bonus.replace(/\[/g, "").replace(/\{/g, "").replace(/\_/g, " ");
+            obj.bonuses[i] = bonus.replace(/\[|\{|\}/g, "").replace(/\_/g, " ");
         })
     }
     return output
