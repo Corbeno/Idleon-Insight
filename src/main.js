@@ -54,7 +54,7 @@ runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json
 // console.log(JSON.stringify(output));
 // searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
 // searchOutput(/Skill Efficiency/i, output);
-searchName(/Coconut/i, output);
+// searchName(/Coconut/i, output);
 
 fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
     if(err) throw err;
