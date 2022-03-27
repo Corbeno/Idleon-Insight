@@ -51,11 +51,11 @@ runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json
 // console.log(JSON.stringify(output));
 // searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
 // searchOutput(/Skill Efficiency/i, output);
-searchName(/Skilled Dimwit/i, output);
+// searchName(/Skilled Dimwit/i, output);
 
-// fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
-//     if(err) throw err;
-// })
+fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
+    if(err) throw err;
+})
 
 //parsing functions
 function parseBribeRepo(keyValue){
