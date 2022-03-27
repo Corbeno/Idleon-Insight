@@ -361,10 +361,7 @@ function getSpecificItemBonuses(body){
 function cleanOutput(output){
     for(obj of output){
         obj.bonuses.forEach(function(bonus, i, bonuses){
-            obj.bonuses[i] = bonus.replace("[", "");
-            obj.bonuses[i] = bonus.replace("{", "");
-            obj.bonuses[i] = bonus.replace("_", " ");
-
+            obj.bonuses[i] = bonus.replace("[", "").replace("{", "").replace("_", " ");
         })
     }
     return output
