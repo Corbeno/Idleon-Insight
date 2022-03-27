@@ -269,7 +269,9 @@ function parseSpecificItemRepo(keyValue){
     if(skipList.indexOf(typeGen) > -1){
         return;
     }
-    let bonuses = getSpecificItemBonuses(body);
+    let bonusesAndSource = getSpecificItemBonuses(body);
+    let bonuses = bonusesAndSource[0];
+    let source = bonusesAndSource[1];
     if(bonuses[0] === "INSIGHT ERROR"){
         return;
     }
@@ -278,7 +280,7 @@ function parseSpecificItemRepo(keyValue){
         return;
     }
     output.push({
-        source: "ItemRepo: TODO",
+        source: source,
         name: displayName,
         bonuses: bonuses,
         worksInGame: true
@@ -306,7 +308,7 @@ function getSpecificItemBonuses(body){
         if(body.miscUp2 != "" && body.miscUp2 != "00"){
             r.push(body.miscUp2);
         }
-        return r;
+        return [r, "Armor"];
     }
 
     if(toolList.indexOf(typeGen) > -1){
@@ -324,7 +326,7 @@ function getSpecificItemBonuses(body){
         if(body.miscUp2 != "" && body.miscUp2 != "00"){
             r.push(body.miscUp2);
         }
-        return r;
+        return [r, "Tool"];
     }
 
     if(obolList.indexOf(typeGen) > -1){
@@ -343,7 +345,7 @@ function getSpecificItemBonuses(body){
         if(body.miscUp2 != "" && body.miscUp2 != "00"){
             r.push(body.miscUp2);
         }
-        return r;
+        return [r, "Obol"];
     }
 
     if(typeGen === "aWeapon"){
@@ -359,19 +361,21 @@ function getSpecificItemBonuses(body){
         if(body.miscUp2 != "" && body.miscUp2 != "00"){
             r.push(body.miscUp2);
         }
-        return r;
+        return [r, "Weapon"];
     }
 
     switch(typeGen){
         case "aStamp":
-            return [body.bonus];
+            return [[body.bonus], "Stamp"];
         case "cFood":
+            return [[body.description], "Food"];
         case "cOil":
+            return [[body.description], "Forge Oil"];
         case "dStone":
-            return [body.description];
+            return [[body.description], "Upgrade Stone"];
         default:
             console.error("Unhandled typeGen: " + typeGen); //TODO uncomment once all are implemented
-            return ["INSIGHT ERROR"];
+            return [["INSIGHT ERROR"], "INSIGHT ERROR"];
     }   
 }
 
