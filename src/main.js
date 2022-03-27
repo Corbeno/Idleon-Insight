@@ -215,13 +215,12 @@ function parseTaskShopDescRepo(keyValue){
     let body = keyValue[1];
     output.push({
         source: "Task Shop",
-        name: "Upgrade Number: " + key,
+        name: "Upgrade: " + key, //TODO map to name?
         bonuses: [body.descLine1 + body.descLine2],
         worksInGame: true
     });
 }
 
-//TODO map key to display name
 function parseCardRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
@@ -263,7 +262,6 @@ function parseArcadeBonusRepo(keyValue){
 function parseSpecificItemRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
-    //TODO make these globals or smth?
     const skipList = ["NothingERROR", "aError", "dQuest", "bOre", "bBar", "bLog", "bLeaf", "dFish", "dCritters", "dBugs", "dSouls", "dStatueStone", "aRecipe", "aTalentBook", "aCarryBag", "bCraft", "dTimeCandy", "aInventoryBag", "aStorageChest", "dFishToolkit", "dCard", "dCurrency", "dCardPack"]
     let typeGen = body.typeGen;
     if(skipList.indexOf(typeGen) > -1){
@@ -272,7 +270,7 @@ function parseSpecificItemRepo(keyValue){
     let bonusesAndSource = getSpecificItemBonuses(body);
     let bonuses = bonusesAndSource[0];
     let source = bonusesAndSource[1];
-    if(bonuses[0] === "INSIGHT ERROR"){
+    if(bonuses[0] === "INSIGHT ERROR" || source === "SKIP"){
         return;
     }
     let displayName = body.displayName;
@@ -350,6 +348,10 @@ function getSpecificItemBonuses(body){
 
     if(typeGen === "aWeapon"){
         let r = [];
+        //ignore dungeon weapons, as they are very spammy for the output...
+        if(body.internalName.includes("DungWeapon")){
+            return [r, "SKIP"];
+        }
         for(weaponKey of weaponKeysList){
             if(body[weaponKey] != 0){
                 r.push(weaponKey + ": " + body[weaponKey]);
@@ -374,7 +376,7 @@ function getSpecificItemBonuses(body){
         case "dStone":
             return [[body.description], "Upgrade Stone"];
         default:
-            console.error("Unhandled typeGen: " + typeGen); //TODO uncomment once all are implemented
+            console.error("Unhandled typeGen: " + typeGen);
             return [["INSIGHT ERROR"], "INSIGHT ERROR"];
     }   
 }
