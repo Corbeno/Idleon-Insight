@@ -50,11 +50,12 @@ runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json
 
 // console.log(JSON.stringify(output));
 // searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
-// searchOutput(/.*/i, output);
+// searchOutput(/Skill Efficiency/i, output);
+searchName(/Skilled Dimwit/i, output);
 
-fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
-    if(err) throw err;
-})
+// fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
+//     if(err) throw err;
+// })
 
 //parsing functions
 function parseBribeRepo(keyValue){
@@ -125,7 +126,8 @@ function parseSaltLickRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: key + " salt lick upgrade",
+        soruce: "Salt Lick",
+        name: key,
         bonuses: [body.desc],
         worksInGame: true
     });
@@ -135,6 +137,7 @@ function parseShrineRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
+        source: "Shrine",
         name: key,
         bonuses: [body.desc],
         worksInGame: true
@@ -148,6 +151,7 @@ function parseTalentTreeRepo(keyValue){
         key2 = keyValue2[0];
         body2 = keyValue2[1];
         output.push({
+            source: key + " Talents",
             name: key2,
             bonuses: [body2.description],
             worksInGame: true
@@ -159,6 +163,7 @@ function parseAchievementRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
+        source: "Achievement",
         name: key,
         bonuses: [body.rewards],
         worksInGame: true
@@ -169,7 +174,8 @@ function parseGemShopRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: body.itemName + " Gem Shop Purchase",
+        source: "Gem Shop",
+        name: body.itemName,
         bonuses: [body.desc],
         worksInGame: true
     });
@@ -179,7 +185,8 @@ function parseGuildBonusRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: key + " Guild Bonus",
+        source: "Guild Bonus",
+        name: key,
         bonuses: [body.bonus],
         worksInGame: true
     });
@@ -188,13 +195,12 @@ function parseGuildBonusRepo(keyValue){
 function parseStarSignsRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
-
     if(key.includes("Unknown") || key.includes("Filler")){
         return;
     }
-    
     output.push({
-        name: "Star Sign: " + key,
+        source: "Star Sign",
+        name: key,
         bonuses: [body.text],
         worksInGame: true
     });
@@ -205,7 +211,8 @@ function parseTaskShopDescRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: "Task shop number: " + key,
+        source: "Task Shop",
+        name: "Upgrade Number: " + key,
         bonuses: [body.descLine1 + body.descLine2],
         worksInGame: true
     });
@@ -216,7 +223,8 @@ function parseCardRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: key + " Card",
+        source: "Card",
+        name: key,
         bonuses: [body.effect],
         worksInGame: true
     });
@@ -226,7 +234,8 @@ function parseStatueRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: body.name + " Statue",
+        source: "Statue",
+        name: body.name,
         bonuses: [body.effect],
         worksInGame: true
     });
@@ -237,12 +246,14 @@ function parseArcadeBonusRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        name: "Arcade Bonus " + key,
+        source: "Arcade Bonus",
+        name: key,
         bonuses: [body.effect],
         worksInGame: true
     });
 }
 
+//TODO add source
 function parseSpecificItemRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
@@ -375,6 +386,14 @@ function searchOutput(search, output){
                 console.log(JSON.stringify(obj));
                 continue;
             }
+        }
+    }
+}
+
+function searchName(search, output){
+    for(obj of output){
+        if(search.test(obj.name)){
+            console.log(JSON.stringify(obj));
         }
     }
 }
