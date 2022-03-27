@@ -10,6 +10,9 @@ let example = {
 
 let exportedPath = "IdleonWikiBot3.0/exported/";
 let output = [];
+// ----------------------------------- Helper Data ---------------------------------
+let EnemyRepo = getWikiBotJSON(exportedPath + "repo/Enemy/EnemyRepo.json");
+
 // ----------------------------------- REPO -----------------------------------
 // repo/Worlds/*/
 runParser(parseBribeRepo, exportedPath + "repo/Worlds/1/BribeRepo.json");
@@ -51,7 +54,7 @@ runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json
 // console.log(JSON.stringify(output));
 // searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
 // searchOutput(/Skill Efficiency/i, output);
-// searchName(/Skilled Dimwit/i, output);
+searchName(/Coconut/i, output);
 
 fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
     if(err) throw err;
@@ -222,9 +225,12 @@ function parseTaskShopDescRepo(keyValue){
 function parseCardRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
+    if(key === "Blank"){
+        return;
+    }
     output.push({
         source: "Card",
-        name: key,
+        name: EnemyRepo[key].details.Name,
         bonuses: [body.effect],
         worksInGame: true
     });
