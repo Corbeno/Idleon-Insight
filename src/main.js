@@ -278,6 +278,7 @@ function parseSpecificItemRepo(keyValue){
         return;
     }
     output.push({
+        source: "ItemRepo: TODO",
         name: displayName,
         bonuses: bonuses,
         worksInGame: true
