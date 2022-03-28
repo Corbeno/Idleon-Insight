@@ -41,11 +41,9 @@ runParser(parseSpecificItemRepo, exportedPath + "repo/Item/SpecificItemRepo.json
 runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
 
 // repo/Dungeon/*
-//TODO DungEnanceRepo (might not do because bonuses only apply to dungeons?)
-//TODO DungeonItemRepo (same as above)
-//TODO DungPassivesRepo (at least the flurbo passives)
-//TODO DungTraitRepo (same as first)
-//TODO FlurboShopRepo?
+    //TODO DungPassivesRepo (at least the flurbo passives)
+    runParser(parseDungPassivesRepo, exportedPath + "repo/Dungeon/DungPassivesRepo.json");
+
 //TODO KeychainBonusRepo?
 
 // repo/Arcade/*
@@ -379,6 +377,21 @@ function getSpecificItemBonuses(body){
             console.error("Unhandled typeGen: " + typeGen);
             return [["INSIGHT ERROR"], "INSIGHT ERROR"];
     }   
+}
+
+function parseDungPassivesRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    if(key === "Flurbo"){
+        for(passive of body.passives){
+            output.push({
+                source: "Dungeon",
+                name: "Flurbo passive",
+                bonuses: [passive.effect],
+                worksInGame: true
+            });
+        }
+    }
 }
 
 //helper functions
