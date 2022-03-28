@@ -12,6 +12,7 @@ let exportedPath = "IdleonWikiBot3.0/exported/";
 let output = [];
 // ----------------------------------- Helper Data ---------------------------------
 let EnemyRepo = getWikiBotJSON(exportedPath + "repo/Enemy/EnemyRepo.json");
+let ItemDetailRepo = getWikiBotJSON(exportedPath + "repo/Item/ItemDetailRepo.json");
 
 // ----------------------------------- REPO -----------------------------------
 // repo/Worlds/*/
@@ -127,12 +128,11 @@ function parsePrayerRepo(keyValue){
 }
 
 function parseSaltLickRepo(keyValue){
-    //TODO map key to it's dispaly name
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        soruce: "Salt Lick",
-        name: key,
+        source: "Salt Lick",
+        name: ItemDetailRepo[key].displayName,
         bonuses: [body.desc],
         worksInGame: true
     });
