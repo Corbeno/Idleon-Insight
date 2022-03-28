@@ -37,12 +37,10 @@ runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json
 // repo/Item/* 
 runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
 runParser(parseSpecificItemRepo, exportedPath + "repo/Item/SpecificItemRepo.json"); //INCOMPLETE
-//TODO repo/Item/StampDescriptionRepo (need to do some mapping)
 runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
 
 // repo/Dungeon/*
-    //TODO DungPassivesRepo (at least the flurbo passives)
-    runParser(parseDungPassivesRepo, exportedPath + "repo/Dungeon/DungPassivesRepo.json");
+runParser(parseDungPassivesRepo, exportedPath + "repo/Dungeon/DungPassivesRepo.json");
 
 //TODO KeychainBonusRepo?
 
@@ -291,7 +289,7 @@ function getSpecificItemBonuses(body){
     const weaponKeysList = ["Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence", "Speed","Reach"];
     let typeGen = body.typeGen;
     if(armorList.indexOf(typeGen) > -1){
-        // console.log(typeGen);
+
         let r = [];
         for(armorKey of keysList){
             if(body[armorKey] != 0){
@@ -301,7 +299,7 @@ function getSpecificItemBonuses(body){
         if(body.miscUp1 != "" && body.miscUp1 != "00"){
             r.push(body.miscUp1);
         }
-        if(body.miscUp2 != "" && body.miscUp2 != "00"){
+        if(body.miscUp2 != "" && body.miscUp2 != "00" && typeGen != "aKeychain"){
             r.push(body.miscUp2);
         }
         return [r, "Armor"];
