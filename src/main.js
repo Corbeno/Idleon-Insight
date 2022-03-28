@@ -22,7 +22,13 @@ runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
 runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
 runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
 runParser(parseShrineRepo, exportedPath + "repo/Worlds/3/ShrineRepo.json");
-//TODO add world 4 from repo/worlds/4
+runParser(parseArenaBonusRepo, exportedPath + "repo/Worlds/4/ArenaBonusRepo.json");
+runParser(parseChipRepo, exportedPath + "repo/Worlds/4/ChipRepo.json");
+runParser(parseJewelRepo, exportedPath + "repo/Worlds/4/JewelRepo.json");
+runParser(parseLabBonusRepo, exportedPath + "repo/Worlds/4/LabBonusRepo.json");
+runParser(parseMealRepo, exportedPath + "repo/Worlds/4/MealRepo.json");
+runParser(parsePetUpgradeRepo, exportedPath + "repo/Worlds/4/PetUpgradeRepo.json");
+
 
 // repo/Talents/*
 runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
@@ -390,6 +396,73 @@ function parseDungPassivesRepo(keyValue){
             });
         }
     }
+}
+
+
+function parseArenaBonusRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Pet Area Bonus",
+        name: key,
+        bonuses: [body.desc],
+        worksInGame: true
+    });
+}
+
+function parseChipRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Lab Chip",
+        name: key,
+        bonuses: [body.bonus],
+        worksInGame: true
+    });
+}
+
+function parseJewelRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Lab Jewel",
+        name: key,
+        bonuses: [body.effect],
+        worksInGame: true
+    });
+}
+
+function parseLabBonusRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Lab Bonus",
+        name: key,
+        bonuses: [body.description],
+        worksInGame: true
+    });
+}
+
+function parseMealRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Meal",
+        name: key,
+        bonuses: [body.bonusText],
+        worksInGame: true
+    });
+}
+
+function parsePetUpgradeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Pet Upgrade",
+        name: key,
+        bonuses: [body.description],
+        worksInGame: true
+    });
 }
 
 //helper functions
