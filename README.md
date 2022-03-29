@@ -1,4 +1,4 @@
-# Idleon-Insight <img src="https://github.com/Corbeno/Idleon-Insight/blob/main/insightLogo.png?raw=true" href="https://idleoninsight.com" width="30" height="30" />
+# Idleon-Insight <a href="https://idleoninsight.com"><img src="https://github.com/Corbeno/Idleon-Insight/blob/main/insightLogo.png?raw=true" width="30" height="30" /></a>
 
 ## What is it?
 The purpose of these scripts are to generate a file located in output/output.json which is a JSON array that contains all bonuses in Idleon. For example, anything that gives weapon power should be included in the list. This list is used in [Idleon Insight Frontend](https://github.com/Corbeno/Idleon-Insight-Frontend).
