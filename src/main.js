@@ -123,7 +123,6 @@ function parsePostOfficeUpgradesRepo(keyValue){
     });
 }
 
-//TODO this might not be wanted as bonus descriptions only apply to the buildings themselves
 function parseBuildingRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];

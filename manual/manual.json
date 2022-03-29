@@ -4,5 +4,56 @@
         "name": "example",
         "bonuses": ["bonus1", "bonus2"],
         "worksInGame": true
+    },
+    {
+        "source": "Main Stat",
+        "name": "Strength (STR)",
+        "bonuses": [
+            "Damage for Warrior-based Classes", 
+            "Accuracy for Archer-based Classes",
+            "Critical Hit Damage",
+            "Maximum Health Points",
+            "Mining Efficiency",
+            "Fishing Efficiency",
+            "Construction build speed"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Main Stat",
+        "name": "Agility (AGI)",
+        "bonuses": [
+            "Damage for Archer-based Classes", 
+            "Accuracy for Mage-based Classes",
+            "Critical Hit Chance",
+            "movement speed",
+            "Catchin Efficiency",
+            "Smithing production speed",
+            "Trapping Effiency"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Main Stat",
+        "name": "Wisdom (WIS)",
+        "bonuses": [
+            "Damage for Mage-based Classes",
+            "Accuracy for Warrior-based Classes",
+            "Maximum Mana Points",
+            "Boss damage",
+            "Choppin Efficiency",
+            "Alchemy brew speed"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Main Stat",
+        "name": "Luck (LUK)",
+        "bonuses": [
+            "Damage & Accuracy for Beginner-based Classes",
+            "item drop rates",
+            "Class xp gain rates"
+        ],
+        "worksInGame": true
     }
 ]
