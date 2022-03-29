@@ -5,6 +5,9 @@ The purpose of these scripts are to generate a file located in output/output.jso
 ## I found something that is missing!
 If you find anything in the game that isn't in this list, please create a Github issue. It doesn't have to be long or descriptive, just let me know!
 You can also make the changes yourself and create a pull request if you would like.
+
+### Adding data manually
+If the data isn't present in the wiki bot, it can be manually added to the output very easily. Simply add an entry in output/output.json that matches the example and submit a pull request!
 ## This list is cool! Can I use it in my project??
 Absolutely! The following URL can be used to get the JSON as a string: 
 https://raw.githubusercontent.com/Corbeno/Idleon-Insight/main/output/output.json
