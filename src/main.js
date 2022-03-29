@@ -11,8 +11,8 @@ let example = {
 let exportedPath = "IdleonWikiBot3.0/exported/";
 let output = [];
 // ----------------------------------- Helper Data ---------------------------------
-let EnemyRepo = getWikiBotJSON(exportedPath + "repo/Enemy/EnemyRepo.json");
-let ItemDetailRepo = getWikiBotJSON(exportedPath + "repo/Item/ItemDetailRepo.json");
+let EnemyRepo = getJSONFromFile(exportedPath + "repo/Enemy/EnemyRepo.json");
+let ItemDetailRepo = getJSONFromFile(exportedPath + "repo/Item/ItemDetailRepo.json");
 
 // ----------------------------------- REPO -----------------------------------
 // repo/Worlds/*/
@@ -53,6 +53,21 @@ runParser(parseDungPassivesRepo, exportedPath + "repo/Dungeon/DungPassivesRepo.j
 
 // repo/Arcade/*
 runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
+
+// ------------------------------- Add Manual ----------------------------
+runParser(function(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    if(body.name === "example"){
+        return;
+    }
+    output.push({
+        source: body.source,
+        name: body.name,
+        bonuses: body.bonuses,
+        worksInGame: body.worksInGame
+    })
+}, "manual/manual.json");
 
 // console.log(JSON.stringify(output));
 // searchOutput(/mining[a-zA-Z _]*(eff|power)|skilling power/i, output);
@@ -260,7 +275,6 @@ function parseArcadeBonusRepo(keyValue){
     });
 }
 
-//TODO add source
 function parseSpecificItemRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
@@ -496,10 +510,10 @@ function searchName(search, output){
 }
 
 function runParser(func, path){
-    Object.entries(getWikiBotJSON(path)).forEach(func);
+    Object.entries(getJSONFromFile(path)).forEach(func);
 }
 
-function getWikiBotJSON(path){
+function getJSONFromFile(path){
     let json = JSON.parse(fs.readFileSync(path));
     if(!isJson(json)){
         console.error("File: " + path + " doesn't contain valid JSON.");

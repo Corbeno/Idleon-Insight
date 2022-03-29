@@ -1,0 +1,8 @@
+[
+    {
+        "source": "example",
+        "name": "example",
+        "bonuses": ["bonus1", "bonus2"],
+        "worksInGame": true
+    }
+]
