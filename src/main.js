@@ -90,14 +90,18 @@ function parseBribeRepo(keyValue){
     });
 }
 
-//TODO add which skilling tools give skilling power for some bubbles...
 function parseBubbleRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
+    // include bubble tool descriptions as wiki data doesn't have right now
+    let description = body.description;
+    if(key === "Le Brain Tools") description = description.replace("$", "Hatchets");
+    if(key === "Stronk Tools") description = description.replace("$", "Pickaxes and Fishing Rods");
+    if(key === "Sanic Tools") description = description.replace("$", "Catching Nets");
     output.push({
         source: body.cauldron,
         name: key,
-        bonuses: [body.description],
+        bonuses: [description],
         worksInGame: true
     });
 }
