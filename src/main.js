@@ -420,7 +420,7 @@ function parseArenaBonusRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "Pet Area Bonus",
+        source: "Pet Arena Bonus",
         name: key,
         bonuses: [body.desc],
         worksInGame: true
