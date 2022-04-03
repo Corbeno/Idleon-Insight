@@ -76,7 +76,11 @@ runParser(function(keyValue){
 
 fs.writeFile("output/output.json", JSON.stringify(cleanOutput(output)), (err) => {
     if(err) throw err;
-})
+});
+
+fs.writeFile("output/pretty.json", JSON.stringify(cleanOutput(output), null, 2), (err) => {
+    if(err) throw err;
+});
 
 //parsing functions
 function parseBribeRepo(keyValue){
