@@ -16564,5 +16564,77 @@
       "Class xp gain rates"
     ],
     "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Blunder Hills",
+    "bonuses": [
+      "+XP% if Below lvl 50"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Yum Yum Desert",
+    "bonuses": [
+      "+% Food Effect"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Easy Resources",
+    "bonuses": [
+      "+% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Medium Resources",
+    "bonuses": [
+      "+% Skill EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Frostbite Tundra",
+    "bonuses": [
+      "+% DEF and ACC"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Hard Resources",
+    "bonuses": [
+      "+Skill AFK Gain Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Dungeons",
+    "bonuses": [
+      "+% more Dungeon Credits"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Bosses and Nightmares",
+    "bonuses": [
+      "+% Dmg, Drop, and EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
+    "name": "Events",
+    "bonuses": [
+      "+% Drop Rate"
+    ],
+    "worksInGame": true
   }
 ]
