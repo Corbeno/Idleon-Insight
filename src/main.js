@@ -40,10 +40,11 @@ runParser(parseGemShopRepo, exportedPath + "repo/Misc/GemShopRepo.json");
 runParser(parseGuildBonusRepo, exportedPath + "repo/Misc/GuildBonusRepo.json");
 runParser(parseStarSignsRepo, exportedPath + "repo/Misc/StarSignsRepo.json");
 runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json");
+runParser(parseCardSetRepo, exportedPath + "repo/Misc/CardSetRepo.json");
 
 // repo/Item/* 
 runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
-runParser(parseSpecificItemRepo, exportedPath + "repo/Item/SpecificItemRepo.json"); //INCOMPLETE
+runParser(parseSpecificItemRepo, exportedPath + "repo/Item/SpecificItemRepo.json");
 runParser(parseStatueRepo, exportedPath + "repo/Item/StatueRepo.json");
 
 // repo/Dungeon/*
@@ -241,6 +242,17 @@ function parseTaskShopDescRepo(keyValue){
         source: "Task Shop",
         name: "Upgrade: " + key, //TODO map to name?
         bonuses: [body.descLine1 + body.descLine2],
+        worksInGame: true
+    });
+}
+
+function parseCardSetRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Card Set",
+        name: key,
+        bonuses: [body.bonus],
         worksInGame: true
     });
 }
