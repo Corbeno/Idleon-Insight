@@ -827,7 +827,7 @@
     "source": "Kazam Cauldron",
     "name": "Diamond Chef",
     "bonuses": [
-      "x faster Meal and Fire Kitchen Speeds for every Meal at Lv 11+. This is when the meal plate goes Diamond, just so you know."
+      "x faster Meal and Fire Kitchen Speeds for every Meal at Lv 11+. This is when the meal plate becomes Diamond Blue, just so you know!"
     ],
     "worksInGame": true
   },
@@ -2547,7 +2547,7 @@
     "source": "Lab Jewel",
     "name": "Emerald Pyramite",
     "bonuses": [
-      "Meal cooking is % faster for every 10 total upgrade levels across all kitchens. @ Total Bonus: % speed"
+      "Meal cooking is % faster for every 25 total upgrade levels across all kitchens. @ Total Bonus: % speed"
     ],
     "worksInGame": true
   },
@@ -3337,7 +3337,7 @@
   },
   {
     "source": "Journeyman Talents",
-    "name": "F'Luk'Ey Fabrics",
+    "name": "F'luk'ey Fabrics",
     "bonuses": [
       "All Equipment gives % more LUK than what's listed"
     ],
@@ -3697,7 +3697,7 @@
   },
   {
     "source": "Warrior Talents",
-    "name": "'Str'Ess Tested Garb",
+    "name": "'str'ess Tested Garb",
     "bonuses": [
       "All Equipment gives % more STR than what's listed"
     ],
@@ -3873,7 +3873,7 @@
   },
   {
     "source": "Barbarian Talents",
-    "name": "Catching Some Zzz'S",
+    "name": "Catching Some Zzz's",
     "bonuses": [
       "+% Away Gains for Fishing only. Just fishing. It totally doesn't boost anything else!"
     ],
@@ -4177,7 +4177,7 @@
   },
   {
     "source": "Archer Talents",
-    "name": "Garb Of Un'Agi'Ng Quality",
+    "name": "Garb Of Un'agi'ng Quality",
     "bonuses": [
       "All Equipment gives % more AGI than what's listed"
     ],
@@ -4329,7 +4329,7 @@
   },
   {
     "source": "Bowman Talents",
-    "name": "Teleki'Net'Ic Logs",
+    "name": "Teleki'net'ic Logs",
     "bonuses": [
       "+% Catching Efficiency for every power of 10 Oak Logs in the storage chest"
     ],
@@ -4609,7 +4609,7 @@
   },
   {
     "source": "Savvy Basics Talents",
-    "name": "Active Afk'Er",
+    "name": "Active Afk'er",
     "bonuses": [
       "AFK Gains Rate for all Specialized Skills is increased by %"
     ],
@@ -4649,7 +4649,7 @@
   },
   {
     "source": "Mage Talents",
-    "name": "You'Re Next",
+    "name": "You're Next",
     "bonuses": [
       "Basic attacks have a % chance to Mark enemies, who then take % more damage"
     ],
@@ -4665,7 +4665,7 @@
   },
   {
     "source": "Mage Talents",
-    "name": "Unt'Wis'Ted Robes",
+    "name": "Unt'wis'ted Robes",
     "bonuses": [
       "All Equipment gives % more WIS than what's listed"
     ],
@@ -16372,7 +16372,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "0",
+    "name": "Bonus 0",
     "bonuses": [
       "+ Base Damage"
     ],
@@ -16380,7 +16380,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "1",
+    "name": "Bonus 1",
     "bonuses": [
       "+ Base Defence"
     ],
@@ -16388,7 +16388,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "2",
+    "name": "Bonus 2",
     "bonuses": [
       "+% Total Accuracy"
     ],
@@ -16396,7 +16396,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "3",
+    "name": "Bonus 3",
     "bonuses": [
       "+% Mining EXP gain"
     ],
@@ -16404,7 +16404,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "4",
+    "name": "Bonus 4",
     "bonuses": [
       "+% Fishing EXP gain"
     ],
@@ -16412,7 +16412,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "5",
+    "name": "Bonus 5",
     "bonuses": [
       "+% Sample Size"
     ],
@@ -16420,7 +16420,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "6",
+    "name": "Bonus 6",
     "bonuses": [
       "+% AFK Gains Rate"
     ],
@@ -16428,7 +16428,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "7",
+    "name": "Bonus 7",
     "bonuses": [
       "+ Cap for all Liquids"
     ],
@@ -16436,7 +16436,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "8",
+    "name": "Bonus 8",
     "bonuses": [
       "+% Multikill per Tier"
     ],
@@ -16444,7 +16444,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "9",
+    "name": "Bonus 9",
     "bonuses": [
       "+% Catching EXP gain"
     ],
@@ -16452,7 +16452,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "10",
+    "name": "Bonus 10",
     "bonuses": [
       "+% Cash from Mobs"
     ],
@@ -16460,7 +16460,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "11",
+    "name": "Bonus 11",
     "bonuses": [
       "+% Cash from Mobs"
     ],
@@ -16468,7 +16468,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "12",
+    "name": "Bonus 12",
     "bonuses": [
       "+% Class EXP gain"
     ],
@@ -16476,7 +16476,7 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "13",
+    "name": "Bonus 13",
     "bonuses": [
       "+% Shiny Chance"
     ],
@@ -16484,23 +16484,23 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "14",
+    "name": "Bonus 14",
     "bonuses": [
-      "+% Trapping Effic."
+      "+% Trapping EXP"
     ],
     "worksInGame": true
   },
   {
     "source": "Arcade Bonus",
-    "name": "15",
+    "name": "Bonus 15",
     "bonuses": [
-      "+% Worship Effic."
+      "+ Starting TD Pts"
     ],
     "worksInGame": true
   },
   {
     "source": "Arcade Bonus",
-    "name": "16",
+    "name": "Bonus 16",
     "bonuses": [
       "+ Tab 1 Talent Pt"
     ],
@@ -16508,9 +16508,9 @@
   },
   {
     "source": "Arcade Bonus",
-    "name": "17",
+    "name": "Bonus 17",
     "bonuses": [
-      "+% Total Damage"
+      "+ Weapon Power"
     ],
     "worksInGame": true
   },
