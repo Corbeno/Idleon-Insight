@@ -234,13 +234,12 @@ function parseStarSignsRepo(keyValue){
     });
 }
 
-//TODO change from task shop num maybe?
 function parseTaskShopDescRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "Task Shop",
-        name: "Upgrade: " + key, //TODO map to name?
+        source: "Merit Shop",
+        name: "Upgrade: " + key,
         bonuses: [body.descLine1 + body.descLine2],
         worksInGame: true
     });
