@@ -19,6 +19,7 @@ let ItemDetailRepo = getJSONFromFile(exportedPath + "repo/Item/ItemDetailRepo.js
 runParser(parseBribeRepo, exportedPath + "repo/Worlds/1/BribeRepo.json");
 runParser(parseBubbleRepo, exportedPath + "repo/Worlds/2/BubbleRepo.json");
 runParser(parsePostOfficeUpgradesRepo, exportedPath + "repo/Worlds/2/PostOfficeUpgradesRepo.json");
+runParser(parseSigilRepo, exportedPath + "repo/Worlds/2/SigilRepo.json");
 runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
 runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
 runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
@@ -127,6 +128,18 @@ function parsePostOfficeUpgradesRepo(keyValue){
         worksInGame: true
     });
 }
+
+function parseSigilRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Sigil",
+        name: key,
+        bonuses: [body.desc],
+        worksInGame: true
+    });
+}
+
 
 function parseBuildingRepo(keyValue){
     let key = keyValue[0];

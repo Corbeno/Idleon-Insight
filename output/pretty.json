@@ -1588,6 +1588,198 @@
     "worksInGame": true
   },
   {
+    "source": "Sigil",
+    "name": "Big Muscle",
+    "bonuses": [
+      "Boosts base STR by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Pumped Kicks",
+    "bonuses": [
+      "Boosts base AGI by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Odd Litearture",
+    "bonuses": [
+      "Boosts base WIS by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Good Fortune",
+    "bonuses": [
+      "Boosts base LUK by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Plunging Sword",
+    "bonuses": [
+      "Boosts base damage by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Wizardly Hat",
+    "bonuses": [
+      "Boosts Mana Regeneration by +% both inside and outside of dungeon"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Envelope Pile",
+    "bonuses": [
+      "Decreases the cost of upgrading stamp MAX LEVELS by -%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Shiny Beacon",
+    "bonuses": [
+      "The first  monster kills every day will spawn a Crystal Mob"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Metal Exterior",
+    "bonuses": [
+      "Boosts defence by nothing. Also gives +% Class EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Two Starz",
+    "bonuses": [
+      "Gives + Star Talent points to spend as you wish"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Pipe Gauge",
+    "bonuses": [
+      "Increases the speed of refinery cycles by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Trove",
+    "bonuses": [
+      "Boosts drop rate by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Pea Pod",
+    "bonuses": [
+      "All sigils charge % faster than normal"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Tuft Of Hair",
+    "bonuses": [
+      "Boosts movement speed by +% if under 175%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Emoji Veggie",
+    "bonuses": [
+      "Boosts the bonus of all golden food by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Vip Parchment",
+    "bonuses": [
+      "Boosts VIP Membership in the library by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Dream Catcher",
+    "bonuses": [
+      "Boosts all Skill AFK gain rates by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Duster Studs",
+    "bonuses": [
+      "Boosts weapon power by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Garlic Glove",
+    "bonuses": [
+      "Decreases the cost of all kitchen upgrades by -%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Lab Tesstube",
+    "bonuses": [
+      "Boosts Lab EXP gain by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Peculiar Vial",
+    "bonuses": [
+      "Boosts the regeneration rate of all alchemy liquids by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "World 5a",
+    "bonuses": [
+      "This bonus will affect world 5. Feel free to lv it up early!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "World 5d",
+    "bonuses": [
+      "This bonus will affect world 5. Feel free to lv it up early!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "World 5c",
+    "bonuses": [
+      "This bonus will affect world 5. Feel free to lv it up early!"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Building Upgrade",
     "name": "3D Printer",
     "bonuses": [
@@ -2668,6 +2860,22 @@
     "name": "Unadulterated Banking Fury",
     "bonuses": [
       "+2% Total Damage for each 'greened' stack of resources in your bank. A 'greened' stack is one with 10 million or more items. @ - @ Total Bonus: %"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Lab Bonus",
+    "name": "Sigils of Olden Alchemy",
+    "bonuses": [
+      "Allows you to level up Alchemy Sigils by assigning players in alchemy, at a base rate of 1 sigil xp per hour. @ Sigils can be leveled up just twice: Once to unlock their bonus, and once more to boost their bonus. Their bonuses are passive, and apply to all characters always."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Lab Bonus",
+    "name": "Viral Connection",
+    "bonuses": [
+      "All mainframe bonuses and jewels have a 50% larger connection range, unless it states otherwise. @ This bonus always has a 80px connection range no matter what!"
     ],
     "worksInGame": true
   },
@@ -7012,6 +7220,14 @@
     "name": "Marvelous Obol Stack",
     "bonuses": [
       "Gives 3 random obols. Each obol has 65% chance to be Gold, 25% chance to be Platinum, and 10% chance to be Dementia rarity. Guaranteed at least 1 Platinum or Dementia Obol per stack!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Sigil Supercharge",
+    "bonuses": [
+      "Each purchase gives you a permanent bonus of +20% Sigil EXP gain! Remember, you must reach World 4 before you can level up sigils!"
     ],
     "worksInGame": true
   },
@@ -15082,6 +15298,18 @@
       "LUK: 30",
       "Defence: 90",
       "16% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Nondescript Game Show Host Hair",
+    "bonuses": [
+      "Weapon Power: 100",
+      "STR: 25",
+      "AGI: 40",
+      "LUK: 50",
+      "100% Family"
     ],
     "worksInGame": true
   },
