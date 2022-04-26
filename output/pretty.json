@@ -1588,6 +1588,198 @@
     "worksInGame": true
   },
   {
+    "source": "Sigil",
+    "name": "Big Muscle",
+    "bonuses": [
+      "Boosts base STR by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Pumped Kicks",
+    "bonuses": [
+      "Boosts base AGI by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Odd Litearture",
+    "bonuses": [
+      "Boosts base WIS by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Good Fortune",
+    "bonuses": [
+      "Boosts base LUK by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Plunging Sword",
+    "bonuses": [
+      "Boosts base damage by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Wizardly Hat",
+    "bonuses": [
+      "Boosts Mana Regeneration by +% both inside and outside of dungeon"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Envelope Pile",
+    "bonuses": [
+      "Decreases the cost of upgrading stamp MAX LEVELS by -%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Shiny Beacon",
+    "bonuses": [
+      "The first  monster kills every day will spawn a Crystal Mob"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Metal Exterior",
+    "bonuses": [
+      "Boosts defence by nothing. Also gives +% Class EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Two Starz",
+    "bonuses": [
+      "Gives + Star Talent points to spend as you wish"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Pipe Gauge",
+    "bonuses": [
+      "Increases the speed of refinery cycles by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Trove",
+    "bonuses": [
+      "Boosts drop rate by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Pea Pod",
+    "bonuses": [
+      "All sigils charge % faster than normal"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Tuft Of Hair",
+    "bonuses": [
+      "Boosts movement speed by +% if under 175%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Emoji Veggie",
+    "bonuses": [
+      "Boosts the bonus of all golden food by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Vip Parchment",
+    "bonuses": [
+      "Boosts VIP Membership in the library by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Dream Catcher",
+    "bonuses": [
+      "Boosts all Skill AFK gain rates by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Duster Studs",
+    "bonuses": [
+      "Boosts weapon power by +"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Garlic Glove",
+    "bonuses": [
+      "Decreases the cost of all kitchen upgrades by -%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Lab Tesstube",
+    "bonuses": [
+      "Boosts Lab EXP gain by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "Peculiar Vial",
+    "bonuses": [
+      "Boosts the regeneration rate of all alchemy liquids by +%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "World 5a",
+    "bonuses": [
+      "This bonus will affect world 5. Feel free to lv it up early!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "World 5d",
+    "bonuses": [
+      "This bonus will affect world 5. Feel free to lv it up early!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Sigil",
+    "name": "World 5c",
+    "bonuses": [
+      "This bonus will affect world 5. Feel free to lv it up early!"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Building Upgrade",
     "name": "3D Printer",
     "bonuses": [
