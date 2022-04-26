@@ -2672,6 +2672,22 @@
     "worksInGame": true
   },
   {
+    "source": "Lab Bonus",
+    "name": "Sigils of Olden Alchemy",
+    "bonuses": [
+      "Allows you to level up Alchemy Sigils by assigning players in alchemy, at a base rate of 1 sigil xp per hour. @ Sigils can be leveled up just twice: Once to unlock their bonus, and once more to boost their bonus. Their bonuses are passive, and apply to all characters always."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Lab Bonus",
+    "name": "Viral Connection",
+    "bonuses": [
+      "All mainframe bonuses and jewels have a 50% larger connection range, unless it states otherwise. @ This bonus always has a 80px connection range no matter what!"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Meal",
     "name": "Turkey a la Thank",
     "bonuses": [
@@ -5224,6 +5240,14 @@
     "worksInGame": true
   },
   {
+    "source": "Special Talent 3 Talents",
+    "name": "Spice Spillage",
+    "bonuses": [
+      "+% chance to claim all pet spices when claiming 1hr+ AFK gains."
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Achievement",
     "name": "Learn 2 Forge",
     "bonuses": [
@@ -5275,7 +5299,7 @@
     "source": "Achievement",
     "name": "5 'hunned Copper",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5291,7 +5315,7 @@
     "source": "Achievement",
     "name": "1.5 Ki'log'grams",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5307,7 +5331,7 @@
     "source": "Achievement",
     "name": "Copper Quipment",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5347,7 +5371,7 @@
     "source": "Achievement",
     "name": "Wode Together",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5355,7 +5379,7 @@
     "source": "Achievement",
     "name": "2 Tons of Iron",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5371,7 +5395,7 @@
     "source": "Achievement",
     "name": "Shut it Poochy",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5395,7 +5419,7 @@
     "source": "Achievement",
     "name": "Right to Bear Iron",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5411,7 +5435,7 @@
     "source": "Achievement",
     "name": "20 Bundles of Jungle",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5419,7 +5443,7 @@
     "source": "Achievement",
     "name": "Colosseum Contender",
     "bonuses": [
-      "*RNG Item"
+      "*RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5483,7 +5507,7 @@
     "source": "Achievement",
     "name": "Naked and Unafraid",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5491,7 +5515,7 @@
     "source": "Achievement",
     "name": "House Flipper",
     "bonuses": [
-      "RNG Item"
+      "RNG Item unlock"
     ],
     "worksInGame": true
   },
@@ -5723,7 +5747,7 @@
     "source": "Achievement",
     "name": "FILLERZZZ ACH",
     "bonuses": [
-      "*STEAM EXCLUSIVE &*30 gems &*Item3"
+      "*FILLERZ &*FILLERZ &*FILLERZ"
     ],
     "worksInGame": true
   },
@@ -5771,7 +5795,7 @@
     "source": "Achievement",
     "name": "Hammer Bub",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5803,7 +5827,7 @@
     "source": "Achievement",
     "name": "Careful, it's Sharp!",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5819,7 +5843,7 @@
     "source": "Achievement",
     "name": "Vial Noob",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5827,7 +5851,7 @@
     "source": "Achievement",
     "name": "Specializational!",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5843,7 +5867,7 @@
     "source": "Achievement",
     "name": "Well Learned",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5867,7 +5891,7 @@
     "source": "Achievement",
     "name": "Efaunt Trumped",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5923,7 +5947,7 @@
     "source": "Achievement",
     "name": "Rat-a-tat-tat",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5939,7 +5963,7 @@
     "source": "Achievement",
     "name": "Vial Connoisseur",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -5979,7 +6003,7 @@
     "source": "Achievement",
     "name": "Jellyfish Jelly",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6059,7 +6083,7 @@
     "source": "Achievement",
     "name": "Bigtime Bloacher",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6195,7 +6219,7 @@
     "source": "Achievement",
     "name": "Croakin' Froge",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6211,7 +6235,7 @@
     "source": "Achievement",
     "name": "Checkout Takeout",
     "bonuses": [
-      "*5 Book Max LV &*30% Library charge rate"
+      "*5 Book Max LV &*30% Library charge &rate"
     ],
     "worksInGame": true
   },
@@ -6227,7 +6251,7 @@
     "source": "Achievement",
     "name": "Blunder Skull",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6267,7 +6291,7 @@
     "source": "Achievement",
     "name": "Good Times Roll",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6291,7 +6315,7 @@
     "source": "Achievement",
     "name": "I Sawed...",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6403,7 +6427,7 @@
     "source": "Achievement",
     "name": "Souped Up Salts",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6459,7 +6483,7 @@
     "source": "Achievement",
     "name": "Smirky Souls",
     "bonuses": [
-      "*RNG item"
+      "*RNG item unlock"
     ],
     "worksInGame": true
   },
@@ -6556,6 +6580,238 @@
     "name": "Capitalist Win",
     "bonuses": [
       "*5% Class EXP for all &characters outside &of dungeons"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Milky Wayfarer",
+    "bonuses": [
+      "*STEAM EXCLUSIVE &*RNG item unlock &*Some Gems and Candy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Channel Surfing",
+    "bonuses": [
+      "*Nebula BG &for Title Screen"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Bottle Capital",
+    "bonuses": [
+      "*10 Star Tab &Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Too Many Tentacles",
+    "bonuses": [
+      "*3% Arcade balls/hr"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Mythical Gamer",
+    "bonuses": [
+      "*STEAM EXCLUSIVE &*30 gems"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Matrix Wickermen",
+    "bonuses": [
+      "*RNG item unlock"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Bland Dish",
+    "bonuses": [
+      "6 Tab 1 &Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Lv. 5 Nothing",
+    "bonuses": [
+      "*STEAM EXCLUSIVE &*30 gems &*1 '24hr time candy'"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "I Like This Pet",
+    "bonuses": [
+      "Pet Breedability &multiplier goes up &1.20x faster"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "I LOVE These Pets",
+    "bonuses": [
+      "10 Tab 3 &Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Shiny Shells",
+    "bonuses": [
+      "10% Faster Egg &Incubator Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Gilded Shells",
+    "bonuses": [
+      "Eggs increase in &rarity 1.10x more &often"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Barley Lost",
+    "bonuses": [
+      "5% Pet Fight &Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Petless",
+    "bonuses": [
+      "*STEAM EXCLUSIVE &*50 gems &*1 '72hr time candy'"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Cabbage Patch",
+    "bonuses": [
+      "10% Meal Cooking &Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Le Pretzel Bleu",
+    "bonuses": [
+      "20% Meal Cooking &Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Michelin Ranked",
+    "bonuses": [
+      "*RNG item unlock"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "WOAH That's Fast",
+    "bonuses": [
+      "*2% Arcade balls/hr"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Stars Among Stars",
+    "bonuses": [
+      "*Eternity Beach BG &for Title Screen"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Chippin' Away",
+    "bonuses": [
+      "*2% Arcade balls/hr"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Hunned Times a Day",
+    "bonuses": [
+      "8 Tab 2 &Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Good Plate",
+    "bonuses": [
+      "*RNG item unlock"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Great Plate",
+    "bonuses": [
+      "*2% Arcade balls/hr"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Best Plate",
+    "bonuses": [
+      "-10% lower cost &to upgrade meals &at the Dinner Table"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Space Party!!!",
+    "bonuses": [
+      "*2% Arcade balls/hr"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Zero G Scorin'",
+    "bonuses": [
+      "5% Cash from &Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Hibernating Gamer",
+    "bonuses": [
+      "*STEAM EXCLUSIVE &*100 gems &*1 '72hr time candy'"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Mutant Massacrer",
+    "bonuses": [
+      "*STEAM EXCLUSIVE &*RNG item unlock &*Some Gems and Candy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Soda Poisoning",
+    "bonuses": [
+      "*Starfield Belt BG &for Title Screen"
     ],
     "worksInGame": true
   },
@@ -7012,6 +7268,14 @@
     "name": "Marvelous Obol Stack",
     "bonuses": [
       "Gives 3 random obols. Each obol has 65% chance to be Gold, 25% chance to be Platinum, and 10% chance to be Dementia rarity. Guaranteed at least 1 Platinum or Dementia Obol per stack!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Sigil Supercharge",
+    "bonuses": [
+      "Each purchase gives you a permanent bonus of +20% Sigil EXP gain! Remember, you must reach World 4 before you can level up sigils!"
     ],
     "worksInGame": true
   },
@@ -15087,6 +15351,18 @@
   },
   {
     "source": "Armor",
+    "name": "Nondescript Game Show Host Hair",
+    "bonuses": [
+      "Weapon Power: 100",
+      "STR: 25",
+      "AGI: 40",
+      "LUK: 50",
+      "100% Family"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Chizoar Bodyplate",
     "bonuses": [
       "STR: 15",
@@ -15426,6 +15702,18 @@
     "worksInGame": true
   },
   {
+    "source": "Armor",
+    "name": "Easter Egg Backpack",
+    "bonuses": [
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "Defence: 10",
+      "10% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Tool",
     "name": "Slush Skull",
     "bonuses": [
@@ -15441,8 +15729,8 @@
     "source": "Tool",
     "name": "Sappy DNA Splicer",
     "bonuses": [
-      "50  Power",
-      "0  Speed",
+      "50 Laboratory Power",
+      "0 Laboratory Speed",
       "STR: 5",
       "AGI: 5",
       "WIS: 5",
@@ -15455,8 +15743,8 @@
     "source": "Tool",
     "name": "Bolstered DNA Splicer",
     "bonuses": [
-      "70  Power",
-      "0  Speed",
+      "70 Laboratory Power",
+      "0 Laboratory Speed",
       "STR: 10",
       "AGI: 10",
       "WIS: 10",
@@ -15469,8 +15757,8 @@
     "source": "Tool",
     "name": "Double Barreled DNA Splicer",
     "bonuses": [
-      "100  Power",
-      "0  Speed",
+      "100 Laboratory Power",
+      "0 Laboratory Speed",
       "STR: 15",
       "AGI: 15",
       "WIS: 15",
@@ -15483,8 +15771,8 @@
     "source": "Tool",
     "name": "Ergonomic DNA Splicer",
     "bonuses": [
-      "150  Power",
-      "0  Speed",
+      "150 Laboratory Power",
+      "0 Laboratory Speed",
       "STR: 20",
       "AGI: 20",
       "WIS: 20",
