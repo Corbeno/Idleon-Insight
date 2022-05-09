@@ -2835,7 +2835,7 @@
     "source": "Lab Bonus",
     "name": "Spelunker Obol",
     "bonuses": [
-      "1.50x higher effects from all active Jewels within the Mainframe."
+      "1.50x higher effects from all active Jewels within the Mainframe, and gives you +50% rememberance of the game Idle Skilling. @ This bonus always has a 80px connection range no matter what!"
     ],
     "worksInGame": true
   },
@@ -6835,7 +6835,7 @@
     "source": "Achievement",
     "name": "Lv. 5 Nothing",
     "bonuses": [
-      "*STEAM EXCLUSIVE &*30 gems &*1 '24hr time candy'"
+      "*STEAM EXCLUSIVE &*30 gems &*2 '12hr time candy'"
     ],
     "worksInGame": true
   },
@@ -7347,7 +7347,7 @@
     "source": "Gem Shop",
     "name": "Tier 1 Keychain",
     "bonuses": [
-      "Gives you 40 keychain fragments, enough to claim a Tier 1 Keychain! These keychains randomly give the following bonuses: Base Def, Accuracy, Move speed, Base Dmg, Card Drop rate, Money, Base Stat"
+      "Gives you 40 keychain fragments, enough to claim a Tier 1 Keychain from the Frog Dungeon Lobby! These keychains randomly give the following bonuses: Base Def, Accuracy, Move speed, Base Dmg, Card Drop rate, Money, Base Stat"
     ],
     "worksInGame": true
   },
@@ -7355,7 +7355,7 @@
     "source": "Gem Shop",
     "name": "Tier 2 Keychain",
     "bonuses": [
-      "Gives you 120 keychain fragments, enough to claim a Tier 2 Keychain! These keychains randomly give the following bonuses: %DEF, Mining XP, Fishing XP, %DMG, Drop chance, Atk speed, Crit chance, Multikill"
+      "Gives you 120 keychain fragments, enough to claim a Tier 2 Keychain from the Frog Dungeon Lobby! These keychains randomly give the following bonuses: %DEF, Mining XP, Fishing XP, %DMG, Drop chance, Atk speed, Crit chance, Multikill"
     ],
     "worksInGame": true
   },
@@ -7363,7 +7363,7 @@
     "source": "Gem Shop",
     "name": "Tier 3 Keychain",
     "bonuses": [
-      "Gives you 300 keychain fragments, enough to claim a Tier 3 Keychain! These keychains randomly give the following bonuses: %DEF, %Stat, %AFK gain, %DMG, mob respawn, Skilling spd, %All stat"
+      "Gives you 300 keychain fragments, enough to claim a Tier 3 Keychain from the Frog Dungeon Lobby! These keychains randomly give the following bonuses: %DEF, %Stat, %AFK gain, %DMG, mob respawn, Skilling spd, %All stat"
     ],
     "worksInGame": true
   },
@@ -8384,6 +8384,70 @@
     "worksInGame": true
   },
   {
+    "source": "Merit Shop",
+    "name": "Upgrade: 24",
+    "bonuses": [
+      "The first + kills each day areguaranteed to spawn a crystal monster"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 25",
+    "bonuses": [
+      "All Hyperion Nebula Mobs respawn +%faster. This boosts AFK kills per hour!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 26",
+    "bonuses": [
+      "+ egg capacity in the Nest. Those petswont hatch themselves after all!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 27",
+    "bonuses": [
+      "Boosts Max Lv. to  for 'Spice Spillage'Talent. Convenient Spice claiming!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 28",
+    "bonuses": [
+      "+ pixel length in the Lab Mainframefor all players."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 29",
+    "bonuses": [
+      "Unlocks recipe to craft Troll .Descline2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 30",
+    "bonuses": [
+      "IDK YETDescline2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 31",
+    "bonuses": [
+      "IDK YETDescline2"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Card Set",
     "name": "Blunder Hills",
     "bonuses": [
@@ -9065,25 +9129,105 @@
   },
   {
     "source": "Card",
-    "name": "Rooted Soul",
+    "name": "Starfire",
     "bonuses": [
-      "+ Starting Pts in Worship"
+      "+% Mining EXP"
     ],
     "worksInGame": true
   },
   {
     "source": "Card",
-    "name": "Frigid Soul",
+    "name": "Saharan Foal",
     "bonuses": [
-      "+% Max Charge"
+      "+% Choppin Away Gains"
     ],
     "worksInGame": true
   },
   {
     "source": "Card",
-    "name": "Squiddy Soul",
+    "name": "Wispy Tree",
     "bonuses": [
-      "+% Charge Rate"
+      "+% Choppin Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Alien Tree",
+    "bonuses": [
+      "+% Total Choppin Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Cubed Tree",
+    "bonuses": [
+      "+% Choppin Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Skelefish",
+    "bonuses": [
+      "+% Total Fishing Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Shark",
+    "bonuses": [
+      "+% Fishing Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Manta Ray",
+    "bonuses": [
+      "+% Fishing EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Kraken",
+    "bonuses": [
+      "+% Fishing Away Gains"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Mosquisnow",
+    "bonuses": [
+      "+% Total Catching Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Flycicle",
+    "bonuses": [
+      "+% Catching Away Gains"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Bumble Bee",
+    "bonuses": [
+      "+% Total Catching Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Fairy",
+    "bonuses": [
+      "+% Catching Speed"
     ],
     "worksInGame": true
   },
@@ -9121,78 +9265,6 @@
   },
   {
     "source": "Card",
-    "name": "Saharan Foal",
-    "bonuses": [
-      "+% Choppin Away Gains"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Wispy Tree",
-    "bonuses": [
-      "+% Choppin Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Mosquisnow",
-    "bonuses": [
-      "+% Total Catching Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Flycicle",
-    "bonuses": [
-      "+% Catching Away Gains"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Alien Tree",
-    "bonuses": [
-      "+% Total Choppin Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Cubed Tree",
-    "bonuses": [
-      "+% Choppin Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Bumble Bee",
-    "bonuses": [
-      "+% Total Catching Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Fairy",
-    "bonuses": [
-      "+% Catching Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Starfire",
-    "bonuses": [
-      "+% Mining EXP"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
     "name": "Dung Beat",
     "bonuses": [
       "+% Trapping Efficiency"
@@ -9217,33 +9289,25 @@
   },
   {
     "source": "Card",
-    "name": "Skelefish",
+    "name": "Rooted Soul",
     "bonuses": [
-      "+% Total Fishing Efficiency"
+      "+ Starting Pts in Worship"
     ],
     "worksInGame": true
   },
   {
     "source": "Card",
-    "name": "Shark",
+    "name": "Frigid Soul",
     "bonuses": [
-      "+% Fishing Speed"
+      "+% Max Charge"
     ],
     "worksInGame": true
   },
   {
     "source": "Card",
-    "name": "Manta Ray",
+    "name": "Squiddy Soul",
     "bonuses": [
-      "+% Fishing EXP"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Card",
-    "name": "Kraken",
-    "bonuses": [
-      "+% Fishing Away Gains"
+      "+% Charge Rate"
     ],
     "worksInGame": true
   },
@@ -9569,6 +9633,14 @@
   },
   {
     "source": "Card",
+    "name": "Radiant Amarok",
+    "bonuses": [
+      "+ Weapon Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
     "name": "Biggie Hours",
     "bonuses": [
       "+% Double AFK claim chance"
@@ -9601,6 +9673,14 @@
   },
   {
     "source": "Card",
+    "name": "Gilded Efaunt",
+    "bonuses": [
+      "+ Star Talent Pts (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
     "name": "Dilapidated Slush",
     "bonuses": [
       "+% Money from Monsters"
@@ -9620,6 +9700,14 @@
     "name": "Chaotic Chizoar",
     "bonuses": [
       "+% Shrine Effects"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Blighted Chizoar",
+    "bonuses": [
+      "+% All Stat"
     ],
     "worksInGame": true
   },
@@ -15406,7 +15494,7 @@
       "Weapon Power: 690",
       "AGI: 80",
       "LUK: 420",
-      "Speed: 5",
+      "Speed: 9",
       "Reach: 70"
     ],
     "worksInGame": true
@@ -15902,6 +15990,35 @@
       "WIS: 5",
       "Defence: 10",
       "10% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Radiant Amarok Backstabber",
+    "bonuses": [
+      "Defence: 50",
+      "10% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Gilded Efaunt Dislodged Tusks",
+    "bonuses": [
+      "STR: 15",
+      "AGI: 15",
+      "WIS: 15",
+      "10% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Blighted Chizoar Shard Cape",
+    "bonuses": [
+      "Weapon Power: 3",
+      "8% Total Damage"
     ],
     "worksInGame": true
   },
