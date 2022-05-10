@@ -13,6 +13,7 @@ If the data isn't present in the wiki bot, it can be manually added to the outpu
 ## This list is cool! Can I use it in my project??
 Absolutely! The following URL can be used to get the JSON as a string: 
 https://raw.githubusercontent.com/Corbeno/Idleon-Insight/main/output/output.json
+
 (This is actually how [Idleon Insight](https://idleoninsight.com) does it!)
 
 ## How to Run
