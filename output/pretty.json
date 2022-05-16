@@ -2315,7 +2315,7 @@
     "source": "Shrine",
     "name": "Primordial Shrine",
     "bonuses": [
-      "Boosts AFK Gain Rate on this map by +%, up to 80% total. @ AFK Time to next Lv: @"
+      "Boosts AFK Gain Rate on this map by +%, up to 150% tot. @ AFK Time to next Lv: @"
     ],
     "worksInGame": true
   },
@@ -5937,6 +5937,14 @@
   },
   {
     "source": "Achievement",
+    "name": "Big Frog Big Mad",
+    "bonuses": [
+      "*5% Total DMG for all &characters outside &of dungeons"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
     "name": "FILLERZZZ ACH",
     "bonuses": [
       "*FILLERZ &*FILLERZ &*FILLERZ"
@@ -7337,9 +7345,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Dungeon Perma Booster",
+    "name": "Weekly Dungeon Boosters",
     "bonuses": [
-      "Get an additional +3 Dungeon runs every week, FOREVER! I give you 12 per week for free to start with, remember, so buying this one time would mean you get 15 runs every week!"
+      "Get an additional +3 Dungeon runs every week, FOREVER! I give you 12 per week for free, so buying this once, for example, would get you 15 runs every week!"
     ],
     "worksInGame": true
   },
@@ -8419,7 +8427,7 @@
     "source": "Merit Shop",
     "name": "Upgrade: 28",
     "bonuses": [
-      "+ pixel length in the Lab Mainframefor all players."
+      "+ connection range in the Lab, soplayers can connect from farther away!"
     ],
     "worksInGame": true
   },
@@ -9465,6 +9473,14 @@
   },
   {
     "source": "Card",
+    "name": "Eldritch Croaker",
+    "bonuses": [
+      "% to start with RNG item"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
     "name": "Grandfrogger",
     "bonuses": [
       "% to start with RNG item"
@@ -9484,6 +9500,14 @@
     "name": "Forlorn Grandfrogger",
     "bonuses": [
       "+% Dungeon Credits"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Vengeful Grandfrogger",
+    "bonuses": [
+      "+% Dungeon Move Speed"
     ],
     "worksInGame": true
   },
