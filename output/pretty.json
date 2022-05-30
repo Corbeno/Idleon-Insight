@@ -9008,6 +9008,86 @@
     "worksInGame": true
   },
   {
+    "source": "Skull Shop",
+    "name": "Timecandy#",
+    "bonuses": [
+      "Get a random time candy! Pick it up off the floor."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Pearl4",
+    "bonuses": [
+      "Get a black pearl, gives Skill EXP! Pick it up off the floor."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Pearl5",
+    "bonuses": [
+      "Get a white pearl, gives Class EXP! Pick it up off the floor."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Your next kill spawns 1 Crystal Mob! Expires at end of day!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "LootDice",
+    "bonuses": [
+      "Get a Dungeon Loot Dice! Pick it up off the floor."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Get 10 Balls! They're put right into the arcade!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Get 2 Library Checkouts! It's put right into the library!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Complete 1 Refinery Cycle auto- matically, right here right now!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "PetEgg",
+    "bonuses": [
+      "Get 2 Pet Eggs! Pick them up off the floor."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Ladle",
+    "bonuses": [
+      "Get 3 Kitchen Ladles! Pick them up off the floor."
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Card",
     "name": "Green Mushroom",
     "bonuses": [

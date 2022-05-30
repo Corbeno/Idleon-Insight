@@ -42,6 +42,7 @@ runParser(parseGuildBonusRepo, exportedPath + "repo/Misc/GuildBonusRepo.json");
 runParser(parseStarSignsRepo, exportedPath + "repo/Misc/StarSignsRepo.json");
 runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json");
 runParser(parseCardSetRepo, exportedPath + "repo/Misc/CardSetRepo.json");
+runParser(parseSkullShopRepo, exportedPath + "repo/Misc/SkullShopRepo.json");
 
 // repo/Item/* 
 runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
@@ -265,6 +266,17 @@ function parseCardSetRepo(keyValue){
         source: "Card Set",
         name: key,
         bonuses: [body.bonus],
+        worksInGame: true
+    });
+}
+
+function parseSkullShopRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Skull Shop",
+        name: body.rewardId,
+        bonuses: [body.description],
         worksInGame: true
     });
 }
