@@ -2755,7 +2755,7 @@
     "source": "Lab Jewel",
     "name": "Black Diamond Rhinestone",
     "bonuses": [
-      "All meal bonuses, as shown in the Dinner Table Menu, actaully give 1.x higher bonus than what is shown. So if a bonus says +100%, it is actually giving +1%"
+      "All meal bonuses, as shown in the Dinner Table Menu, actaully give 1.x higher bonus than what is shown. So if a bonus says +100%, it is actually giving +1%. @ Doesn't apply to Line Width bonus."
     ],
     "worksInGame": true
   },
@@ -2795,7 +2795,7 @@
     "source": "Lab Bonus",
     "name": "No Bubble Left Behind",
     "bonuses": [
-      "Every 24 hours, your 3 lowest level Alchemy Bubbles gets +1 Lv. This only applies to bubbles Lv 5 or higher, so it's more like 'your lowest level bubble that is at least level 5'. ALSO, it only works on the first 15 bubbles of each colour!"
+      "Every 24 hours, your 3 lowest level Alchemy Bubbles gets +1 Lv. This only applies to bubbles Lv 5 or higher, so it's more like 'your lowest level bubble that is at least level 5'. ALSO, it only works on the first 15 bubbles of each colour! @ Doesn't trigger on days that you don't login."
     ],
     "worksInGame": true
   },
@@ -3315,7 +3315,7 @@
     "source": "Pet Upgrade",
     "name": "Rarity of the Egg",
     "bonuses": [
-      "Unlocks the 3rd Breeding Multiplier, Rarity. Whenever you incubate with a full incubator, theres a chance to increase the rarity of another egg!"
+      "Unlocks the 3rd Breeding Multi, Rarity. When the egg incubator is full, theres a chance to increase the rarity of another egg!"
     ],
     "worksInGame": true
   },
@@ -3347,7 +3347,7 @@
     "source": "Pet Upgrade",
     "name": "Overwhelmed Golden Egg",
     "bonuses": [
-      "Your New Pet Chance is multiplied by the number below for every 25 kitchen upgrade levels across all kitchens! This is SUPER important!"
+      "Your New Pet Chance is multiplied for every 100 kitchen upgrade levels across all kitchens! So 200 Lvs would apply it twice!!"
     ],
     "worksInGame": true
   },
@@ -5891,7 +5891,7 @@
     "source": "Special Talent 3 Talents",
     "name": "American Tipper",
     "bonuses": [
-      "+% Cash per 10 Levels of your Cooking Skill. This one isn't additive with any other bonus!"
+      "+% Cash per 10 Levels of your Cooking Skill."
     ],
     "worksInGame": true
   },
@@ -7676,6 +7676,14 @@
     "name": "Food Slot",
     "bonuses": [
       "Gives +1 extra food slot for all characters, forever! Dont worry, 4 food slots will be added FOR FREE in game in later updates, scattered across the game!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "More Storage Space",
+    "bonuses": [
+      "Gives +9 extra Storage Chest Slots! Perfect for any hoarding tendencies you may have!"
     ],
     "worksInGame": true
   },
@@ -9865,7 +9873,7 @@
   },
   {
     "source": "Card",
-    "name": "Squiddy Soul",
+    "name": "Squishy Soul",
     "bonuses": [
       "+% Charge Rate"
     ],
@@ -10027,7 +10035,7 @@
     "source": "Card",
     "name": "Eldritch Croaker",
     "bonuses": [
-      "% to start with RNG item"
+      "% to start with RNG orb (Passive)"
     ],
     "worksInGame": true
   },
@@ -10035,7 +10043,7 @@
     "source": "Card",
     "name": "Grandfrogger",
     "bonuses": [
-      "% to start with RNG item"
+      "% to start with RNG orb (Passive)"
     ],
     "worksInGame": true
   },
@@ -10297,7 +10305,7 @@
   },
   {
     "source": "Card",
-    "name": "Troll",
+    "name": "Massive Troll",
     "bonuses": [
       "+% Kitchen Speed (Passive)"
     ],
@@ -10628,7 +10636,7 @@
     "source": "Armor",
     "name": "Demon Horns",
     "bonuses": [
-      "Weapon Power: 200",
+      "Weapon Power: 400",
       "STR: 3000",
       "AGI: 3000",
       "WIS: 3000",
@@ -10748,7 +10756,7 @@
   },
   {
     "source": "Armor",
-    "name": "Party Hat",
+    "name": "Birthday Hat",
     "bonuses": [
       "LUK: 5",
       "Defence: 10",
@@ -11862,17 +11870,6 @@
   {
     "source": "Armor",
     "name": "Gilded Pilates",
-    "bonuses": [
-      "Weapon Power: 5",
-      "STR: 3",
-      "AGI: 3",
-      "LUK: 3"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Twisted Scales",
     "bonuses": [
       "Weapon Power: 5",
       "STR: 3",
@@ -14543,6 +14540,20 @@
   },
   {
     "source": "Obol",
+    "name": "Jagged Obol of Massive Trolling",
+    "bonuses": [
+      "Weapon Power: 4",
+      "STR: 9",
+      "AGI: 9",
+      "WIS: 9",
+      "LUK: 9",
+      "Defence: 10",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
     "name": "Bronze Obol of Multikill",
     "bonuses": [
       "1% Multikill"
@@ -16230,6 +16241,20 @@
   },
   {
     "source": "Armor",
+    "name": "Thin Veil of The Troll",
+    "bonuses": [
+      "Weapon Power: 7",
+      "STR: 35",
+      "AGI: 35",
+      "WIS: 35",
+      "LUK: 35",
+      "Defence: 100",
+      "4% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Chizoar Bodyplate",
     "bonuses": [
       "STR: 15",
@@ -16264,6 +16289,20 @@
       "LUK: 20",
       "Defence: 75",
       "11% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Trollish Garb",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 24",
+      "AGI: 24",
+      "WIS: 24",
+      "LUK: 24",
+      "Defence: 80",
+      "3% All Stats"
     ],
     "worksInGame": true
   },
@@ -16307,6 +16346,20 @@
   },
   {
     "source": "Armor",
+    "name": "Twisted Scales",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 25",
+      "AGI: 25",
+      "WIS: 25",
+      "LUK: 25",
+      "Defence: 70",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Chizoar Walkers",
     "bonuses": [
       "STR: 12",
@@ -16341,6 +16394,19 @@
       "LUK: 17",
       "Defence: 60",
       "13% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Soles of the Troll",
+    "bonuses": [
+      "STR: 22",
+      "AGI: 22",
+      "WIS: 22",
+      "LUK: 22",
+      "Defence: 65",
+      "3% All Stats"
     ],
     "worksInGame": true
   },
