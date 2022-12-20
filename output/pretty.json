@@ -376,6 +376,46 @@
     "worksInGame": true
   },
   {
+    "source": "Power Cauldron",
+    "name": "Spear Powah",
+    "bonuses": [
+      "+% more Weapon Power from your weapon, but only if its a Spear!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Power Cauldron",
+    "name": "Slabi Orefish",
+    "bonuses": [
+      "+ Mining and Fishing Power per 100 items found, shown on The Slab!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Power Cauldron",
+    "name": "Gamer At Heart",
+    "bonuses": [
+      "When claiming AFK Gains, +% chance to gain an equal amount of time for Gaming progress!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Power Cauldron",
+    "name": "Slabi Strength",
+    "bonuses": [
+      "+ Base STR per 100 items found, shown on The Slab!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Power Cauldron",
+    "name": "Power Trione",
+    "bonuses": [
+      "+% Total Damage per 250 STR, but only for warriors! No triple dipping into AGI and WIS! Also this, but for beginners with LUK!"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Quicc Cauldron",
     "name": "Swift Steppin",
     "bonuses": [
@@ -532,6 +572,46 @@
     "name": "Afk Expexp",
     "bonuses": [
       "+% chance for Double EXP when claiming AFK gains. You'll know this happens because it literally tells you it happened!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Quicc Cauldron",
+    "name": "Bow Power",
+    "bonuses": [
+      "+% more Weapon Power from your weapon, but only if its a Bow!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Quicc Cauldron",
+    "name": "Slabo Critterbug",
+    "bonuses": [
+      "+ Catching and Trapping Power per 100 items found, shown on The Slab!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Quicc Cauldron",
+    "name": "Sailor At Heart",
+    "bonuses": [
+      "When claiming AFK Gains, +% chance to gain an equal amount of time for Sailing progress!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Quicc Cauldron",
+    "name": "Slabo Agility",
+    "bonuses": [
+      "+ Base AGI and LUK per 100 items found, shown on The Slab! Woah cool this is like a Archer Beginner crossover bubble!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Quicc Cauldron",
+    "name": "Power Tritwo",
+    "bonuses": [
+      "+% Total Damage per 250 AGI, but only for archers! No triple dipping into STR and WIS!"
     ],
     "worksInGame": true
   },
@@ -696,6 +776,46 @@
     "worksInGame": true
   },
   {
+    "source": "High-IQ Cauldron",
+    "name": "Wand Pawur",
+    "bonuses": [
+      "+% more Weapon Power from your weapon, but only if its a Wand! Or a fisticuff I guess..."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "High-IQ Cauldron",
+    "name": "Slabe Logsoul",
+    "bonuses": [
+      "+ Choppin and Worship Power per 100 items found, shown on The Slab!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "High-IQ Cauldron",
+    "name": "Pious At Heart",
+    "bonuses": [
+      "+% Divinity EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "High-IQ Cauldron",
+    "name": "Slabe Wisdom",
+    "bonuses": [
+      "+ Base WIS per 100 items found, shown on The Slab!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "High-IQ Cauldron",
+    "name": "Power Trithree",
+    "bonuses": [
+      "+% Total Damage per 250 WIS, but only for mages! No triple dipping into STR and AGI! Also, beginners get this bonus, but for LUK"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Kazam Cauldron",
     "name": "Lotto Skills",
     "bonuses": [
@@ -852,6 +972,46 @@
     "name": "Petting The Rift",
     "bonuses": [
       "x New Pet Chance for every gap you traverse in the SpaceTime Rift. The Rift entrance is deep in World 4, far above the 8 armed octodars."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Kazam Cauldron",
+    "name": "Boaty Bubble",
+    "bonuses": [
+      "+% Sailing Speed for all boats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Kazam Cauldron",
+    "name": "Big P",
+    "bonuses": [
+      "x higher bonus than displayed from the passive bonus of the deity you're linked to in Divinity. AKA bigger god passive!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Kazam Cauldron",
+    "name": "Bit By Bit",
+    "bonuses": [
+      "+% more bits earned in gaming per plant found, as shown in the Log Book found in the top right of the gaming garden!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Kazam Cauldron",
+    "name": "Gifts Abound",
+    "bonuses": [
+      "+% chance to not use up Divinity points when offering a gift!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Kazam Cauldron",
+    "name": "Atom Split",
+    "bonuses": [
+      "+% chance to gain 2x atoms from the Supercollider"
     ],
     "worksInGame": true
   },
@@ -1272,6 +1432,70 @@
     "worksInGame": true
   },
   {
+    "source": "Vials",
+    "name": "Ash Agua",
+    "bonuses": [
+      "+ Talent Points for Tab 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Maple Syrup",
+    "bonuses": [
+      "+% Divinity EXP. Maple syrup helps me keep calm and meditate with the divine, eh? No wonder those Canadians sure are nice and calm people!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Hampter Drippy",
+    "bonuses": [
+      "+% Sailing EXP gain. Doesn't help level up captains, only yourself. So yea, I'm basically saying you're a crappy captain haha!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Dreadnog",
+    "bonuses": [
+      "+% Cooking Speed for meals. No, MEALS, not meel, dont cook him!! Stop!! STOP!!!!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Dusted Drink",
+    "bonuses": [
+      "+% Gaming EXP. Cool."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Oj Jooce",
+    "bonuses": [
+      "+% Sailing Speed. If only there was a way to also lower the minimum sailing time... I'm sure you'll find it eventually..."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Oozie Ooblek",
+    "bonuses": [
+      "+% Bits gained in Gaming. Cool."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Venison Malt",
+    "bonuses": [
+      "-% material cost for stamps. Have at it endgamers!"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Liquid Shop",
     "name": "Mediocre Obols",
     "bonuses": [
@@ -1579,11 +1803,31 @@
   },
   {
     "source": "Post Office Box",
-    "name": "Filler",
+    "name": "Scurvy C'arr'ate",
     "bonuses": [
-      "Nothing",
-      "Nothing",
-      "Nothing"
+      "% afk counts for sailing",
+      "AGI",
+      "% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Post Office Box",
+    "name": "Box of Gosh",
+    "bonuses": [
+      "% Divinity EXP",
+      "WIS",
+      "% Divinity Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Post Office Box",
+    "name": "Gaming Lootcrate",
+    "bonuses": [
+      "% afk counts for gaming",
+      "STR",
+      "% Total Damage"
     ],
     "worksInGame": true
   },
@@ -1757,25 +2001,25 @@
   },
   {
     "source": "Sigil",
-    "name": "World 5a",
+    "name": "Loot Pile",
     "bonuses": [
-      "This bonus will affect world 5. Feel free to lv it up early!"
+      "All sailing treasure chests give +% more treasure!"
     ],
     "worksInGame": true
   },
   {
     "source": "Sigil",
-    "name": "World 5d",
+    "name": "Div Spiral",
     "bonuses": [
-      "This bonus will affect world 5. Feel free to lv it up early!"
+      "Boosts Divinity EXP gain by +%"
     ],
     "worksInGame": true
   },
   {
     "source": "Sigil",
-    "name": "World 5c",
+    "name": "World 6",
     "bonuses": [
-      "This bonus will affect world 5. Feel free to lv it up early!"
+      "This bonus will affect world 6. Feel free to lv it up early!"
     ],
     "worksInGame": true
   },
@@ -1840,6 +2084,14 @@
     "name": "Automation Arm",
     "bonuses": [
       " + Automated System, controlled via @ the Robotic Arm."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Building Upgrade",
+    "name": "Atom Collider",
+    "bonuses": [
+      " +% chance for an extra atom upon collision"
     ],
     "worksInGame": true
   },
@@ -1911,7 +2163,7 @@
     "source": "Building Upgrade",
     "name": "Voidinator",
     "bonuses": [
-      " +% Recharge Speed @ +% Lower Upgrade Costs in Worship"
+      " +% Range @ +% Lower Upgrade Costs in Worship"
     ],
     "worksInGame": true
   },
@@ -2755,7 +3007,7 @@
     "source": "Lab Jewel",
     "name": "Black Diamond Rhinestone",
     "bonuses": [
-      "All meal bonuses, as shown in the Dinner Table Menu, actaully give 1.x higher bonus than what is shown. So if a bonus says +100%, it is actually giving +1%"
+      "All meal bonuses, as shown in the Dinner Table Menu, actaully give 1.x higher bonus than what is shown. So if a bonus says +100%, it is actually giving +1%. @ Doesn't apply to Line Width bonus."
     ],
     "worksInGame": true
   },
@@ -2795,7 +3047,7 @@
     "source": "Lab Bonus",
     "name": "No Bubble Left Behind",
     "bonuses": [
-      "Every 24 hours, your 3 lowest level Alchemy Bubbles gets +1 Lv. This only applies to bubbles Lv 5 or higher, so it's more like 'your lowest level bubble that is at least level 5'. ALSO, it only works on the first 15 bubbles of each colour!"
+      "Every 24 hours, your 3 lowest level Alchemy Bubbles gets +1 Lv. This only applies to bubbles Lv 5 or higher, so it's more like 'your lowest level bubble that is at least level 5'. ALSO, it only works on the first 15 bubbles of each colour! @ Doesn't trigger on days that you don't login."
     ],
     "worksInGame": true
   },
@@ -3251,7 +3503,7 @@
     "source": "Meal",
     "name": "Pumpkin",
     "bonuses": [
-      "+% EXP from World 1 Mobs"
+      "+% Liquid Cap for liquids 1 and 2"
     ],
     "worksInGame": true
   },
@@ -3259,7 +3511,7 @@
     "source": "Meal",
     "name": "Cotton Candy",
     "bonuses": [
-      "+% EXP from World 1 Mobs"
+      "+% Divinity EXP"
     ],
     "worksInGame": true
   },
@@ -3268,6 +3520,70 @@
     "name": "Massive Fig",
     "bonuses": [
       "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Head Chef Bread",
+    "bonuses": [
+      "+% Bits Gained in Gaming"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Kiwi Fruit",
+    "bonuses": [
+      "+% Liquid Cap for liquids 3 and 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Popped Corn",
+    "bonuses": [
+      "+% Sailing Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Double Cherry",
+    "bonuses": [
+      "+% Meal Cooking Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Ratatouey",
+    "bonuses": [
+      "+% Lower Kitchen Upgrade costs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Giant Tomato",
+    "bonuses": [
+      "+% Gaming EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Wrath Grapes",
+    "bonuses": [
+      "+% Divinity EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Meal",
+    "name": "Sausy Sausage",
+    "bonuses": [
+      "+% Bits Gained in Gaming"
     ],
     "worksInGame": true
   },
@@ -3315,7 +3631,7 @@
     "source": "Pet Upgrade",
     "name": "Rarity of the Egg",
     "bonuses": [
-      "Unlocks the 3rd Breeding Multiplier, Rarity. Whenever you incubate with a full incubator, theres a chance to increase the rarity of another egg!"
+      "Unlocks the 3rd Breeding Multi, Rarity. When the egg incubator is full, theres a chance to increase the rarity of another egg!"
     ],
     "worksInGame": true
   },
@@ -3347,7 +3663,7 @@
     "source": "Pet Upgrade",
     "name": "Overwhelmed Golden Egg",
     "bonuses": [
-      "Your New Pet Chance is multiplied by the number below for every 25 kitchen upgrade levels across all kitchens! This is SUPER important!"
+      "Your New Pet Chance is multiplied for every 100 kitchen upgrade levels across all kitchens! So 200 Lvs would apply it twice!!"
     ],
     "worksInGame": true
   },
@@ -3374,6 +3690,448 @@
       "Filler"
     ],
     "worksInGame": true
+  },
+  {
+    "source": "Artifact",
+    "name": "Moai Head",
+    "bonuses": [
+      "Get bonuses from all shrines from any map! You must be in same map/world to level them up though.",
+      "Ancient: All shrines level up +100% faster!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Maneki Kat",
+    "bonuses": [
+      "+% coins from all monsters per class level of your highest leveled character. Total Bonus: +% coins",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Ruble Cuble",
+    "bonuses": [
+      "+% Total Dmg for every 10 items found after 500, as shown at The Slab. @ Total Bonus: +% dmg",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Fauxory Tusk",
+    "bonuses": [
+      "+% artifact find chance per sailing LV. @ Total Bonus: +% artifact chance",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Gold Relic",
+    "bonuses": [
+      "All 3d printer samples grow by +1% per day for 40 days. Resets when taking new samples.",
+      "Ancient: Samples grow by 1.5% for 60 days instead!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Genie Lamp",
+    "bonuses": [
+      "+% loot value from sailing chests per Sailing Lv. @ Total Bonus: +% loot value",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Silver Ankh",
+    "bonuses": [
+      "Unlocks a new Post Office crate to spend P.O. boxes on!",
+      "Ancient: 25% chance for +1 box when completing post office orders!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Emerald Relic",
+    "bonuses": [
+      "Convert treasures into gold bars! Go see Blobby G, the goldbar blobulyte, on the docks for info.",
+      "Ancient: Get 1.30x more gold bars from converting!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Fun Hippoete",
+    "bonuses": [
+      "+% total dmg per power of 10 Construction Build Rate. @ Total Bonus: +% dmg",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Arrowhead",
+    "bonuses": [
+      "Enables you to manage which chest rarities your captains deliver! Helps declutter your loot pile.",
+      "Ancient: 1.25x higher chance to get rare chests!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "10 AD Tablet",
+    "bonuses": [
+      "+% Sailing Speed for every 10 items found after 500, as shown at The Slab. @ Total Bonus: +% speed",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Ashen Urn",
+    "bonuses": [
+      "+% Divinity gain per class level of your highest leveled character, up to Lv 200.",
+      "Ancient: Applies up to character level 400 instead!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Amberite",
+    "bonuses": [
+      "The lab bonus 'No Bubble Left Behind' affects + more bubbles!",
+      "Ancient: Affects +1 additional bubbles per day!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Triagulon",
+    "bonuses": [
+      "+% cooking speed per power of 10 Turkey owned. @ Total Bonus: +% Spd",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Billcye Tri",
+    "bonuses": [
+      "Unlocks a new Post Office crate to spend P.O. boxes on!",
+      "Ancient: 25% chance for +1 box when completing post office orders!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Frost Relic",
+    "bonuses": [
+      "+% Efficiency for all skills in World 1, World 2, and World 3!",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Chilled Yarn",
+    "bonuses": [
+      "All the Sigils in alchemy give 2x their displayed bonus.",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Causticolumn",
+    "bonuses": [
+      "+ Max Level for all cooking meals. Jade plates here we come!",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Jade Rock",
+    "bonuses": [
+      "+% Divinity for every 10 items found after 500, as shown at The Slab. @ Total Bonus: +% Divinity",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Dreamcatcher",
+    "bonuses": [
+      "Auto deliver post office orders at the start of each day, if you can afford to.",
+      "Ancient: 25% chance for +1 box when completing post office orders!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Gummy Orb",
+    "bonuses": [
+      "+% bits for every 10 items found after 500, as shown at The Slab. @ Total Bonus: +% bits",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Fury Relic",
+    "bonuses": [
+      "+ Max Talent Book LV at the library.",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Cloud Urn",
+    "bonuses": [
+      "Unlocks a new Post Office crate to spend P.O. boxes on!",
+      "Ancient: 25% chance for +1 box when completing post office orders!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Weatherbook",
+    "bonuses": [
+      "+% bits gained in the Gaming Garden per gaming lv. @ Total Bonus: +% bits",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Giants Eye",
+    "bonuses": [
+      "+% shiny pet breed chance per day. Stacks until successfully breeding a shiny!",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Crystal Steak",
+    "bonuses": [
+      "+% total damage per 100 main stat, STR AGI WIS or LUK based on your class. Total Bonus: +% dmg",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Trilobite Rock",
+    "bonuses": [
+      "+% multikill per damage tier.",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Opera Mask",
+    "bonuses": [
+      "+% total damage per power of 10 gold bars owned in sailing. Total Bonus: +% dmg",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "Socrates",
+    "bonuses": [
+      "+% all stats. STR, AGI, WIS and LUK.",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "The True Lantern",
+    "bonuses": [
+      "+% total dmg per power of 10 blessings owned. @ Total Bonus: +% dmg",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Sailing",
+    "name": "Captain",
+    "bonuses": [
+      "+% Boat Speed"
+    ]
+  },
+  {
+    "source": "Sailing",
+    "name": "Captain",
+    "bonuses": [
+      "+% Loot Value"
+    ]
+  },
+  {
+    "source": "Sailing",
+    "name": "Captain",
+    "bonuses": [
+      "+% Cloud Discover Rate"
+    ]
+  },
+  {
+    "source": "Sailing",
+    "name": "Captain",
+    "bonuses": [
+      "+% Artifact Find Chance"
+    ]
+  },
+  {
+    "source": "Sailing",
+    "name": "Captain",
+    "bonuses": [
+      "+% Rare Chest Chance"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "Kinesis",
+    "bonuses": [
+      "The beginner approach of flailing your arms around! @ Gives 1 Divinity and 1 EXP per hour"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "Chakra",
+    "bonuses": [
+      "Keep your internal wheel rotating at all times! @ Gives 2 Divinity and 2 EXP per hour"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "Focus",
+    "bonuses": [
+      "Block out all unwanted stimulus and information!  @ Gives 4 Divinity and 1 EXP per hour"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "Mantra",
+    "bonuses": [
+      "One for all, one for all, one for all... @ Gives 1 EXP to ALL characters per hour"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "Vitalic",
+    "bonuses": [
+      "Open your heart and grow as a player! @ Gives 2 Divinity and 7 EXP per hour"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "TranQi",
+    "bonuses": [
+      "Exude raw tranquility at all times! @ Gives 3 EXP per hour even when not meditating"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "Zen",
+    "bonuses": [
+      "Find inner peace and become one with the divine! @ Gives 8 Divinity and 8 EXP per hour"
+    ]
+  },
+  {
+    "source": "Divinity Style",
+    "name": "Mindful",
+    "bonuses": [
+      "Feel connected to every atom of the universe! @ Gives 15 Divinity and 10 EXP per hour"
+    ]
+  },
+  {
+    "source": "Gaming Upgrade",
+    "name": "Sprout Value",
+    "bonuses": [
+      "Sprouts give  when collected. This is known as their 'base value'."
+    ]
+  },
+  {
+    "source": "Gaming Upgrade",
+    "name": "Sprout Speed",
+    "bonuses": [
+      "Sprouts grow back every  on average. This time is also 1 growth cycle."
+    ]
+  },
+  {
+    "source": "Gaming Upgrade",
+    "name": "Sprout Capacity",
+    "bonuses": [
+      "Your garden can hold up to  sprouts. Current storage shown in top left."
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Snehebatu",
+    "bonuses": [
+      "+30% AFK Gains for all activities!",
+      "+% accuracy and +% defence",
+      "+% Divinity Gain"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Arctis",
+    "bonuses": [
+      "This character is always active within the Lab Mainframe. However, they will not gain any Lab EXP!",
+      "+ Talent LV for all talents above Lv 1",
+      "+% Divinity Gain"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Nobisect",
+    "bonuses": [
+      "All kills count for 2x more kills for opening portals and accumulating Deathnote kills.",
+      "+% Total Damage",
+      "+ Scaled Skill Efficiency"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Harriep",
+    "bonuses": [
+      "This character produces 3x more resources at 3d Printer! Works with the Lab Bonus, but won't affect the displayed printer amount.",
+      "+% coins gained for ALL characters!",
+      "+% Divinity Gain"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Goharut",
+    "bonuses": [
+      "Being connected to the Lab also counts as being present at the Divinity Altar, so you get gains for both!",
+      "+% AFK Gains for ALL characters!",
+      "+% Sailing Speed"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Omniphau",
+    "bonuses": [
+      "When claiming non-candy AFK gains, also progress one of the following by the AFK time! (Refinery, 3D Printer, Cooking, Pet Breeding, Sailing, or Gaming)",
+      "+% Class EXP",
+      "+% Divinity Gain"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Purrmep",
+    "bonuses": [
+      "All characters produce 2x more Divinity, and get 2x more Divinity EXP! @ Only 1 player can link to Purrmep",
+      "+% Boat Sailing speed and +% Gaming Plant grow speed",
+      "+% Sailing Speed"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Flutterbis",
+    "bonuses": [
+      "Whenever you level up a skill thats over Lv 50, a Divinity Pearl will drop which gives +40% exp to any skill under Lv 50!",
+      "+% skill exp",
+      "+% Total Damage"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Kattlecruk",
+    "bonuses": [
+      "I am not yet prepared to bestow upon you my bonus, give me some time. You may link with me, but nothing will come of it.",
+      "Nothing. Be patient mortal.",
+      "+% Total Damage"
+    ]
+  },
+  {
+    "source": "Divinity God",
+    "name": "Bagur",
+    "bonuses": [
+      "I am not yet prepared to bestow upon you my bonus, give me some time. You may link with me, but nothing will come of it.",
+      "Nothing. Be patient mortal.",
+      "+% Sailing Speed"
+    ]
   },
   {
     "source": "Beginner Talents",
@@ -4059,7 +4817,7 @@
     "source": "Barbarian Talents",
     "name": "Worming Undercover",
     "bonuses": [
-      "% chance"
+      "% chance to wake the sleeper agent worm within the fish, letting you instantly catch"
     ],
     "worksInGame": true
   },
@@ -4219,7 +4977,7 @@
     "source": "Blood Berserker Talents",
     "name": "Fired Up",
     "bonuses": [
-      "Inflame yourself, boosting attack spd. Attacks refresh flame, but you move super slow."
+      "Inflame yourself, boosting attack spd. Basic attacks refresh time you are inflamed."
     ],
     "worksInGame": true
   },
@@ -5891,7 +6649,7 @@
     "source": "Special Talent 3 Talents",
     "name": "American Tipper",
     "bonuses": [
-      "+% Cash per 10 Levels of your Cooking Skill. This one isn't additive with any other bonus!"
+      "+% Cash per 10 Levels of your Cooking Skill."
     ],
     "worksInGame": true
   },
@@ -7681,6 +8439,22 @@
   },
   {
     "source": "Gem Shop",
+    "name": "More Storage Space",
+    "bonuses": [
+      "Gives +9 extra Storage Chest Slots! Perfect for any hoarding tendencies you may have!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Card Presets",
+    "bonuses": [
+      "Lets you swap between different card loadouts with ease! No more manually swapping cards around when doing different things! Each purchase gives +1 preset for ALL characters!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
     "name": "Daily Teleports",
     "bonuses": [
       "Each purchase gives +7 daily teleports every day, forever. You can use these on the Map Screen. You can be gone for up to 4 days and claim them all upon your return!"
@@ -7763,15 +8537,15 @@
     "source": "Gem Shop",
     "name": "Extra Card Slot",
     "bonuses": [
-      "Lets you equip another card, so you can have more card bonuses! This applies to all characters."
+      "Lets you equip another card, so you can have more card bonuses! This applies to all characters, and is recommended before buying card packs!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Card Presets",
+    "name": "Dungeon Card Pack",
     "bonuses": [
-      "Lets you swap between different card loadouts with ease! No more manually swapping cards around when doing different things! Each purchase gives +1 preset for ALL characters!"
+      "Contains 3 cards from the dungeon set."
     ],
     "worksInGame": true
   },
@@ -7785,9 +8559,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Dungeon Card Pack",
+    "name": "Smolderin Card Pack",
     "bonuses": [
-      "Contains 3 cards from the dungeon set."
+      "Blah"
     ],
     "worksInGame": true
   },
@@ -7844,6 +8618,30 @@
     "name": "Tier 3 Keychain",
     "bonuses": [
       "Gives you 300 keychain fragments, enough to claim a Tier 3 Keychain from the Frog Dungeon Lobby! These keychains randomly give the following bonuses: %DEF, %Stat, %AFK gain, %DMG, mob respawn, Skilling spd, %All stat"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Random Boss Obol",
+    "bonuses": [
+      "Gives you one of the following obols: Amarok Obol (+4% Defence), Efaunt Obol (+5% Boss Damage), Slush Obol (+3% Skill Effic), Chizoar Obol (+4% Total Damage), or Troll Obol (+3% All Stats)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Dragonic Liquid Cauldron",
+    "bonuses": [
+      "Turns your 1st liquid cauldron into a dragonic cauldron, giving it 2x Liquid Capacity. (Note: The cauldron will only change visually if you have the bleach one. The 2x cap will apply regardless)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Idle Skilling Keychain",
+    "bonuses": [
+      "Gives you a random Idle Skilling keychain with up to +12% AFK Gain! Keychains are equipped on the 2nd equipment page!"
     ],
     "worksInGame": true
   },
@@ -8076,6 +8874,62 @@
     "name": "Carton Of Eggs",
     "bonuses": [
       "Each purchase gives anywhere from 3 to 12 eggs in your item inventory! Use these eggs in your          inventory to refill your nest with eggs!              This item restocks each day."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Miracle Chest",
+    "bonuses": [
+      "Gives you 1 Miracle Chest from a random island! These have 20x more treasure and 30x higher     Artifact chance, including Ancient Artifacts!              This item restocks each day."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Bottled Wind",
+    "bonuses": [
+      "Gives you a bottled wind item. Use it in your       player inventory to instantly get 6 hours of                           sailing progress!                       This item restocks each day."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Chest Sluggo",
+    "bonuses": [
+      "Increases the maximum number of chests your sailing Loot Pile can hold by +1! Also adds a Chest Sluggo to roam around your dock! (Note:Not every purchase will visually add another slug, it'd be too chaotic!)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Divinity Sparkie",
+    "bonuses": [
+      "Boosts the amount of Divinity Points and Divinity EXP gained by +25% for all of your players! Also adds a divinity sparkie that wanders around the deity volcanos, pondering its existence."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Golden Sprinkler",
+    "bonuses": [
+      "The Sprinkler in the garden, which instantly regrows sprouts, now has a 30% chance to not use up its charge! Each additional purchase boosts this chance by 1.5x! Instantly unlocks Sprinkler if not unlocked yet!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Gaming Fertilizer",
+    "bonuses": [
+      "Gives you a gaming fertilizer item. Use it in your    player inventory to instantly get 8 hours of                         gaming progress!                     This item restocks each day."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Lava Sprouts",
+    "bonuses": [
+      "Increases the maximum number of sprouts your garden can hold by +1! Also adds a small lava sprout to your underground gamer lair, which complements the dankness of the ground walls!"
     ],
     "worksInGame": true
   },
@@ -8985,6 +9839,14 @@
   },
   {
     "source": "Card Set",
+    "name": "Smolderin' Plateau",
+    "bonuses": [
+      "% Fight AFK Gain Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card Set",
     "name": "Dungeons",
     "bonuses": [
       "% more Dungeon Credits"
@@ -9051,7 +9913,7 @@
     "source": "Skull Shop",
     "name": "Timecandy1",
     "bonuses": [
-      "Get 10 Balls! They're put right into the arcade!"
+      "Get 6 Balls! They're put right into the arcade!"
     ],
     "worksInGame": true
   },
@@ -9697,6 +10559,14 @@
   },
   {
     "source": "Card",
+    "name": "Dreadlo",
+    "bonuses": [
+      "+% Mining Away Gains"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
     "name": "Saharan Foal",
     "bonuses": [
       "+% Choppin Away Gains"
@@ -9722,6 +10592,22 @@
   {
     "source": "Card",
     "name": "Cubed Tree",
+    "bonuses": [
+      "+% Choppin Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Maple Tree",
+    "bonuses": [
+      "+% Choppin Away Gains"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Dandelioli Tree",
     "bonuses": [
       "+% Choppin Speed"
     ],
@@ -9788,6 +10674,22 @@
     "name": "Fairy",
     "bonuses": [
       "+% Catching Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Scarab",
+    "bonuses": [
+      "+% Total Catching Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Dust Mote",
+    "bonuses": [
+      "+% Catching Away Gains"
     ],
     "worksInGame": true
   },
@@ -9865,9 +10767,17 @@
   },
   {
     "source": "Card",
-    "name": "Squiddy Soul",
+    "name": "Squishy Soul",
     "bonuses": [
       "+% Charge Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Oozie Soul",
+    "bonuses": [
+      "+% Max Charge"
     ],
     "worksInGame": true
   },
@@ -9985,6 +10895,118 @@
   },
   {
     "source": "Card",
+    "name": "Suggma",
+    "bonuses": [
+      "+% Multikill per tier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Maccie",
+    "bonuses": [
+      "+% Defence from Equipment"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Mister Brightside",
+    "bonuses": [
+      "+% Total Drop Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Cheese Nub",
+    "bonuses": [
+      "+% Skill EXP (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Stiltmole",
+    "bonuses": [
+      "+% Divinity EXP (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Molti",
+    "bonuses": [
+      "+% Money from mobs (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Purgatory Stalker",
+    "bonuses": [
+      "+ Weapon Power (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Citringe",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Lampar",
+    "bonuses": [
+      "+% EXP from monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Fire Spirit",
+    "bonuses": [
+      "+ Base LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Biggole Mole",
+    "bonuses": [
+      "+% Mining Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Crawler",
+    "bonuses": [
+      "+% Sailing Speed (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Tremor Wurm",
+    "bonuses": [
+      "+% All Stat"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Crystal Capybara",
+    "bonuses": [
+      "+% Skill Efficncy (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
     "name": "Poisonic Frog",
     "bonuses": [
       "+ Base Dungeon MP"
@@ -10027,7 +11049,7 @@
     "source": "Card",
     "name": "Eldritch Croaker",
     "bonuses": [
-      "% to start with RNG item"
+      "% to start with RNG orb (Passive)"
     ],
     "worksInGame": true
   },
@@ -10035,7 +11057,7 @@
     "source": "Card",
     "name": "Grandfrogger",
     "bonuses": [
-      "% to start with RNG item"
+      "% to start with RNG orb (Passive)"
     ],
     "worksInGame": true
   },
@@ -10275,7 +11297,7 @@
     "source": "Card",
     "name": "Chaotic Chizoar",
     "bonuses": [
-      "+% Shrine Effects"
+      "+% Shrine Effects (Passive)"
     ],
     "worksInGame": true
   },
@@ -10297,7 +11319,7 @@
   },
   {
     "source": "Card",
-    "name": "Troll",
+    "name": "Massive Troll",
     "bonuses": [
       "+% Kitchen Speed (Passive)"
     ],
@@ -10308,6 +11330,38 @@
     "name": "Chaotic Troll",
     "bonuses": [
       "+% All Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Blitzkrieg Troll",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Kattlecruk",
+    "bonuses": [
+      "+% Sailing Speed (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Septic Kattlecruk",
+    "bonuses": [
+      "+% EXP from monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Undying Troll",
+    "bonuses": [
+      "+% Money from Monsters"
     ],
     "worksInGame": true
   },
@@ -10472,6 +11526,14 @@
     "worksInGame": true
   },
   {
+    "source": "Forge Oil",
+    "name": "Magma Barrel",
+    "bonuses": [
+      "Increases Extra Bar chance by 40% for the Slot it's in. 50% chance to be consumed when a bar is forged. "
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Armor",
     "name": "Farmer Brim",
     "bonuses": [
@@ -10628,7 +11690,7 @@
     "source": "Armor",
     "name": "Demon Horns",
     "bonuses": [
-      "Weapon Power: 200",
+      "Weapon Power: 400",
       "STR: 3000",
       "AGI: 3000",
       "WIS: 3000",
@@ -10748,7 +11810,76 @@
   },
   {
     "source": "Armor",
-    "name": "Party Hat",
+    "name": "Chizoar Helmet",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 20",
+      "AGI: 20",
+      "WIS: 20",
+      "Defence: 60",
+      "15% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lustre Veil",
+    "bonuses": [
+      "STR: 22",
+      "AGI: 22",
+      "WIS: 22",
+      "LUK: 22",
+      "Defence: 72",
+      "12% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Diabolical Headcase",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 30",
+      "AGI: 30",
+      "WIS: 30",
+      "LUK: 30",
+      "Defence: 90",
+      "16% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Thin Veil of The Troll",
+    "bonuses": [
+      "Weapon Power: 7",
+      "STR: 35",
+      "AGI: 35",
+      "WIS: 35",
+      "LUK: 35",
+      "Defence: 100",
+      "4% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Magma Core Headdress",
+    "bonuses": [
+      "Weapon Power: 9",
+      "STR: 40",
+      "AGI: 40",
+      "WIS: 40",
+      "LUK: 40",
+      "Defence: 125",
+      "5% All Stats",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Birthday Hat",
     "bonuses": [
       "LUK: 5",
       "Defence: 10",
@@ -10929,6 +12060,53 @@
       "WIS: 5",
       "Defence: 30",
       "15% Skill Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Nondescript Game Show Host Hair",
+    "bonuses": [
+      "Weapon Power: 100",
+      "STR: 25",
+      "AGI: 40",
+      "LUK: 50",
+      "100% Family"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Real Civil Engineer Helmet",
+    "bonuses": [
+      "STR: 2",
+      "WIS: 4",
+      "Defence: 6",
+      "100% Fellow Engineer"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Apple Launch Hat",
+    "bonuses": [
+      "Weapon Power: 3",
+      "Defence: 3",
+      "5% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Funny Hat",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "Defence: 10",
+      "6% Skill Efficiency"
     ],
     "worksInGame": true
   },
@@ -11116,6 +12294,19 @@
   },
   {
     "source": "Weapon",
+    "name": "Molten Core Knucklers",
+    "bonuses": [
+      "Weapon Power: 55",
+      "LUK: 40",
+      "Speed: 9",
+      "Reach: 96",
+      "10% Total Damage",
+      "10% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
     "name": "Wooden Spear",
     "bonuses": [
       "Weapon Power: 7",
@@ -11184,6 +12375,44 @@
       "Speed: 6",
       "Reach: 88",
       "5% Crit Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Slimsharp Fin",
+    "bonuses": [
+      "Weapon Power: 48",
+      "STR: 24",
+      "Speed: 6",
+      "Reach: 92",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Diabolical Flesh Ripper",
+    "bonuses": [
+      "Weapon Power: 58",
+      "STR: 30",
+      "Speed: 7",
+      "Reach: 92",
+      "8% Mob Respawn",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Magma Maul",
+    "bonuses": [
+      "Weapon Power: 70",
+      "STR: 40",
+      "Speed: 7",
+      "Reach: 92",
+      "12% Total Damage",
+      "10% Mob Respawn"
     ],
     "worksInGame": true
   },
@@ -11364,6 +12593,47 @@
   },
   {
     "source": "Weapon",
+    "name": "Shardsure Leif",
+    "bonuses": [
+      "Weapon Power: 44",
+      "STR: 12",
+      "AGI: 16",
+      "Speed: 7",
+      "Reach: 255",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Diabolical Continuit",
+    "bonuses": [
+      "Weapon Power: 54",
+      "STR: 14",
+      "AGI: 20",
+      "Speed: 8",
+      "Reach: 300",
+      "8% Mob Respawn",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Sediment Core Grunkler",
+    "bonuses": [
+      "Weapon Power: 65",
+      "STR: 20",
+      "AGI: 30",
+      "Speed: 8",
+      "Reach: 320",
+      "12% Total Damage",
+      "10% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
     "name": "Gnarled Wand",
     "bonuses": [
       "Weapon Power: 7",
@@ -11438,6 +12708,47 @@
   },
   {
     "source": "Weapon",
+    "name": "Skullslip Hallow",
+    "bonuses": [
+      "Weapon Power: 51",
+      "AGI: 12",
+      "WIS: 18",
+      "Speed: 6",
+      "Reach: 195",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Diabolical Opticule",
+    "bonuses": [
+      "Weapon Power: 61",
+      "AGI: 13",
+      "WIS: 25",
+      "Speed: 7",
+      "Reach: 250",
+      "8% Mob Respawn",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Cattle Core Soothsayer Staff",
+    "bonuses": [
+      "Weapon Power: 75",
+      "AGI: 20",
+      "WIS: 35",
+      "Speed: 8",
+      "Reach: 275",
+      "12% Total Damage",
+      "10% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
     "name": "Microphone",
     "bonuses": [
       "Weapon Power: 13",
@@ -11455,6 +12766,52 @@
     "bonuses": [
       "STR: 2",
       "AGI: 1",
+      "Defence: 3"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "MCR Tshirt",
+    "bonuses": [
+      "Weapon Power: 2",
+      "AGI: 8",
+      "Defence: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Planktop",
+    "bonuses": [
+      "STR: 6",
+      "Defence: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Hide Shirt",
+    "bonuses": [
+      "STR: 6",
+      "Defence: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Green Tee",
+    "bonuses": [
+      "LUK: 3",
+      "Defence: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Purple Tee",
+    "bonuses": [
+      "WIS: 3",
       "Defence: 3"
     ],
     "worksInGame": true
@@ -11607,6 +12964,39 @@
   },
   {
     "source": "Armor",
+    "name": "Studded Hide",
+    "bonuses": [
+      "STR: 10",
+      "WIS: 4",
+      "Defence: 22",
+      "10% Fishin Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Feral Leathering",
+    "bonuses": [
+      "STR: 2",
+      "AGI: 12",
+      "Defence: 18",
+      "10% Catch Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Furled Robes",
+    "bonuses": [
+      "AGI: 1",
+      "WIS: 13",
+      "Defence: 14",
+      "10% Chop Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Dementia Body",
     "bonuses": [
       "STR: 10",
@@ -11641,90 +13031,11 @@
   },
   {
     "source": "Armor",
-    "name": "MCR Tshirt",
-    "bonuses": [
-      "Weapon Power: 2",
-      "AGI: 8",
-      "Defence: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Planktop",
-    "bonuses": [
-      "STR: 6",
-      "Defence: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Hide Shirt",
-    "bonuses": [
-      "STR: 6",
-      "Defence: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Green Tee",
-    "bonuses": [
-      "LUK: 3",
-      "Defence: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Purple Tee",
-    "bonuses": [
-      "WIS: 3",
-      "Defence: 3"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
     "name": "Member Hoodie",
     "bonuses": [
       "LUK: 25",
       "Defence: 40",
       "15% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Studded Hide",
-    "bonuses": [
-      "STR: 10",
-      "WIS: 4",
-      "Defence: 22",
-      "10% Fishin Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Feral Leathering",
-    "bonuses": [
-      "STR: 2",
-      "AGI: 12",
-      "Defence: 18",
-      "10% Catch Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Furled Robes",
-    "bonuses": [
-      "AGI: 1",
-      "WIS: 13",
-      "Defence: 14",
-      "10% Chop Efficiency"
     ],
     "worksInGame": true
   },
@@ -11755,6 +13066,74 @@
       "AGI: 1",
       "WIS: 23",
       "Defence: 47"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Chizoar Bodyplate",
+    "bonuses": [
+      "STR: 15",
+      "AGI: 15",
+      "WIS: 15",
+      "Defence: 55",
+      "7% Mastery",
+      "3% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lustre Chestplate",
+    "bonuses": [
+      "STR: 16",
+      "AGI: 16",
+      "WIS: 16",
+      "LUK: 16",
+      "Defence: 60",
+      "6% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Diabolical Abdomen",
+    "bonuses": [
+      "STR: 20",
+      "AGI: 20",
+      "WIS: 20",
+      "LUK: 20",
+      "Defence: 75",
+      "11% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Trollish Garb",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 24",
+      "AGI: 24",
+      "WIS: 24",
+      "LUK: 24",
+      "Defence: 80",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Magma Core Wavemaille",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 30",
+      "AGI: 30",
+      "WIS: 30",
+      "LUK: 30",
+      "Defence: 100",
+      "4% All Stats",
+      "4% Total Damage"
     ],
     "worksInGame": true
   },
@@ -11862,17 +13241,6 @@
   {
     "source": "Armor",
     "name": "Gilded Pilates",
-    "bonuses": [
-      "Weapon Power: 5",
-      "STR: 3",
-      "AGI: 3",
-      "LUK: 3"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Twisted Scales",
     "bonuses": [
       "Weapon Power: 5",
       "STR: 3",
@@ -11994,6 +13362,73 @@
   },
   {
     "source": "Armor",
+    "name": "Chizoar Scaled Leggings",
+    "bonuses": [
+      "STR: 13",
+      "AGI: 13",
+      "WIS: 13",
+      "Defence: 52",
+      "7% Mastery"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lustre Scales",
+    "bonuses": [
+      "STR: 14",
+      "AGI: 14",
+      "WIS: 14",
+      "LUK: 14",
+      "Defence: 54",
+      "9% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Diabolical Trimed Leg Guards",
+    "bonuses": [
+      "STR: 18",
+      "AGI: 18",
+      "WIS: 18",
+      "LUK: 18",
+      "Defence: 65",
+      "13% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Twisted Scales",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 25",
+      "AGI: 25",
+      "WIS: 25",
+      "LUK: 25",
+      "Defence: 70",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Magma Core Battleskirt",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 32",
+      "AGI: 32",
+      "WIS: 32",
+      "LUK: 32",
+      "Defence: 95",
+      "4% All Stats",
+      "4% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Copper Boots",
     "bonuses": [
       "STR: 1",
@@ -12001,6 +13436,49 @@
       "WIS: 1",
       "LUK: 2",
       "Defence: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Flip Flops",
+    "bonuses": [
+      "AGI: 3",
+      "2% Movement Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Flap Flops",
+    "bonuses": [
+      "STR: 3",
+      "AGI: 3",
+      "LUK: 3",
+      "3% Movement Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Floop Flops",
+    "bonuses": [
+      "STR: 3",
+      "AGI: 3",
+      "LUK: 3",
+      "4% Movement Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Flux Flops",
+    "bonuses": [
+      "STR: 5",
+      "AGI: 3",
+      "LUK: 8",
+      "Defence: 40",
+      "5% Movement Speed"
     ],
     "worksInGame": true
   },
@@ -12126,49 +13604,6 @@
   },
   {
     "source": "Armor",
-    "name": "Flip Flops",
-    "bonuses": [
-      "AGI: 3",
-      "2% Movement Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Flap Flops",
-    "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "LUK: 3",
-      "3% Movement Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Floop Flops",
-    "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "LUK: 3",
-      "4% Movement Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Flux Flops",
-    "bonuses": [
-      "STR: 5",
-      "AGI: 3",
-      "LUK: 8",
-      "Defence: 40",
-      "5% Movement Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
     "name": "Gaia Shoes",
     "bonuses": [
       "STR: 2",
@@ -12234,6 +13669,151 @@
     "bonuses": [
       "Defence: 1",
       "100% Novelty"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Chizoar Walkers",
+    "bonuses": [
+      "STR: 12",
+      "AGI: 12",
+      "WIS: 12",
+      "LUK: 12",
+      "Defence: 48",
+      "5% Mastery"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Rough Rockers",
+    "bonuses": [
+      "STR: 13",
+      "WIS: 1",
+      "Defence: 32",
+      "35% Mining Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Fiberous Footings",
+    "bonuses": [
+      "WIS: 14",
+      "Defence: 25",
+      "35% Chop Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Deep Sea Galoshes",
+    "bonuses": [
+      "STR: 12",
+      "Defence: 29",
+      "35% Fishin Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Spaggy Westerados",
+    "bonuses": [
+      "AGI: 13",
+      "Defence: 29",
+      "35% Catch Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Cooking Clogs",
+    "bonuses": [
+      "Defence: 40",
+      "300Cooking Efficncy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Chef Hat Shoes",
+    "bonuses": [
+      "Defence: 45",
+      "800Cooking Efficncy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Laboratory Scrubs",
+    "bonuses": [
+      "LUK: 20",
+      "300Lab Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Sheek Scrubs",
+    "bonuses": [
+      "LUK: 30",
+      "700Lab Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lustre Shieldshoe",
+    "bonuses": [
+      "STR: 13",
+      "AGI: 13",
+      "WIS: 13",
+      "LUK: 13",
+      "Defence: 50",
+      "10% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Diabolical Toe Tips",
+    "bonuses": [
+      "STR: 17",
+      "AGI: 17",
+      "WIS: 17",
+      "LUK: 17",
+      "Defence: 60",
+      "13% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Soles of the Troll",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 22",
+      "AGI: 22",
+      "WIS: 22",
+      "LUK: 22",
+      "Defence: 65",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Magma Core Lavarunners",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 28",
+      "AGI: 28",
+      "WIS: 28",
+      "LUK: 28",
+      "Defence: 90",
+      "4% All Stats",
+      "4% Total Damage"
     ],
     "worksInGame": true
   },
@@ -12493,6 +14073,45 @@
       "WIS: 1",
       "LUK: 3",
       "15% Skill Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Chizoars Blankie",
+    "bonuses": [
+      "Weapon Power: 5",
+      "15% Total Damage",
+      "3% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Chizoars Caustic Scarf",
+    "bonuses": [
+      "Weapon Power: 7",
+      "20% Total Damage",
+      "5% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Polished Bludgeon",
+    "bonuses": [
+      "Weapon Power: 6",
+      "Defence: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Skullfish Pendant",
+    "bonuses": [
+      "STR: 10",
+      "5% Fish Afk Gain",
+      "40Purple Depth"
     ],
     "worksInGame": true
   },
@@ -12857,6 +14476,637 @@
     "worksInGame": true
   },
   {
+    "source": "Armor",
+    "name": "Neutron Ice Ring",
+    "bonuses": [
+      "Weapon Power: 3",
+      "Defence: 11",
+      "4% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lab Ring",
+    "bonuses": [
+      "Defence: 10",
+      "350Lab Efficiency",
+      "15% Lab Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Chef Ring",
+    "bonuses": [
+      "Defence: 10",
+      "400Cooking Efficncy",
+      "15% Cooking Efficncy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Serrated Rex Ring",
+    "bonuses": [
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "Defence: 5",
+      "8% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Protectors Pride",
+    "bonuses": [
+      "LUK: 3",
+      "Defence: 20",
+      "6% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Midnight Stopwatch",
+    "bonuses": [
+      "Weapon Power: 3",
+      "Defence: 3",
+      "2% Fight Afk Gain",
+      "3% Basic Atk Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Dawn Stopwatch",
+    "bonuses": [
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "2% Skill Afk Gain",
+      "1% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Souped Lab Ring",
+    "bonuses": [
+      "Defence: 10",
+      "25% Lab Exp",
+      "35% Lab Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Angel Wings",
+    "bonuses": [
+      "Weapon Power: 5",
+      "LUK: 5",
+      "Defence: 10",
+      "11% All Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lava Wings",
+    "bonuses": [
+      "Weapon Power: 50",
+      "Defence: 11",
+      "100% Awesome",
+      "100% Epic"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Easter Egg Backpack",
+    "bonuses": [
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "Defence: 10",
+      "10% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Radiant Amarok Backstabber",
+    "bonuses": [
+      "Defence: 50",
+      "10% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Gilded Efaunt Dislodged Tusks",
+    "bonuses": [
+      "STR: 15",
+      "AGI: 15",
+      "WIS: 15",
+      "10% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Blighted Chizoar Shard Cape",
+    "bonuses": [
+      "Weapon Power: 3",
+      "8% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Cascading Scaled Cape of Krieg",
+    "bonuses": [
+      "Weapon Power: 1",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "6% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Molten Cloak",
+    "bonuses": [
+      "Weapon Power: 6",
+      "Defence: 5",
+      "30% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Simple Key Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 1,2,5] Base Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Leafy Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 2,3,5] Accuracy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Red Sneaker Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 1,1.5,2] % Movement Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Wartooth Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 5,10,20] Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "8 Ball Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 3,6,10] % Card Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Piggy Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 4,7,10] % Money"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Dumbphone Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 2,4,6] Str OR + 2,4,6] Agi"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Horn Chain",
+    "bonuses": [
+      "Defence: 1",
+      "+ 2,4,6] Wis OR + 2,4,6] Luk"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Rustic Key Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 1,2,4] % Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Taco Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 8,12,20] % Mining Xp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Cactus Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 1.5,2.5,3] % Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Relic Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 3,5,8] % Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Balloon Dog Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 3,4,6] % Basic Atk Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Frozen Tart Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 1.5,2.5,3] % Crit Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Whatamelon Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 8,12,20] % Fishing Xp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "9 Ball Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 4,6,10] % Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Pincer Hand Chain",
+    "bonuses": [
+      "Defence: 3",
+      "+ 5,7,12] % Multikill"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Gilded Key Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 3,5,8] % Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Sushi Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 2,4,6] % Str OR + 2,4,6] % Agi"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Time Candy Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 2,3,5] % All Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Star Blobulyte Galaxy Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 3,4,7] % Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Mmm Donut Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 2,4,6] % Wis OR + 2,4,6] % Luk"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Negative 7 Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 3,4,6] % Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Diamond Honker Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 1,1.5,2] % All Skill Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "BobGoldPickle Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 10",
+      "+ 1,2.5,4] % All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Eye Owe Ess Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Key to Desert Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Key to Mountains Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Key to Purgatory Chain",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "King of Food",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "Defence: 25",
+      "20% Food Effect"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lucky Lad",
+    "bonuses": [
+      "LUK: 7",
+      "7% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Club Member",
+    "bonuses": [
+      "LUK: 5",
+      "Defence: 5",
+      "3% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "I Made This Game",
+    "bonuses": [
+      "Weapon Power: 1",
+      "100% Player Height",
+      "42% Red Colouring"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Dice Dynamo",
+    "bonuses": [
+      "Weapon Power: 1",
+      "LUK: 5",
+      "2% Luk"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Blunder Hero",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "Defence: 15",
+      "3% Skill Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Original Gamer",
+    "bonuses": [
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
+      "LUK: 2",
+      "2% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Trailblazer",
+    "bonuses": [
+      "Weapon Power: 4",
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "20% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Ultra Unboxer",
+    "bonuses": [
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "Defence: 3",
+      "3% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Critter Baron",
+    "bonuses": [
+      "AGI: 20",
+      "5% Agi"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "YumYum Sheriff",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 8",
+      "AGI: 8",
+      "WIS: 8",
+      "LUK: 8",
+      "Defence: 25",
+      "12% Boss Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Megalodon",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 15",
+      "Defence: 30",
+      "9% Crit Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Club Maestro",
+    "bonuses": [
+      "Weapon Power: 1",
+      "LUK: 20",
+      "Defence: 20",
+      "35% Skill Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Beach Bro",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "50% Money"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Frost Prince",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "Defence: 50",
+      "8% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Idle Skiller",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 20",
+      "AGI: 20",
+      "WIS: 20",
+      "LUK: 20",
+      "15% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Tool",
     "name": "Junk Pickaxe",
     "bonuses": [
@@ -13214,6 +15464,16 @@
   },
   {
     "source": "Tool",
+    "name": "Dreadlo Rod",
+    "bonuses": [
+      "60 Fishing Power",
+      "7 Fishing Speed",
+      "STR: 35"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
     "name": "Bug Net",
     "bonuses": [
       "4 Catching Power",
@@ -13312,6 +15572,17 @@
   },
   {
     "source": "Tool",
+    "name": "Dreadlo Matted Netting",
+    "bonuses": [
+      "65 Catching Power",
+      "7 Catching Speed",
+      "STR: 13",
+      "AGI: 25"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
     "name": "Cardboard Traps",
     "bonuses": [
       "4 Trapping Power",
@@ -13377,6 +15648,16 @@
       "45 Trapping Power",
       "4 Trapping Speed",
       "AGI: 20"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Egalitarian Royal Traps",
+    "bonuses": [
+      "55 Trapping Power",
+      "4 Trapping Speed",
+      "AGI: 38"
     ],
     "worksInGame": true
   },
@@ -13454,6 +15735,85 @@
       "8 Worship Speed",
       "WIS: 20",
       "Max Worship Charge: 2500%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Slush Skull",
+    "bonuses": [
+      "10 Worship Power",
+      "2 Worship Speed",
+      "Defence: 25",
+      "Max Worship Charge: 1000%",
+      "2% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Dreadnaught Skull",
+    "bonuses": [
+      "55 Worship Power",
+      "9 Worship Speed",
+      "Max Worship Charge: 3000%",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Sappy DNA Splicer",
+    "bonuses": [
+      "50 Laboratory Power",
+      "0 Laboratory Speed",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "Defence: 10"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Bolstered DNA Splicer",
+    "bonuses": [
+      "70 Laboratory Power",
+      "0 Laboratory Speed",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "Defence: 15"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Double Barreled DNA Splicer",
+    "bonuses": [
+      "100 Laboratory Power",
+      "0 Laboratory Speed",
+      "STR: 15",
+      "AGI: 15",
+      "WIS: 15",
+      "LUK: 15",
+      "Defence: 23"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Ergonomic DNA Splicer",
+    "bonuses": [
+      "150 Laboratory Power",
+      "0 Laboratory Speed",
+      "STR: 20",
+      "AGI: 20",
+      "WIS: 20",
+      "LUK: 20",
+      "Defence: 35"
     ],
     "worksInGame": true
   },
@@ -13550,6 +15910,22 @@
     "name": "Spicy Space Ribs",
     "bonuses": [
       "Auto-Used when your health goes below 50%. Restores 6000 HP. Has a 25 second Cooldown. "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Food",
+    "name": "Lemon Slice",
+    "bonuses": [
+      "Auto-Used when your health goes below 50%. Restores 8000 HP. Has a 22 second Cooldown. "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Food",
+    "name": "Grilled Cheese Nomwich",
+    "bonuses": [
+      "Auto-Used when your health goes below 50%. Restores 12500 HP. Has a 20 second Cooldown. "
     ],
     "worksInGame": true
   },
@@ -13755,6 +16131,14 @@
   },
   {
     "source": "Food",
+    "name": "Quotient EXP Potion",
+    "bonuses": [
+      "Increases Exp Gain by 25% 2% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Food",
     "name": "Lemony Choco",
     "bonuses": [
       "Increases Exp Gain by 10% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
@@ -13883,6 +16267,14 @@
   },
   {
     "source": "Food",
+    "name": "Coldseeker Bullet",
+    "bonuses": [
+      "Increases Weapon Power by 9. 5% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Food",
     "name": "Midnight Cookie",
     "bonuses": [
       "Increases Weapon Power by 5. 2% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
@@ -13971,6 +16363,22 @@
   },
   {
     "source": "Food",
+    "name": "Golden Grilled Cheese Nomwich",
+    "bonuses": [
+      "STR AGI WIS and LUK all increased. Golden foods are never consumed."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Food",
+    "name": "Golden Hampter Gummy Candy",
+    "bonuses": [
+      "Claiming AFK gives Sailing AFK time % chance.. Golden foods are never consumed."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Food",
     "name": "Butter Bar",
     "bonuses": [
       "Increases your Base Accuracy. This is technically golden food!"
@@ -13987,57 +16395,9 @@
   },
   {
     "source": "Obol",
-    "name": "Bronze AGI Obol",
-    "bonuses": [
-      "AGI: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze WIS Obol",
-    "bonuses": [
-      "WIS: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze LUK Obol",
-    "bonuses": [
-      "LUK: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
     "name": "Silver STR Obol",
     "bonuses": [
       "STR: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver AGI Obol",
-    "bonuses": [
-      "AGI: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver WIS Obol",
-    "bonuses": [
-      "WIS: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver LUK Obol",
-    "bonuses": [
-      "LUK: 2"
     ],
     "worksInGame": true
   },
@@ -14051,57 +16411,9 @@
   },
   {
     "source": "Obol",
-    "name": "Gold AGI Obol",
-    "bonuses": [
-      "AGI: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Gold WIS Obol",
-    "bonuses": [
-      "WIS: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Gold LUK Obol",
-    "bonuses": [
-      "LUK: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
     "name": "Platinum STR Obol",
     "bonuses": [
       "STR: 7"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum AGI Obol",
-    "bonuses": [
-      "AGI: 7"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum WIS Obol",
-    "bonuses": [
-      "WIS: 7"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum LUK Obol",
-    "bonuses": [
-      "LUK: 7"
     ],
     "worksInGame": true
   },
@@ -14116,6 +16428,38 @@
   },
   {
     "source": "Obol",
+    "name": "Bronze AGI Obol",
+    "bonuses": [
+      "AGI: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver AGI Obol",
+    "bonuses": [
+      "AGI: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Gold AGI Obol",
+    "bonuses": [
+      "AGI: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum AGI Obol",
+    "bonuses": [
+      "AGI: 7"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
     "name": "Dementia AGI Obol",
     "bonuses": [
       "Weapon Power: 1",
@@ -14125,10 +16469,74 @@
   },
   {
     "source": "Obol",
+    "name": "Bronze WIS Obol",
+    "bonuses": [
+      "WIS: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver WIS Obol",
+    "bonuses": [
+      "WIS: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Gold WIS Obol",
+    "bonuses": [
+      "WIS: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum WIS Obol",
+    "bonuses": [
+      "WIS: 7"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
     "name": "Dementia WIS Obol",
     "bonuses": [
       "Weapon Power: 1",
       "WIS: 12"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze LUK Obol",
+    "bonuses": [
+      "LUK: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver LUK Obol",
+    "bonuses": [
+      "LUK: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Gold LUK Obol",
+    "bonuses": [
+      "LUK: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum LUK Obol",
+    "bonuses": [
+      "LUK: 7"
     ],
     "worksInGame": true
   },
@@ -14495,54 +16903,6 @@
   },
   {
     "source": "Obol",
-    "name": "Granite Obol of Amarok's Stare",
-    "bonuses": [
-      "STR: 2",
-      "AGI: 2",
-      "WIS: 2",
-      "LUK: 2",
-      "Defence: 5",
-      "4% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Skeletal Obol of Efaunt's Gaze",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "LUK: 5",
-      "5% Boss Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Frozen Obol of Chizoar's Rage",
-    "bonuses": [
-      "Weapon Power: 4",
-      "Defence: 2",
-      "4% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Slushy Obol of Much Dilapidation",
-    "bonuses": [
-      "STR: 4",
-      "AGI: 4",
-      "WIS: 4",
-      "LUK: 4",
-      "3% Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
     "name": "Bronze Obol of Multikill",
     "bonuses": [
       "1% Multikill"
@@ -14863,6 +17223,68 @@
     "worksInGame": true
   },
   {
+    "source": "Obol",
+    "name": "Granite Obol of Amarok's Stare",
+    "bonuses": [
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
+      "LUK: 2",
+      "Defence: 5",
+      "4% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Skeletal Obol of Efaunt's Gaze",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "5% Boss Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Frozen Obol of Chizoar's Rage",
+    "bonuses": [
+      "Weapon Power: 4",
+      "Defence: 2",
+      "4% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Slushy Obol of Much Dilapidation",
+    "bonuses": [
+      "STR: 4",
+      "AGI: 4",
+      "WIS: 4",
+      "LUK: 4",
+      "3% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Jagged Obol of Massive Trolling",
+    "bonuses": [
+      "Weapon Power: 4",
+      "STR: 9",
+      "AGI: 9",
+      "WIS: 9",
+      "LUK: 9",
+      "Defence: 10",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Stamp",
     "name": "Sword Stamp",
     "bonuses": [
@@ -15115,6 +17537,46 @@
     "name": "Blackheart Stamp",
     "bonuses": [
       "+ Base HP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Maxo Slappo Stamp",
+    "bonuses": [
+      "+ STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Sashe Sidestamp",
+    "bonuses": [
+      "+ AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Intellectostampo",
+    "bonuses": [
+      "+ WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Conjocharmo Stamp",
+    "bonuses": [
+      "+ WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Dementia Sword",
+    "bonuses": [
+      "+ WIS"
     ],
     "worksInGame": true
   },
@@ -15456,6 +17918,38 @@
   },
   {
     "source": "Stamp",
+    "name": "Sailboat Stamp",
+    "bonuses": [
+      "+% Sailing Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Gamejoy Stamp",
+    "bonuses": [
+      "+% Gaming EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Divine Stamp",
+    "bonuses": [
+      "+% Divinity EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Multitool Stamp",
+    "bonuses": [
+      "+ All Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
     "name": "Questin Stamp",
     "bonuses": [
       "+% Quest Exp"
@@ -15623,6 +18117,14 @@
     "worksInGame": true
   },
   {
+    "source": "Stamp",
+    "name": "Refinery Stamp",
+    "bonuses": [
+      "+% Faster refinery cycles"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Upgrade Stone",
     "name": "Easter Weapon Stone",
     "bonuses": [
@@ -15683,6 +18185,14 @@
     "name": "Weapon Upgrade Stone IV",
     "bonuses": [
       "Drag onto any Weapon to apply. +4 Weapon Power, +3 Main Stat. Success Chance; 20% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone V",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +5 Weapon Power, +5 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
     ],
     "worksInGame": true
   },
@@ -15760,6 +18270,14 @@
   },
   {
     "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone V",
+    "bonuses": [
+      "Drag onto any Armor to apply. +10 Defence, +6 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
     "name": "Easter Tool Upgrade Stone",
     "bonuses": [
       "Drag onto any Tool to apply. +3 Random Stat. Success Chance; 30% Uses up 1 slots only if Successful "
@@ -15816,6 +18334,14 @@
   },
   {
     "source": "Upgrade Stone",
+    "name": "Tool Upgrade Stone V",
+    "bonuses": [
+      "Drag onto any Tool to apply. +6 Weapon Power, +6 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
     "name": "Helmet Upgrade Stone I",
     "bonuses": [
       "Drag onto any Helmet to apply. +3 Random Stat. Success Chance; 70% Uses up 1 slots only if Successful "
@@ -15856,6 +18382,14 @@
   },
   {
     "source": "Upgrade Stone",
+    "name": "Mystery Upgrade Stone III",
+    "bonuses": [
+      "Drag onto any Equip to apply. +8 Mystery Stat. Success Chance; 30% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
     "name": "Premium STR Stone",
     "bonuses": [
       "Drag onto any Equip to apply. +5 STR. Success Chance; 101% Can only be used on Premium Equips! "
@@ -15887,183 +18421,6 @@
     "worksInGame": true
   },
   {
-    "source": "Armor",
-    "name": "King of Food",
-    "bonuses": [
-      "Weapon Power: 3",
-      "STR: 10",
-      "AGI: 10",
-      "WIS: 10",
-      "LUK: 10",
-      "Defence: 25",
-      "20% Food Effect"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lucky Lad",
-    "bonuses": [
-      "LUK: 7",
-      "7% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Club Member",
-    "bonuses": [
-      "LUK: 5",
-      "Defence: 5",
-      "3% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "I Made This Game",
-    "bonuses": [
-      "Weapon Power: 1",
-      "100% Player Height",
-      "42% Red Colouring"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Dice Dynamo",
-    "bonuses": [
-      "Weapon Power: 1",
-      "LUK: 5",
-      "2% Luk"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Blunder Hero",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "LUK: 5",
-      "Defence: 15",
-      "3% Skill Afk Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Original Gamer",
-    "bonuses": [
-      "STR: 2",
-      "AGI: 2",
-      "WIS: 2",
-      "LUK: 2",
-      "2% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Trailblazer",
-    "bonuses": [
-      "Weapon Power: 4",
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "LUK: 3",
-      "20% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Ultra Unboxer",
-    "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "LUK: 3",
-      "Defence: 3",
-      "3% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Critter Baron",
-    "bonuses": [
-      "AGI: 20",
-      "5% Agi"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "YumYum Sheriff",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 8",
-      "AGI: 8",
-      "WIS: 8",
-      "LUK: 8",
-      "Defence: 25",
-      "12% Boss Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Megalodon",
-    "bonuses": [
-      "Weapon Power: 5",
-      "STR: 15",
-      "Defence: 30",
-      "9% Crit Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Club Maestro",
-    "bonuses": [
-      "Weapon Power: 1",
-      "LUK: 20",
-      "Defence: 20",
-      "35% Skill Exp"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Beach Bro",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "LUK: 5",
-      "50% Money"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Frost Prince",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 10",
-      "AGI: 10",
-      "WIS: 10",
-      "LUK: 10",
-      "Defence: 50",
-      "8% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
     "source": "Weapon",
     "name": "Flesh Reaper",
     "bonuses": [
@@ -16072,841 +18429,6 @@
       "LUK: 420",
       "Speed: 9",
       "Reach: 70"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Weapon",
-    "name": "Slimsharp Fin",
-    "bonuses": [
-      "Weapon Power: 48",
-      "STR: 24",
-      "Speed: 6",
-      "Reach: 92",
-      "6% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Weapon",
-    "name": "Diabolical Flesh",
-    "bonuses": [
-      "Weapon Power: 58",
-      "STR: 30",
-      "Speed: 7",
-      "Reach: 92",
-      "8% Mob Respawn",
-      "6% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Weapon",
-    "name": "Shardsure Leif",
-    "bonuses": [
-      "Weapon Power: 44",
-      "STR: 12",
-      "AGI: 16",
-      "Speed: 7",
-      "Reach: 255",
-      "6% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Weapon",
-    "name": "Diabolical Continuit",
-    "bonuses": [
-      "Weapon Power: 54",
-      "STR: 14",
-      "AGI: 20",
-      "Speed: 8",
-      "Reach: 300",
-      "8% Mob Respawn",
-      "6% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Weapon",
-    "name": "Skullslip Hallow",
-    "bonuses": [
-      "Weapon Power: 51",
-      "AGI: 12",
-      "WIS: 18",
-      "Speed: 6",
-      "Reach: 195",
-      "6% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Weapon",
-    "name": "Diabolical Opticule",
-    "bonuses": [
-      "Weapon Power: 61",
-      "AGI: 13",
-      "WIS: 25",
-      "Speed: 7",
-      "Reach: 250",
-      "8% Mob Respawn",
-      "6% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chizoar Helmet",
-    "bonuses": [
-      "Weapon Power: 3",
-      "STR: 20",
-      "AGI: 20",
-      "WIS: 20",
-      "Defence: 60",
-      "15% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Giftmas Snoozy Cap",
-    "bonuses": [
-      "STR: 1",
-      "AGI: 1",
-      "WIS: 1",
-      "10% All Afk Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lustre Veil",
-    "bonuses": [
-      "STR: 22",
-      "AGI: 22",
-      "WIS: 22",
-      "LUK: 22",
-      "Defence: 72",
-      "12% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Diabolical Headcase",
-    "bonuses": [
-      "Weapon Power: 5",
-      "STR: 30",
-      "AGI: 30",
-      "WIS: 30",
-      "LUK: 30",
-      "Defence: 90",
-      "16% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Nondescript Game Show Host Hair",
-    "bonuses": [
-      "Weapon Power: 100",
-      "STR: 25",
-      "AGI: 40",
-      "LUK: 50",
-      "100% Family"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Real Civil Engineer Helmet",
-    "bonuses": [
-      "STR: 2",
-      "WIS: 4",
-      "Defence: 6",
-      "100% Fellow Engineer"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chizoar Bodyplate",
-    "bonuses": [
-      "STR: 15",
-      "AGI: 15",
-      "WIS: 15",
-      "Defence: 55",
-      "7% Mastery",
-      "3% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lustre Chestplate",
-    "bonuses": [
-      "STR: 16",
-      "AGI: 16",
-      "WIS: 16",
-      "LUK: 16",
-      "Defence: 60",
-      "6% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Diabolical Abdomen",
-    "bonuses": [
-      "STR: 20",
-      "AGI: 20",
-      "WIS: 20",
-      "LUK: 20",
-      "Defence: 75",
-      "11% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chizoar Scaled Leggings",
-    "bonuses": [
-      "STR: 13",
-      "AGI: 13",
-      "WIS: 13",
-      "Defence: 52",
-      "7% Mastery"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lustre Scales",
-    "bonuses": [
-      "STR: 14",
-      "AGI: 14",
-      "WIS: 14",
-      "LUK: 14",
-      "Defence: 54",
-      "9% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Diabolical Trimed Leg Guards",
-    "bonuses": [
-      "STR: 18",
-      "AGI: 18",
-      "WIS: 18",
-      "LUK: 18",
-      "Defence: 65",
-      "13% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chizoar Walkers",
-    "bonuses": [
-      "STR: 12",
-      "AGI: 12",
-      "WIS: 12",
-      "LUK: 12",
-      "Defence: 48",
-      "5% Mastery"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lustre Shieldshoe",
-    "bonuses": [
-      "STR: 13",
-      "AGI: 13",
-      "WIS: 13",
-      "LUK: 13",
-      "Defence: 50",
-      "10% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Diabolical Toe Tips",
-    "bonuses": [
-      "STR: 17",
-      "AGI: 17",
-      "WIS: 17",
-      "LUK: 17",
-      "Defence: 60",
-      "13% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Rough Rockers",
-    "bonuses": [
-      "STR: 13",
-      "WIS: 1",
-      "Defence: 32",
-      "35% Mining Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Fiberous Footings",
-    "bonuses": [
-      "WIS: 14",
-      "Defence: 25",
-      "35% Chop Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Deep Sea Galoshes",
-    "bonuses": [
-      "STR: 12",
-      "Defence: 29",
-      "35% Fishin Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Spaggy Westerados",
-    "bonuses": [
-      "AGI: 13",
-      "Defence: 29",
-      "35% Catch Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Cooking Clogs",
-    "bonuses": [
-      "Defence: 40",
-      "300Cooking Efficncy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chef Hat Shoes",
-    "bonuses": [
-      "Defence: 45",
-      "800Cooking Efficncy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Laboratory Scrubs",
-    "bonuses": [
-      "LUK: 20",
-      "300Lab Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Sheek Scrubs",
-    "bonuses": [
-      "LUK: 30",
-      "700Lab Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chizoars Blankie",
-    "bonuses": [
-      "Weapon Power: 5",
-      "15% Total Damage",
-      "3% Mob Respawn"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chizoars Caustic Scarf",
-    "bonuses": [
-      "Weapon Power: 7",
-      "20% Total Damage",
-      "5% Mob Respawn"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Polished Bludgeon",
-    "bonuses": [
-      "Weapon Power: 6",
-      "Defence: 5"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Skullfish Pendant",
-    "bonuses": [
-      "STR: 10",
-      "5% Fish Afk Gain",
-      "40Purple Depth"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Neutron Ice Ring",
-    "bonuses": [
-      "Weapon Power: 3",
-      "Defence: 11",
-      "4% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lab Ring",
-    "bonuses": [
-      "Defence: 10",
-      "350Lab Efficiency",
-      "15% Lab Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chef Ring",
-    "bonuses": [
-      "Defence: 10",
-      "400Cooking Efficncy",
-      "15% Cooking Efficncy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Serrated Rex Ring",
-    "bonuses": [
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "Defence: 5",
-      "8% Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Protectors Pride",
-    "bonuses": [
-      "LUK: 3",
-      "Defence: 20",
-      "6% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Midnight Stopwatch",
-    "bonuses": [
-      "Weapon Power: 3",
-      "Defence: 3",
-      "2% Fight Afk Gain",
-      "3% Basic Atk Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Dawn Stopwatch",
-    "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "LUK: 3",
-      "2% Skill Afk Gain",
-      "1% Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Souped Lab Ring",
-    "bonuses": [
-      "Defence: 10",
-      "25% Lab Exp",
-      "35% Lab Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Angel Wings",
-    "bonuses": [
-      "Weapon Power: 5",
-      "LUK: 5",
-      "Defence: 10",
-      "11% All Afk Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lava Wings",
-    "bonuses": [
-      "Weapon Power: 50",
-      "Defence: 11",
-      "100% Awesome",
-      "100% Epic"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Easter Egg Backpack",
-    "bonuses": [
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "Defence: 10",
-      "10% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Radiant Amarok Backstabber",
-    "bonuses": [
-      "Defence: 50",
-      "10% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Gilded Efaunt Dislodged Tusks",
-    "bonuses": [
-      "STR: 15",
-      "AGI: 15",
-      "WIS: 15",
-      "10% Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Blighted Chizoar Shard Cape",
-    "bonuses": [
-      "Weapon Power: 3",
-      "8% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Tool",
-    "name": "Slush Skull",
-    "bonuses": [
-      "10 Worship Power",
-      "2 Worship Speed",
-      "Defence: 25",
-      "Max Worship Charge: 1000%",
-      "2% All Stats"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Tool",
-    "name": "Sappy DNA Splicer",
-    "bonuses": [
-      "50 Laboratory Power",
-      "0 Laboratory Speed",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "LUK: 5",
-      "Defence: 10"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Tool",
-    "name": "Bolstered DNA Splicer",
-    "bonuses": [
-      "70 Laboratory Power",
-      "0 Laboratory Speed",
-      "STR: 10",
-      "AGI: 10",
-      "WIS: 10",
-      "LUK: 10",
-      "Defence: 15"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Tool",
-    "name": "Double Barreled DNA Splicer",
-    "bonuses": [
-      "100 Laboratory Power",
-      "0 Laboratory Speed",
-      "STR: 15",
-      "AGI: 15",
-      "WIS: 15",
-      "LUK: 15",
-      "Defence: 23"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Tool",
-    "name": "Ergonomic DNA Splicer",
-    "bonuses": [
-      "150 Laboratory Power",
-      "0 Laboratory Speed",
-      "STR: 20",
-      "AGI: 20",
-      "WIS: 20",
-      "LUK: 20",
-      "Defence: 35"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Simple Key Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 1,2,5] Base Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Leafy Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 2,3,5] Accuracy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Red Sneaker Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 1,1.5,2] % Movement Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Wartooth Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 5,10,20] Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "8 Ball Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 3,6,10] % Card Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Piggy Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 4,7,10] % Money"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Dumbphone Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 2,4,6] Str OR + 2,4,6] Agi"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Horn Chain",
-    "bonuses": [
-      "Defence: 1",
-      "+ 2,4,6] Wis OR + 2,4,6] Luk"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Rustic Key Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 1,2,4] % Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Taco Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 8,12,20] % Mining Xp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Cactus Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 1.5,2.5,3] % Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Relic Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 3,5,8] % Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Balloon Dog Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 3,4,6] % Basic Atk Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Frozen Tart Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 1.5,2.5,3] % Crit Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Whatamelon Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 8,12,20] % Fishing Xp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "9 Ball Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 4,6,10] % Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Pincer Hand Chain",
-    "bonuses": [
-      "Defence: 3",
-      "+ 5,7,12] % Multikill"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Gilded Key Chain",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 3,5,8] % Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Sushi Chain",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 2,4,6] % Str OR + 2,4,6] % Agi"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Time Candy Chain",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 2,3,5] % All Afk Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Star Blobulyte Galaxy Chain",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 3,4,7] % Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Mmm Donut Chain",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 2,4,6] % Wis OR + 2,4,6] % Luk"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Negative 7 Chain",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 3,4,6] % Mob Respawn"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Diamond Honker",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 1,1.5,2] % All Skill Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "BobGoldPickle",
-    "bonuses": [
-      "Weapon Power: 1",
-      "Defence: 10",
-      "+ 1,2.5,4] % All Stats"
     ],
     "worksInGame": true
   },
@@ -17419,6 +18941,17 @@
     "worksInGame": true
   },
   {
+    "source": "Armor",
+    "name": "Giftmas Snoozy Cap",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "10% All Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Statue",
     "name": "Power",
     "bonuses": [
@@ -17567,6 +19100,54 @@
     "name": "Seesaw",
     "bonuses": [
       "%@Cons Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Statue",
+    "name": "Pecunia",
+    "bonuses": [
+      "%@Coins"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Statue",
+    "name": "Mutton",
+    "bonuses": [
+      "%@Cooking Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Statue",
+    "name": "Egg",
+    "bonuses": [
+      "%@Breeding Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Statue",
+    "name": "Battleaxe",
+    "bonuses": [
+      "%@Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Statue",
+    "name": "Spiral",
+    "bonuses": [
+      "%@Divinity Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Statue",
+    "name": "Boat",
+    "bonuses": [
+      "%@Sailing Spd"
     ],
     "worksInGame": true
   },

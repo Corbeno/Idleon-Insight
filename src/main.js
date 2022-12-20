@@ -31,6 +31,11 @@ runParser(parseLabBonusRepo, exportedPath + "repo/Worlds/4/LabBonusRepo.json");
 runParser(parseMealRepo, exportedPath + "repo/Worlds/4/MealRepo.json");
 runParser(parsePetUpgradeRepo, exportedPath + "repo/Worlds/4/PetUpgradeRepo.json");
 
+runParser(parseArtifactRepo, exportedPath + "repo/Worlds/5/ArtifactRepo.json")
+runParser(parseCaptainBonusRepo, exportedPath + "repo/Worlds/5/CaptainBonusRepo.json")
+runParser(parseDivinityStyleRepo, exportedPath + "repo/Worlds/5/DivinityStyleRepo.json")
+runParser(parseGamingUpgraderepo, exportedPath + "repo/Worlds/5/GamingUpgradeRepo.json")
+runParser(parseGodInfoRepo, exportedPath + "repo/Worlds/5/GodInfoRepo.json")
 
 // repo/Talents/*
 runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
@@ -520,6 +525,56 @@ function parsePetUpgradeRepo(keyValue){
         bonuses: [body.description],
         worksInGame: true
     });
+}
+
+function parseArtifactRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Artifact",
+        name: key,
+        bonuses: [body.bonus, "Ancient: " + body.ancientBonus]
+    })
+}
+
+function parseCaptainBonusRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Sailing",
+        name: "Captain",
+        bonuses: [body.bonus]
+    })
+}
+
+function parseDivinityStyleRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Divinity Style",
+        name: key,
+        bonuses: [body.desc]
+    })
+}
+
+function parseGamingUpgraderepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Gaming Upgrade",
+        name: key,
+        bonuses: [body.desc]
+    })
+}
+
+function parseGodInfoRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Divinity God",
+        name: key,
+        bonuses: [body.majorBonus, body.passiveBonus, body.blessingBonus]
+    })
 }
 
 //helper functions
