@@ -3007,7 +3007,7 @@
     "source": "Lab Jewel",
     "name": "Black Diamond Rhinestone",
     "bonuses": [
-      "All meal bonuses, as shown in the Dinner Table Menu, actaully give 1.x higher bonus than what is shown. So if a bonus says +100%, it is actually giving +1%. @ Doesn't apply to Line Width bonus."
+      "All meal bonuses, as shown in the Dinner Table Menu, actually give 1.x higher bonus than what is shown. So if a bonus says +100%, it is actually giving +1%. @ Doesn't apply to Line Width bonus."
     ],
     "worksInGame": true
   },
@@ -3847,8 +3847,8 @@
     "source": "Artifact",
     "name": "Dreamcatcher",
     "bonuses": [
-      "Auto deliver post office orders at the start of each day, if you can afford to.",
-      "Ancient: 25% chance for +1 box when completing post office orders!"
+      "Your loot pile can hold + more sailing chests at once! What a dream situation!",
+      "Ancient: The artifact's main bonus is doubled!"
     ]
   },
   {
@@ -4817,7 +4817,7 @@
     "source": "Barbarian Talents",
     "name": "Worming Undercover",
     "bonuses": [
-      "% chance to wake the sleeper agent worm within the fish, letting you instantly catch"
+      "% chance"
     ],
     "worksInGame": true
   },
@@ -7305,7 +7305,7 @@
     "source": "Achievement",
     "name": "B-o-B to Help",
     "bonuses": [
-      "*STEAM EXCLUSIVE &*16 gems &*Item3"
+      "*STEAM EXCLUSIVE &*16 gems"
     ],
     "worksInGame": true
   },
@@ -7313,7 +7313,7 @@
     "source": "Achievement",
     "name": "Card Enthusiast",
     "bonuses": [
-      "*STEAM EXCLUSIVE &*16 gems &*Item3"
+      "*STEAM EXCLUSIVE &*16 gems"
     ],
     "worksInGame": true
   },
@@ -8697,7 +8697,7 @@
     "source": "Gem Shop",
     "name": "Brimstone Forge Slot",
     "bonuses": [
-      "Brimstone slots smelt bars 50% faster, and have +50% multi-bar chance, meaning you'll get extra bars for every ore! These MUTLIPLY with forge upgrades, so they're always good!"
+      "Brimstone slots smelt bars 50% faster, and have +50% multi-bar chance, meaning you'll get extra bars for every ore! These MULTIPLY with forge upgrades, so they're always good!"
     ],
     "worksInGame": true
   },
@@ -11351,7 +11351,7 @@
   },
   {
     "source": "Card",
-    "name": "Septic Kattlecruk",
+    "name": "Chaotic Kattlecruk",
     "bonuses": [
       "+% EXP from monsters"
     ],
@@ -11359,7 +11359,7 @@
   },
   {
     "source": "Card",
-    "name": "Undying Troll",
+    "name": "Sacrilegious Kattlecruk",
     "bonuses": [
       "+% Money from Monsters"
     ],
@@ -17568,7 +17568,7 @@
     "source": "Stamp",
     "name": "Conjocharmo Stamp",
     "bonuses": [
-      "+ WIS"
+      "+ LUK"
     ],
     "worksInGame": true
   },
@@ -17576,7 +17576,7 @@
     "source": "Stamp",
     "name": "Dementia Sword",
     "bonuses": [
-      "+ WIS"
+      "+% Total Damage"
     ],
     "worksInGame": true
   },
@@ -17768,7 +17768,7 @@
     "source": "Stamp",
     "name": "Buzz Buzz Stamp",
     "bonuses": [
-      "+% Mutli-Bug Chance"
+      "+% Multi-Bug Chance"
     ],
     "worksInGame": true
   },
