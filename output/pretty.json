@@ -4817,7 +4817,7 @@
     "source": "Barbarian Talents",
     "name": "Worming Undercover",
     "bonuses": [
-      "% chance"
+      "% chance to wake the sleeper agent worm within the fish, letting you instantly catch"
     ],
     "worksInGame": true
   },
@@ -15667,8 +15667,7 @@
     "bonuses": [
       "4 Worship Power",
       "4 Worship Speed",
-      "WIS: 2",
-      "Max Worship Charge: 100%"
+      "WIS: 2"
     ],
     "worksInGame": true
   },
@@ -15678,8 +15677,7 @@
     "bonuses": [
       "8 Worship Power",
       "5 Worship Speed",
-      "WIS: 4",
-      "Max Worship Charge: 200%"
+      "WIS: 4"
     ],
     "worksInGame": true
   },
@@ -15689,8 +15687,7 @@
     "bonuses": [
       "13 Worship Power",
       "5 Worship Speed",
-      "WIS: 7",
-      "Max Worship Charge: 400%"
+      "WIS: 7"
     ],
     "worksInGame": true
   },
@@ -15700,8 +15697,7 @@
     "bonuses": [
       "20 Worship Power",
       "6 Worship Speed",
-      "WIS: 10",
-      "Max Worship Charge: 750%"
+      "WIS: 10"
     ],
     "worksInGame": true
   },
@@ -15711,8 +15707,7 @@
     "bonuses": [
       "26 Worship Power",
       "7 Worship Speed",
-      "WIS: 12",
-      "Max Worship Charge: 1250%"
+      "WIS: 12"
     ],
     "worksInGame": true
   },
@@ -15722,8 +15717,7 @@
     "bonuses": [
       "34 Worship Power",
       "7 Worship Speed",
-      "WIS: 15",
-      "Max Worship Charge: 1750%"
+      "WIS: 15"
     ],
     "worksInGame": true
   },
@@ -15733,8 +15727,7 @@
     "bonuses": [
       "45 Worship Power",
       "8 Worship Speed",
-      "WIS: 20",
-      "Max Worship Charge: 2500%"
+      "WIS: 20"
     ],
     "worksInGame": true
   },
@@ -15745,7 +15738,7 @@
       "10 Worship Power",
       "2 Worship Speed",
       "Defence: 25",
-      "Max Worship Charge: 1000%",
+      "250Base Damage",
       "2% All Stats"
     ],
     "worksInGame": true
@@ -15756,7 +15749,7 @@
     "bonuses": [
       "55 Worship Power",
       "9 Worship Speed",
-      "Max Worship Charge: 3000%",
+      "3% Total Damage",
       "3% All Stats"
     ],
     "worksInGame": true
