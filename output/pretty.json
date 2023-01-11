@@ -1011,7 +1011,7 @@
     "source": "Kazam Cauldron",
     "name": "Atom Split",
     "bonuses": [
-      "+% chance to gain 2x atoms from the Supercollider"
+      "+% lower particle cost for upgrading all atoms"
     ],
     "worksInGame": true
   },
@@ -2091,7 +2091,7 @@
     "source": "Building Upgrade",
     "name": "Atom Collider",
     "bonuses": [
-      " +% chance for an extra atom upon collision"
+      " Upgrade costs for atoms are % cheaper (Increases every 10 lvs)."
     ],
     "worksInGame": true
   },
@@ -3727,7 +3727,7 @@
     "source": "Artifact",
     "name": "Gold Relic",
     "bonuses": [
-      "All 3d printer samples grow by +1% per day for 40 days. Resets when taking new samples.",
+      "All 3d printer samples grow by +1% per day for 40 days. Resets when taking a sample. Bonus shown in 3d Printer.",
       "Ancient: Samples grow by 1.5% for 60 days instead!"
     ]
   },
@@ -8457,7 +8457,7 @@
     "source": "Gem Shop",
     "name": "Daily Teleports",
     "bonuses": [
-      "Each purchase gives +7 daily teleports every day, forever. You can use these on the Map Screen. You can be gone for up to 4 days and claim them all upon your return!"
+      "Each purchase gives +10 daily teleports every day, forever. You can use these on the Map Screen. You can be gone for up to 4 days and claim them all upon your return!"
     ],
     "worksInGame": true
   },
@@ -8623,25 +8623,41 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Random Boss Obol",
+    "name": "World 2 Killer Ring",
     "bonuses": [
-      "Gives you one of the following obols: Amarok Obol (+4% Defence), Efaunt Obol (+5% Boss Damage), Slush Obol (+3% Skill Effic), Chizoar Obol (+4% Total Damage), or Troll Obol (+3% All Stats)"
+      "Helps you reach world 3 faster! When Equipped, gives +30% Kills so you can open portals way faster, but ONLY IN WORLD 2."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Dragonic Liquid Cauldron",
+    "name": "World 3 Killer Ring",
     "bonuses": [
-      "Turns your 1st liquid cauldron into a dragonic cauldron, giving it 2x Liquid Capacity. (Note: The cauldron will only change visually if you have the bleach one. The 2x cap will apply regardless)"
+      "Helps you reach world 4 faster! When Equipped, gives +30% Kills for things like opening portals and Deathnote, but ONLY IN WORLD 3."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Idle Skilling Keychain",
+    "name": "World 4 Killer Ring",
     "bonuses": [
-      "Gives you a random Idle Skilling keychain with up to +12% AFK Gain! Keychains are equipped on the 2nd equipment page!"
+      "Helps you reach world 5 faster! When Equipped, gives +30% Kills for things like opening portals and Deathnote, but ONLY IN WORLD 4."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Crescent Moon Exp Pendant",
+    "bonuses": [
+      "Gives +35% EXP gain when killing monsters! Level up more, get more talent points... go harder, get better, go faster, get stronger! Also gives +5% monster respawn cuz why not lol"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Cosmic Candy",
+    "bonuses": [
+      "Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs."
     ],
     "worksInGame": true
   },
@@ -14117,6 +14133,21 @@
   },
   {
     "source": "Armor",
+    "name": "Crescent Moon Pendant",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "Defence: 10",
+      "35% Xp From Monsters",
+      "5% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Gold Ring",
     "bonuses": [
       "Weapon Power: 5",
@@ -14373,6 +14404,122 @@
   },
   {
     "source": "Armor",
+    "name": "Neutron Ice Ring",
+    "bonuses": [
+      "Weapon Power: 3",
+      "Defence: 11",
+      "4% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Lab Ring",
+    "bonuses": [
+      "Defence: 10",
+      "350Lab Efficiency",
+      "15% Lab Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Chef Ring",
+    "bonuses": [
+      "Defence: 10",
+      "400Cooking Efficncy",
+      "15% Cooking Efficncy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Serrated Rex Ring",
+    "bonuses": [
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "Defence: 5",
+      "8% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Protectors Pride",
+    "bonuses": [
+      "LUK: 3",
+      "Defence: 20",
+      "6% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Midnight Stopwatch",
+    "bonuses": [
+      "Weapon Power: 3",
+      "Defence: 3",
+      "2% Fight Afk Gain",
+      "3% Basic Atk Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Dawn Stopwatch",
+    "bonuses": [
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "2% Skill Afk Gain",
+      "1% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Souped Lab Ring",
+    "bonuses": [
+      "Defence: 10",
+      "25% Lab Exp",
+      "35% Lab Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Tundra Killer Ring",
+    "bonuses": [
+      "Weapon Power: 3",
+      "Defence: 3",
+      "30% Kills In World 3"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Nebula Killer Ring",
+    "bonuses": [
+      "Weapon Power: 4",
+      "Defence: 4",
+      "30% Kills In World 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Dune Killer Ring",
+    "bonuses": [
+      "Weapon Power: 2",
+      "Defence: 3",
+      "30% Kills In World 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Love Ring",
     "bonuses": [
       "Weapon Power: 1",
@@ -14472,92 +14619,6 @@
       "WIS: 1",
       "LUK: 1",
       "100% Honk"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Neutron Ice Ring",
-    "bonuses": [
-      "Weapon Power: 3",
-      "Defence: 11",
-      "4% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Lab Ring",
-    "bonuses": [
-      "Defence: 10",
-      "350Lab Efficiency",
-      "15% Lab Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Chef Ring",
-    "bonuses": [
-      "Defence: 10",
-      "400Cooking Efficncy",
-      "15% Cooking Efficncy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Serrated Rex Ring",
-    "bonuses": [
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "Defence: 5",
-      "8% Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Protectors Pride",
-    "bonuses": [
-      "LUK: 3",
-      "Defence: 20",
-      "6% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Midnight Stopwatch",
-    "bonuses": [
-      "Weapon Power: 3",
-      "Defence: 3",
-      "2% Fight Afk Gain",
-      "3% Basic Atk Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Dawn Stopwatch",
-    "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "LUK: 3",
-      "2% Skill Afk Gain",
-      "1% Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Armor",
-    "name": "Souped Lab Ring",
-    "bonuses": [
-      "Defence: 10",
-      "25% Lab Exp",
-      "35% Lab Efficiency"
     ],
     "worksInGame": true
   },
