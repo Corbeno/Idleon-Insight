@@ -2572,6 +2572,86 @@
     "worksInGame": true
   },
   {
+    "source": "Atom Collider",
+    "name": "Hydrogen - Stamp Decreaser",
+    "bonuses": [
+      "Every day you log in, the resource cost to upgrade a stamp's max lv decreases by % up to a max of 90%. This reduction resets back to 0% when upgrading any stamp max lv."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Helium - Talent Power Stacker",
+    "bonuses": [
+      "All talents that give more bonus per 'Power of 10 resources you own' will count + more powers of 10 than you actually own when giving the bonus."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Lithium - Bubble Insta Expander",
+    "bonuses": [
+      "No Bubble Left Behind bonus now has a 15% chance to level up the lowest bubble out of ALL bubbles, not just the first 15 of each colour. Also, +% chance to give +1 additional Lv."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Beryllium - Post Office Penner",
+    "bonuses": [
+      "Every day, 1 silver pen from your Post Office will instantly convert into 1 PO Box for all characters. This conversion happens  times per day."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Boron - Particle Upgrader",
+    "bonuses": [
+      "When a bubble has a cost of 100M or more to upgrade, you can instead spend particles. However, you can only do this  times a day, after which the cost will return to resources."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Carbon - Wizard Maximizer",
+    "bonuses": [
+      "All wizard towers in construction get + max levels. Also, all wizards get a +2% damage bonus for each wizard tower level above 50 in construction. Total bonus: % wizard dmg."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Nitrogen - Construction Trimmer",
+    "bonuses": [
+      "Gold trimmed construction slots give +% more build rate than before. Also, you now have 1 additional trimmed slot."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Oxygen - Library Booker",
+    "bonuses": [
+      "Increases the Checkout Refresh Speed of the Talent Library by +%. Also, the Minimum Talent LV is increased by +<, and the Maximum Talent LV is increased by +10."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Fluoride - Void Plate Chef",
+    "bonuses": [
+      "Multiplies your cooking speed by +% for every meal at Lv 30+. In other words, every plate with a studded black void plate. Total bonus: >% cooking speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Atom Collider",
+    "name": "Neon - Damage N' Cheapener",
+    "bonuses": [
+      "Increases your total damage by +%. Also, reduces the cost of all atom upgrades by % too."
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Pet Arena Bonus",
     "name": "0",
     "bonuses": [

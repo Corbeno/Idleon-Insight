@@ -24,6 +24,7 @@ runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
 runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
 runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
 runParser(parseShrineRepo, exportedPath + "repo/Worlds/3/ShrineRepo.json");
+runParser(parseAtomColliderRepo, exportedPath + "repo/Worlds/3/AtomColliderRepo.json");
 runParser(parseArenaBonusRepo, exportedPath + "repo/Worlds/4/ArenaBonusRepo.json");
 runParser(parseChipRepo, exportedPath + "repo/Worlds/4/ChipRepo.json");
 runParser(parseJewelRepo, exportedPath + "repo/Worlds/4/JewelRepo.json");
@@ -185,6 +186,17 @@ function parseShrineRepo(keyValue){
     let body = keyValue[1];
     output.push({
         source: "Shrine",
+        name: key,
+        bonuses: [body.desc],
+        worksInGame: true
+    });
+}
+
+function parseAtomColliderRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Atom Collider",
         name: key,
         bonuses: [body.desc],
         worksInGame: true
