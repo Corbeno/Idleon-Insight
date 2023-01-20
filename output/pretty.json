@@ -4007,7 +4007,7 @@
     "source": "Artifact",
     "name": "The True Lantern",
     "bonuses": [
-      "+% total dmg per power of 10 blessings owned. @ Total Bonus: +% dmg",
+      "+% total dmg per power of 10 Particles owned in atom collider. @ Total Bonus: +% dmg",
       "Ancient: The artifact's main bonus is doubled!"
     ]
   },
@@ -11633,7 +11633,7 @@
     "source": "Armor",
     "name": "Farmer Brim",
     "bonuses": [
-      "STR: 1",
+      "STR: 2",
       "AGI: 1",
       "WIS: 1",
       "Defence: 2"
@@ -12208,6 +12208,34 @@
   },
   {
     "source": "Armor",
+    "name": "Meteorhead",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "Defence: 5",
+      "5% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Ice Guard Helmet",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "Defence: 5",
+      "5% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Militia Helm",
     "bonuses": [
       "STR: 7",
@@ -12535,7 +12563,7 @@
       "AGI: 15",
       "WIS: 5",
       "LUK: 5",
-      "Speed: 4",
+      "Speed: 10",
       "Reach: 84"
     ],
     "worksInGame": true
@@ -14704,6 +14732,17 @@
   },
   {
     "source": "Armor",
+    "name": "Meteorite Ring",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 1",
+      "100% Cheese",
+      "17% Gravity"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Angel Wings",
     "bonuses": [
       "Weapon Power: 5",
@@ -15377,6 +15416,17 @@
   },
   {
     "source": "Tool",
+    "name": "Skewered Snek",
+    "bonuses": [
+      "5 Mining Power",
+      "2 Mining Speed",
+      "WIS: 12",
+      "5% Chop Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
     "name": "Old Hatchet",
     "bonuses": [
       "3 Choppin Power",
@@ -15508,6 +15558,17 @@
       "AGI: 5",
       "WIS: 40",
       "LUK: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Tool",
+    "name": "Grumbie the Hatchet Hammer",
+    "bonuses": [
+      "5 Choppin Power",
+      "2 Choppin Speed",
+      "STR: 12",
+      "5% Mining Efficincy"
     ],
     "worksInGame": true
   },
@@ -17415,6 +17476,30 @@
       "LUK: 9",
       "Defence: 10",
       "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Grumpy Obol of the Grandfrogger",
+    "bonuses": [
+      "Defence: 2",
+      "12% Money",
+      "1% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Vigilant Obol of Ice Guard",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "Defence: 5",
+      "8% Drop Chance"
     ],
     "worksInGame": true
   },
