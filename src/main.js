@@ -99,7 +99,7 @@ function parseBribeRepo(keyValue){
         source: "Bribe",
         name: key,
         bonuses: [body.desc],
-        worksInGame: true
+        costs: ["Money"]
     });
 }
 
@@ -115,7 +115,15 @@ function parseBubbleRepo(keyValue){
         source: body.cauldron,
         name: key,
         bonuses: [description],
-        worksInGame: true
+        costs: function(){
+            let r = [];
+            for(cost of body.requirements){
+                if(cost.item){
+                    r.push(ItemDetailRepo[cost.item].displayName)
+                }
+            }
+            return r
+        }()
     });
 }
 

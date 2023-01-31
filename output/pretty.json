@@ -5,7 +5,9 @@
     "bonuses": [
       "All stamps cost 5% less coins to upgrade."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -13,7 +15,9 @@
     "bonuses": [
       "Stamps drop +15% more often from monsters and resources that drop stamps."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -21,7 +25,9 @@
     "bonuses": [
       "All shop items cost 7% less coins."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -29,7 +35,9 @@
     "bonuses": [
       "Boosts fighting AFK Gains Rate by +5%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -37,7 +45,9 @@
     "bonuses": [
       "Items sell to shops for +10% more than their normal value."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -45,7 +55,9 @@
     "bonuses": [
       "Unlocks the next set of 7 Bribes to be purchased."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -53,7 +65,9 @@
     "bonuses": [
       "Item Quantity in all shops increased by +20%. Takes effect only after Shops restock."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -61,7 +75,9 @@
     "bonuses": [
       "Whenever you claim AFK rewards, there is a 2.2% chance to get x2 EXP."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -69,7 +85,9 @@
     "bonuses": [
       "Stamps drop +20% more often. Stacks with previous bribe of this type."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -77,7 +95,9 @@
     "bonuses": [
       "Oil Barrel consumption chance is reduced to 80% of the original chance."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -85,7 +105,9 @@
     "bonuses": [
       "Card drop rate boosted by 1.20x for all areas of the game."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -93,7 +115,9 @@
     "bonuses": [
       "Get +2 Map Teleport every 24 hours. Caps at 6, so being gone for 4 days only gives 6 tele."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -101,7 +125,9 @@
     "bonuses": [
       "Unlocks the next set of 7 Bribes to be purchased."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -109,7 +135,9 @@
     "bonuses": [
       "You now get +4 Map Teleports every 24 hours, and caps at 12 before you need to login."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -117,7 +145,9 @@
     "bonuses": [
       "+10% arcade balls recharge rate. You'll be drowning in balls in no time!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -125,7 +155,9 @@
     "bonuses": [
       "Unlock the 2nd Alchemy Bubble slot for ALL players. Don't go tellin' Lava 'bout this one..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -133,7 +165,9 @@
     "bonuses": [
       "+4 Cog Inventory slots."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -141,7 +175,9 @@
     "bonuses": [
       "Logging in each day now contributes 20 GP to your guild, instead of the normal 10."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -149,7 +185,9 @@
     "bonuses": [
       "+4 minimum Lv for all Talent Books from the library, so you get more of the goood stuff."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -157,7 +195,9 @@
     "bonuses": [
       "Unlocks the next set of 7 Bribes to be purchased."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -165,7 +205,9 @@
     "bonuses": [
       "Boosts Total Damage by +2%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -173,7 +215,9 @@
     "bonuses": [
       "Boosts Total Accuracy by +2%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -181,7 +225,9 @@
     "bonuses": [
       "Boosts Total Defence by +2%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -189,7 +235,9 @@
     "bonuses": [
       "Boosts Carry Capacity by +5%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -197,7 +245,9 @@
     "bonuses": [
       "Boosts Skill AFK Gains Rate by +2%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -205,7 +255,9 @@
     "bonuses": [
       "Logging in each day now contributes 30 GP to your guild, instead of 20."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Bribe",
@@ -213,7 +265,9 @@
     "bonuses": [
       "Look, I'm in a bit of a situation right now and need time to clean it up... come back later."
     ],
-    "worksInGame": true
+    "costs": [
+      "Money"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -221,7 +275,9 @@
     "bonuses": [
       "+ Total STR. 'Total' here means that, for example, a +10% STR bonus from something else wouldn't affect this bonus."
     ],
-    "worksInGame": true
+    "costs": [
+      "Oak Logs"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -229,7 +285,9 @@
     "bonuses": [
       "All Orange Passive Bubbles, which are the smaller sized ones, give a x higher bonus to your warrior-based classes."
     ],
-    "worksInGame": true
+    "costs": [
+      "Spore Cap"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -237,7 +295,9 @@
     "bonuses": [
       "+% mining efficiency per power of 10 max HP that your character has. The perfect bonus for miners with infinite HP!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Jungle Logs"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -245,7 +305,9 @@
     "bonuses": [
       "Multi-Ore mining chance is increased by +%, and your max Multi-Ore chance is 300% instead of 100%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Fly"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -253,7 +315,9 @@
     "bonuses": [
       "+% Mining and Fishing EXP gain. Y'know what, I'll even DOUBLE that bonus for whichever skill has the lower level!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Boring Brick"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -261,7 +325,9 @@
     "bonuses": [
       "Increases base damage by +$. This bonus increases based on how much Max HP you have above 250."
     ],
-    "worksInGame": true
+    "costs": [
+      "Furled Flag"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -269,7 +335,9 @@
     "bonuses": [
       "Multi-Fish fishing chance is increased by +%, and your max Multi-Fish chance is 300% instead of 100%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Hermit Can"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -277,7 +345,9 @@
     "bonuses": [
       "The following tools give +% more skilling Power than normal: Pickaxes and Fishing Rods"
     ],
-    "worksInGame": true
+    "costs": [
+      "Platinum Ore"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -285,7 +355,9 @@
     "bonuses": [
       "+% more defence from Equipment. Also, +1 base Def per Class LV, up to +."
     ],
-    "worksInGame": true
+    "costs": [
+      "Fruitfly"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -293,7 +365,9 @@
     "bonuses": [
       "+% critical Damage. Badabing, badaboom! Or in Italian, Babadabinga, babadaboomahh!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Pinion Spur"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -301,7 +375,9 @@
     "bonuses": [
       "+% Total damage. This multiplies with other damage bonuses, but adds with the other '+% Total Damage' bubbles."
     ],
-    "worksInGame": true
+    "costs": [
+      "Froge"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -309,7 +385,9 @@
     "bonuses": [
       "+% Construction EXP Gain. Also gives +50% Bug-Fixing speed if your username is LavaFlame2. Actually, better make that +500%..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Moustache Comb"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -317,7 +395,9 @@
     "bonuses": [
       "+% Build Speed per Construction Level."
     ],
-    "worksInGame": true
+    "costs": [
+      "Explosive Salts"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -325,7 +405,9 @@
     "bonuses": [
       "+ Talent Points for EACH tab! Yea, it's amazing right? But it's just for warriors, don't tell the other classes!!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Mousey"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -333,7 +415,9 @@
     "bonuses": [
       "The material costs of ALL orange bubbles are % lower"
     ],
-    "worksInGame": true
+    "costs": [
+      "Frigid Soul"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -341,7 +425,9 @@
     "bonuses": [
       "+% Cash from Monsters for every 250 STR. The pennies reflect your strength in themselves, thus making them more valuable!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Skelefish"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -349,7 +435,9 @@
     "bonuses": [
       "The following orange bubbles give x higher bonus than what they display: I, III, IV, VI, XII"
     ],
-    "worksInGame": true
+    "costs": [
+      "Half Eaten Donut"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -357,7 +445,9 @@
     "bonuses": [
       "+% Mining and Fishing AFK GAINS rate. Wow, how bias can you get... giving the warrior's bubble TWO afk gain bonuses."
     ],
-    "worksInGame": true
+    "costs": [
+      "Tangled Cords"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -365,7 +455,9 @@
     "bonuses": [
       "+% Gold Food Effect. Go on, its ok, I won't be offended. No seriously, go upgrade something else, I know I'm not a good upgrade..."
     ],
-    "worksInGame": true
+    "costs": [
+      "PVC Pipe"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -373,7 +465,9 @@
     "bonuses": [
       "+% Food Non-Consume chance. Also, if your capped Non-Consume chance happens to be 98%, this changes it to 99%!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Condensed Zap"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -381,7 +475,9 @@
     "bonuses": [
       "+% more Weapon Power from your weapon, but only if its a Spear!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Bits"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -389,7 +485,9 @@
     "bonuses": [
       "+ Mining and Fishing Power per 100 items found, shown on The Slab!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Oozie Soul"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -397,7 +495,9 @@
     "bonuses": [
       "When claiming AFK Gains, +% chance to gain an equal amount of time for Gaming progress!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Strung Jewels"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -405,7 +505,9 @@
     "bonuses": [
       "+ Base STR per 100 items found, shown on The Slab!"
     ],
-    "worksInGame": true
+    "costs": [
+      "OJ Juice"
+    ]
   },
   {
     "source": "Power Cauldron",
@@ -413,7 +515,9 @@
     "bonuses": [
       "+% Total Damage per 250 STR, but only for warriors! No triple dipping into AGI and WIS! Also this, but for beginners with LUK!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Strung Jewels"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -421,7 +525,9 @@
     "bonuses": [
       "+ Total AGI. Probably the lamest of the five stats... err, I mean four, hehe."
     ],
-    "worksInGame": true
+    "costs": [
+      "Copper Ore"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -429,7 +535,9 @@
     "bonuses": [
       "All Green Passive Bonuses, which are the smaller sized ones, give x more bonuses to your archer-based characters."
     ],
-    "worksInGame": true
+    "costs": [
+      "Spore Cap"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -437,7 +545,9 @@
     "bonuses": [
       "You can now produce +1 more items at once in the anvil, and your production speed is increased by %."
     ],
-    "worksInGame": true
+    "costs": [
+      "Iron Ore"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -445,7 +555,9 @@
     "bonuses": [
       "+% Mastery. Mastery is your stat that boosts minimum damage. Just like in Maplest... err, just like how I thought it up myself!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Goldfish"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -453,7 +565,9 @@
     "bonuses": [
       "Costs for buying Anvil Production Points is reduced by %. This is just like a tax cut, so remember me as a hero!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Forest Fibres"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -461,7 +575,9 @@
     "bonuses": [
       "Increases base damage by +$. This bonus increases based on how much Movement Speed you have above 110%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Coconotnotto"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -469,7 +585,9 @@
     "bonuses": [
       "The following tools give +% more skilling Power than normal: Catching Nets"
     ],
-    "worksInGame": true
+    "costs": [
+      "Slime Sludge"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -477,7 +595,9 @@
     "bonuses": [
       "Multi-Bug catching chance is increased by +%, and your max Multi-Bug chance is 300% instead of 100%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Sentient Cereal"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -485,7 +605,9 @@
     "bonuses": [
       "Your secondary stat (WIS for warrior, STR for archer, AGI for mage) gives +% more Accuracy than normal."
     ],
-    "worksInGame": true
+    "costs": [
+      "Bloach"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -493,7 +615,9 @@
     "bonuses": [
       "+% critical Chance, as it increases the chance for your attack to hit the monster's privates, and for the monster to be male."
     ],
-    "worksInGame": true
+    "costs": [
+      "Mosquisnow"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -501,7 +625,9 @@
     "bonuses": [
       "+% Total damage. This multiplies with other damage bonuses, but adds with the other '+% Total Damage' bubbles."
     ],
-    "worksInGame": true
+    "costs": [
+      "Forest Soul"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -509,7 +635,9 @@
     "bonuses": [
       "+1 Placeable Trap, and +% Trapping Efficiency."
     ],
-    "worksInGame": true
+    "costs": [
+      "Tundra Logs"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -517,7 +645,9 @@
     "bonuses": [
       "x more likely to catch shiny critters when opening a trap."
     ],
-    "worksInGame": true
+    "costs": [
+      "Rooted Soul"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -525,7 +655,9 @@
     "bonuses": [
       "+ Talent Points for EACH tab, but just for Archers! Well, and 'that' class, you know who you are!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Flycicle"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -533,7 +665,9 @@
     "bonuses": [
       "The material costs of ALL green bubbles are % lower"
     ],
-    "worksInGame": true
+    "costs": [
+      "Owlio"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -541,7 +675,9 @@
     "bonuses": [
       "+% Cash from Monsters for every 250 AGI. The extra agility allows the dollars to stretch in size and increase in value!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Purple Screw"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -549,7 +685,9 @@
     "bonuses": [
       "The following green bubbles give x higher bonus than what they display: I, VI, VIII, X, XII"
     ],
-    "worksInGame": true
+    "costs": [
+      "Dung Beat"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -557,7 +695,9 @@
     "bonuses": [
       "+% Catching AFK Gains Rate. Now you too can dream about bugs in your sleep, just like I do all the time!!!!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Worker Bee"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -565,7 +705,9 @@
     "bonuses": [
       "+% extra Kills for Deathnote and opening portals to new maps. Shoutout to my I.S. players who fondly remember 'Kill Per Kill'!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Dioxide Synthesis"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -573,7 +715,9 @@
     "bonuses": [
       "+% chance for Double EXP when claiming AFK gains. You'll know this happens because it literally tells you it happened!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Fairy"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -581,7 +725,9 @@
     "bonuses": [
       "+% more Weapon Power from your weapon, but only if its a Bow!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Bits"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -589,7 +735,9 @@
     "bonuses": [
       "+ Catching and Trapping Power per 100 items found, shown on The Slab!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Maple Logs"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -597,7 +745,9 @@
     "bonuses": [
       "When claiming AFK Gains, +% chance to gain an equal amount of time for Sailing progress!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Strung Jewels"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -605,7 +755,9 @@
     "bonuses": [
       "+ Base AGI and LUK per 100 items found, shown on The Slab! Woah cool this is like a Archer Beginner crossover bubble!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Hard Hat"
+    ]
   },
   {
     "source": "Quicc Cauldron",
@@ -613,7 +765,9 @@
     "bonuses": [
       "+% Total Damage per 250 AGI, but only for archers! No triple dipping into STR and WIS!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Strung Jewels"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -621,7 +775,9 @@
     "bonuses": [
       "+ Total WIS. Honesty the greatest bonus in any Idle Game, believe me. Absolutely incredible, everyone says so!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Bleach Logs"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -629,7 +785,9 @@
     "bonuses": [
       "All Purple Passive Bonuses, which are the smaller sized ones, give x more bonuses to your mage-based characters."
     ],
-    "worksInGame": true
+    "costs": [
+      "Spore Cap"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -637,7 +795,9 @@
     "bonuses": [
       "+% choppin efficiency per power of 10 max MP that your character has. Super diaper! Err, duper."
     ],
-    "worksInGame": true
+    "costs": [
+      "Trusty Nails"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -645,7 +805,9 @@
     "bonuses": [
       "Multi-Log chop chance is increased by +%, and your max Multi-Log chance is now 300% instead of 100%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Iron Bar"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -653,7 +815,9 @@
     "bonuses": [
       "+% Choppin' and Alchemy EXP gain. Y'know what, I'll even... actually, never mind."
     ],
-    "worksInGame": true
+    "costs": [
+      "Chain Link"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -661,7 +825,9 @@
     "bonuses": [
       "Increases base damage by +$. This bonus increases based on how much Max MP you have above 150."
     ],
-    "worksInGame": true
+    "costs": [
+      "Gold Ore"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -669,7 +835,9 @@
     "bonuses": [
       "The following tools give +% more skilling Power than normal: Hatchets"
     ],
-    "worksInGame": true
+    "costs": [
+      "Sentient Cereal"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -677,7 +845,9 @@
     "bonuses": [
       "Cranium Cooking lasts % longer, gives % more progress per kill, and has a % lower cooldown. Also +% Alchemy EXP!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Potty Rolls"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -685,7 +855,9 @@
     "bonuses": [
       "+% Brew Speed. This a multiplicative bonus, which means its ultra powerful, all the time! Even on Mondays, the worst day!"
     ],
-    "worksInGame": true
+    "costs": [
+      "High Steaks"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -693,7 +865,9 @@
     "bonuses": [
       "Attack Talents give +% higher bonuses to Offline Gains than they normally do. So you might as well just AFK forever, bye!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Veiny Logs"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -701,7 +875,9 @@
     "bonuses": [
       "+% Total damage. This multiplies with other damage bonuses, but adds with the other '+% Total Damage' bubbles."
     ],
-    "worksInGame": true
+    "costs": [
+      "Redox Salts"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -709,7 +885,9 @@
     "bonuses": [
       "x Worship Charge rate per hour. Also, x Max Worship Charge! You bouta go super with all that charge... just sayin'"
     ],
-    "worksInGame": true
+    "costs": [
+      "Crabbo"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -717,7 +895,9 @@
     "bonuses": [
       "+% Max Charge per 10 Worship levels. I guess you could say this upgrade doesn't come Free of Charge!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Mosquisnow"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -725,7 +905,9 @@
     "bonuses": [
       "Sorry, mages don't get anything because you're lame.... Ok fine, you can have + Talent Points for each tab, but I'm not happy about it."
     ],
-    "worksInGame": true
+    "costs": [
+      "Sippy Straw"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -733,7 +915,9 @@
     "bonuses": [
       "The material costs of ALL purple bubbles are % lower"
     ],
-    "worksInGame": true
+    "costs": [
+      "Forest Soul"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -741,7 +925,9 @@
     "bonuses": [
       "+% Cash from Monsters for every 250 WIS. Wisdom allows the nickel to trick others into thinking its a Dime, increasing its value!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Alien Hive Chunk"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -749,7 +935,9 @@
     "bonuses": [
       "The following purple bubbles give x higher bonus than what they display: I, III, VI, X, XII"
     ],
-    "worksInGame": true
+    "costs": [
+      "Void Ore"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -757,7 +945,9 @@
     "bonuses": [
       "+% Choppin' AFK Gains Rate. Ain't nothin' like sittin' down at the ol' tree and havin' a snooze n' a sleep!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Squishy Soul"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -765,7 +955,9 @@
     "bonuses": [
       "+% Basic Attack Speed. Just like all other Basic Attack Speed bonuses, this boosts AFK kills/hr if you do enough dmg!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Manta Ray"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -773,7 +965,9 @@
     "bonuses": [
       "+% Lab EXP Gain. Also +% ineptitude to face the reality of what's REALLY going on behind the scenes..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Cubed Logs"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -781,7 +975,9 @@
     "bonuses": [
       "+% more Weapon Power from your weapon, but only if its a Wand! Or a fisticuff I guess..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Bits"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -789,7 +985,9 @@
     "bonuses": [
       "+ Choppin and Worship Power per 100 items found, shown on The Slab!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Scarab"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -797,7 +995,9 @@
     "bonuses": [
       "+% Divinity EXP Gain"
     ],
-    "worksInGame": true
+    "costs": [
+      "Strung Jewels"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -805,7 +1005,9 @@
     "bonuses": [
       "+ Base WIS per 100 items found, shown on The Slab!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Wormie Slices"
+    ]
   },
   {
     "source": "High-IQ Cauldron",
@@ -813,7 +1015,9 @@
     "bonuses": [
       "+% Total Damage per 250 WIS, but only for mages! No triple dipping into STR and AGI! Also, beginners get this bonus, but for LUK"
     ],
-    "worksInGame": true
+    "costs": [
+      "Strung Jewels"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -821,7 +1025,9 @@
     "bonuses": [
       "+ LUK. Also, this will increase your chances of winning the lottery in real life from 0.0% to 0.000%! I'm not even joking, it's true!!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Thread"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -829,7 +1035,9 @@
     "bonuses": [
       "+% Drop Rate. Thanks to this upgrade, you can get even MORE angry when you keep not getting that rare pet drop from the boss!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Goldfish"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -837,7 +1045,9 @@
     "bonuses": [
       "Leveling up a statue resets it's exp bar down to %, instead of 0%. Staturrific! Yea... the jokes are only gonna go downhill from here lol"
     ],
-    "worksInGame": true
+    "costs": [
+      "Pocket Sand"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -845,7 +1055,9 @@
     "bonuses": [
       "Whenever you level up anything, % chance to drop a gift! It could be an EXP balloon, a Gem for the gem shop, or something crazy weird!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Crabby Cakey"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -853,7 +1065,9 @@
     "bonuses": [
       "The Prowess Bonus for every skill is multiplied by . Prowess lowers the Efficiency needed to get multiple QTY per drop from resources."
     ],
-    "worksInGame": true
+    "costs": [
+      "Potty Rolls"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -861,7 +1075,9 @@
     "bonuses": [
       "Increases the Max Lv of the 'Toilet Paper Postage' Talent to . You can unlock this talent by typing 'More like Poopy Pete' near Pete."
     ],
-    "worksInGame": true
+    "costs": [
+      "Butterfly"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -869,7 +1085,9 @@
     "bonuses": [
       "Reduces the material costs of all Alchemy Bubbles by %. They are just bubbles though, how much could they even cost? 10 dollars?"
     ],
-    "worksInGame": true
+    "costs": [
+      "Jellyfish"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -877,7 +1095,9 @@
     "bonuses": [
       "Increases the Max Cap for every liquid by +$. This bonus increases based on the combined Alchemy LV of all your characters!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Leather Hide"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -885,7 +1105,7 @@
     "bonuses": [
       "+% Class EXP. The go-to active bubble for anyone who wants to reach max level faster and finally start playing the game!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Kazam Cauldron",
@@ -893,7 +1113,9 @@
     "bonuses": [
       "Every time you upgrade an Alchemy bubble, there's a % chance it'll upgrade 2 times, for no extra cost! Two fer one, getter dun!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Dementia Ore"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -901,7 +1123,9 @@
     "bonuses": [
       "+% Cog Production speed. Cogs are great. I really really like cogs. I guess you could say I think they're pretty Coggers..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Melty Cube"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -909,7 +1133,9 @@
     "bonuses": [
       "+% Sample Size when taking samples for the 3d printer. Finally, your statisitcal analysis will be accurate!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Dune Soul"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -917,7 +1143,9 @@
     "bonuses": [
       "Killing a Giant Monster has a % chance to not decrease the Giant Mob Spawn Odds, which reset at the end of each week."
     ],
-    "worksInGame": true
+    "costs": [
+      "Scorpie"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -925,7 +1153,9 @@
     "bonuses": [
       "+% Book Checkout speed, all thanks to this one little bubble that librarians do NOT want you to know about!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Wispy Lumber"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -933,7 +1163,9 @@
     "bonuses": [
       "The material costs of ALL yellow bubbles are % lower."
     ],
-    "worksInGame": true
+    "costs": [
+      "Pingy"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -941,7 +1173,9 @@
     "bonuses": [
       "+% Multikill per damage tier. Remember, damage tier is shown by the Purple Bar in AFK info, and multikill is bigtime for resources"
     ],
-    "worksInGame": true
+    "costs": [
+      "Spontaneity Salts"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -949,7 +1183,7 @@
     "bonuses": [
       "+% faster Egg Incubation Time in the Pet Nest. This will be an absolutely VITAL upgrade once you unlock pet egg rarity!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Kazam Cauldron",
@@ -957,7 +1191,7 @@
     "bonuses": [
       "x faster Meal and Fire Kitchen Speeds for every Meal at Lv 11+. This is when the meal plate becomes Diamond Blue, just so you know!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Kazam Cauldron",
@@ -965,7 +1199,7 @@
     "bonuses": [
       "+% Card Drop Chance for all card types, even Party Dungeon cards!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Kazam Cauldron",
@@ -973,7 +1207,9 @@
     "bonuses": [
       "x New Pet Chance for every gap you traverse in the SpaceTime Rift. The Rift entrance is deep in World 4, far above the 8 armed octodars."
     ],
-    "worksInGame": true
+    "costs": [
+      "Blobfish"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -981,7 +1217,9 @@
     "bonuses": [
       "+% Sailing Speed for all boats"
     ],
-    "worksInGame": true
+    "costs": [
+      "Bits"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -989,7 +1227,9 @@
     "bonuses": [
       "x higher bonus than displayed from the passive bonus of the deity you're linked to in Divinity. AKA bigger god passive!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Strung Jewels"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -997,7 +1237,9 @@
     "bonuses": [
       "+% more bits earned in gaming per plant found, as shown in the Log Book found in the top right of the gaming garden!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Dandielogs"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -1005,7 +1247,9 @@
     "bonuses": [
       "+% chance to not use up Divinity points when offering a gift!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Dust Mote"
+    ]
   },
   {
     "source": "Kazam Cauldron",
@@ -1013,7 +1257,9 @@
     "bonuses": [
       "+% lower particle cost for upgrading all atoms"
     ],
-    "worksInGame": true
+    "costs": [
+      "Mongo Worm Slices"
+    ]
   },
   {
     "source": "Vials",
@@ -1021,7 +1267,9 @@
     "bonuses": [
       "Orange bubble cauldron brew speed is increased by +%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Copper Ore"
+    ]
   },
   {
     "source": "Vials",
@@ -1029,7 +1277,9 @@
     "bonuses": [
       "Green bubble cauldron brew speed is increased by +%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Oak Logs"
+    ]
   },
   {
     "source": "Vials",
@@ -1037,7 +1287,9 @@
     "bonuses": [
       "Yellow cauldron brew speed is increased by +%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Spore Cap"
+    ]
   },
   {
     "source": "Vials",
@@ -1045,7 +1297,9 @@
     "bonuses": [
       "Purple cauldron brew speed is increased by +%"
     ],
-    "worksInGame": true
+    "costs": [
+      "Thread"
+    ]
   },
   {
     "source": "Vials",
@@ -1053,7 +1307,9 @@
     "bonuses": [
       "+ Water Droplet max capacity. Thats the 1st liquid type in Alchemy, btw."
     ],
-    "worksInGame": true
+    "costs": [
+      "Copper Bar"
+    ]
   },
   {
     "source": "Vials",
@@ -1061,7 +1317,9 @@
     "bonuses": [
       "Monsters drop +% more money."
     ],
-    "worksInGame": true
+    "costs": [
+      "Bean Slices"
+    ]
   },
   {
     "source": "Vials",
@@ -1069,7 +1327,9 @@
     "bonuses": [
       "+% chance to get double points when depositing statues. So like... if you deposit one statue, it might count as one! Or two."
     ],
-    "worksInGame": true
+    "costs": [
+      "Snake Skin"
+    ]
   },
   {
     "source": "Vials",
@@ -1077,7 +1337,9 @@
     "bonuses": [
       "When converting Skill EXP into Class EXP using the 'EXP CONVERTER' star talent, you'll get % more Class EXP than you usually do."
     ],
-    "worksInGame": true
+    "costs": [
+      "Trusty Nails"
+    ]
   },
   {
     "source": "Vials",
@@ -1085,7 +1347,9 @@
     "bonuses": [
       "+% liquid regen rate for all liquid cauldrons. Yes, even the secret one!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Jungle Logs"
+    ]
   },
   {
     "source": "Vials",
@@ -1093,7 +1357,9 @@
     "bonuses": [
       "Alchemy bubble upgrade costs are % lower for all bubbles! Even the giraffe bubbles that look strangely like elephants!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Iron Bar"
+    ]
   },
   {
     "source": "Vials",
@@ -1101,7 +1367,9 @@
     "bonuses": [
       "+% Card drop rate. Even works offline, just like it always has! What do you mean this used to say something different...?"
     ],
-    "worksInGame": true
+    "costs": [
+      "Glublin Ear"
+    ]
   },
   {
     "source": "Vials",
@@ -1109,7 +1377,9 @@
     "bonuses": [
       "+ Liquid Nitrogen max capacity. Thats the 2nd liquid type in Alchemy, btw."
     ],
-    "worksInGame": true
+    "costs": [
+      "Potty Rolls"
+    ]
   },
   {
     "source": "Vials",
@@ -1117,7 +1387,9 @@
     "bonuses": [
       "+% Shop sell price."
     ],
-    "worksInGame": true
+    "costs": [
+      "Gold Ore"
+    ]
   },
   {
     "source": "Vials",
@@ -1125,7 +1397,9 @@
     "bonuses": [
       "+ Talent Points for Tab 1. Shout out to that 1 person who'll make it this far without knowing what talents are, you're my hero!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Bullfrog Horn"
+    ]
   },
   {
     "source": "Vials",
@@ -1133,7 +1407,9 @@
     "bonuses": [
       "+% chance for 1 kill to count for 2 when trying to open new portals, but only while actively playing. One, two, buckle my shoe."
     ],
-    "worksInGame": true
+    "costs": [
+      "Goldfish"
+    ]
   },
   {
     "source": "Vials",
@@ -1141,7 +1417,9 @@
     "bonuses": [
       "+ Weapon Power. This is gonna be OP in later worlds I can already tell."
     ],
-    "worksInGame": true
+    "costs": [
+      "Rats Tail"
+    ]
   },
   {
     "source": "Vials",
@@ -1149,7 +1427,9 @@
     "bonuses": [
       "Eww go get me another one, I can't drink this! ...what, why are you looking at me like that? OH right, uh, this gives + base Accuracy."
     ],
-    "worksInGame": true
+    "costs": [
+      "Fly"
+    ]
   },
   {
     "source": "Vials",
@@ -1157,7 +1437,9 @@
     "bonuses": [
       "+% EXP from monsters. Sorry, I know this is a lame bonus. Send me an email if you want me change it to +% NPC dialogue talking speed."
     ],
-    "worksInGame": true
+    "costs": [
+      "Megalodon Tooth"
+    ]
   },
   {
     "source": "Vials",
@@ -1165,7 +1447,9 @@
     "bonuses": [
       "-% material cost for stamps. You know how it's hard to increase stamps max levels? Well this kinda makes that a bit less factual!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Platinum Ore"
+    ]
   },
   {
     "source": "Vials",
@@ -1173,7 +1457,9 @@
     "bonuses": [
       "+ Post Office Box Points for every character, and easily the best bonus in the game. A box will never abandon you!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Hermit Can"
+    ]
   },
   {
     "source": "Vials",
@@ -1181,7 +1467,9 @@
     "bonuses": [
       "+% Nothing. Absolutely nothing, now and forever. It's a darn pickle, what were you expecting?"
     ],
-    "worksInGame": true
+    "costs": [
+      "BobJoePickle"
+    ]
   },
   {
     "source": "Vials",
@@ -1189,7 +1477,9 @@
     "bonuses": [
       "+% higher Shiny Critter chance. This is a multiplier, so +1% from this vial means 1.01x, so 5% shiny chance would go to 5.05%."
     ],
-    "worksInGame": true
+    "costs": [
+      "Floof Ploof"
+    ]
   },
   {
     "source": "Vials",
@@ -1197,7 +1487,9 @@
     "bonuses": [
       "+ Talent Points for Tab 2."
     ],
-    "worksInGame": true
+    "costs": [
+      "Forest Soul"
+    ]
   },
   {
     "source": "Vials",
@@ -1205,7 +1497,9 @@
     "bonuses": [
       "+ Starting points in Worship Tower Defence. Of course, a true balloon monkey wouldn't accept handouts like this."
     ],
-    "worksInGame": true
+    "costs": [
+      "Crabbo"
+    ]
   },
   {
     "source": "Vials",
@@ -1213,7 +1507,9 @@
     "bonuses": [
       "+% Mining Efficiency."
     ],
-    "worksInGame": true
+    "costs": [
+      "Void Ore"
+    ]
   },
   {
     "source": "Vials",
@@ -1221,7 +1517,9 @@
     "bonuses": [
       "+% Refinery Cycle Speed. I just want to see you squirm a bit more as you decide where to spend your precious salts hahahaha!!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Redox Salts"
+    ]
   },
   {
     "source": "Vials",
@@ -1229,7 +1527,9 @@
     "bonuses": [
       "+% Catching Efficiency."
     ],
-    "worksInGame": true
+    "costs": [
+      "Mosquisnow"
+    ]
   },
   {
     "source": "Vials",
@@ -1237,7 +1537,9 @@
     "bonuses": [
       "+% Choppin Efficiency."
     ],
-    "worksInGame": true
+    "costs": [
+      "Tundra Logs"
+    ]
   },
   {
     "source": "Vials",
@@ -1245,7 +1547,9 @@
     "bonuses": [
       "Eagle Eye Trap-O-Vision gives +% more critters. It will always give less than if you manually collected the traps though."
     ],
-    "worksInGame": true
+    "costs": [
+      "Poison Froge"
+    ]
   },
   {
     "source": "Vials",
@@ -1253,7 +1557,9 @@
     "bonuses": [
       "+% Fishing Efficiency."
     ],
-    "worksInGame": true
+    "costs": [
+      "Mamooth Tusk"
+    ]
   },
   {
     "source": "Vials",
@@ -1261,7 +1567,9 @@
     "bonuses": [
       "+% Talent Book Library checkout speed."
     ],
-    "worksInGame": true
+    "costs": [
+      "Dune Soul"
+    ]
   },
   {
     "source": "Vials",
@@ -1269,7 +1577,9 @@
     "bonuses": [
       "+ Cog Inventory spaces. DONT PANIC!!! I KNOW ITS ALARMING THAT A VIAL FINALLY GIVES A USEFUL BONUS, BUT STAY CALM!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Mousey"
+    ]
   },
   {
     "source": "Vials",
@@ -1277,7 +1587,9 @@
     "bonuses": [
       "+% Construction Exp gain."
     ],
-    "worksInGame": true
+    "costs": [
+      "Pen"
+    ]
   },
   {
     "source": "Vials",
@@ -1285,7 +1597,9 @@
     "bonuses": [
       "+% higher Shiny Critter chance. This stacks with the shiny chance from the Fur Refresher vial. You see, they have the same shaped vial."
     ],
-    "worksInGame": true
+    "costs": [
+      "Explosive Salts"
+    ]
   },
   {
     "source": "Vials",
@@ -1293,7 +1607,9 @@
     "bonuses": [
       "+% Printer sample size. My my there are a lot of these 'sample size' bonuses in the game... too many..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Snow Ball"
+    ]
   },
   {
     "source": "Vials",
@@ -1301,7 +1617,9 @@
     "bonuses": [
       "+% Base Multikill per Multikill Tier for all worlds. Stack them skulls!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Frigid Soul"
+    ]
   },
   {
     "source": "Vials",
@@ -1309,7 +1627,9 @@
     "bonuses": [
       "+% Cog production speed."
     ],
-    "worksInGame": true
+    "costs": [
+      "Sippy Straw"
+    ]
   },
   {
     "source": "Vials",
@@ -1317,7 +1637,9 @@
     "bonuses": [
       "+ Talent Points for Tab 3."
     ],
-    "worksInGame": true
+    "costs": [
+      "Bunny"
+    ]
   },
   {
     "source": "Vials",
@@ -1325,7 +1647,9 @@
     "bonuses": [
       "+ Trench Seawater max capacity. Thats the 3rd liquid type in Alchemy, btw."
     ],
-    "worksInGame": true
+    "costs": [
+      "Contact Lense"
+    ]
   },
   {
     "source": "Vials",
@@ -1333,7 +1657,9 @@
     "bonuses": [
       "+% base Giant Monster spawn rate."
     ],
-    "worksInGame": true
+    "costs": [
+      "Purple Salt"
+    ]
   },
   {
     "source": "Vials",
@@ -1341,7 +1667,9 @@
     "bonuses": [
       "+ base critter per trap. This is a sHONKingly good bonus, the only one of its kind!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Honker"
+    ]
   },
   {
     "source": "Vials",
@@ -1349,7 +1677,9 @@
     "bonuses": [
       "+% arcade ball gain rate, and those are balls blessed by Balljoepickle himself, so you know they're extra lucky!"
     ],
-    "worksInGame": true
+    "costs": [
+      "BallJoePickle"
+    ]
   },
   {
     "source": "Vials",
@@ -1357,7 +1687,9 @@
     "bonuses": [
       "+% Breeding EXP gain"
     ],
-    "worksInGame": true
+    "costs": [
+      "Purple Mush Cap"
+    ]
   },
   {
     "source": "Vials",
@@ -1365,7 +1697,9 @@
     "bonuses": [
       "+% Chance to breed a new pet. Multiplicative, so +5% here would change a 1 in 100 to 1 in 95 chance."
     ],
-    "worksInGame": true
+    "costs": [
+      "Half Eaten Donut"
+    ]
   },
   {
     "source": "Vials",
@@ -1373,7 +1707,9 @@
     "bonuses": [
       "+% Meal Cooking Speed"
     ],
-    "worksInGame": true
+    "costs": [
+      "Sand Shark"
+    ]
   },
   {
     "source": "Vials",
@@ -1381,7 +1717,9 @@
     "bonuses": [
       "+% New Recipe Cooking Speed"
     ],
-    "worksInGame": true
+    "costs": [
+      "Squishy Soul"
+    ]
   },
   {
     "source": "Vials",
@@ -1389,7 +1727,9 @@
     "bonuses": [
       "+ Starting Worship Pts."
     ],
-    "worksInGame": true
+    "costs": [
+      "Tongue Bone"
+    ]
   },
   {
     "source": "Vials",
@@ -1397,7 +1737,9 @@
     "bonuses": [
       "+% Lab EXP gain. Strange, you'd think someone dumb enough to drink a bloated blobfish drink wouldn't get bonus lab exp at all..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Blobfish"
+    ]
   },
   {
     "source": "Vials",
@@ -1405,7 +1747,9 @@
     "bonuses": [
       "-% Kitchen Upgrading Cost."
     ],
-    "worksInGame": true
+    "costs": [
+      "Crumpled Wrapper"
+    ]
   },
   {
     "source": "Vials",
@@ -1413,7 +1757,9 @@
     "bonuses": [
       "+% All Stats. If you don't know what all stats means by now, you've prolly got bigger problems than not knowing what all stats means."
     ],
-    "worksInGame": true
+    "costs": [
+      "Pearler Shell"
+    ]
   },
   {
     "source": "Vials",
@@ -1421,7 +1767,9 @@
     "bonuses": [
       "+ Weapon Power. Unleash the kraken..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Kraken"
+    ]
   },
   {
     "source": "Vials",
@@ -1429,7 +1777,9 @@
     "bonuses": [
       "+% Pet Team Damage"
     ],
-    "worksInGame": true
+    "costs": [
+      "Condensed Zap"
+    ]
   },
   {
     "source": "Vials",
@@ -1437,7 +1787,9 @@
     "bonuses": [
       "+ Talent Points for Tab 4"
     ],
-    "worksInGame": true
+    "costs": [
+      "Suggma Ashes"
+    ]
   },
   {
     "source": "Vials",
@@ -1445,7 +1797,9 @@
     "bonuses": [
       "+% Divinity EXP. Maple syrup helps me keep calm and meditate with the divine, eh? No wonder those Canadians sure are nice and calm people!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Maple Logs"
+    ]
   },
   {
     "source": "Vials",
@@ -1453,7 +1807,9 @@
     "bonuses": [
       "+% Sailing EXP gain. Doesn't help level up captains, only yourself. So yea, I'm basically saying you're a crappy captain haha!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Hampter"
+    ]
   },
   {
     "source": "Vials",
@@ -1461,7 +1817,9 @@
     "bonuses": [
       "+% Cooking Speed for meals. No, MEALS, not meel, dont cook him!! Stop!! STOP!!!!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Dreadlo Bar"
+    ]
   },
   {
     "source": "Vials",
@@ -1469,7 +1827,9 @@
     "bonuses": [
       "+% Gaming EXP. Cool."
     ],
-    "worksInGame": true
+    "costs": [
+      "Dust Mote"
+    ]
   },
   {
     "source": "Vials",
@@ -1477,7 +1837,9 @@
     "bonuses": [
       "+% Sailing Speed. If only there was a way to also lower the minimum sailing time... I'm sure you'll find it eventually..."
     ],
-    "worksInGame": true
+    "costs": [
+      "Orange Slice"
+    ]
   },
   {
     "source": "Vials",
@@ -1485,7 +1847,9 @@
     "bonuses": [
       "+% Bits gained in Gaming. Cool."
     ],
-    "worksInGame": true
+    "costs": [
+      "Oozie Soul"
+    ]
   },
   {
     "source": "Vials",
@@ -1493,7 +1857,9 @@
     "bonuses": [
       "-% material cost for stamps. Have at it endgamers!"
     ],
-    "worksInGame": true
+    "costs": [
+      "Mongo Worm Slices"
+    ]
   },
   {
     "source": "Liquid Shop",
@@ -1501,7 +1867,7 @@
     "bonuses": [
       "1 random low-quality Obol. Sure, it'll probably be a crappy bronze Obol, but that's not bad considering youre paying with water!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1509,7 +1875,7 @@
     "bonuses": [
       "This distilled water was double-purified by running it through thousands of diamonds! So yea, it's just regular water, but more expensive."
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1517,7 +1883,7 @@
     "bonuses": [
       "1 Gem. Perfect for buying things in the Gem Shop! Sponsored by LavaFlame2's Gem Shop; 'Come for the items, leave for the prices!'"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1525,7 +1891,7 @@
     "bonuses": [
       "Gives you a Star-Book! It's always the same one, but it comes with a random Max Lv, so keep buying it until you get one with a 100 Lv Max!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1533,7 +1899,7 @@
     "bonuses": [
       "A small exp balloon. They give you exp in whatever skill you're currently training! Using them in town will give EXP in the town skill!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1541,7 +1907,7 @@
     "bonuses": [
       "Your donation helps starving orphan monsters. They asked for food, but beggars can't be choosers! You wont get anything for doing this."
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1549,7 +1915,7 @@
     "bonuses": [
       "1 random low-quality Obol, except this time the 'low' was rated by someone with higher standards, so it's more like medium quality!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1557,7 +1923,7 @@
     "bonuses": [
       "1 random Obol. It could be a super rare gold obol, but it's most likely gonna be a bronze obol."
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1565,7 +1931,7 @@
     "bonuses": [
       "Lowers the cost of the next bubble you upgrade by 25%! Can stack multiple times, but max is 90% off."
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1573,7 +1939,7 @@
     "bonuses": [
       "Sourced from the bottom of the Great Trench, dont drink this or you'll become dummy thicc or whatever!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1581,7 +1947,7 @@
     "bonuses": [
       "2 Gems. Thats two steps closer to buying everything in Gem Shop! Sure are a lot of steps for that one though..."
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Liquid Shop",
@@ -1589,7 +1955,7 @@
     "bonuses": [
       "There's nothing here buddy, but that ain't gon stop me from selling it to ya!"
     ],
-    "worksInGame": true
+    "costs": []
   },
   {
     "source": "Post Office Box",
