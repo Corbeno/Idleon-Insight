@@ -987,7 +987,7 @@
     "source": "Kazam Cauldron",
     "name": "Big P",
     "bonuses": [
-      "x higher bonus than displayed from the passive bonus of the deity you're linked to in Divinity. AKA bigger god passive!"
+      "x higher bonus than displayed from the Minor Link bonus of the deity you're linked to in Divinity. AKA bigger god passive!"
     ],
     "worksInGame": true
   },
@@ -5775,6 +5775,54 @@
   },
   {
     "source": "Siege Breaker Talents",
+    "name": "Cannonball",
+    "bonuses": [
+      "Fire a large cannonball forward, dealing % damage. It also explodes for 100% dmg"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Suppressing Fire",
+    "bonuses": [
+      "Fire off a spread of  mini cannonballs that deal % Damage each."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Firebomb",
+    "bonuses": [
+      "Recklessly throw bombs around you, which explode and hit up to  mobs for % dmg"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Pirate Flag",
+    "bonuses": [
+      "Kills can spawn Plunderous mobs, with x HP and +% EXP and Drop reward"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Plunder Ye Deceased",
+    "bonuses": [
+      "Kill Plunderous mob to enable Coin drops for  sec, which respawn mobs and auto loot"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Crew Rowing Strength",
+    "bonuses": [
+      "+ Weapon Power for every 10 Sailing Lvs of this character."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
     "name": "Stacked Skulls",
     "bonuses": [
       "+% Kill per Kill per 1000 AGI. Each kill is worth more kills!"
@@ -5802,6 +5850,38 @@
     "name": "The Family Guy",
     "bonuses": [
       "+% larger Family Bonuses than what is displayed from bonuses given by this player"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Unending Loot Search",
+    "bonuses": [
+      "When Loot Pile is almost full, ships can upgrade previous chests instead of filling Pile."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Expertly Sailed",
+    "bonuses": [
+      "+% Sailing EXP gain for all characters!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Captain Peptalk",
+    "bonuses": [
+      "All captains gain +% more exp from their awesome sailing adventures!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Siege Breaker Talents",
+    "name": "Archlord Of The Pirates",
+    "bonuses": [
+      "+% EXP and Drop Rate per POW 10 kills of Plunderous Mobs. Applies to all characters!"
     ],
     "worksInGame": true
   },
@@ -8431,9 +8511,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Hat Premumifier",
+    "name": "Hat Premiumifier",
     "bonuses": [
-      "Turns any normal hat into a premium hat! Buy this if you have a really cool hat with bad stats, so you can wear that while also wearing a different hat with good stats! NOTE:This will erase all stats, and give it +1 All Stat and 5 Premium Upgrade Slots."
+      "Turns any normal hat into a premium hat! This is the same item buyable in the Cosmetics section, but I'm putting it here also since it works great with the Premium Hat Swapper Stone!"
     ],
     "worksInGame": true
   },
@@ -8561,7 +8641,7 @@
     "source": "Gem Shop",
     "name": "Name Of Item",
     "bonuses": [
-      "Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs."
+      "Gives +35% EXP gain when killing monsters! Level up more, get more talent points... go harder, get better, go faster, get stronger! Also gives +5% monster respawn cuz why not lol"
     ],
     "worksInGame": true
   },
@@ -8791,17 +8871,41 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Random Cape Equip",
+    "name": "Cosmic Time Candy",
     "bonuses": [
-      "Gives you a random cape in the game! Can be any of the following: Angel Wings (+11% afk gains), Eggs (+10% dmg), Amarok (+10% Def), Efaunt (+10% Eff), Chizoar (+8% dmg), Troll (+6% all stat), Molten (+30% drop chance)"
+      "A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "72 Hour Candy",
+    "name": "Freebie Candy",
     "bonuses": [
-      "Thy most coveted of all candies! Gives 72 hours of AFK gains instantly, guaranteed!"
+      "Hey kid, how bout we get you a nice lil time candy for the road eh? It's on the house... plus a small freebie fee of course."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Siege Captain Cap",
+    "bonuses": [
+      "Avast mateys, this here premium hat has got a +10% DROP RATE bonus, so it be extra pricey, yarrgh!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Corgi Topper Hat",
+    "bonuses": [
+      "It's SO CUTE OMG!!! The little fella is a premium hat that sits atop your head!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Paper Bag Hat",
+    "bonuses": [
+      "Shame. Guilt. Sadness. Premium Hat. Pain. Degredation."
     ],
     "worksInGame": true
   },
@@ -8834,6 +8938,14 @@
     "name": "Luk Stone",
     "bonuses": [
       "Gives +5 LUK to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Premium Hat Swapper",
+    "bonuses": [
+      "Put two hats on either side of this stone, and it'll swap the special bonuses between them! Works with Premium hats, as well as normal hats that you've Premium-ified!"
     ],
     "worksInGame": true
   },
@@ -12032,8 +12144,7 @@
       "WIS: 40",
       "LUK: 40",
       "Defence: 125",
-      "5% All Stats",
-      "6% Total Damage"
+      "6% All Stats"
     ],
     "worksInGame": true
   },
@@ -19267,6 +19378,27 @@
       "AGI: 1",
       "WIS: 1",
       "10% All Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Corgi Topper",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Siege Captain Cap",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "10% Drop Chance"
     ],
     "worksInGame": true
   },
