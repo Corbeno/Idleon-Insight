@@ -8639,9 +8639,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Name Of Item",
+    "name": "Cosmic Candy",
     "bonuses": [
-      "Gives +35% EXP gain when killing monsters! Level up more, get more talent points... go harder, get better, go faster, get stronger! Also gives +5% monster respawn cuz why not lol"
+      "Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs."
     ],
     "worksInGame": true
   },
@@ -8882,6 +8882,14 @@
     "name": "Freebie Candy",
     "bonuses": [
       "Hey kid, how bout we get you a nice lil time candy for the road eh? It's on the house... plus a small freebie fee of course."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Valenslime Boxes",
+    "bonuses": [
+      "100 Choco Boxes to open! Average rewards are 60 HOURS of Time Candy, over 100 gems, and a 20% chance at a Rose Cape! YOU CAN ONLY GET 3 ROSE CAPES, so maybe don't buy after you get all 3!"
     ],
     "worksInGame": true
   },
@@ -11682,6 +11690,14 @@
     "name": "Chocco Box",
     "bonuses": [
       "+% Boost Food Effect"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Giant Rose",
+    "bonuses": [
+      "+% EXP from monsters"
     ],
     "worksInGame": true
   },
@@ -15004,6 +15020,36 @@
   },
   {
     "source": "Armor",
+    "name": "Giant Rose",
+    "bonuses": [
+      "Weapon Power: 2",
+      "Defence: 10",
+      "7% All Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Giant Violet",
+    "bonuses": [
+      "Weapon Power: 4",
+      "Defence: 10",
+      "10% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Giant Starflower",
+    "bonuses": [
+      "Weapon Power: 6",
+      "Defence: 10",
+      "13% All Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Simple Key Chain",
     "bonuses": [
       "Defence: 1",
@@ -16319,7 +16365,7 @@
     "source": "Food",
     "name": "Milk Choco",
     "bonuses": [
-      "Auto-Used when your health goes below 80%. Restores 420 HP. Has a 20 second Cooldown. "
+      "Auto-Used when your health goes below 80%. Restores 1000 HP. Has a 12 second Cooldown. "
     ],
     "worksInGame": true
   },
@@ -16431,7 +16477,7 @@
     "source": "Food",
     "name": "Minto Choco",
     "bonuses": [
-      "Increases Move Spd by 8%. 4% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Move Spd by 8%. 1% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
     ],
     "worksInGame": true
   },
@@ -16511,7 +16557,7 @@
     "source": "Food",
     "name": "Lemony Choco",
     "bonuses": [
-      "Increases Exp Gain by 10% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Exp Gain by 30% 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ],
     "worksInGame": true
   },
@@ -16655,7 +16701,7 @@
     "source": "Food",
     "name": "Cherry Choco",
     "bonuses": [
-      "Increases Weapon Power by 1. 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Weapon Power by 5. 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ],
     "worksInGame": true
   },
