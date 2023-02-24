@@ -507,7 +507,7 @@
     "source": "Quicc Cauldron",
     "name": "Call Me Ash",
     "bonuses": [
-      "+1 Placeable Trap, and +% Trapping Efficiency."
+      "+% Trapping Efficiency when this bubble is equipped. Also, +1 Placeable Trap ALWAYS, even when this isn't equipped!"
     ],
     "worksInGame": true
   },
@@ -1667,7 +1667,7 @@
     "bonuses": [
       "% Not Consume Food",
       "% Health Food Effect",
-      "% Power Food Effect"
+      "% Boost Food Effect"
     ],
     "worksInGame": true
   },
@@ -8615,7 +8615,7 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Baby'S First Lolly",
+    "name": "Baby's First Lolly",
     "bonuses": [
       "Gives a random Time Candy. The chances are: 34% for 1 Hr, 33% for 2 Hr, and 33% for 4 Hr."
     ],
@@ -8639,9 +8639,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Cosmic Candy",
+    "name": "Name Of Item",
     "bonuses": [
-      "Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs."
+      "Super close to getting a rose? Well don't worry I'll give you one more shot... good luck! Buying this will give you 100 Valenslimes Day Choco boxes."
     ],
     "worksInGame": true
   },
@@ -8863,25 +8863,25 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Random Hyper Obol",
+    "name": "Ancient Artifact",
     "bonuses": [
-      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+      "Upgrades a random artifact you own to its ANCIENT form! 100% Success chance, no foolin! This item restocks every week. See Guild GP claim for when that happens."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
+    "name": "Pair Of Pearls",
     "bonuses": [
-      "A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs."
+      "You found a pair of what now? Where'd you find those, I don't remember stocking them... well, does it have a price tag? No? Eh lets just call it 1 gem... but the 2nd one is gonna cost ya extra!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Freebie Candy",
+    "name": "Dragonic Liquid Cauldron",
     "bonuses": [
-      "Hey kid, how bout we get you a nice lil time candy for the road eh? It's on the house... plus a small freebie fee of course."
+      "Turns your 1st Liquid Cauldron into a Dragonic Cauldron, or 2nd Liquid Cauldron if you bought this before. Dragonic Cauldrons give 2x Liquid Capacity, a bonus which stacks with the 1.5x from Bleach Liquid Cauldrons."
     ],
     "worksInGame": true
   },
@@ -8889,31 +8889,23 @@
     "source": "Gem Shop",
     "name": "Valenslime Boxes",
     "bonuses": [
-      "100 Choco Boxes to open! Average rewards are 60 HOURS of Time Candy, over 100 gems, and a 20% chance at a Rose Cape! YOU CAN ONLY GET 3 ROSE CAPES, so maybe don't buy after you get all 3!"
+      "100 Choco Boxes to open! Average rewards are 60 HOURS of Time Candy over 100 gems, and a 20% Chance at a Rose Cape! YOU CAN ONLY GET 3 ROSE CAPES, so maybe don't buy after you get all 3 capes!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Siege Captain Cap",
+    "name": "Random Boss Obol",
     "bonuses": [
-      "Avast mateys, this here premium hat has got a +10% DROP RATE bonus, so it be extra pricey, yarrgh!"
+      "Gives you one of the Following Obols: Amarok Obol (+4% DEF), Efaunt Obol (+5% Boss Damage), Slush Obol (+3% Skill Efficiency), Chizoar Obol (+4% Total Damage), or Troll Obol (+3% ALL STAT)"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Corgi Topper Hat",
+    "name": "World 4 Kill Ring",
     "bonuses": [
-      "It's SO CUTE OMG!!! The little fella is a premium hat that sits atop your head!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Paper Bag Hat",
-    "bonuses": [
-      "Shame. Guilt. Sadness. Premium Hat. Pain. Degredation."
+      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
     ],
     "worksInGame": true
   },
@@ -9031,7 +9023,7 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Crystal 3D Printer",
+    "name": "Crystal 3d Printer",
     "bonuses": [
       "Unlocks the 2nd printer chamber to print stuff in, for ALL characters you ever make, forever. This lets you print two things at once, it can even be the same thing twice!"
     ],
@@ -12871,7 +12863,7 @@
   },
   {
     "source": "Weapon",
-    "name": "Pharoah Bow",
+    "name": "Pharaoh Bow",
     "bonuses": [
       "Weapon Power: 23",
       "STR: 1",
