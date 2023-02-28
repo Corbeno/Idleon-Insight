@@ -8745,7 +8745,7 @@
     "source": "Gem Shop",
     "name": "Newbie Card Pack",
     "bonuses": [
-      "Contains 3 cards from any set in the game, other than world 3 because it's not out yet. Has a 15% chance to give at least one Boss Card. Card Lv Rarities are: 50% for Lv 1, 35% for Lv 2, and 15% for Lv 3."
+      "Contains 3 cards from these sets: Blunder Hills, Easy Resources, & Bosses n Nightmares (15% chance).<br/>Rarties - Lvl 1: 50%, Lvl 2: 35%, Lvl 3: 15%."
     ],
     "worksInGame": true
   },
@@ -8753,7 +8753,7 @@
     "source": "Gem Shop",
     "name": "Ancient Card Pack",
     "bonuses": [
-      "Contains 4 cards from any set in the game, other than world 3 because it's not out yet. Has a 40% chance to give at least one Boss Card. Card Lv Rarities are: 26% for Lv 1, 30% for Lv 2, 27% for Lv 3, and 17% for Lv 4."
+      "Contains 4 cards from these sets: Yum-Yum Desert, Medium Resources, & Bosses n Nightmares (40% chance).<br/>Rarties - Lvl 1: 26%, Lvl 2: 30%, Lvl 3: 27%, Lvl 4: 17%."
     ],
     "worksInGame": true
   },
@@ -8761,7 +8761,7 @@
     "source": "Gem Shop",
     "name": "Eternal Card Pack",
     "bonuses": [
-      "Blah"
+      "Contains 4 cards from these sets: Frostbite Tundra, Hard Resources, & Bosses n Nightmares (At least 1).<br/>Rarties - Lvl 2: 30%, Lvl 3: 35%, Lvl 4: 35%."
     ],
     "worksInGame": true
   },
@@ -8769,7 +8769,7 @@
     "source": "Gem Shop",
     "name": "Galaxy Card Pack",
     "bonuses": [
-      "Blah"
+      "Contains 4 cards from these sets: Hyperion Nebula, Hard Resources, & Bosses n Nightmares (At least 1).<br/>Rarties - Lvl 2: 30%, Lvl 3: 35%, Lvl 4: 35%."
     ],
     "worksInGame": true
   },
@@ -8785,7 +8785,7 @@
     "source": "Gem Shop",
     "name": "Dungeon Card Pack",
     "bonuses": [
-      "Contains 3 cards from the dungeon set."
+      "Contains 3 cards from these sets: Dungeons, Dungeon Boss (35% Chance).<br/>Rarties - Lvl 1: 35%, Lvl 2: 29%, Lvl 3: 20%, Lvl 4: 16%."
     ],
     "worksInGame": true
   },
@@ -8801,7 +8801,7 @@
     "source": "Gem Shop",
     "name": "Smolderin Card Pack",
     "bonuses": [
-      "Blah"
+      "Contains 4 cards from these sets: Smoulderin' Plateau, Hard Resources, & Bosses n Nightmares(At least 1).<br/>Rarties - Lvl 2: 30%, Lvl 3: 35%, Lvl 4: 35%."
     ],
     "worksInGame": true
   },

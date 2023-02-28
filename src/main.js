@@ -234,7 +234,7 @@ function parseGemShopRepo(keyValue){
     let body = keyValue[1];
     output.push({
         source: "Gem Shop",
-        name: body.itemName,
+        name: body.mtxName,
         bonuses: [body.desc],
         worksInGame: true
     });
