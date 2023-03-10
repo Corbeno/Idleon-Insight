@@ -1553,6 +1553,14 @@
   },
   {
     "source": "Liquid Shop",
+    "name": "Talent Point",
+    "bonuses": [
+      "Gives a redeemable talent point for the 3rd Talent Tab. Applies to all characters. This item's cost will reset every 50,000,000 years."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Liquid Shop",
     "name": "Grand Obols",
     "bonuses": [
       "1 random Obol. It could be a super rare gold obol, but it's most likely gonna be a bronze obol."
@@ -6289,7 +6297,7 @@
     "source": "Wizard Talents",
     "name": "Mana Is Life",
     "bonuses": [
-      "% of taken dmg is dealt to MP. Also passively boosts MP regen by +%"
+      "% dmg taken is dealt to MP. Also, +% Multikill per Damage Tier (World 3 feature)"
     ],
     "worksInGame": true
   },
@@ -6495,6 +6503,54 @@
   },
   {
     "source": "Elemental Sorcerer Talents",
+    "name": "Meteor Shower",
+    "bonuses": [
+      "Rains down  meteors onto nearby platforms, which deal % damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Lightning Barrage",
+    "bonuses": [
+      "Your next attack casts a lightning strike, dealing % dmg to up to  mobs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Radiant Chainbolt",
+    "bonuses": [
+      "Cast a bolt with % dmg and bounces up to  times, losing dmg each time"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Dimensional Wormhole",
+    "bonuses": [
+      "Spawns Wormhole Mobs which give +% XP & Drop per Wormhole kill and spawn more."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Chaotic Force",
+    "bonuses": [
+      "Basic attacks have a % chance to create either a Fireball, Tornado, or Volcano."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Believer Strength",
+    "bonuses": [
+      "+ Weapon Power for every 10 Divinity Lvs of this character."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
     "name": "Memorial Skulls",
     "bonuses": [
       "+% Kill per Kill per 1000 WIS. Each kill is worth more kills!"
@@ -6522,6 +6578,38 @@
     "name": "The Family Guy",
     "bonuses": [
       "+% larger Family Bonuses than what is displayed from bonuses given by this player"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Polytheism",
+    "bonuses": [
+      "Link to 2nd God based on Talents Lv. Stand under Omniphau God to De-Level."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Shared Beliefs",
+    "bonuses": [
+      "+% Divinity EXP Gain for all characters. Multiplicative too, divinilicious!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Gods Chosen Children",
+    "bonuses": [
+      "+% DMG for all chars per GOD Rank. Reach all 10 Gods first..."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Elemental Sorcerer Talents",
+    "name": "Wormhole Emperor",
+    "bonuses": [
+      "+% DMG per POW 10 kills of Wormhole Mobs. Applies to all characters!"
     ],
     "worksInGame": true
   },
@@ -8641,7 +8729,7 @@
     "source": "Gem Shop",
     "name": "Name Of Item",
     "bonuses": [
-      "Super close to getting a rose? Well don't worry I'll give you one more shot... good luck! Buying this will give you 100 Valenslimes Day Choco boxes."
+      "blah blah what a bore"
     ],
     "worksInGame": true
   },
@@ -8713,7 +8801,7 @@
     "source": "Gem Shop",
     "name": "Regular Talent Reset",
     "bonuses": [
-      "Resets all your talents to Lv 0, and fully refunds all talent points. This does NOT reset any of the                     Star Tab talents.                  This item restocks each week."
+      "Resets all your talents to Lv 0, and fully refunds all talent points. This does NOT reset any of the Star Tab talents. This item restocks each week."
     ],
     "worksInGame": true
   },
@@ -8737,7 +8825,7 @@
     "source": "Gem Shop",
     "name": "Pandoras Office Box",
     "bonuses": [
-      "Resets all your post office upgrades, and            refunds all boxes spent. This lets you choose          different post office box upgrades!            This item restocks each week."
+      "Resets all your post office upgrades, and refunds all boxes spent. This lets you choose different post office box upgrades! This item restocks each week."
     ],
     "worksInGame": true
   },
@@ -8863,49 +8951,25 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Ancient Artifact",
+    "name": "Elemental Sorcerer Hat",
     "bonuses": [
-      "Upgrades a random artifact you own to its ANCIENT form! 100% Success chance, no foolin! This item restocks every week. See Guild GP claim for when that happens."
+      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Pair Of Pearls",
+    "name": "Drop Rate Keychain",
     "bonuses": [
-      "You found a pair of what now? Where'd you find those, I don't remember stocking them... well, does it have a price tag? No? Eh lets just call it 1 gem... but the 2nd one is gonna cost ya extra!"
+      "This keychain comes with +25% Drop Rate bonus! Currently, the best possible Drop Rate keychain is 16%, so this is the best Drop Rate Keychain in the game yo!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Dragonic Liquid Cauldron",
+    "name": "Cosmic Time Candy",
     "bonuses": [
-      "Turns your 1st Liquid Cauldron into a Dragonic Cauldron, or 2nd Liquid Cauldron if you bought this before. Dragonic Cauldrons give 2x Liquid Capacity, a bonus which stacks with the 1.5x from Bleach Liquid Cauldrons."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Valenslime Boxes",
-    "bonuses": [
-      "100 Choco Boxes to open! Average rewards are 60 HOURS of Time Candy over 100 gems, and a 20% Chance at a Rose Cape! YOU CAN ONLY GET 3 ROSE CAPES, so maybe don't buy after you get all 3 capes!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Random Boss Obol",
-    "bonuses": [
-      "Gives you one of the Following Obols: Amarok Obol (+4% DEF), Efaunt Obol (+5% Boss Damage), Slush Obol (+3% Skill Efficiency), Chizoar Obol (+4% Total Damage), or Troll Obol (+3% ALL STAT)"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "World 4 Kill Ring",
-    "bonuses": [
-      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
+      "A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs."
     ],
     "worksInGame": true
   },
@@ -9105,7 +9169,7 @@
     "source": "Gem Shop",
     "name": "Console Chip",
     "bonuses": [
-      "Gives you a random console chip. There are currently 22 Chips in the game, so you have a 1 in      22 chance of getting any particular chip.      This item restocks each week."
+      "Gives you a random console chip. There are currently 22 Chips in the game, so you have a 1 in 22 chance of getting any particular chip. This item restocks each week."
     ],
     "worksInGame": true
   },
@@ -9113,7 +9177,7 @@
     "source": "Gem Shop",
     "name": "Mainframe Jewel",
     "bonuses": [
-      "Gives you a random Jewel that you don't already    own. No need to worry about duplicate jewels!    This item restocks each week, unless you own all Jewels, then it wont restock."
+      "Gives you a random Jewel that you don't already own. No need to worry about duplicate jewels! This item restocks each week, unless you own all Jewels, then it wont restock."
     ],
     "worksInGame": true
   },
@@ -9145,7 +9209,7 @@
     "source": "Gem Shop",
     "name": "Carton Of Eggs",
     "bonuses": [
-      "Each purchase gives anywhere from 3 to 12 eggs in your item inventory! Use these eggs in your          inventory to refill your nest with eggs!              This item restocks each day."
+      "Each purchase gives anywhere from 3 to 12 eggs in your item inventory! Use these eggs in your inventory to refill your nest with eggs! This item restocks each day."
     ],
     "worksInGame": true
   },
@@ -9153,7 +9217,7 @@
     "source": "Gem Shop",
     "name": "Miracle Chest",
     "bonuses": [
-      "Gives you 1 Miracle Chest from a random island! These have 20x more treasure and 30x higher     Artifact chance, including Ancient Artifacts!              This item restocks each day."
+      "Gives you 1 Miracle Chest from a random island! These have 20x more treasure and 30x higher Artifact chance, including Ancient Artifacts! This item restocks each day."
     ],
     "worksInGame": true
   },
@@ -9161,7 +9225,7 @@
     "source": "Gem Shop",
     "name": "Bottled Wind",
     "bonuses": [
-      "Gives you a bottled wind item. Use it in your       player inventory to instantly get 6 hours of                           sailing progress!                       This item restocks each day."
+      "Gives you a bottled wind item. Use it in your player inventory to instantly get 6 hours of sailing progress! This item restocks each day."
     ],
     "worksInGame": true
   },
@@ -9170,6 +9234,14 @@
     "name": "Chest Sluggo",
     "bonuses": [
       "Increases the maximum number of chests your sailing Loot Pile can hold by +1! Also adds a Chest Sluggo to roam around your dock! (Note:Not every purchase will visually add another slug, it'd be too chaotic!)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Ancient Artifact",
+    "bonuses": [
+      "Upgrades a random artifact you own to its ANCIENT form! 100% Success chance, no foolin! This item restocks every week. See Guild GP claim for when that happens."
     ],
     "worksInGame": true
   },
@@ -9193,7 +9265,7 @@
     "source": "Gem Shop",
     "name": "Gaming Fertilizer",
     "bonuses": [
-      "Gives you a gaming fertilizer item. Use it in your    player inventory to instantly get 8 hours of                         gaming progress!                     This item restocks each day."
+      "Gives you a gaming fertilizer item. Use it in your player inventory to instantly get 8 hours of gaming progress! This item restocks each day."
     ],
     "worksInGame": true
   },
@@ -19437,6 +19509,17 @@
       "AGI: 1",
       "WIS: 1",
       "10% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Ele Sorcerer Pointed Hat",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "5% All Stats"
     ],
     "worksInGame": true
   },
