@@ -5017,7 +5017,7 @@
     "source": "Squire Talents",
     "name": "Blocky Bottles",
     "bonuses": [
-      "Each Lv of 'Warriors Only' Bubble raises max Lv of 'Meat Shank' Talent, up to +"
+      "Each Lv of 'Warriors Rule' Bubble raises max Lv of 'Meat Shank' Talent, up to +"
     ],
     "worksInGame": true
   },
@@ -6998,6 +6998,14 @@
     "worksInGame": true
   },
   {
+    "source": "Special Talent 3 Talents",
+    "name": "Stat Overload",
+    "bonuses": [
+      "+ total STR, AGI, WIS, and LUK. Total means this bonus is not affected by +% ALL STAT."
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Achievement",
     "name": "Learn 2 Forge",
     "bonuses": [
@@ -8015,7 +8023,7 @@
   },
   {
     "source": "Achievement",
-    "name": "To Cute To Live",
+    "name": "Too Cute To Live",
     "bonuses": [
       "*5% Total Multikill &on all monsters"
     ],
@@ -8513,7 +8521,7 @@
     "source": "Achievement",
     "name": "Good Plate",
     "bonuses": [
-      "*RNG item unlock"
+      "*RNG item unlock &*W4 Shops EZ-Access"
     ],
     "worksInGame": true
   },
@@ -8570,6 +8578,278 @@
     "name": "Soda Poisoning",
     "bonuses": [
       "*Starfield Belt BG &for Title Screen"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "The True King",
+    "bonuses": [
+      "10 Tab 4 Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "The True Pirate",
+    "bonuses": [
+      "15 Tab 4 Talent Pts &1% Total Dmg"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "The True Emperor",
+    "bonuses": [
+      "12 Tab 4 Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Maple Logger",
+    "bonuses": [
+      "1% Damage for all &characters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Vitamin D-licious",
+    "bonuses": [
+      "50% Forge Ore &Capacity"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Wurm Wumbo",
+    "bonuses": [
+      "*Wurm Catacombs BG"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Supernatural Gamer",
+    "bonuses": [
+      "10% All Skill EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Smokin' Stars",
+    "bonuses": [
+      "20% All Skill EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "The Plateauourist",
+    "bonuses": [
+      "4 Daily Crystal Mob &Spawn Guarantee"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "No Krakens? ):",
+    "bonuses": [
+      "25% Class EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Artifact Finder",
+    "bonuses": [
+      "*1 Extra Chest Slot in &Sailing Loot Pile"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Artifact Enjoyer",
+    "bonuses": [
+      "*Magma Rivertown BG"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Artifact Jones",
+    "bonuses": [
+      "20 Star Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Gilded Vessel",
+    "bonuses": [
+      "*1 Extra Chest Slot in &Sailing Loot Pile"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Maroon Warship",
+    "bonuses": [
+      "1 Lv to all Talents &for all characters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Glory To Nobisect",
+    "bonuses": [
+      "10 'Tab 4' Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "All Hail Purrmep",
+    "bonuses": [
+      "10 Alternate Particle &Alchemy Upgrades Per &Day"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Long Live Bagur",
+    "bonuses": [
+      "10% All Skill EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "POiNG Champion",
+    "bonuses": [
+      "323 at the time of coding this!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Lucky Harvest",
+    "bonuses": [
+      "*1.05x Bit Gain in &Gaming"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Chemical Collector",
+    "bonuses": [
+      "3% Damage for all &characters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Voraci Vantasia",
+    "bonuses": [
+      "10% Divinity Points &Gained"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Bonsai Bonanza",
+    "bonuses": [
+      "*W5 Shop EZ-Access"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Perfect Trade Deal",
+    "bonuses": [
+      "1 additional Treasure &Per Chest for Sailing"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "True Naval Captain",
+    "bonuses": [
+      "20% Captain EXP &for sailing"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Legendary Orb",
+    "bonuses": [
+      "*Smoggy Basin BG"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Legendary Flag",
+    "bonuses": [
+      "2% Damage for all &characters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Legendary Wormhole",
+    "bonuses": [
+      "10% Divinity Points &Gained"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Utter DISRESPECT",
+    "bonuses": [
+      "20 Star Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Sneaky Stealing",
+    "bonuses": [
+      "25% Shop Capacity &for all Town Shops"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Broken Controller",
+    "bonuses": [
+      "*1.05x Bit Gain in &Gaming"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Lavathian Skulls",
+    "bonuses": [
+      "2% Faster Monster &Respawn Time for &All World 5 mobs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Seaworthy Captain",
+    "bonuses": [
+      "1% ALL STAT for &all characters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Grand Captain",
+    "bonuses": [
+      "20% Captain EXP &for sailing"
     ],
     "worksInGame": true
   },
@@ -8951,25 +9231,57 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Elemental Sorcerer Hat",
+    "name": "Divinity Pearl",
     "bonuses": [
-      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
+      "Gives you 5 Divinity Pearls, which give 40% EXP for the skill that's shown in the corner of the screen!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Drop Rate Keychain",
+    "name": "Holy Pearl",
     "bonuses": [
-      "This keychain comes with +25% Drop Rate bonus! Currently, the best possible Drop Rate keychain is 16%, so this is the best Drop Rate Keychain in the game yo!"
+      "Gives 5 Holy Pearls, which give Class EXP. The amount you gain is based on your Class LV! For example, Lv. 100 would give 37% exp, and Lv. 200 would give 15% Exp"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
+    "name": "Random Hyper Obol",
     "bonuses": [
-      "A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs."
+      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Bottled Wind",
+    "bonuses": [
+      "Gives you a bottled wind item. Use it in your player inventory to instantly get 6 hours of sailing progress! This item restocks each day."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Dungeon Dice",
+    "bonuses": [
+      "Gives you 5 rolls of the Dungeon Loot Dice. Credits, Flurbos, and Keychains are all rewards!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "World 4 Kill Ring",
+    "bonuses": [
+      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Purple Parasite",
+    "bonuses": [
+      "This little fella's name is Lamar, and it wants to give you a big ol' kiss right on the entirety of your head!"
     ],
     "worksInGame": true
   },
@@ -9218,14 +9530,6 @@
     "name": "Miracle Chest",
     "bonuses": [
       "Gives you 1 Miracle Chest from a random island! These have 20x more treasure and 30x higher Artifact chance, including Ancient Artifacts! This item restocks each day."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Bottled Wind",
-    "bonuses": [
-      "Gives you a bottled wind item. Use it in your player inventory to instantly get 6 hours of sailing progress! This item restocks each day."
     ],
     "worksInGame": true
   },
@@ -10113,13 +10417,77 @@
     "source": "Merit Shop",
     "name": "Upgrade: 30",
     "bonuses": [
-      "IDK YETDescline2"
+      "+ Bubbles upgraded by 'No Bubble LeftBehind' per day. Bubble blowin' baby!"
     ],
     "worksInGame": true
   },
   {
     "source": "Merit Shop",
     "name": "Upgrade: 31",
+    "bonuses": [
+      "IDK YETDescline2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 32",
+    "bonuses": [
+      "+ Talent Pts for Tab 4, so you canmax out those Elite Class talents!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 33",
+    "bonuses": [
+      "All Smolderin Plateau Mobs respawn +%faster. This boosts AFK kills per hour!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 34",
+    "bonuses": [
+      "+ Loot Pile Capacity. More sailingchest storage ain't bad, eh?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 35",
+    "bonuses": [
+      "Boosts Max Lv. to  for 'Stat Overload'Talent. Get those 10k stats!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 36",
+    "bonuses": [
+      "+% EXP for Sailing, Divinity, andGaming skills. Experience POINTS!!!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 37",
+    "bonuses": [
+      "Unlocks recipe to craft Kattle .Descline2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 38",
+    "bonuses": [
+      "+% reduction in Atom Upgrade Costs,so you can upgrade Atoms more!!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 39",
     "bonuses": [
       "IDK YETDescline2"
     ],
