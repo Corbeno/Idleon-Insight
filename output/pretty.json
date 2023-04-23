@@ -859,7 +859,7 @@
     "source": "Kazam Cauldron",
     "name": "Stamp Tramp",
     "bonuses": [
-      "Increases the Max Lv of the 'Toilet Paper Postage' Talent to . You can unlock this talent by typing 'More like Poopy Pete' near Pete."
+      "Increases the Max Lv of the 'Toilet Paper Postage' Talent to . You unlock this talent by typing 'More like Poopy Pete' near Pete."
     ],
     "worksInGame": true
   },
@@ -971,7 +971,7 @@
     "source": "Kazam Cauldron",
     "name": "Petting The Rift",
     "bonuses": [
-      "x New Pet Chance for every gap you traverse in the SpaceTime Rift. The Rift entrance is deep in World 4, far above the 8 armed octodars."
+      "+% Shiny Pet Chance for every new Rift level you reach. Go find the Rift Ripper, above the Octodars in World 4."
     ],
     "worksInGame": true
   },
@@ -1243,7 +1243,7 @@
     "source": "Vials",
     "name": "Poison Tincture",
     "bonuses": [
-      "Eagle Eye Trap-O-Vision gives +% more critters. It will always give less than if you manually collected the traps though."
+      "Eagle Eye Trap-O-Vision gives +% more critters."
     ],
     "worksInGame": true
   },
@@ -1339,7 +1339,7 @@
     "source": "Vials",
     "name": "Goosey Glug",
     "bonuses": [
-      "+ base critter per trap. This is a sHONKingly good bonus, the only one of its kind!"
+      "+ base critter per trap. This is a sHONKingly good bonus, the aren't many other of it's kind!"
     ],
     "worksInGame": true
   },
@@ -3199,7 +3199,7 @@
     "source": "Lab Bonus",
     "name": "Unadulterated Banking Fury",
     "bonuses": [
-      "+2% Total Damage for each 'greened' stack of resources in your bank. A 'greened' stack is one with 10 million or more items. @ - @ Total Bonus: %"
+      "+2% Total Damage for each 'green stack' of resources in your bank. A 'green stack' is a stack in your Storage Chest with 10 million or more items, since the number turns Green after 10M! @ - @ Total Bonus: %"
     ],
     "worksInGame": true
   },
@@ -15482,6 +15482,2128 @@
   },
   {
     "source": "Armor",
+    "name": "Riftwalker Wings",
+    "bonuses": [
+      "Weapon Power: 25",
+      "STR: 30",
+      "AGI: 30",
+      "WIS: 30",
+      "LUK: 30",
+      "Defence: 60",
+      "20% Total Damage",
+      "4% All Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Sword Stamp",
+    "bonuses": [
+      "+ Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Heart Stamp",
+    "bonuses": [
+      "+ Base HP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Mana Stamp",
+    "bonuses": [
+      "+ Base MP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Tomahawk Stamp",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Target Stamp",
+    "bonuses": [
+      "+ Base Accuracy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Shield Stamp",
+    "bonuses": [
+      "+ Base Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Longsword Stamp",
+    "bonuses": [
+      "+ Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Kapow Stamp",
+    "bonuses": [
+      "+% Critical Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Fist Stamp",
+    "bonuses": [
+      "+ STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Battleaxe Stamp",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Agile Stamp",
+    "bonuses": [
+      "+ AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Vitality Stamp",
+    "bonuses": [
+      "+ Base HP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Book Stamp",
+    "bonuses": [
+      "+ WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Manamoar Stamp",
+    "bonuses": [
+      "+ Base MP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Clover Stamp",
+    "bonuses": [
+      "+ LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Scimitar Stamp",
+    "bonuses": [
+      "+ Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Bullseye Stamp",
+    "bonuses": [
+      "+ Base Accuracy."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Feather Stamp",
+    "bonuses": [
+      "+% Movement Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Polearm Stamp",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Violence Stamp",
+    "bonuses": [
+      "+ STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Buckler Stamp",
+    "bonuses": [
+      "+ Base Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Hermes Stamp",
+    "bonuses": [
+      "+ AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Sukka Foo",
+    "bonuses": [
+      "+% Damage Toward Bosses"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Arcane Stamp",
+    "bonuses": [
+      "+ WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Avast Yar Stamp",
+    "bonuses": [
+      "+ Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Steve Sword",
+    "bonuses": [
+      "+% Total Damage. Also grats on 1 million followers!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Blover Stamp",
+    "bonuses": [
+      "+ LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Stat Graph Stamp",
+    "bonuses": [
+      "+ All Stats. ''All Stats'' means STR, AGI, WIS, and LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Gilded Axe Stamp",
+    "bonuses": [
+      "+ Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Diamond Axe Stamp",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Tripleshot Stamp",
+    "bonuses": [
+      "+ Base Accuracy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Blackheart Stamp",
+    "bonuses": [
+      "+ Base HP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Maxo Slappo Stamp",
+    "bonuses": [
+      "+ STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Sashe Sidestamp",
+    "bonuses": [
+      "+ AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Intellectostampo",
+    "bonuses": [
+      "+ WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Conjocharmo Stamp",
+    "bonuses": [
+      "+ LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Dementia Sword",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Pickaxe Stamp",
+    "bonuses": [
+      "+ Base Mining Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Hatchet Stamp",
+    "bonuses": [
+      "+ Base Choppin' Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Anvil Zoomer Stamp",
+    "bonuses": [
+      "+% Anvil Production Speed. This affects the 'Produce' tab within the anvil."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Lil' Mining Baggy Stamp",
+    "bonuses": [
+      "+% Carrying Capacity for Mining Items"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Twin Ores Stamp",
+    "bonuses": [
+      "+% Multi-Ore Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Choppin' Bag Stamp",
+    "bonuses": [
+      "+% Carrying Capacity for Choppin' Items"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Duplogs Stamp",
+    "bonuses": [
+      "+% Multi-Log Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Matty Bag Stamp",
+    "bonuses": [
+      "+% Carrying Capacity for Material Items"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Smart Dirt Stamp",
+    "bonuses": [
+      "+% Mining Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Cool Diggy Tool Stamp",
+    "bonuses": [
+      "+ Base Mining Efficicency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "High IQ Lumber Stamp",
+    "bonuses": [
+      "+% Choppin Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Swag Swingy Tool Stamp",
+    "bonuses": [
+      "+ Base Choppin' Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Alch Go Brrr Stamp",
+    "bonuses": [
+      "+% Alchemy Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Brainstew Stamps",
+    "bonuses": [
+      "+% Alchemy Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Drippy Drop Stamp",
+    "bonuses": [
+      "+% Liquid Regen Speed in Alchemy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Droplots Stamp",
+    "bonuses": [
+      "+ Cap for all Liquids in Alchemy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Fishing Rod Stamp",
+    "bonuses": [
+      "+ Base Fishing Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Fishhead Stamp",
+    "bonuses": [
+      "+% Fishing Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Catch Net Stamp",
+    "bonuses": [
+      "+ Base Catching Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Fly Intel Stamp",
+    "bonuses": [
+      "+% Catching Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Bag o Heads Stamp",
+    "bonuses": [
+      "+% Carry Capacity for Fishing Items"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Holy Mackerel Stamp",
+    "bonuses": [
+      "+% Multi-Fish Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Bugsack Stamp",
+    "bonuses": [
+      "+% Carry Capacity for Catching Items"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Buzz Buzz Stamp",
+    "bonuses": [
+      "+% Multi-Bug Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Hidey Box Stamp",
+    "bonuses": [
+      "+ Base Trapping Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Purp Froge Stamp",
+    "bonuses": [
+      "+% Shiny Catch rate, multiplier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Spikemouth Stamp",
+    "bonuses": [
+      "+% Trapping Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Shiny Crab Stamp",
+    "bonuses": [
+      "+% Shiny Catch rate, multiplier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Gear Stamp",
+    "bonuses": [
+      "+% Building Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Stample Stamp",
+    "bonuses": [
+      "+% 3D Printer Sampling Size"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Saw Stamp",
+    "bonuses": [
+      "+% Construction Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Amplestample Stamp",
+    "bonuses": [
+      "+% 3D Printer Sampling Size"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "SpoOoky Stamp",
+    "bonuses": [
+      "+ Base Worship Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Flowin Stamp",
+    "bonuses": [
+      "+% Charge Rate per Hour, multiplier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Prayday Stamp",
+    "bonuses": [
+      "+% Max Charge"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Banked Pts Stamp",
+    "bonuses": [
+      "+ Starting Points in Worship Tower Defense"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Cooked Meal Stamp",
+    "bonuses": [
+      "+% Meal Cooking Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Spice Stamp",
+    "bonuses": [
+      "+% New Recipe Cooking Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Ladle Stamp",
+    "bonuses": [
+      "+ Cooking Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Nest Eggs Stamp",
+    "bonuses": [
+      "+% Breeding EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Egg Stamp",
+    "bonuses": [
+      "+% New Pet Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Lab Tube Stamp",
+    "bonuses": [
+      "+% Lab Exp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Sailboat Stamp",
+    "bonuses": [
+      "+% Sailing Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Gamejoy Stamp",
+    "bonuses": [
+      "+% Gaming EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Divine Stamp",
+    "bonuses": [
+      "+% Divinity EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Multitool Stamp",
+    "bonuses": [
+      "+ All Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Questin Stamp",
+    "bonuses": [
+      "+% Quest Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Mason Jar Stamp",
+    "bonuses": [
+      "+% Carry Capacity for ALL item types!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Crystallin",
+    "bonuses": [
+      "+% Crystal Monster Spawn Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Arcade Ball Stamp",
+    "bonuses": [
+      "+% Arcade Ball recharge rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Gold Ball Stamp",
+    "bonuses": [
+      "+% reduced golden ball cost for upgrades"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Potion Stamp",
+    "bonuses": [
+      "+% Effect from Boost Food, like Potions and stuff, like, such as!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Golden Apple Stamp",
+    "bonuses": [
+      "+% Effect from Golden Food. Sparkle sparkle!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Ball Timer Stamp",
+    "bonuses": [
+      "+hr Arcade Ball claim max time"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Card Stamp",
+    "bonuses": [
+      "+% Card Drop Rate. Go get them cards boy-o!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Blank",
+    "bonuses": [
+      "+"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Blank",
+    "bonuses": [
+      "+"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Blank",
+    "bonuses": [
+      "+"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Talent I Stamp",
+    "bonuses": [
+      "+ Talent Points for Tab 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Talent II Stamp",
+    "bonuses": [
+      "+ Talent Points for Tab 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Talent III Stamp",
+    "bonuses": [
+      "+ Talent Points for Tab 3"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Talent IV Stamp",
+    "bonuses": [
+      "+ Talent Points for Tab 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Talent V Stamp",
+    "bonuses": [
+      "+ Talent Points for Tab 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Talent S Stamp",
+    "bonuses": [
+      "+ Talent Points for Star Tab"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Multikill Stamp",
+    "bonuses": [
+      "+% Base Multikill Rate, for all worlds."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Biblio Stamp",
+    "bonuses": [
+      "+% Talent Book Library Refresh Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "DNA Stamp",
+    "bonuses": [
+      "+% DNA gained from Splicing"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Refinery Stamp",
+    "bonuses": [
+      "+% Faster refinery cycles"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Easter Weapon Stone",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +1 Weapon Power, +2 Defence. Success Chance; 25% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Summer Weapon Stone",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +1 Random Stat, +3 Defence. Success Chance; 40% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone I",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +1 Weapon Power. Success Chance; 100% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone II",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +1 Weapon Power, +1 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone III",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +2 Weapon Power, +1 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone C",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +6 Weapon Power. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Warped Weapon Upgrade Stone",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +3 Weapon Power, +4 Random Stat. Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone IV",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +4 Weapon Power, +3 Main Stat. Success Chance; 20% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone V",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +5 Weapon Power, +5 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Easter Armor Stone",
+    "bonuses": [
+      "Drag onto any Armor to apply. +1 Defence, +3 Random Stat. Success Chance; 30% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Summer Armor Stone",
+    "bonuses": [
+      "Drag onto any Armor to apply. +3 Defence. Success Chance; 50% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone I",
+    "bonuses": [
+      "Drag onto any Armor to apply. +2 Defence, +1 Random Stat. Success Chance; 100% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone G",
+    "bonuses": [
+      "Drag onto any Armor to apply. +4 Random Stat. Success Chance; 42% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone II",
+    "bonuses": [
+      "Drag onto any Armor to apply. +2 Defence, +2 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone B",
+    "bonuses": [
+      "Drag onto any Armor to apply. +5 Defence. Success Chance; 45% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone III",
+    "bonuses": [
+      "Drag onto any Armor to apply. +3 Defence, +4 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone C",
+    "bonuses": [
+      "Drag onto any Armor to apply. +1 Weapon Power, +3 Random Stat. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone IV",
+    "bonuses": [
+      "Drag onto any Armor to apply. +7 Defence, +4 Main Stat. Success Chance; 20% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone V",
+    "bonuses": [
+      "Drag onto any Armor to apply. +10 Defence, +6 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Easter Tool Upgrade Stone",
+    "bonuses": [
+      "Drag onto any Tool to apply. +3 Random Stat. Success Chance; 30% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Tool Upgrade Stone I",
+    "bonuses": [
+      "Drag onto any Tool to apply. +1 Weapon Power, +1 Random Stat. Success Chance; 100% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Giftmas Tool Upgrade Stone",
+    "bonuses": [
+      "Drag onto any Tool to apply. +4 Random Stat. Success Chance; 60% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Summer Tool Upgrade Stone",
+    "bonuses": [
+      "Drag onto any Tool to apply. +3 Defence. Success Chance; 50% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Tool Upgrade Stone II",
+    "bonuses": [
+      "Drag onto any Tool to apply. +2 Weapon Power, +2 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Tool Upgrade Stone III",
+    "bonuses": [
+      "Drag onto any Tool to apply. +3 Weapon Power, +4 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Tool Upgrade Stone IV",
+    "bonuses": [
+      "Drag onto any Tool to apply. +5 Weapon Power, +4 Main Stat. Success Chance; 20% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Tool Upgrade Stone V",
+    "bonuses": [
+      "Drag onto any Tool to apply. +6 Weapon Power, +6 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Helmet Upgrade Stone I",
+    "bonuses": [
+      "Drag onto any Helmet to apply. +3 Random Stat. Success Chance; 70% Uses up 1 slots only if Successful "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Warped Helmet Upgrade Stone",
+    "bonuses": [
+      "Drag onto any Helmet to apply. +5 Random Stat. Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Giftmas Helmet Upgrade Stone",
+    "bonuses": [
+      "Drag onto any Helmet to apply. +4 Random Stat. Success Chance; 60% Uses up 1 item slots. "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Mystery Upgrade Stone I",
+    "bonuses": [
+      "Drag onto any Equip to apply. +3 Mystery Stat. Success Chance; 100% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Mystery Upgrade Stone II",
+    "bonuses": [
+      "Drag onto any Equip to apply. +4 Mystery Stat. Success Chance; 50% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Mystery Upgrade Stone III",
+    "bonuses": [
+      "Drag onto any Equip to apply. +8 Mystery Stat. Success Chance; 30% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Premium STR Stone",
+    "bonuses": [
+      "Drag onto any Equip to apply. +5 STR. Success Chance; 101% Can only be used on Premium Equips! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Premium AGI Stone",
+    "bonuses": [
+      "Drag onto any Equip to apply. +5 AGI. Success Chance; 101% Can only be used on Premium Equips! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Premium WIS Stone",
+    "bonuses": [
+      "Drag onto any Equip to apply. +5 WIS. Success Chance; 101% Can only be used on Premium Equips! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Premium LUK Stone",
+    "bonuses": [
+      "Drag onto any Equip to apply. +5 LUK. Success Chance; 101% Can only be used on Premium Equips! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Flesh Reaper",
+    "bonuses": [
+      "Weapon Power: 690",
+      "AGI: 80",
+      "LUK: 420",
+      "Speed: 9",
+      "Reach: 70"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Hyper Six Obol",
+    "bonuses": [
+      "Weapon Power: 1",
+      "4% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Hyper Pyre Obol",
+    "bonuses": [
+      "Weapon Power: 1",
+      "2% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Hyper DMG Obol",
+    "bonuses": [
+      "Weapon Power: 1",
+      "3% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Hyper Skull Obol",
+    "bonuses": [
+      "Weapon Power: 2",
+      "2% Multikill Per Tier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze STR Obol",
+    "bonuses": [
+      "STR: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver STR Obol",
+    "bonuses": [
+      "STR: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Gold STR Obol",
+    "bonuses": [
+      "STR: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum STR Obol",
+    "bonuses": [
+      "STR: 7"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia STR Obol",
+    "bonuses": [
+      "Weapon Power: 1",
+      "STR: 12"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze AGI Obol",
+    "bonuses": [
+      "AGI: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver AGI Obol",
+    "bonuses": [
+      "AGI: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Gold AGI Obol",
+    "bonuses": [
+      "AGI: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum AGI Obol",
+    "bonuses": [
+      "AGI: 7"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia AGI Obol",
+    "bonuses": [
+      "Weapon Power: 1",
+      "AGI: 12"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze WIS Obol",
+    "bonuses": [
+      "WIS: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver WIS Obol",
+    "bonuses": [
+      "WIS: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Gold WIS Obol",
+    "bonuses": [
+      "WIS: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum WIS Obol",
+    "bonuses": [
+      "WIS: 7"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia WIS Obol",
+    "bonuses": [
+      "Weapon Power: 1",
+      "WIS: 12"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze LUK Obol",
+    "bonuses": [
+      "LUK: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver LUK Obol",
+    "bonuses": [
+      "LUK: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Gold LUK Obol",
+    "bonuses": [
+      "LUK: 4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum LUK Obol",
+    "bonuses": [
+      "LUK: 7"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia LUK Obol",
+    "bonuses": [
+      "Weapon Power: 1",
+      "LUK: 12"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Puny Damage",
+    "bonuses": [
+      "5Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Little Damage",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "10Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Big Boy Damage",
+    "bonuses": [
+      "Weapon Power: 1",
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "20Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Lethal Damage",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 2",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "50Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Infinite Damage",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "100Base Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Blinding Speed",
+    "bonuses": [
+      "AGI: 4",
+      "2% Movement Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Pocket Change",
+    "bonuses": [
+      "6% Money"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Plentiful Riches",
+    "bonuses": [
+      "10% Money"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Small Swings",
+    "bonuses": [
+      "1 Mining Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Moderate Mining",
+    "bonuses": [
+      "2 Mining Power",
+      "STR: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Diligent Digging",
+    "bonuses": [
+      "3 Mining Power",
+      "STR: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Dwarven Delving",
+    "bonuses": [
+      "4 Mining Power",
+      "STR: 3",
+      "2% Mining Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Magisterial Metals",
+    "bonuses": [
+      "5 Mining Power",
+      "STR: 5",
+      "8% Mining Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Chippin Chops",
+    "bonuses": [
+      "1 Choppin Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Big Bark",
+    "bonuses": [
+      "2 Choppin Power",
+      "WIS: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Huge Hackin",
+    "bonuses": [
+      "3 Choppin Power",
+      "WIS: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Lumby Loggo",
+    "bonuses": [
+      "4 Choppin Power",
+      "WIS: 3",
+      "2% Chop Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of WOWOWOWWO",
+    "bonuses": [
+      "5 Choppin Power",
+      "WIS: 5",
+      "8% Chop Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Finite Fish",
+    "bonuses": [
+      "1 Fishing Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Puny Pikes",
+    "bonuses": [
+      "2 Fishing Power",
+      "STR: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Crazy Carp",
+    "bonuses": [
+      "3 Fishing Power",
+      "STR: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Tremendous Trout",
+    "bonuses": [
+      "4 Fishing Power",
+      "STR: 3",
+      "2% Fishin Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Monument Marlins",
+    "bonuses": [
+      "5 Fishing Power",
+      "STR: 5",
+      "8% Fishin Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Few Flies",
+    "bonuses": [
+      "1 Catching Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Big Bugs",
+    "bonuses": [
+      "2 Catching Power",
+      "AGI: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Insane Insects",
+    "bonuses": [
+      "3 Catching Power",
+      "AGI: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Ample Anthropods",
+    "bonuses": [
+      "4 Catching Power",
+      "AGI: 3",
+      "2% Catch Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Colossal Crawlies",
+    "bonuses": [
+      "5 Catching Power",
+      "AGI: 5",
+      "8% Catch Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Double Sixes",
+    "bonuses": [
+      "LUK: 2",
+      "5% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Triple Sixes",
+    "bonuses": [
+      "LUK: 3",
+      "7% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Yahtzee Sixes",
+    "bonuses": [
+      "LUK: 5",
+      "10% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Infinisixes",
+    "bonuses": [
+      "LUK: 7",
+      "15% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Pop",
+    "bonuses": [
+      "LUK: 1",
+      "Defence: 1",
+      "2% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Pop Pop",
+    "bonuses": [
+      "LUK: 3",
+      "Defence: 2",
+      "3% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Poppity Pop",
+    "bonuses": [
+      "LUK: 6",
+      "Defence: 3",
+      "4% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Poppity Poppy",
+    "bonuses": [
+      "LUK: 9",
+      "Defence: 4",
+      "6% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Pop Pop Pop Pop",
+    "bonuses": [
+      "LUK: 12",
+      "Defence: 5",
+      "9% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Multikill",
+    "bonuses": [
+      "1% Multikill"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Megakill",
+    "bonuses": [
+      "2% Multikill"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Ultrakill",
+    "bonuses": [
+      "Weapon Power: 1",
+      "3% Multikill"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Killimanjaro",
+    "bonuses": [
+      "Weapon Power: 1",
+      "5% Multikill"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Killionaire",
+    "bonuses": [
+      "Weapon Power: 2",
+      "10% Multikill"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Experience",
+    "bonuses": [
+      "1% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Experience",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "1% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Experience",
+    "bonuses": [
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
+      "2% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Experience",
+    "bonuses": [
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "3% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Experience",
+    "bonuses": [
+      "Weapon Power: 1",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "4% Xp From Monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Cards",
+    "bonuses": [
+      "1% Card Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Cards",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "3% Card Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Cards",
+    "bonuses": [
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
+      "5% Card Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Cards",
+    "bonuses": [
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "7% Card Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Cards",
+    "bonuses": [
+      "Weapon Power: 1",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "10% Card Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Defence",
+    "bonuses": [
+      "Defence: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Defence",
+    "bonuses": [
+      "Defence: 3"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Defence",
+    "bonuses": [
+      "Defence: 6"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Defense with an S",
+    "bonuses": [
+      "Defence: 15"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Defence",
+    "bonuses": [
+      "Defence: 25"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Trapping",
+    "bonuses": [
+      "1 Trapping Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Trapping",
+    "bonuses": [
+      "2 Trapping Power",
+      "AGI: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Trapping",
+    "bonuses": [
+      "3 Trapping Power",
+      "AGI: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Trapping",
+    "bonuses": [
+      "5 Trapping Power",
+      "AGI: 3"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Trapping",
+    "bonuses": [
+      "7 Trapping Power",
+      "AGI: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Construction",
+    "bonuses": [
+      "1% Build Spd"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Construction",
+    "bonuses": [
+      "STR: 1",
+      "2% Build Spd"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Construction",
+    "bonuses": [
+      "STR: 2",
+      "5% Build Spd"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Construction",
+    "bonuses": [
+      "STR: 3",
+      "12% Build Spd"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Construction",
+    "bonuses": [
+      "STR: 5",
+      "20% Build Spd"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Bronze Obol of Worship",
+    "bonuses": [
+      "1 Worship Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Silver Obol of Worship",
+    "bonuses": [
+      "2 Worship Power",
+      "WIS: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Golden Obol of Worship",
+    "bonuses": [
+      "3 Worship Power",
+      "WIS: 2"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Platinum Obol of Worship",
+    "bonuses": [
+      "5 Worship Power",
+      "WIS: 3"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Dementia Obol of Worship",
+    "bonuses": [
+      "7 Worship Power",
+      "WIS: 5"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Granite Obol of Amarok's Stare",
+    "bonuses": [
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
+      "LUK: 2",
+      "Defence: 5",
+      "4% Defence"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Skeletal Obol of Efaunt's Gaze",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
+      "LUK: 5",
+      "5% Boss Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Frozen Obol of Chizoar's Rage",
+    "bonuses": [
+      "Weapon Power: 4",
+      "Defence: 2",
+      "4% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Slushy Obol of Much Dilapidation",
+    "bonuses": [
+      "STR: 4",
+      "AGI: 4",
+      "WIS: 4",
+      "LUK: 4",
+      "3% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Jagged Obol of Massive Trolling",
+    "bonuses": [
+      "Weapon Power: 4",
+      "STR: 9",
+      "AGI: 9",
+      "WIS: 9",
+      "LUK: 9",
+      "Defence: 10",
+      "3% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Grumpy Obol of the Grandfrogger",
+    "bonuses": [
+      "Defence: 2",
+      "12% Money",
+      "1% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Obol",
+    "name": "Vigilant Obol of Ice Guard",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "Defence: 5",
+      "8% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Simple Key Chain",
     "bonuses": [
       "Defence: 1",
@@ -17230,2113 +19352,6 @@
     "name": "Butter Bar",
     "bonuses": [
       "Increases your Base Accuracy. This is technically golden food!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Hyper Six Obol",
-    "bonuses": [
-      "Weapon Power: 1",
-      "4% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Hyper Pyre Obol",
-    "bonuses": [
-      "Weapon Power: 1",
-      "2% All Stats"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Hyper DMG Obol",
-    "bonuses": [
-      "Weapon Power: 1",
-      "3% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Hyper Skull Obol",
-    "bonuses": [
-      "Weapon Power: 2",
-      "2% Multikill Per Tier"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze STR Obol",
-    "bonuses": [
-      "STR: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver STR Obol",
-    "bonuses": [
-      "STR: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Gold STR Obol",
-    "bonuses": [
-      "STR: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum STR Obol",
-    "bonuses": [
-      "STR: 7"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia STR Obol",
-    "bonuses": [
-      "Weapon Power: 1",
-      "STR: 12"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze AGI Obol",
-    "bonuses": [
-      "AGI: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver AGI Obol",
-    "bonuses": [
-      "AGI: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Gold AGI Obol",
-    "bonuses": [
-      "AGI: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum AGI Obol",
-    "bonuses": [
-      "AGI: 7"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia AGI Obol",
-    "bonuses": [
-      "Weapon Power: 1",
-      "AGI: 12"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze WIS Obol",
-    "bonuses": [
-      "WIS: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver WIS Obol",
-    "bonuses": [
-      "WIS: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Gold WIS Obol",
-    "bonuses": [
-      "WIS: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum WIS Obol",
-    "bonuses": [
-      "WIS: 7"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia WIS Obol",
-    "bonuses": [
-      "Weapon Power: 1",
-      "WIS: 12"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze LUK Obol",
-    "bonuses": [
-      "LUK: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver LUK Obol",
-    "bonuses": [
-      "LUK: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Gold LUK Obol",
-    "bonuses": [
-      "LUK: 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum LUK Obol",
-    "bonuses": [
-      "LUK: 7"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia LUK Obol",
-    "bonuses": [
-      "Weapon Power: 1",
-      "LUK: 12"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Puny Damage",
-    "bonuses": [
-      "5Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Little Damage",
-    "bonuses": [
-      "STR: 1",
-      "AGI: 1",
-      "WIS: 1",
-      "10Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Big Boy Damage",
-    "bonuses": [
-      "Weapon Power: 1",
-      "STR: 1",
-      "AGI: 1",
-      "WIS: 1",
-      "20Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Lethal Damage",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 2",
-      "AGI: 3",
-      "WIS: 3",
-      "LUK: 3",
-      "50Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Infinite Damage",
-    "bonuses": [
-      "Weapon Power: 3",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "LUK: 5",
-      "100Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Blinding Speed",
-    "bonuses": [
-      "AGI: 4",
-      "2% Movement Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Pocket Change",
-    "bonuses": [
-      "6% Money"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Plentiful Riches",
-    "bonuses": [
-      "10% Money"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Small Swings",
-    "bonuses": [
-      "1 Mining Power"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Moderate Mining",
-    "bonuses": [
-      "2 Mining Power",
-      "STR: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Diligent Digging",
-    "bonuses": [
-      "3 Mining Power",
-      "STR: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Dwarven Delving",
-    "bonuses": [
-      "4 Mining Power",
-      "STR: 3",
-      "2% Mining Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Magisterial Metals",
-    "bonuses": [
-      "5 Mining Power",
-      "STR: 5",
-      "8% Mining Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Chippin Chops",
-    "bonuses": [
-      "1 Choppin Power"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Big Bark",
-    "bonuses": [
-      "2 Choppin Power",
-      "WIS: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Huge Hackin",
-    "bonuses": [
-      "3 Choppin Power",
-      "WIS: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Lumby Loggo",
-    "bonuses": [
-      "4 Choppin Power",
-      "WIS: 3",
-      "2% Chop Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of WOWOWOWWO",
-    "bonuses": [
-      "5 Choppin Power",
-      "WIS: 5",
-      "8% Chop Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Finite Fish",
-    "bonuses": [
-      "1 Fishing Power"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Puny Pikes",
-    "bonuses": [
-      "2 Fishing Power",
-      "STR: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Crazy Carp",
-    "bonuses": [
-      "3 Fishing Power",
-      "STR: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Tremendous Trout",
-    "bonuses": [
-      "4 Fishing Power",
-      "STR: 3",
-      "2% Fishin Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Monument Marlins",
-    "bonuses": [
-      "5 Fishing Power",
-      "STR: 5",
-      "8% Fishin Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Few Flies",
-    "bonuses": [
-      "1 Catching Power"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Big Bugs",
-    "bonuses": [
-      "2 Catching Power",
-      "AGI: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Insane Insects",
-    "bonuses": [
-      "3 Catching Power",
-      "AGI: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Ample Anthropods",
-    "bonuses": [
-      "4 Catching Power",
-      "AGI: 3",
-      "2% Catch Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Colossal Crawlies",
-    "bonuses": [
-      "5 Catching Power",
-      "AGI: 5",
-      "8% Catch Efficincy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Double Sixes",
-    "bonuses": [
-      "LUK: 2",
-      "5% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Triple Sixes",
-    "bonuses": [
-      "LUK: 3",
-      "7% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Yahtzee Sixes",
-    "bonuses": [
-      "LUK: 5",
-      "10% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Infinisixes",
-    "bonuses": [
-      "LUK: 7",
-      "15% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Pop",
-    "bonuses": [
-      "LUK: 1",
-      "Defence: 1",
-      "2% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Pop Pop",
-    "bonuses": [
-      "LUK: 3",
-      "Defence: 2",
-      "3% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Poppity Pop",
-    "bonuses": [
-      "LUK: 6",
-      "Defence: 3",
-      "4% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Poppity Poppy",
-    "bonuses": [
-      "LUK: 9",
-      "Defence: 4",
-      "6% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Pop Pop Pop Pop",
-    "bonuses": [
-      "LUK: 12",
-      "Defence: 5",
-      "9% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Multikill",
-    "bonuses": [
-      "1% Multikill"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Megakill",
-    "bonuses": [
-      "2% Multikill"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Ultrakill",
-    "bonuses": [
-      "Weapon Power: 1",
-      "3% Multikill"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Killimanjaro",
-    "bonuses": [
-      "Weapon Power: 1",
-      "5% Multikill"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Killionaire",
-    "bonuses": [
-      "Weapon Power: 2",
-      "10% Multikill"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Experience",
-    "bonuses": [
-      "1% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Experience",
-    "bonuses": [
-      "STR: 1",
-      "AGI: 1",
-      "WIS: 1",
-      "1% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Experience",
-    "bonuses": [
-      "STR: 2",
-      "AGI: 2",
-      "WIS: 2",
-      "2% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Experience",
-    "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "3% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Experience",
-    "bonuses": [
-      "Weapon Power: 1",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "4% Xp From Monsters"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Cards",
-    "bonuses": [
-      "1% Card Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Cards",
-    "bonuses": [
-      "STR: 1",
-      "AGI: 1",
-      "WIS: 1",
-      "3% Card Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Cards",
-    "bonuses": [
-      "STR: 2",
-      "AGI: 2",
-      "WIS: 2",
-      "5% Card Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Cards",
-    "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "7% Card Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Cards",
-    "bonuses": [
-      "Weapon Power: 1",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "10% Card Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Defence",
-    "bonuses": [
-      "Defence: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Defence",
-    "bonuses": [
-      "Defence: 3"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Defence",
-    "bonuses": [
-      "Defence: 6"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Defense with an S",
-    "bonuses": [
-      "Defence: 15"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Defence",
-    "bonuses": [
-      "Defence: 25"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Trapping",
-    "bonuses": [
-      "1 Trapping Power"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Trapping",
-    "bonuses": [
-      "2 Trapping Power",
-      "AGI: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Trapping",
-    "bonuses": [
-      "3 Trapping Power",
-      "AGI: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Trapping",
-    "bonuses": [
-      "5 Trapping Power",
-      "AGI: 3"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Trapping",
-    "bonuses": [
-      "7 Trapping Power",
-      "AGI: 5"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Construction",
-    "bonuses": [
-      "1% Build Spd"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Construction",
-    "bonuses": [
-      "STR: 1",
-      "2% Build Spd"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Construction",
-    "bonuses": [
-      "STR: 2",
-      "5% Build Spd"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Construction",
-    "bonuses": [
-      "STR: 3",
-      "12% Build Spd"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Construction",
-    "bonuses": [
-      "STR: 5",
-      "20% Build Spd"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Bronze Obol of Worship",
-    "bonuses": [
-      "1 Worship Power"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Silver Obol of Worship",
-    "bonuses": [
-      "2 Worship Power",
-      "WIS: 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Golden Obol of Worship",
-    "bonuses": [
-      "3 Worship Power",
-      "WIS: 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Platinum Obol of Worship",
-    "bonuses": [
-      "5 Worship Power",
-      "WIS: 3"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Dementia Obol of Worship",
-    "bonuses": [
-      "7 Worship Power",
-      "WIS: 5"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Granite Obol of Amarok's Stare",
-    "bonuses": [
-      "STR: 2",
-      "AGI: 2",
-      "WIS: 2",
-      "LUK: 2",
-      "Defence: 5",
-      "4% Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Skeletal Obol of Efaunt's Gaze",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "LUK: 5",
-      "5% Boss Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Frozen Obol of Chizoar's Rage",
-    "bonuses": [
-      "Weapon Power: 4",
-      "Defence: 2",
-      "4% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Slushy Obol of Much Dilapidation",
-    "bonuses": [
-      "STR: 4",
-      "AGI: 4",
-      "WIS: 4",
-      "LUK: 4",
-      "3% Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Jagged Obol of Massive Trolling",
-    "bonuses": [
-      "Weapon Power: 4",
-      "STR: 9",
-      "AGI: 9",
-      "WIS: 9",
-      "LUK: 9",
-      "Defence: 10",
-      "3% All Stats"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Grumpy Obol of the Grandfrogger",
-    "bonuses": [
-      "Defence: 2",
-      "12% Money",
-      "1% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Obol",
-    "name": "Vigilant Obol of Ice Guard",
-    "bonuses": [
-      "Weapon Power: 2",
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "LUK: 3",
-      "Defence: 5",
-      "8% Drop Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Sword Stamp",
-    "bonuses": [
-      "+ Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Heart Stamp",
-    "bonuses": [
-      "+ Base HP"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Mana Stamp",
-    "bonuses": [
-      "+ Base MP"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Tomahawk Stamp",
-    "bonuses": [
-      "+% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Target Stamp",
-    "bonuses": [
-      "+ Base Accuracy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Shield Stamp",
-    "bonuses": [
-      "+ Base Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Longsword Stamp",
-    "bonuses": [
-      "+ Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Kapow Stamp",
-    "bonuses": [
-      "+% Critical Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Fist Stamp",
-    "bonuses": [
-      "+ STR"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Battleaxe Stamp",
-    "bonuses": [
-      "+% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Agile Stamp",
-    "bonuses": [
-      "+ AGI"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Vitality Stamp",
-    "bonuses": [
-      "+ Base HP"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Book Stamp",
-    "bonuses": [
-      "+ WIS"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Manamoar Stamp",
-    "bonuses": [
-      "+ Base MP"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Clover Stamp",
-    "bonuses": [
-      "+ LUK"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Scimitar Stamp",
-    "bonuses": [
-      "+ Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Bullseye Stamp",
-    "bonuses": [
-      "+ Base Accuracy."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Feather Stamp",
-    "bonuses": [
-      "+% Movement Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Polearm Stamp",
-    "bonuses": [
-      "+% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Violence Stamp",
-    "bonuses": [
-      "+ STR"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Buckler Stamp",
-    "bonuses": [
-      "+ Base Defence"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Hermes Stamp",
-    "bonuses": [
-      "+ AGI"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Sukka Foo",
-    "bonuses": [
-      "+% Damage Toward Bosses"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Arcane Stamp",
-    "bonuses": [
-      "+ WIS"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Avast Yar Stamp",
-    "bonuses": [
-      "+ Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Steve Sword",
-    "bonuses": [
-      "+% Total Damage. Also grats on 1 million followers!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Blover Stamp",
-    "bonuses": [
-      "+ LUK"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Stat Graph Stamp",
-    "bonuses": [
-      "+ All Stats. ''All Stats'' means STR, AGI, WIS, and LUK"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Gilded Axe Stamp",
-    "bonuses": [
-      "+ Base Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Diamond Axe Stamp",
-    "bonuses": [
-      "+% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Tripleshot Stamp",
-    "bonuses": [
-      "+ Base Accuracy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Blackheart Stamp",
-    "bonuses": [
-      "+ Base HP"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Maxo Slappo Stamp",
-    "bonuses": [
-      "+ STR"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Sashe Sidestamp",
-    "bonuses": [
-      "+ AGI"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Intellectostampo",
-    "bonuses": [
-      "+ WIS"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Conjocharmo Stamp",
-    "bonuses": [
-      "+ LUK"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Dementia Sword",
-    "bonuses": [
-      "+% Total Damage"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Pickaxe Stamp",
-    "bonuses": [
-      "+ Base Mining Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Hatchet Stamp",
-    "bonuses": [
-      "+ Base Choppin' Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Anvil Zoomer Stamp",
-    "bonuses": [
-      "+% Anvil Production Speed. This affects the 'Produce' tab within the anvil."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Lil' Mining Baggy Stamp",
-    "bonuses": [
-      "+% Carrying Capacity for Mining Items"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Twin Ores Stamp",
-    "bonuses": [
-      "+% Multi-Ore Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Choppin' Bag Stamp",
-    "bonuses": [
-      "+% Carrying Capacity for Choppin' Items"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Duplogs Stamp",
-    "bonuses": [
-      "+% Multi-Log Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Matty Bag Stamp",
-    "bonuses": [
-      "+% Carrying Capacity for Material Items"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Smart Dirt Stamp",
-    "bonuses": [
-      "+% Mining Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Cool Diggy Tool Stamp",
-    "bonuses": [
-      "+ Base Mining Efficicency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "High IQ Lumber Stamp",
-    "bonuses": [
-      "+% Choppin Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Swag Swingy Tool Stamp",
-    "bonuses": [
-      "+ Base Choppin' Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Alch Go Brrr Stamp",
-    "bonuses": [
-      "+% Alchemy Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Brainstew Stamps",
-    "bonuses": [
-      "+% Alchemy Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Drippy Drop Stamp",
-    "bonuses": [
-      "+% Liquid Regen Speed in Alchemy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Droplots Stamp",
-    "bonuses": [
-      "+ Cap for all Liquids in Alchemy"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Fishing Rod Stamp",
-    "bonuses": [
-      "+ Base Fishing Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Fishhead Stamp",
-    "bonuses": [
-      "+% Fishing Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Catch Net Stamp",
-    "bonuses": [
-      "+ Base Catching Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Fly Intel Stamp",
-    "bonuses": [
-      "+% Catching Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Bag o Heads Stamp",
-    "bonuses": [
-      "+% Carry Capacity for Fishing Items"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Holy Mackerel Stamp",
-    "bonuses": [
-      "+% Multi-Fish Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Bugsack Stamp",
-    "bonuses": [
-      "+% Carry Capacity for Catching Items"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Buzz Buzz Stamp",
-    "bonuses": [
-      "+% Multi-Bug Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Hidey Box Stamp",
-    "bonuses": [
-      "+ Base Trapping Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Purp Froge Stamp",
-    "bonuses": [
-      "+% Shiny Catch rate, multiplier"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Spikemouth Stamp",
-    "bonuses": [
-      "+% Trapping Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Shiny Crab Stamp",
-    "bonuses": [
-      "+% Shiny Catch rate, multiplier"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Gear Stamp",
-    "bonuses": [
-      "+% Building Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Stample Stamp",
-    "bonuses": [
-      "+% 3D Printer Sampling Size"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Saw Stamp",
-    "bonuses": [
-      "+% Construction Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Amplestample Stamp",
-    "bonuses": [
-      "+% 3D Printer Sampling Size"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "SpoOoky Stamp",
-    "bonuses": [
-      "+ Base Worship Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Flowin Stamp",
-    "bonuses": [
-      "+% Charge Rate per Hour, multiplier"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Prayday Stamp",
-    "bonuses": [
-      "+% Max Charge"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Banked Pts Stamp",
-    "bonuses": [
-      "+ Starting Points in Worship Tower Defense"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Cooked Meal Stamp",
-    "bonuses": [
-      "+% Meal Cooking Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Spice Stamp",
-    "bonuses": [
-      "+% New Recipe Cooking Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Ladle Stamp",
-    "bonuses": [
-      "+ Cooking Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Nest Eggs Stamp",
-    "bonuses": [
-      "+% Breeding EXP Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Egg Stamp",
-    "bonuses": [
-      "+% New Pet Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Lab Tube Stamp",
-    "bonuses": [
-      "+% Lab Exp Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Sailboat Stamp",
-    "bonuses": [
-      "+% Sailing Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Gamejoy Stamp",
-    "bonuses": [
-      "+% Gaming EXP Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Divine Stamp",
-    "bonuses": [
-      "+% Divinity EXP Gain"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Multitool Stamp",
-    "bonuses": [
-      "+ All Skill Efficiency"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Questin Stamp",
-    "bonuses": [
-      "+% Quest Exp"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Mason Jar Stamp",
-    "bonuses": [
-      "+% Carry Capacity for ALL item types!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Crystallin",
-    "bonuses": [
-      "+% Crystal Monster Spawn Chance"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Arcade Ball Stamp",
-    "bonuses": [
-      "+% Arcade Ball recharge rate"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Gold Ball Stamp",
-    "bonuses": [
-      "+% reduced golden ball cost for upgrades"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Potion Stamp",
-    "bonuses": [
-      "+% Effect from Boost Food, like Potions and stuff, like, such as!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Golden Apple Stamp",
-    "bonuses": [
-      "+% Effect from Golden Food. Sparkle sparkle!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Ball Timer Stamp",
-    "bonuses": [
-      "+hr Arcade Ball claim max time"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Card Stamp",
-    "bonuses": [
-      "+% Card Drop Rate. Go get them cards boy-o!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Blank",
-    "bonuses": [
-      "+"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Blank",
-    "bonuses": [
-      "+"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Blank",
-    "bonuses": [
-      "+"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Talent I Stamp",
-    "bonuses": [
-      "+ Talent Points for Tab 1"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Talent II Stamp",
-    "bonuses": [
-      "+ Talent Points for Tab 2"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Talent III Stamp",
-    "bonuses": [
-      "+ Talent Points for Tab 3"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Talent IV Stamp",
-    "bonuses": [
-      "+ Talent Points for Tab 4"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Talent V Stamp",
-    "bonuses": [
-      "+ Talent Points for Tab 5"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Talent S Stamp",
-    "bonuses": [
-      "+ Talent Points for Star Tab"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Multikill Stamp",
-    "bonuses": [
-      "+% Base Multikill Rate, for all worlds."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Biblio Stamp",
-    "bonuses": [
-      "+% Talent Book Library Refresh Speed"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "DNA Stamp",
-    "bonuses": [
-      "+% DNA gained from Splicing"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Stamp",
-    "name": "Refinery Stamp",
-    "bonuses": [
-      "+% Faster refinery cycles"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Easter Weapon Stone",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +1 Weapon Power, +2 Defence. Success Chance; 25% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Summer Weapon Stone",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +1 Random Stat, +3 Defence. Success Chance; 40% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Weapon Upgrade Stone I",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +1 Weapon Power. Success Chance; 100% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Weapon Upgrade Stone II",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +1 Weapon Power, +1 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Weapon Upgrade Stone III",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +2 Weapon Power, +1 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Weapon Upgrade Stone C",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +6 Weapon Power. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Warped Weapon Upgrade Stone",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +3 Weapon Power, +4 Random Stat. Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Weapon Upgrade Stone IV",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +4 Weapon Power, +3 Main Stat. Success Chance; 20% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Weapon Upgrade Stone V",
-    "bonuses": [
-      "Drag onto any Weapon to apply. +5 Weapon Power, +5 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Easter Armor Stone",
-    "bonuses": [
-      "Drag onto any Armor to apply. +1 Defence, +3 Random Stat. Success Chance; 30% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Summer Armor Stone",
-    "bonuses": [
-      "Drag onto any Armor to apply. +3 Defence. Success Chance; 50% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone I",
-    "bonuses": [
-      "Drag onto any Armor to apply. +2 Defence, +1 Random Stat. Success Chance; 100% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone G",
-    "bonuses": [
-      "Drag onto any Armor to apply. +4 Random Stat. Success Chance; 42% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone II",
-    "bonuses": [
-      "Drag onto any Armor to apply. +2 Defence, +2 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone B",
-    "bonuses": [
-      "Drag onto any Armor to apply. +5 Defence. Success Chance; 45% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone III",
-    "bonuses": [
-      "Drag onto any Armor to apply. +3 Defence, +4 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone C",
-    "bonuses": [
-      "Drag onto any Armor to apply. +1 Weapon Power, +3 Random Stat. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone IV",
-    "bonuses": [
-      "Drag onto any Armor to apply. +7 Defence, +4 Main Stat. Success Chance; 20% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Armor Upgrade Stone V",
-    "bonuses": [
-      "Drag onto any Armor to apply. +10 Defence, +6 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Easter Tool Upgrade Stone",
-    "bonuses": [
-      "Drag onto any Tool to apply. +3 Random Stat. Success Chance; 30% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Tool Upgrade Stone I",
-    "bonuses": [
-      "Drag onto any Tool to apply. +1 Weapon Power, +1 Random Stat. Success Chance; 100% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Giftmas Tool Upgrade Stone",
-    "bonuses": [
-      "Drag onto any Tool to apply. +4 Random Stat. Success Chance; 60% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Summer Tool Upgrade Stone",
-    "bonuses": [
-      "Drag onto any Tool to apply. +3 Defence. Success Chance; 50% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Tool Upgrade Stone II",
-    "bonuses": [
-      "Drag onto any Tool to apply. +2 Weapon Power, +2 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Tool Upgrade Stone III",
-    "bonuses": [
-      "Drag onto any Tool to apply. +3 Weapon Power, +4 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Tool Upgrade Stone IV",
-    "bonuses": [
-      "Drag onto any Tool to apply. +5 Weapon Power, +4 Main Stat. Success Chance; 20% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Tool Upgrade Stone V",
-    "bonuses": [
-      "Drag onto any Tool to apply. +6 Weapon Power, +6 Main Stat. Success Chance; 30% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Helmet Upgrade Stone I",
-    "bonuses": [
-      "Drag onto any Helmet to apply. +3 Random Stat. Success Chance; 70% Uses up 1 slots only if Successful "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Warped Helmet Upgrade Stone",
-    "bonuses": [
-      "Drag onto any Helmet to apply. +5 Random Stat. Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Giftmas Helmet Upgrade Stone",
-    "bonuses": [
-      "Drag onto any Helmet to apply. +4 Random Stat. Success Chance; 60% Uses up 1 item slots. "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Mystery Upgrade Stone I",
-    "bonuses": [
-      "Drag onto any Equip to apply. +3 Mystery Stat. Success Chance; 100% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Mystery Upgrade Stone II",
-    "bonuses": [
-      "Drag onto any Equip to apply. +4 Mystery Stat. Success Chance; 50% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Mystery Upgrade Stone III",
-    "bonuses": [
-      "Drag onto any Equip to apply. +8 Mystery Stat. Success Chance; 30% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Premium STR Stone",
-    "bonuses": [
-      "Drag onto any Equip to apply. +5 STR. Success Chance; 101% Can only be used on Premium Equips! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Premium AGI Stone",
-    "bonuses": [
-      "Drag onto any Equip to apply. +5 AGI. Success Chance; 101% Can only be used on Premium Equips! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Premium WIS Stone",
-    "bonuses": [
-      "Drag onto any Equip to apply. +5 WIS. Success Chance; 101% Can only be used on Premium Equips! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Upgrade Stone",
-    "name": "Premium LUK Stone",
-    "bonuses": [
-      "Drag onto any Equip to apply. +5 LUK. Success Chance; 101% Can only be used on Premium Equips! "
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Weapon",
-    "name": "Flesh Reaper",
-    "bonuses": [
-      "Weapon Power: 690",
-      "AGI: 80",
-      "LUK: 420",
-      "Speed: 9",
-      "Reach: 70"
     ],
     "worksInGame": true
   },
