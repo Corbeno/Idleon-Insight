@@ -3780,6 +3780,550 @@
     "worksInGame": true
   },
   {
+    "source": "Pet Shiny bonus",
+    "name": "Green Mushroom",
+    "bonuses": [
+      "+% Faster Shiny Pet Lv Up Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Squirrel",
+    "bonuses": [
+      "+ Infinite Star Signs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Frog",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Bored Bean",
+    "bonuses": [
+      "+% Faster Refinery Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Red Mushroom",
+    "bonuses": [
+      "+% Bonuses from All Meals"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Slime",
+    "bonuses": [
+      "+% Drop Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Piggo",
+    "bonuses": [
+      "+ Infinite Star Signs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Baby Boa",
+    "bonuses": [
+      "+% Multikill Per Tier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Carrotman",
+    "bonuses": [
+      "+ Base Efficiency for All Skills"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Glublin",
+    "bonuses": [
+      "+ Infinite Star Signs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Wode Board",
+    "bonuses": [
+      "+% Faster Shiny Pet Lv Up Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Gigafrog",
+    "bonuses": [
+      "+ Base Efficiency for All Skills"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Wild Boar",
+    "bonuses": [
+      "+ Base AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Walking Stick",
+    "bonuses": [
+      "+ Base Critters per Trap"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Nutto",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Poop",
+    "bonuses": [
+      "World 6...?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Rat",
+    "bonuses": [
+      "+% Multikill Per Tier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Sandy Pot",
+    "bonuses": [
+      "+% Class EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Mimic",
+    "bonuses": [
+      "+ Tab 1 Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Crabcake",
+    "bonuses": [
+      "+% Skill EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Mafioso",
+    "bonuses": [
+      "+ Tab 2 Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Mallay",
+    "bonuses": [
+      "+% Line Width in Lab"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Sand Castle",
+    "bonuses": [
+      "+ Base STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Pincermin",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Mashed Potato",
+    "bonuses": [
+      "+ Base Efficiency for All Skills"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Tyson",
+    "bonuses": [
+      "+% Higher Artifact Find Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Whale",
+    "bonuses": [
+      "+% Faster Refinery Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Moonmoon",
+    "bonuses": [
+      "+ Base WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Sand Giant",
+    "bonuses": [
+      "+ Base Efficiency for All Skills"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Snelbie",
+    "bonuses": [
+      "+ Tab 4 Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Dig Doug",
+    "bonuses": [
+      "World 6...?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Beefie",
+    "bonuses": [
+      "+ Base LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Crescent Spud",
+    "bonuses": [
+      "+% Faster Shiny Pet Lv Up Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Chippy",
+    "bonuses": [
+      "World 6...?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Sheepie",
+    "bonuses": [
+      "+% Bonuses from All Meals"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Frost Flake",
+    "bonuses": [
+      "+ Tab 3 Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Sir Stache",
+    "bonuses": [
+      "+ Infinite Star Signs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Xylobone",
+    "bonuses": [
+      "+% Drop Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Bunny",
+    "bonuses": [
+      "+ Base LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Bloque",
+    "bonuses": [
+      "+% Multikill Per Tier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Mamooth",
+    "bonuses": [
+      "+% Higher Artifact Find Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Snowman",
+    "bonuses": [
+      "+% Class EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Penguin",
+    "bonuses": [
+      "+ Infinite Star Signs"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Thermister",
+    "bonuses": [
+      "+% Skill EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Quenchie",
+    "bonuses": [
+      "+% Faster Shiny Pet Lv Up Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Cryosnake",
+    "bonuses": [
+      "+ Star Talent Pts"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Mecho Mouse",
+    "bonuses": [
+      "+ Base STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Bop Box",
+    "bonuses": [
+      "+ Base WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Neyeptune",
+    "bonuses": [
+      "World 6...?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Dedotated Ram",
+    "bonuses": [
+      "+% Multikill Per Tier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Bloodbone",
+    "bonuses": [
+      "World 6...?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Panda",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Purp Mushroom",
+    "bonuses": [
+      "World 6...?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "TV",
+    "bonuses": [
+      "+% Sail Captain EXP Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Donut",
+    "bonuses": [
+      "World 6...?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Demon Genie",
+    "bonuses": [
+      "+% Faster Refinery Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Flying Worm",
+    "bonuses": [
+      "+ Base AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Dog",
+    "bonuses": [
+      "+% Lower Minimum Travel Time for Sailing"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Soda Can",
+    "bonuses": [
+      "+% Higher Artifact Find Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Gelatinous Cuboid",
+    "bonuses": [
+      "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Choccie",
+    "bonuses": [
+      "+% Drop Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Biggole Wurm",
+    "bonuses": [
+      "+% Class EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Cool Bird",
+    "bonuses": [
+      "+ Base STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Clammie",
+    "bonuses": [
+      "+% Skill EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Octodar",
+    "bonuses": [
+      "+ Base Critters per Trap"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Flombeige",
+    "bonuses": [
+      "+ Base AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Stilted Seeker",
+    "bonuses": [
+      "+ Base WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Shiny bonus",
+    "name": "Hedgehog",
+    "bonuses": [
+      "+ Base LUK"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Artifact",
     "name": "Moai Head",
     "bonuses": [

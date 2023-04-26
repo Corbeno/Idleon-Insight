@@ -31,6 +31,7 @@ runParser(parseJewelRepo, exportedPath + "repo/Worlds/4/JewelRepo.json");
 runParser(parseLabBonusRepo, exportedPath + "repo/Worlds/4/LabBonusRepo.json");
 runParser(parseMealRepo, exportedPath + "repo/Worlds/4/MealRepo.json");
 runParser(parsePetUpgradeRepo, exportedPath + "repo/Worlds/4/PetUpgradeRepo.json");
+runParser(parsePetRepo, exportedPath + "repo/Worlds/4/PetRepo.json");
 
 runParser(parseArtifactRepo, exportedPath + "repo/Worlds/5/ArtifactRepo.json")
 runParser(parseCaptainBonusRepo, exportedPath + "repo/Worlds/5/CaptainBonusRepo.json")
@@ -555,6 +556,22 @@ function parsePetUpgradeRepo(keyValue){
         worksInGame: true
     });
 }
+
+function parsePetRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    if(key == "_"){
+        return;
+    }
+
+    output.push({
+        source: "Pet Shiny bonus",
+        name: EnemyRepo[key].details.Name,
+        bonuses: [body.shinyBonus.shinyBonusDesc],
+        worksInGame: true
+    });
+}
+
 
 function parseArtifactRepo(keyValue){
     let key = keyValue[0];
