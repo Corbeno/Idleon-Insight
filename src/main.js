@@ -367,6 +367,7 @@ function getSpecificItemBonuses(body){
     const obolList = ["aObolCircle", "aObolSquare", "aObolHexagon", "aObolSparkle"]; 
     const keysList = ["Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence"];
     const weaponKeysList = ["Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence", "Speed","Reach"];
+    const nameTagKeysList = ["Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence"];
     let typeGen = body.typeGen;
     if(armorList.indexOf(typeGen) > -1){
 
@@ -440,6 +441,22 @@ function getSpecificItemBonuses(body){
             r.push(body.miscUp2);
         }
         return [r, "Weapon"];
+    }
+
+    if(typeGen === "aNametag"){
+        let r = [];
+        for(nameKey of nameTagKeysList){
+            if(body[nameKey] != 0){
+                r.push(nameKey + ": " + body[nameKey]);
+            }
+        }
+        if(body.miscUp1 != "" && body.miscUp1 != "00"){
+            r.push(body.miscUp1);
+        }
+        if(body.miscUp2 != "" && body.miscUp2 != "00"){
+            r.push(body.miscUp2);
+        }
+        return [r, "Name Tag"];
     }
 
     switch(typeGen){
