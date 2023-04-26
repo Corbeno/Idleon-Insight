@@ -561,7 +561,7 @@ function parsePetRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "Pet Shiny bonus",
+        source: "Shiny Pet Bonus",
         //defender is named _ for some reason. Not in EnemyRepo either...
         name: key == "_" ? "Defender" : EnemyRepo[key].details.Name,
         bonuses: [body.shinyBonus.shinyBonusDesc],
