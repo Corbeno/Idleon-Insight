@@ -36,6 +36,7 @@ runParser(parsePetRepo, exportedPath + "repo/Worlds/4/PetRepo.json");
 runParser(parseArtifactRepo, exportedPath + "repo/Worlds/5/ArtifactRepo.json")
 runParser(parseCaptainBonusRepo, exportedPath + "repo/Worlds/5/CaptainBonusRepo.json")
 runParser(parseDivinityStyleRepo, exportedPath + "repo/Worlds/5/DivinityStyleRepo.json")
+runParser(parseGamingSuperbitsRepo, exportedPath + "repo/Worlds/5/GamingSuperBitsRepo.json")
 runParser(parseGamingUpgraderepo, exportedPath + "repo/Worlds/5/GamingUpgradeRepo.json")
 runParser(parseGodInfoRepo, exportedPath + "repo/Worlds/5/GodInfoRepo.json")
 
@@ -597,6 +598,16 @@ function parseDivinityStyleRepo(keyValue){
         source: "Divinity Style",
         name: key,
         bonuses: [body.desc]
+    })
+}
+
+function parseGamingSuperbitsRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Gaming Super Bit",
+        name: body.name,
+        bonuses: [body.description]
     })
 }
 
