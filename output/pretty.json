@@ -307,7 +307,7 @@
     "source": "Power Cauldron",
     "name": "Call Me Bob",
     "bonuses": [
-      "+% Construction EXP Gain. Also gives +50% Bug-Fixing speed if your username is LavaFlame2. Actually, better make that +500%..."
+      "+% Construction EXP Gain. Also gives +50% Bug-Fixing speed if your username is LavaFlame2."
     ],
     "worksInGame": true
   },
@@ -5217,7 +5217,7 @@
     "source": "Maestro Talents",
     "name": "One Step Ahead",
     "bonuses": [
-      "Check-Mate!"
+      "Check-Mate! + Points for the Vee Man!"
     ],
     "worksInGame": true
   },
@@ -5298,6 +5298,126 @@
     "name": "Jman Was Better",
     "bonuses": [
       "+ Talent Points for the 'Journeyman' tab. Maestro not worth the wait, eh?"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Void Trial Rerun",
+    "bonuses": [
+      "Begin a Speedrun, lasts for s. Gives  Void Talent Pts per portal unlocked from kills."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Void Radius",
+    "bonuses": [
+      "Hits every mob within px. Also gives +% Multikill Per Tier for 20 sec if speedrunning."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Bossing Vain",
+    "bonuses": [
+      "Boss kills count as portals. Also, each unique boss kill during the speedrun makes mobs respawn +% faster"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Quad Jab",
+    "bonuses": [
+      "Punches now hit a 4th time for % dmg. The other hits do +% more Dmg"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Enhancement Eclipse",
+    "bonuses": [
+      "Enhances a new Talent for another class every 25 points invested, up to 250."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Power Orb",
+    "bonuses": [
+      "+% DMG for all characters, for every 50 Class LV they are over 200."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Eternal Str",
+    "bonuses": [
+      "+ base STR for all characters. Also + max LV to 'Fist of Rage'"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Eternal Agi",
+    "bonuses": [
+      "+ base AGI for all characters. Also + max LV to 'Quickness Boots'"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Eternal Wis",
+    "bonuses": [
+      "+ base WIS for all characters. Also + max LV to 'Book of the Wise'"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Eternal Luk",
+    "bonuses": [
+      "+ base LUK for all characters. Also + max LV to 'Lucky Horseshoe'"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Exp Cultivation",
+    "bonuses": [
+      "+% Class EXP for all characters."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Voodoo Statufication",
+    "bonuses": [
+      "All statues give % higher Bonuses to all characters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Species Epoch",
+    "bonuses": [
+      "+% Critters and Souls per combined Trapping and Worship LV above 100"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Master Of The System",
+    "bonuses": [
+      "+% Multikill per tier per 5 maps of Speedrun highscore. Applies to all characters."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Voidwalker Talents",
+    "name": "Blood Marrow",
+    "bonuses": [
+      "+% Meal Cooking Spd per total LV of all Meals upgraded on the Dinner Table Menu"
     ],
     "worksInGame": true
   },
@@ -5617,7 +5737,7 @@
     "source": "Barbarian Talents",
     "name": "Beefy Bottles",
     "bonuses": [
-      "Each Lv of 'Warriors Only' Bubble raises max Lv of 'CritiKill' Talent, up to +"
+      "Each Lv of 'Warriors Rule' Bubble raises max Lv of 'CritiKill' Talent, up to +"
     ],
     "worksInGame": true
   },
@@ -9327,6 +9447,14 @@
   },
   {
     "source": "Achievement",
+    "name": "Veritable Master",
+    "bonuses": [
+      "1 Void Talent Pt"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
     "name": "Maple Logger",
     "bonuses": [
       "1% Damage for all &characters"
@@ -10257,7 +10385,7 @@
     "source": "Gem Shop",
     "name": "Ancient Artifact",
     "bonuses": [
-      "Upgrades a random artifact you own to its ANCIENT form! 100% Success chance, no foolin! This item restocks every week. See Guild GP claim for when that happens."
+      "Upgrades a random artifact you own to its ANCIENT form! 100% Success chance, no foolin! This item restocks every week. See Guild GP claim for when that happens. You must own a normal artifact to buy this."
     ],
     "worksInGame": true
   },
@@ -18353,6 +18481,16 @@
       "LUK: 5",
       "Defence: 20",
       "40% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Name Tag",
+    "name": "Vman Nametag",
+    "bonuses": [
+      "Weapon Power: 1",
+      "LUK: 30",
+      "10% Multikill Per Tier"
     ],
     "worksInGame": true
   },
