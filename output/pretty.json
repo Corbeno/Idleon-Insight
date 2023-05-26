@@ -4769,7 +4769,7 @@
   },
   {
     "source": "Gaming Super Bit",
-    "name": "Worshop Totem HPr",
+    "name": "Worship Totem HPr",
     "bonuses": [
       "+10 Max HP for Worship Totem during Tower Defence summon battle"
     ]
@@ -5417,7 +5417,7 @@
     "source": "Voidwalker Talents",
     "name": "Blood Marrow",
     "bonuses": [
-      "+% Meal Cooking Spd per total LV of all Meals upgraded on the Dinner Table Menu"
+      "+% Multiplicative Meal Cooking Spd per total LV of all Meals upgraded on the Dinner Table Menu"
     ],
     "worksInGame": true
   },
@@ -11769,7 +11769,7 @@
     "source": "Card",
     "name": "Fire Forge",
     "bonuses": [
-      "+% Smithing EXP"
+      "+% Smithing EXP (Passive)"
     ],
     "worksInGame": true
   },
@@ -11873,7 +11873,7 @@
     "source": "Card",
     "name": "Cinder Forge",
     "bonuses": [
-      "+% Smithing EXP"
+      "+% Smithing EXP (Passive)"
     ],
     "worksInGame": true
   },
@@ -13042,6 +13042,22 @@
     "name": "Golden Giftmas Box",
     "bonuses": [
       "+% Defence from Equipment"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Bubbulyte",
+    "bonuses": [
+      "+% Class EXP (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Spring Splendor",
+    "bonuses": [
+      "+% All Skill EXP (Passive)"
     ],
     "worksInGame": true
   },
@@ -18491,6 +18507,18 @@
       "Weapon Power: 1",
       "LUK: 30",
       "10% Multikill Per Tier"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Name Tag",
+    "name": "Spring Flowers Nametag",
+    "bonuses": [
+      "STR: 4",
+      "AGI: 4",
+      "WIS: 4",
+      "LUK: 4",
+      "15% Skill Exp"
     ],
     "worksInGame": true
   },
