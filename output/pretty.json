@@ -21330,6 +21330,83 @@
     "worksInGame": true
   },
   {
+    "source": "Pet Companion",
+    "bonuses": [
+      "All Divinities from World 5 count as Active"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "+25 Lv for all Talents"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "You can use Storage Chest anywhere in Quickref"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "100% Drop Rate and Exp from monsters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "All big bubbles in Alchemy count as equipped"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "5% All Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "5% AFK Gains Rate for Fighting and Skills"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "+25% Golden Balls earned in Arcade for Upgrades"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "+15 Base All Stats (STR/AGI/WIS/LUK)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "+20% All Skill EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Pet Companion",
+    "bonuses": [
+      "+10% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Main Stat",
     "name": "Strength (STR)",
     "bonuses": [

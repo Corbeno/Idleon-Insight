@@ -65,6 +65,9 @@ runParser(parseDungPassivesRepo, exportedPath + "repo/Dungeon/DungPassivesRepo.j
 // repo/Arcade/*
 runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
 
+// repo/Misc
+runParser(parseCompanionRepo, exportedPath + "repo/Misc/CompanionRepo.json");
+
 // ------------------------------- Add Manual ----------------------------
 runParser(function(keyValue){
     let key = keyValue[0];
@@ -333,6 +336,17 @@ function parseArcadeBonusRepo(keyValue){
         source: "Arcade Bonus",
         name: key,
         bonuses: [body.effect],
+        worksInGame: true
+    });
+}
+
+function parseCompanionRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Pet Companion",
+        name: EnemyRepo[body.id].details.name,
+        bonuses: [body.desc],
         worksInGame: true
     });
 }
