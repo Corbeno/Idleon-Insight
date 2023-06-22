@@ -4367,8 +4367,8 @@
     "source": "Artifact",
     "name": "Gold Relic",
     "bonuses": [
-      "All 3d printer samples grow by +1% per day for 40 days. Resets when taking a sample. Bonus shown in 3d Printer.",
-      "Ancient: Samples grow by 1.5% for 60 days instead!"
+      "All 3d printer samples grow by +2% per day for 40 days. Resets when taking a sample. Bonus shown in 3d Printer.",
+      "Ancient: Samples grow by 2.5% for 60 days instead!"
     ]
   },
   {
@@ -16352,6 +16352,21 @@
     "worksInGame": true
   },
   {
+    "source": "Armor",
+    "name": "Blooming Vine",
+    "bonuses": [
+      "Weapon Power: 15",
+      "STR: 12",
+      "AGI: 12",
+      "WIS: 12",
+      "LUK: 12",
+      "Defence: 30",
+      "50% Xp From Monsters",
+      "50% Skill Exp"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Stamp",
     "name": "Sword Stamp",
     "bonuses": [
@@ -21231,6 +21246,86 @@
     "name": "Bonus 17",
     "bonuses": [
       "+ Weapon Power"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 18",
+    "bonuses": [
+      "+% Skill EXP gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 19",
+    "bonuses": [
+      "+ Base STR"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 20",
+    "bonuses": [
+      "+ Base AGI"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 21",
+    "bonuses": [
+      "+ Base WIS"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 22",
+    "bonuses": [
+      "+ Base LUK"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 23",
+    "bonuses": [
+      "+% Trapping Critters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 24",
+    "bonuses": [
+      "+% Worship Souls"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 25",
+    "bonuses": [
+      "+% Refinery Speed"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 26",
+    "bonuses": [
+      "+% Forge Capacity"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 27",
+    "bonuses": [
+      "+% Drop Rate"
     ],
     "worksInGame": true
   },
