@@ -2660,6 +2660,14 @@
     "worksInGame": true
   },
   {
+    "source": "Atom Collider",
+    "name": "Sodium - Snail Kryptonite",
+    "bonuses": [
+      "When you fail a snail upgrade, it's LV gets reset to the nearest 5 (Up to Lv ) instead of back to 0, like failing at Lv 7 will reset to Lv 5."
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Pet Arena Bonus",
     "name": "0",
     "bonuses": [
@@ -9815,7 +9823,7 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Honk Chat Ring",
+    "name": "Honk Ring",
     "bonuses": [
       ""
     ],
@@ -10009,7 +10017,7 @@
     "source": "Gem Shop",
     "name": "4 Star Cardifier",
     "bonuses": [
-      "Use this on a 3 star card to upgrade it to 4 stars! You can use it on any 3 star card you have, and hey, its freakin free, so I will be offended if you don't buy it!"
+      "Use this on a 3 star card to upgrade it to 4 stars! You can use it on any 3 star card you have, it's up to you! Each purchase allows for one card of your choice to be upgraded."
     ],
     "worksInGame": true
   },
@@ -10079,25 +10087,33 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Crescent Moon Pendant",
+    "name": "World 4 Kill Ring",
     "bonuses": [
-      "This necklace equipment comes with +35% Class EXP bonus, +5% Mob Respawn bonus, +3 Weapon Power, and +10 all stat!"
+      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Elite Class Swap",
+    "name": "Mob Respawn Keychain",
     "bonuses": [
-      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
+      "This keychain comes with +20% Mob Respawn bonus! Currently, the best possible Mob Respawn keychain is 12%, so this is the best Mob Respawn Keychain in the game!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Large Exp Balloon",
+    "name": "5 Star Cardifier",
     "bonuses": [
-      "Gives you a bundle of 10 large EXP Balloon. These give you some experience points, kinda neat."
+      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Random Hyper Obol",
+    "bonuses": [
+      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
     ],
     "worksInGame": true
   },
@@ -10111,9 +10127,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "5 Star Cardifier",
+    "name": "Siege Captain Cap",
     "bonuses": [
-      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!"
+      "Arr matey, this thar Premium Hat gives +10% Drop Rate, so ye can get back to plunderin' across the 7 seas... er, 5 worlds!"
     ],
     "worksInGame": true
   },
@@ -13454,6 +13470,21 @@
   },
   {
     "source": "Armor",
+    "name": "Skulled Helmet of the Divine",
+    "bonuses": [
+      "Weapon Power: 12",
+      "STR: 50",
+      "AGI: 50",
+      "WIS: 50",
+      "LUK: 50",
+      "Defence: 160",
+      "30% Total Damage",
+      "10% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Birthday Hat",
     "bonuses": [
       "LUK: 5",
@@ -13910,6 +13941,19 @@
   },
   {
     "source": "Weapon",
+    "name": "Crackled Skull Destroyer",
+    "bonuses": [
+      "Weapon Power: 66",
+      "LUK: 52",
+      "Speed: 10",
+      "Reach: 96",
+      "15% Total Damage",
+      "15% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
     "name": "Wooden Spear",
     "bonuses": [
       "Weapon Power: 7",
@@ -14016,6 +14060,19 @@
       "Reach: 92",
       "12% Total Damage",
       "10% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Skull Lance",
+    "bonuses": [
+      "Weapon Power: 85",
+      "STR: 52",
+      "Speed: 8",
+      "Reach: 116",
+      "15% Total Damage",
+      "12% Mob Respawn"
     ],
     "worksInGame": true
   },
@@ -14237,6 +14294,20 @@
   },
   {
     "source": "Weapon",
+    "name": "Spine Tingler Sniper",
+    "bonuses": [
+      "Weapon Power: 80",
+      "STR: 25",
+      "AGI: 41",
+      "Speed: 9",
+      "Reach: 340",
+      "15% Total Damage",
+      "12% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
     "name": "Gnarled Wand",
     "bonuses": [
       "Weapon Power: 7",
@@ -14347,6 +14418,20 @@
       "Reach: 275",
       "12% Total Damage",
       "10% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weapon",
+    "name": "Staff of the Undead Plague",
+    "bonuses": [
+      "Weapon Power: 94",
+      "AGI: 6",
+      "WIS: 54",
+      "Speed: 8",
+      "Reach: 300",
+      "15% Total Damage",
+      "12% Mob Respawn"
     ],
     "worksInGame": true
   },
@@ -14742,6 +14827,21 @@
   },
   {
     "source": "Armor",
+    "name": "Serrated Chest of the Divine",
+    "bonuses": [
+      "Weapon Power: 8",
+      "STR: 40",
+      "AGI: 40",
+      "WIS: 40",
+      "LUK: 40",
+      "Defence: 120",
+      "12% Mob Respawn",
+      "6% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Torn Jeans",
     "bonuses": [
       "AGI: 2",
@@ -15027,6 +15127,21 @@
       "Defence: 95",
       "4% All Stats",
       "4% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Spiked Leggings of the Divine",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 45",
+      "AGI: 45",
+      "WIS: 45",
+      "LUK: 45",
+      "Defence: 112",
+      "6% Mob Respawn",
+      "6% Total Damage"
     ],
     "worksInGame": true
   },
@@ -15422,6 +15537,21 @@
   },
   {
     "source": "Armor",
+    "name": "Devious Slippers of the Divine",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 38",
+      "AGI: 38",
+      "WIS: 38",
+      "LUK: 38",
+      "Defence: 100",
+      "15% Drop Chance",
+      "8% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Mint Icey",
     "bonuses": [
       "Weapon Power: 1",
@@ -15730,6 +15860,36 @@
       "Defence: 10",
       "35% Xp From Monsters",
       "5% Mob Respawn"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Strung Tooth of the Divine",
+    "bonuses": [
+      "Weapon Power: 8",
+      "STR: 6",
+      "AGI: 6",
+      "WIS: 6",
+      "LUK: 6",
+      "Defence: 30",
+      "20% Total Damage",
+      "5% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "The Divine Scarf",
+    "bonuses": [
+      "Weapon Power: 15",
+      "STR: 35",
+      "AGI: 35",
+      "WIS: 35",
+      "LUK: 35",
+      "Defence: 35",
+      "25% All Afk Gain",
+      "20% Mob Respawn"
     ],
     "worksInGame": true
   },
@@ -16363,6 +16523,21 @@
       "Defence: 30",
       "50% Xp From Monsters",
       "50% Skill Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Eternal Flames of The Divine",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 11",
+      "AGI: 11",
+      "WIS: 11",
+      "LUK: 11",
+      "Defence: 25",
+      "40% Skill Exp",
+      "3% All Afk Gain"
     ],
     "worksInGame": true
   },
@@ -17280,6 +17455,14 @@
   },
   {
     "source": "Upgrade Stone",
+    "name": "Weapon Upgrade Stone SK",
+    "bonuses": [
+      "Drag onto any Weapon to apply. +7 Weapon Power, +6 Main Stat. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
     "name": "Easter Armor Stone",
     "bonuses": [
       "Drag onto any Armor to apply. +1 Defence, +3 Random Stat. Success Chance; 30% Uses up 1 slots only if Successful "
@@ -17360,6 +17543,14 @@
   },
   {
     "source": "Upgrade Stone",
+    "name": "Armor Upgrade Stone SK",
+    "bonuses": [
+      "Drag onto any Armor to apply. +1 Weapon Power, +13 Defence, +8 Main Stat. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
     "name": "Easter Tool Upgrade Stone",
     "bonuses": [
       "Drag onto any Tool to apply. +3 Random Stat. Success Chance; 30% Uses up 1 slots only if Successful "
@@ -17424,6 +17615,14 @@
   },
   {
     "source": "Upgrade Stone",
+    "name": "Tool Upgrade Stone SK",
+    "bonuses": [
+      "Drag onto any Tool to apply. +8 Tool Skill Power, +9 Main Stat. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
     "name": "Helmet Upgrade Stone I",
     "bonuses": [
       "Drag onto any Helmet to apply. +3 Random Stat. Success Chance; 70% Uses up 1 slots only if Successful "
@@ -17443,6 +17642,14 @@
     "name": "Giftmas Helmet Upgrade Stone",
     "bonuses": [
       "Drag onto any Helmet to apply. +4 Random Stat. Success Chance; 60% Uses up 1 item slots. "
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Upgrade Stone",
+    "name": "Helmet Upgrade Stone SK",
+    "bonuses": [
+      "Drag onto any Helmet to apply. +14 Random Stat. Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails! "
     ],
     "worksInGame": true
   },
@@ -18474,6 +18681,20 @@
     "worksInGame": true
   },
   {
+    "source": "Obol",
+    "name": "Molten Obol of Dead Divine",
+    "bonuses": [
+      "Weapon Power: 7",
+      "STR: 15",
+      "AGI: 15",
+      "WIS: 15",
+      "LUK: 15",
+      "5% All Afk Gain",
+      "2% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Name Tag",
     "name": "Riftwalker Nametag",
     "bonuses": [
@@ -18993,6 +19214,20 @@
       "WIS: 20",
       "LUK: 20",
       "15% Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "One of the Divine",
+    "bonuses": [
+      "Weapon Power: 10",
+      "STR: 30",
+      "AGI: 30",
+      "WIS: 30",
+      "LUK: 30",
+      "42% Drop Chance",
+      "35% Total Damage"
     ],
     "worksInGame": true
   },
