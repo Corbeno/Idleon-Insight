@@ -276,7 +276,7 @@ function parseTaskShopDescRepo(keyValue){
     output.push({
         source: "Merit Shop",
         name: "Upgrade: " + key,
-        bonuses: [body.descLine1 + body.descLine2],
+        bonuses: [body.descLine1 + " " + (body.descLine2 === "Descline2" ? "" : body.descLine2)],
         worksInGame: true
     });
 }
