@@ -21566,6 +21566,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "King Doot",
     "bonuses": [
       "All Divinities from World 5 count as Active"
     ],
@@ -21573,6 +21574,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Rift Slug",
     "bonuses": [
       "+25 Lv for all Talents"
     ],
@@ -21580,6 +21582,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Dedotated Ram",
     "bonuses": [
       "You can use Storage Chest anywhere in Quickref"
     ],
@@ -21587,6 +21590,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Crystal Custard",
     "bonuses": [
       "100% Drop Rate and Exp from monsters"
     ],
@@ -21594,6 +21598,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Sheepie",
     "bonuses": [
       "All big bubbles in Alchemy count as equipped"
     ],
@@ -21601,6 +21606,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Molti",
     "bonuses": [
       "5% All Skill Efficiency"
     ],
@@ -21608,6 +21614,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Bored Bean",
     "bonuses": [
       "5% AFK Gains Rate for Fighting and Skills"
     ],
@@ -21615,6 +21622,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Slime",
     "bonuses": [
       "+25% Golden Balls earned in Arcade for Upgrades"
     ],
@@ -21622,6 +21630,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Sandy Pot",
     "bonuses": [
       "+15 Base All Stats (STR/AGI/WIS/LUK)"
     ],
@@ -21629,6 +21638,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Bloque",
     "bonuses": [
       "+20% All Skill EXP"
     ],
@@ -21636,6 +21646,7 @@
   },
   {
     "source": "Pet Companion",
+    "name": "Frog",
     "bonuses": [
       "+10% Total Damage"
     ],

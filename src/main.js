@@ -345,7 +345,7 @@ function parseCompanionRepo(keyValue){
     let body = keyValue[1];
     output.push({
         source: "Pet Companion",
-        name: EnemyRepo[body.id].details.name,
+        name: EnemyRepo[body.id].details.Name,
         bonuses: [body.desc],
         worksInGame: true
     });
