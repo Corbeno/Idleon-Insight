@@ -211,7 +211,63 @@
     "source": "Bribe",
     "name": "The Art of the Bail",
     "bonuses": [
-      "Look, I'm in a bit of a situation right now and need time to clean it up... come back later."
+      "You must unlock the next Bribe Set from the Garbage Tuna on Trash Island in World 2."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Bribe",
+    "name": "Random Garbage",
+    "bonuses": [
+      "All random event bosses now drop Garbage Piles to give to the Garbage Tuna."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Bribe",
+    "name": "Godlier Creation",
+    "bonuses": [
+      "The Godly Creation talent now gives up to +12 Stat bonus, instead of up to +4"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Bribe",
+    "name": "Fishermaster",
+    "bonuses": [
+      "+25% Fishing EXP, and +15% Fishing Efficiency, now and forever."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Bribe",
+    "name": "Muscles on Muscles",
+    "bonuses": [
+      "Boosts Total Damage by +2%"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Bribe",
+    "name": "Bottle Service",
+    "bonuses": [
+      "Bottles, used to buy maps to new islands, wash up at the docks +10% more often."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Bribe",
+    "name": "Star Scraper",
+    "bonuses": [
+      "Get +33 Star Talent points, right now, for all characters, no questions asked."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Bribe",
+    "name": "The Art of the Grail",
+    "bonuses": [
+      "Look buddy, I ain't got no more bribes, maybe an associate of mine will sort it out later..."
     ],
     "worksInGame": true
   },
@@ -7641,7 +7697,7 @@
     "source": "Special Talent 1 Talents",
     "name": "Tick Tock",
     "bonuses": [
-      "+% Away Gains Rate for both Fighting and Skills"
+      "+% AFK Gains Rate for both Fighting and Skills"
     ],
     "worksInGame": true
   },
@@ -7839,6 +7895,22 @@
   },
   {
     "source": "Special Talent 3 Talents",
+    "name": "Filthy Damage",
+    "bonuses": [
+      "+% damage for every power of 10 Garbage you have"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Special Talent 3 Talents",
+    "name": "Rando Event Looty",
+    "bonuses": [
+      "+% AFK Gains Rate per Random Event Rare Item found"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Special Talent 3 Talents",
     "name": "Spice Spillage",
     "bonuses": [
       "+% chance to claim all pet spices when claiming 1hr+ AFK gains."
@@ -7850,6 +7922,14 @@
     "name": "Stat Overload",
     "bonuses": [
       "+ total STR, AGI, WIS, and LUK. Total means this bonus is not affected by +% ALL STAT."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Special Talent 3 Talents",
+    "name": "Dummy Thicc Stats",
+    "bonuses": [
+      "+% All Stat per POW 10 best DPS ever on the Target Dummy"
     ],
     "worksInGame": true
   },
@@ -9799,7 +9879,7 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Bubble Pop Chat Ring",
+    "name": "Bubble Chat Ring",
     "bonuses": [
       ""
     ],
@@ -10039,9 +10119,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Med Arcade Balls",
+    "name": "Discount Balls",
     "bonuses": [
-      "100 arcade balls. Use these at the Arcade, found at the clown in World 2 town! +20% better value compared to smol ball pack!"
+      "100 regular Arcade balls, but at a 33% Discounted Price! Great for getting more gold balls to buy upgrades with!"
     ],
     "worksInGame": true
   },
@@ -10087,17 +10167,41 @@
   },
   {
     "source": "Gem Shop",
-    "name": "World 4 Kill Ring",
+    "name": "Island Bottles",
     "bonuses": [
-      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
+      "Instantly gain 10 bottles for buying new Island Expeditions at the Deepwater Docks. These will be directly added to your total."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Mob Respawn Keychain",
+    "name": "World 3 Kill Ring",
     "bonuses": [
-      "This keychain comes with +20% Mob Respawn bonus! Currently, the best possible Mob Respawn keychain is 12%, so this is the best Mob Respawn Keychain in the game!"
+      "All kills in World 3 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Elemental Sorcerer Hat",
+    "bonuses": [
+      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Crescent Moon Pendant",
+    "bonuses": [
+      "This necklace equipment comes with +35% Class EXP bonus, +5% Mob Respawn bonus, +3 Weapon Power, and +10 all stat!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Holy Pearl",
+    "bonuses": [
+      "Bro someone just like, dropped these off here. I have NO idea where they've been, if you want them just take them. Well, gimme a gem at the very least and they're yours!"
     ],
     "worksInGame": true
   },
@@ -10105,31 +10209,7 @@
     "source": "Gem Shop",
     "name": "5 Star Cardifier",
     "bonuses": [
-      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Random Hyper Obol",
-    "bonuses": [
-      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
-    "bonuses": [
-      "A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Siege Captain Cap",
-    "bonuses": [
-      "Arr matey, this thar Premium Hat gives +10% Drop Rate, so ye can get back to plunderin' across the 7 seas... er, 5 worlds!"
+      "20% OFF, usually costs 480! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers, you get to choose which card gets upgraded, no randomness involved!"
     ],
     "worksInGame": true
   },
@@ -12346,6 +12426,38 @@
     "name": "Oozie Soul",
     "bonuses": [
       "+% Max Charge"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Icefish",
+    "bonuses": [
+      "+% Fishing EXP"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Shellfish",
+    "bonuses": [
+      "+% Total Fishing Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Jumbo Shrimp",
+    "bonuses": [
+      "+% Fishing Away Gains"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Caulifish",
+    "bonuses": [
+      "+% Fishing Speed"
     ],
     "worksInGame": true
   },
@@ -16014,7 +16126,7 @@
     "source": "Armor",
     "name": "Shallow Watering",
     "bonuses": [
-      "Weapon Power: 3",
+      "Weapon Power: 4",
       "STR: 6",
       "AGI: 2",
       "20Yellow Depth"
@@ -16025,9 +16137,9 @@
     "source": "Armor",
     "name": "Oceanic Ring",
     "bonuses": [
-      "Weapon Power: 3",
-      "STR: 6",
-      "AGI: 2",
+      "Weapon Power: 8",
+      "STR: 9",
+      "AGI: 3",
       "30Red Depth"
     ],
     "worksInGame": true
@@ -16036,9 +16148,9 @@
     "source": "Armor",
     "name": "Deepwater Trench Ring",
     "bonuses": [
-      "Weapon Power: 3",
-      "STR: 6",
-      "AGI: 2",
+      "Weapon Power: 14",
+      "STR: 12",
+      "AGI: 4",
       "40Purple Depth"
     ],
     "worksInGame": true
@@ -16831,9 +16943,25 @@
   },
   {
     "source": "Stamp",
-    "name": "Dementia Sword",
+    "name": "Dementia Sword Stamp",
     "bonuses": [
       "+% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Golden Sixes Stamp",
+    "bonuses": [
+      "+% Drop Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Stat Wallstreet Stamp",
+    "bonuses": [
+      "+ All Stats."
     ],
     "worksInGame": true
   },
@@ -17202,6 +17330,14 @@
     "name": "Multitool Stamp",
     "bonuses": [
       "+ All Skill Efficiency"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Stamp",
+    "name": "Skelefish Stamp",
+    "bonuses": [
+      "+% Fishing Efficiency per Fishing Lv"
     ],
     "worksInGame": true
   },
@@ -18759,6 +18895,27 @@
     "worksInGame": true
   },
   {
+    "source": "Name Tag",
+    "name": "Trash Tuna Nametag",
+    "bonuses": [
+      "STR: 30",
+      "200% Fishing Xp Gain"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Name Tag",
+    "name": "Island Adventurer Nametag",
+    "bonuses": [
+      "Weapon Power: 12",
+      "STR: 12",
+      "LUK: 12",
+      "10% Fight Afk Gain",
+      "5% Fishin Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Armor",
     "name": "Simple Key Chain",
     "bonuses": [
@@ -19228,6 +19385,20 @@
       "LUK: 30",
       "42% Drop Chance",
       "35% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Master of Nothing",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 26",
+      "AGI: 26",
+      "WIS: 26",
+      "LUK: 26",
+      "10% All Afk Gain",
+      "70% Skill Exp"
     ],
     "worksInGame": true
   },
