@@ -17529,7 +17529,7 @@
     "source": "Upgrade Stone",
     "name": "Summer Weapon Stone",
     "bonuses": [
-      "Drag onto any Weapon to apply. +1 Random Stat, +3 Defence. Success Chance; 40% Uses up 1 slots only if Successful "
+      "Drag onto any Weapon to apply. +3 Weapon Power, +2 Defence. Success Chance; 40% Uses up 1 slots only if Successful "
     ],
     "worksInGame": true
   },
@@ -17609,7 +17609,7 @@
     "source": "Upgrade Stone",
     "name": "Summer Armor Stone",
     "bonuses": [
-      "Drag onto any Armor to apply. +3 Defence. Success Chance; 50% Uses up 1 slots only if Successful "
+      "Drag onto any Armor to apply. +3 Defence, +1 Random Stat. Success Chance; 60% Uses up 1 slots only if Successful "
     ],
     "worksInGame": true
   },
@@ -17713,7 +17713,7 @@
     "source": "Upgrade Stone",
     "name": "Summer Tool Upgrade Stone",
     "bonuses": [
-      "Drag onto any Tool to apply. +3 Defence. Success Chance; 50% Uses up 1 slots only if Successful "
+      "Drag onto any Tool to apply. +2 Tool Skill Power, +3 Defence. Success Chance; 50% Uses up 1 slots only if Successful "
     ],
     "worksInGame": true
   },
@@ -18912,6 +18912,20 @@
       "LUK: 12",
       "10% Fight Afk Gain",
       "5% Fishin Efficincy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Name Tag",
+    "name": "Summer Shovel Nametag",
+    "bonuses": [
+      "Weapon Power: 4",
+      "STR: 4",
+      "AGI: 4",
+      "WIS: 4",
+      "LUK: 4",
+      "15% Xp From Monsters",
+      "4% All Stats"
     ],
     "worksInGame": true
   },
