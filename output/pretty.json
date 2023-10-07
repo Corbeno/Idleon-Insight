@@ -7665,7 +7665,7 @@
     "source": "Special Talent 1 Talents",
     "name": "Studious Quester",
     "bonuses": [
-      "Quests give +% more exp than normal"
+      "Each Completed Quest gives +0.10% All Skill efficiency. Total bonus caps at +%"
     ],
     "worksInGame": true
   },
@@ -7930,6 +7930,22 @@
     "name": "Dummy Thicc Stats",
     "bonuses": [
       "+% All Stat per POW 10 best DPS ever on the Target Dummy"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Special Talent 4 Talents",
+    "name": "Monolithialism",
+    "bonuses": [
+      "+% MultiKill per unique Onyx Statue you have"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Special Talent 4 Talents",
+    "name": "Boss Battle Spillover",
+    "bonuses": [
+      "+% Drop Rate for each difficulty of weekly boss battle defeated."
     ],
     "worksInGame": true
   },
@@ -9879,7 +9895,7 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Bubble Chat Ring",
+    "name": "Bubble Pop Chat Ring",
     "bonuses": [
       ""
     ],
@@ -10119,9 +10135,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Discount Balls",
+    "name": "Med Arcade Balls",
     "bonuses": [
-      "100 regular Arcade balls, but at a 33% Discounted Price! Great for getting more gold balls to buy upgrades with!"
+      "100 arcade balls. Use these at the Arcade, found at the clown in World 2 town! +20% better value compared to smol ball pack!"
     ],
     "worksInGame": true
   },
@@ -10167,41 +10183,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Island Bottles",
+    "name": "Battle Trophies",
     "bonuses": [
-      "Instantly gain 10 bottles for buying new Island Expeditions at the Deepwater Docks. These will be directly added to your total."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "World 3 Kill Ring",
-    "bonuses": [
-      "All kills in World 3 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Elemental Sorcerer Hat",
-    "bonuses": [
-      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Crescent Moon Pendant",
-    "bonuses": [
-      "This necklace equipment comes with +35% Class EXP bonus, +5% Mob Respawn bonus, +3 Weapon Power, and +10 all stat!"
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Holy Pearl",
-    "bonuses": [
-      "Bro someone just like, dropped these off here. I have NO idea where they've been, if you want them just take them. Well, gimme a gem at the very least and they're yours!"
+      "Gives 25 trophies to spend in the Weekly Battle shop on new UI! Find the weekly battle in World 2 town, top right."
     ],
     "worksInGame": true
   },
@@ -10209,7 +10193,47 @@
     "source": "Gem Shop",
     "name": "5 Star Cardifier",
     "bonuses": [
-      "20% OFF, usually costs 480! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers, you get to choose which card gets upgraded, no randomness involved!"
+      "10% OFF, usually costs 480! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers, you get to choose which card gets upgraded, no randomness involved!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Large Exp Balloon",
+    "bonuses": [
+      "The classic red balloon has evaded thousands of monkey darts just to get here! Just like they are free of their monkey torment, they are all free in cost!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Cosmic Time Candy",
+    "bonuses": [
+      "25% OFF, usually costs 395! A time candy that gives a random amount of time for a nonrandom cost of gems! @ These candies give up to 500 hours, but on average give 24 hrs."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Random Hyper Obol",
+    "bonuses": [
+      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Random Cape Equip",
+    "bonuses": [
+      "Gives you a random cape equipment, chosen from the ENTIRE pool of capes in the game! There are currently 13 capes, check the wiki if you want exact stats on all of them."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Elite Class Swap",
+    "bonuses": [
+      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
     ],
     "worksInGame": true
   },
@@ -13315,7 +13339,7 @@
     "name": "Red Headband",
     "bonuses": [
       "STR: 2",
-      "AGI: 1"
+      "LUK: 2"
     ],
     "worksInGame": true
   },
@@ -13592,6 +13616,15 @@
       "Defence: 160",
       "30% Total Damage",
       "10% Drop Chance"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "The Crow Perch",
+    "bonuses": [
+      "Weapon Power: 1",
+      "Defence: 1"
     ],
     "worksInGame": true
   },
@@ -14620,9 +14653,10 @@
     "source": "Armor",
     "name": "Blue Tee",
     "bonuses": [
-      "AGI: 1",
-      "WIS: 2",
-      "Defence: 3"
+      "AGI: 3",
+      "WIS: 4",
+      "Defence: 4",
+      "2% Xp From Monsters"
     ],
     "worksInGame": true
   },
@@ -16126,7 +16160,6 @@
     "source": "Armor",
     "name": "Shallow Watering",
     "bonuses": [
-      "Weapon Power: 4",
       "STR: 6",
       "AGI: 2",
       "20Yellow Depth"
@@ -16137,7 +16170,6 @@
     "source": "Armor",
     "name": "Oceanic Ring",
     "bonuses": [
-      "Weapon Power: 8",
       "STR: 9",
       "AGI: 3",
       "30Red Depth"
@@ -16148,7 +16180,6 @@
     "source": "Armor",
     "name": "Deepwater Trench Ring",
     "bonuses": [
-      "Weapon Power: 14",
       "STR: 12",
       "AGI: 4",
       "40Purple Depth"
@@ -17849,9 +17880,11 @@
     "source": "Weapon",
     "name": "Flesh Reaper",
     "bonuses": [
-      "Weapon Power: 690",
-      "AGI: 80",
-      "LUK: 420",
+      "Weapon Power: 2500",
+      "STR: 10000",
+      "AGI: 2500",
+      "WIS: 1000",
+      "LUK: 4200",
       "Speed: 9",
       "Reach: 70"
     ],
@@ -19413,6 +19446,18 @@
       "LUK: 26",
       "10% All Afk Gain",
       "70% Skill Exp"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Nebula Royal",
+    "bonuses": [
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "50% Skill Exp"
     ],
     "worksInGame": true
   },
