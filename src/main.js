@@ -67,6 +67,7 @@ runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json
 
 // repo/Misc
 runParser(parseCompanionRepo, exportedPath + "repo/Misc/CompanionRepo.json");
+runParser(parseWeeklyActionRepo, exportedPath + "repo/Misc/WeeklyTask/WeeklyActionRepo.json")
 
 // ------------------------------- Add Manual ----------------------------
 runParser(function(keyValue){
@@ -349,6 +350,21 @@ function parseCompanionRepo(keyValue){
         bonuses: [body.desc],
         worksInGame: true
     });
+}
+
+function parseWeeklyActionRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    // only a few of the actions give bonuses in the main game
+    let validKeys = ["3","8","14"];
+    if(validKeys.includes(key)){
+        output.push({
+            source: "Weekly Battle",
+            name: "Misc Action",
+            bonuses: [body.desc],
+            worksInGame: true
+        })
+    }
 }
 
 function parseSpecificItemRepo(keyValue){

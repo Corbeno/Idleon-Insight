@@ -1552,6 +1552,38 @@
     "worksInGame": true
   },
   {
+    "source": "Vials",
+    "name": "Marble Mocha",
+    "bonuses": [
+      "+% Faster Equinox Bar Fill Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Willow Sippy",
+    "bonuses": [
+      "+% Faster Sigil Charge Rate"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Shinyfin Stew",
+    "bonuses": [
+      "+% Construction Build Rate, so you can hit all those boosted max levels you keep unlocking"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Vials",
+    "name": "Dreamy Drink",
+    "bonuses": [
+      "Shrines charge +% faster, so this way they charge faster, compared to like if bonus this wasn't oven you of out hot eat the food."
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Liquid Shop",
     "name": "Mediocre Obols",
     "bonuses": [
@@ -5041,7 +5073,7 @@
     "source": "Beginner Talents",
     "name": "Sharpened Axe",
     "bonuses": [
-      "Increases Base Weapon Power by . This contributes to your total damage."
+      "Increases Base Weapon Power by . This increases damage!!"
     ],
     "worksInGame": true
   },
@@ -5521,7 +5553,7 @@
     "source": "Rage Basics Talents",
     "name": "Sharpened Axe",
     "bonuses": [
-      "Increases Base Weapon Power by . This contributes to your total damage."
+      "Increases Base Weapon Power by . This increases damage!!"
     ],
     "worksInGame": true
   },
@@ -6241,7 +6273,7 @@
     "source": "Calm Basics Talents",
     "name": "Sharpened Axe",
     "bonuses": [
-      "Increases Base Weapon Power by . This contributes to your total damage."
+      "Increases Base Weapon Power by . This increases damage!!"
     ],
     "worksInGame": true
   },
@@ -6961,7 +6993,7 @@
     "source": "Savvy Basics Talents",
     "name": "Sharpened Axe",
     "bonuses": [
-      "Increases Base Weapon Power by . This contributes to your total damage."
+      "Increases Base Weapon Power by . This increases damage!!"
     ],
     "worksInGame": true
   },
@@ -7946,6 +7978,14 @@
     "name": "Boss Battle Spillover",
     "bonuses": [
       "+% Drop Rate for each difficulty of weekly boss battle defeated."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Special Talent 4 Talents",
+    "name": "Dreamer Damage",
+    "bonuses": [
+      "+% Damage per Equinox Dream cloud completed"
     ],
     "worksInGame": true
   },
@@ -9290,6 +9330,14 @@
     "name": "Capitalist Win",
     "bonuses": [
       "*5% Class EXP for all &characters outside &of dungeons"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Achievement",
+    "name": "Equinox Visitor",
+    "bonuses": [
+      "*4% Total DMG for all &characters"
     ],
     "worksInGame": true
   },
@@ -16525,6 +16573,20 @@
   },
   {
     "source": "Armor",
+    "name": "Equinox Ring",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 20",
+      "AGI: 20",
+      "WIS: 20",
+      "LUK: 20",
+      "Defence: 10",
+      "10% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
     "name": "Angel Wings",
     "bonuses": [
       "Weapon Power: 5",
@@ -19462,6 +19524,16 @@
     "worksInGame": true
   },
   {
+    "source": "Armor",
+    "name": "Luckier Lad",
+    "bonuses": [
+      "LUK: 50",
+      "50% Drop Chance",
+      "5% Luk"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Tool",
     "name": "Junk Pickaxe",
     "bonuses": [
@@ -21879,6 +21951,30 @@
     "name": "Frog",
     "bonuses": [
       "+10% Total Damage"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weekly Battle",
+    "name": "Misc Action",
+    "bonuses": [
+      "Tired and slightly agitated, you take a tea drinking break, giving +% Class EXP for all characters."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weekly Battle",
+    "name": "Misc Action",
+    "bonuses": [
+      "You add extra chilly cheese to everyone's hotdogs outside the fight, giving +% DMG to all characters"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Weekly Battle",
+    "name": "Misc Action",
+    "bonuses": [
+      "You notice a trophy on the ground, and run to pick it up instead of attacking."
     ],
     "worksInGame": true
   },
