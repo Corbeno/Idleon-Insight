@@ -22604,5 +22604,77 @@
       "+% Fighting AFK Gains"
     ],
     "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 6 Unlock",
+    "bonuses": [
+      "Trap Box Vacuum: The trapper drone in World 3 will automatically collect traps every 24 hours, and will deposit the critters into your Storage Chest if there is space. The EXP from the Traps goes to the one who placed the traps."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 11 Unlock",
+    "bonuses": [
+      "Infinite Stars: Permanently transforms Star Signs into Infinite Star Signs, which always give their bonus AND don't give the negatives. Infinite Star Signs are indicated by a little infinity icon, and are transformed in a specific order, so you don't get to choose. Get more from Shiny Pets in Breeding..."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 16 Unlock",
+    "bonuses": [
+      "Skill Mastery: No in game description. Gain various account wide bonuses based on each skill's total skill level across all players. Bonuses can be seen by going into the rift map and pressing the bonus."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 21 Unlock",
+    "bonuses": [
+      "Eclipse Skulls: You can now get Eclipse Skulls in Deathnote, unlocked at 1,000,000,000 kills. Eclipse Skulls are worth 20 points, and you also get +5% Multiplicative Damage."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 26 Unlock",
+    "bonuses": [
+      "Stamp Mastery: Every 100 total levels of all your stamps, you get a 1% chance to get a 'Gilded Stamp' 95% Reduction in Stamp Upgrade costs. This chance happens every day you log in, and they stack for whenever you want to use them!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 31 Unlock",
+    "bonuses": [
+      "Eldritch Artifact: You can now get Eldritch Artifacts from sailing, but only if you've found the Ancient form first."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 36 Unlock",
+    "bonuses": [
+      "Vial Mastery: Each Gold Crown Vial you have, which is the 13th and final vial you upgrade to for 1 Billion Resource, now gives you a 1.02x boost to ALL Vial Bonuses!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 41 Unlock",
+    "bonuses": [
+      "Construct Mastery: No in game description. Total construction levels across buildings grant bonuses. Bonuses can be seen by going into the rift map and pressing the bonus."
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Rift",
+    "name": "Round 46 Unlock",
+    "bonuses": [
+      "Ruby Cards: You can now level up your cards to Lv 6. Yea, you'd think it would be Lv 5 but remember, 0 stars is actually Lv 1. So yea, Ruby Cards are 5 star cards, which means they are technically lv 6!"
+    ],
+    "worksInGame": true
   }
 ]
