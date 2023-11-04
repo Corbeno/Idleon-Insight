@@ -51,6 +51,9 @@ runParser(parseStarSignsRepo, exportedPath + "repo/Misc/StarSignsRepo.json");
 runParser(parseTaskShopDescRepo, exportedPath + "repo/Misc/TaskShopDescRepo.json");
 runParser(parseCardSetRepo, exportedPath + "repo/Misc/CardSetRepo.json");
 runParser(parseSkullShopRepo, exportedPath + "repo/Misc/SkullShopRepo.json");
+runParser(parseDreamChallengeRepo, exportedPath + "repo/Misc/Equinox/DreamChallengeRepo.json");
+runParser(parseDreamUpgradeRepo, exportedPath + "repo/Misc/Equinox/DreamUpgradeRepo.json");
+
 
 // repo/Item/* 
 runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
@@ -300,6 +303,28 @@ function parseSkullShopRepo(keyValue){
         source: "Skull Shop",
         name: body.rewardId,
         bonuses: [body.description],
+        worksInGame: true
+    });
+}
+
+function parseDreamChallengeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Equinox Cloud",
+        name: body.challenge,
+        bonuses: [body.reward],
+        worksInGame: true
+    });
+}
+
+function parseDreamUpgradeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Equinox Dream Upgrade",
+        name: body.name,
+        bonuses: [body.upgrade],
         worksInGame: true
     });
 }
