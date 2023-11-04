@@ -7081,7 +7081,7 @@
     "source": "Mage Talents",
     "name": "Energy Bolt",
     "bonuses": [
-      "Your next basic attack strikes the Targeted Enemy for % Damage"
+      "Your next basic attack strikes the Targeted Enemy for % Damage. You MUST have a wand equipped to cast."
     ],
     "worksInGame": true
   },
@@ -7449,7 +7449,7 @@
     "source": "Elemental Sorcerer Talents",
     "name": "Lightning Barrage",
     "bonuses": [
-      "Your next attack casts a lightning strike, dealing % dmg to up to  mobs"
+      "Your next attack casts a lightning strike, dealing % dmg to up to  mobs. You MUST have a wand equipped to cast."
     ],
     "worksInGame": true
   },
@@ -7977,7 +7977,7 @@
     "source": "Special Talent 4 Talents",
     "name": "Boss Battle Spillover",
     "bonuses": [
-      "+% Drop Rate for each difficulty of weekly boss battle defeated."
+      "+% Drop Rate for each difficulty of weekly boss battle defeated this week."
     ],
     "worksInGame": true
   },
@@ -10191,9 +10191,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Biggy Arcade Balls",
+    "name": "Arcade Ballz",
     "bonuses": [
-      "500 arcade balls. Use these at the Arcade, found at the clown in World 2 town! +33% better value compared to smol ball pack!"
+      "20% OFF, usually costs 1250! Gives 500 arcade balls, directly into your arcade to be dropped!"
     ],
     "worksInGame": true
   },
@@ -10231,9 +10231,17 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Battle Trophies",
+    "name": "Falloween Treats",
     "bonuses": [
-      "Gives 25 trophies to spend in the Weekly Battle shop on new UI! Find the weekly battle in World 2 town, top right."
+      "Gives a bundle of 50 treats to open! There are 3 Falloween masks to collect, as well as the Falloween Nametag once you open 500 in total!"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Dragonic Cauldron",
+    "bonuses": [
+      "Turns the 1st liquid cauldron DRAGONIC (or 2nd or 3rd if you already own dragonic cauldrons). These give 2x Liquid Capacity, and 1.3x liquid generation."
     ],
     "worksInGame": true
   },
@@ -10241,47 +10249,39 @@
     "source": "Gem Shop",
     "name": "5 Star Cardifier",
     "bonuses": [
-      "10% OFF, usually costs 480! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers, you get to choose which card gets upgraded, no randomness involved!"
+      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers, you get to choose which card gets upgraded, no randomness involved!"
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Large Exp Balloon",
+    "name": "Borzoi Topper",
     "bonuses": [
-      "The classic red balloon has evaded thousands of monkey darts just to get here! Just like they are free of their monkey torment, they are all free in cost!"
+      "He really went and did it for you, what a good boy! He sits atop your head, acting as a nice premium hat."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
+    "name": "Battle Trophies",
     "bonuses": [
-      "25% OFF, usually costs 395! A time candy that gives a random amount of time for a nonrandom cost of gems! @ These candies give up to 500 hours, but on average give 24 hrs."
+      "15% OFF! Gives 25 trophies to spend in the Weekly Battle shop on new UI! Find the weekly battle in World 2 town, top right."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Random Hyper Obol",
+    "name": "Gold Pocketwatch",
     "bonuses": [
-      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+      "Gives you a pocketwatch that fast forwards a day, restocking shops and triggering various daily rewards and systems. One use only, of course."
     ],
     "worksInGame": true
   },
   {
     "source": "Gem Shop",
-    "name": "Random Cape Equip",
+    "name": "Silver Pocketwatch",
     "bonuses": [
-      "Gives you a random cape equipment, chosen from the ENTIRE pool of capes in the game! There are currently 13 capes, check the wiki if you want exact stats on all of them."
-    ],
-    "worksInGame": true
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Elite Class Swap",
-    "bonuses": [
-      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
+      "This pocketwatch on the other hand alters your daily reset time forward or backward by 15 mins, your choice. Silver is kinda lame, so have some on the house!"
     ],
     "worksInGame": true
   },
@@ -13258,6 +13258,14 @@
     "name": "Spring Splendor",
     "bonuses": [
       "+% All Skill EXP (Passive)"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Card",
+    "name": "Falloween Pumpkin",
+    "bonuses": [
+      "+ Star Talent Pts (Passive)"
     ],
     "worksInGame": true
   },
@@ -19025,6 +19033,16 @@
     "worksInGame": true
   },
   {
+    "source": "Name Tag",
+    "name": "Falloween Nametag",
+    "bonuses": [
+      "STR: 10",
+      "25% Mining Xp Gain",
+      "3% Skill Afk Gain"
+    ],
+    "worksInGame": true
+  },
+  {
     "source": "Armor",
     "name": "Simple Key Chain",
     "bonuses": [
@@ -21375,6 +21393,60 @@
       "AGI: 1",
       "WIS: 1",
       "5% All Stats"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Bedsheet with Holes",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "LUK: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Carrotman Mask",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "LUK: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Glublin Mask",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "LUK: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Bloque Mask",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "LUK: 1"
+    ],
+    "worksInGame": true
+  },
+  {
+    "source": "Armor",
+    "name": "Borzoi Topper",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1"
     ],
     "worksInGame": true
   },
