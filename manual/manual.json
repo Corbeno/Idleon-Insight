@@ -271,5 +271,227 @@
             "Ruby Cards: You can now level up your cards to Lv 6. Yea, you'd think it would be Lv 5 but remember, 0 stars is actually Lv 1. So yea, Ruby Cards are 5 star cards, which means they are technically lv 6!"
         ],
         "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Mining",
+        "bonuses": [
+            "Lv 150: +25% Mining Exp Gain",
+            "Lv 200: +10% Mining Efficiency",
+            "Lv 300: All Mining Cards Are Now Passive (P)",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Smithing",
+        "bonuses": [
+            "Lv 150: +25% Smithing Exp Gain",
+            "Lv 200: +10% Smithing Efficiency",
+            "Lv 300: +25% Forge Ore Capacity",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Choppin",
+        "bonuses": [
+            "Lv 150: +25% Chopping Exp Gain",
+            "Lv 200: +10% Chopping Efficiency",
+            "Lv 300: All Chopping Cards Are Now Passive (P)",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Fishing",
+        "bonuses": [
+            "Lv 150: +25% Fishing Exp Gain",
+            "Lv 200: +10% Fishing Efficiency",
+            "Lv 300: All Fishing Cards Are Now Passive (P)",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Alchemy",
+        "bonuses": [
+            "Lv 150: +25% Alchemy Exp Gain",
+            "Lv 200: +10% Alchemy Efficiency",
+            "Lv 300: +5% All Liquid Capacity",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Catching",
+        "bonuses": [
+            "Lv 150: +25% Catching Exp Gain",
+            "Lv 200: +10% Catching Efficiency",
+            "Lv 300: All Catching Cards Are Now Passive (P)",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Trapping",
+        "bonuses": [
+            "Lv 150: +25% Trapping Exp Gain",
+            "Lv 200: +10% Trapping Efficiency",
+            "Lv 300: All Trapping Cards Are Now Passive (P)",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Construction",
+        "bonuses": [
+            "Lv 150: +25% Construction Exp Gain",
+            "Lv 200: +10% Construction Efficiency",
+            "Lv 300: +15% Shrine Level Up Rate",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Worship",
+        "bonuses": [
+            "Lv 150: +25% Worship Exp Gain",
+            "Lv 200: +10% Worship Efficiency",
+            "Lv 300: All Worship Cards Are Now Passive (P)",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Cooking",
+        "bonuses": [
+            "Lv 150: +25% Cooking Exp Gain",
+            "Lv 200: +10% Cooking Efficiency",
+            "Lv 300: +5% Total Damage",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Breeding",
+        "bonuses": [
+            "Lv 150: +25% Breeding Exp Gain",
+            "Lv 200: +10% Breeding Efficiency",
+            "Lv 300: +15% Egg Incubation Speed",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Laboratory",
+        "bonuses": [
+            "Lv 150: +25% Laboratory Exp Gain",
+            "Lv 200: +10% Laboratory Efficiency",
+            "Lv 300: +5% Total Damage",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Sailing",
+        "bonuses": [
+            "Lv 150: +25% Sailing Exp Gain",
+            "Lv 200: +15% Boat Sailing Speed",
+            "Lv 300: +5% Total Damage",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output"
+        ]
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Divinity",
+        "bonuses": [
+            "Lv 150: +25% Divinity Exp Gain",
+            "Lv 200: +15% Divinity Pts Gained",
+            "Lv 300: +5% Total Damage",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Skill Mastery",
+        "name": "Gaming",
+        "bonuses": [
+            "Lv 150: +25% Gaming Exp Gain",
+            "Lv 200: 1.15x Gaming Bits Gained",
+            "Lv 300: +5% Total Damage",
+            "Lv 400: +10% All Skill Exp",
+            "Lv 500: +5% All Skill Efficiency",
+            "Lv 750: +1% Printer Output",
+            "Lv 1000: +25% All Skill Exp"
+        ],
+        "worksInGame": true
+    },
+    {
+        "source": "Construct Mastery",
+        "name": "Construction",
+        "bonuses": [
+            "Lv 250: +1% Refinery Spd Per 10 Tot Lv",
+            "Lv 500: +35 Max Lv For Trapper Drone",
+            "Lv 750: +2% Dmg Per 10 Tot Lv Over 750",
+            "Lv 1000: +100 Max Lv For Talent Library",
+            "Lv 1250: +5% Build Spd Per 10 Tot Lv Over 1250",
+            "Lv 1500: +100 Max Lv For All Shrines",
+            "Lv 2500: +30 Max Lv For All Wizard Towers"
+        ],
+        "worksInGame": true
     }
 ]
