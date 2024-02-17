@@ -35,12 +35,12 @@ runParser(parseGamingSuperbitsRepo, exportedPath + "repo/Worlds/5/GamingSuperBit
 runParser(parseGamingUpgraderepo, exportedPath + "repo/Worlds/5/GamingUpgradeRepo.json")
 runParser(parseGodInfoRepo, exportedPath + "repo/Worlds/5/GodInfoRepo.json")
 
-// runParser(parseJadeUpgradeRepo, exportedPath + "repo/Worlds/6/JadeUpgradeRepo.json")
-// runParser(parseMarketInfoRepo, exportedPath + "repo/Worlds/6/MarketInfoRepo.json")
-// runParser(parseNinjaItemRepo, exportedPath + "repo/Worlds/6/NinjaItemRepo.json")
-// runParser(parseNinjaUpgradeRepo, exportedPath + "repo/Worlds/6/NinjaUpgradeRepo.json")
-// runParser(parseSummonEnemyBonusRepo, exportedPath + "repo/Worlds/6/SummonEnemyBonus.json")
-// runParser(parseSummonUpgradeRepo, exportedPath + "repo/Worlds/6/SummonUpgradeBonus.json")
+runParser(parseJadeUpgradeRepo, exportedPath + "repo/Worlds/6/JadeUpgradeRepo.json")
+runParser(parseMarketInfoRepo, exportedPath + "repo/Worlds/6/MarketInfoRepo.json")
+runParser(parseNinjaItemRepo, exportedPath + "repo/Worlds/6/NinjaItemRepo.json")
+runParser(parseNinjaUpgradeRepo, exportedPath + "repo/Worlds/6/NinjaUpgradeRepo.json")
+runParser(parseSummonEnemyBonusRepo, exportedPath + "repo/Worlds/6/SummonEnemyBonusRepo.json")
+runParser(parseSummonUpgradeRepo, exportedPath + "repo/Worlds/6/SummonUpgradeRepo.json")
 
 // repo/Talents/*ccc
 runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
@@ -678,7 +678,7 @@ function parseNinjaItemRepo(keyValue){
     output.push({
         source: "Sneaking Items",
         name: body.name,
-        bonuses: [body.bonus ?? body.desc] //TODO check this
+        bonuses: [body.bonus ?? body.desc ?? "Basic Item"]
     })
 }
 function parseNinjaUpgradeRepo(keyValue){
@@ -714,7 +714,12 @@ function parseSummonUpgradeRepo(keyValue){
 function cleanOutput(output){
     for(obj of output){
         obj.bonuses.forEach(function(bonus, i, bonuses){
-            obj.bonuses[i] = bonus.replace(/\[|\{|\}/g, "").replace(/\_/g, " ");
+            try{
+                obj.bonuses[i] = bonus.replace(/\[|\{|\}/g, "").replace(/\_/g, " ");
+
+            }catch(e){
+                let string = ""
+            }
         })
     }
     return output

@@ -4752,6 +4752,1343 @@
     ]
   },
   {
+    "source": "The Jade Emporium",
+    "name": "Quick Ref Access",
+    "bonuses": [
+      "Adds the Sneaking skill to your QuickRef menu! Manage your Ninja Twins from anywhere!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Gold Food Beanstalk",
+    "bonuses": [
+      "Grows a giant beanstalk behind the ninja castle! Drop a stack of 10,000 Gold Food to add it with the beanstalk and permanently gain its bonus!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Supersized Gold Beanstacking",
+    "bonuses": [
+      "You can now drop a stack of 100,000 Gold Food to supersize it! This will obviously give a bigger bonus, and will even enlargen the food on the stalk!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Charmed, I'm Sure",
+    "bonuses": [
+      "All your Ninja Twins can now equip two of the same charm at once!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Mob Cosplay Craze",
+    "bonuses": [
+      "Certain monsters in World 6 will now have a rare chance to drop Ninja Hats, but only the hats that your Ninja Twins have equipped."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Level Exemption",
+    "bonuses": [
+      "Completely and utterly removes the UNDER-LEVELED bonus reduction of all stamps in your collection, now and forever. Amen."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Gaming to the MAX",
+    "bonuses": [
+      "All plant types in Gaming have +1 Max Evolution, but this one is 50,000x rarer than normal and will make you wonder if evolution is even real (it is)"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Revenge of the Pickle",
+    "bonuses": [
+      "Adds a new boss page to the left of World 1 in Deathnote. Each BoneJoePickle in your inventory counts as +1 Boss Deathnote Kill!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "The Artifact Matrix",
+    "bonuses": [
+      "Extends the Laboratory Event Horizon, adding another bonus to connect to! In particular, a boost to Artifact Find Chance!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "The Slab Matrix",
+    "bonuses": [
+      "Further extends the Laboratory Event Horizon, adding another bonus to connect to! In particular, a boost to all bonuses from the Slab!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "The Spirit Matrix",
+    "bonuses": [
+      "Even further extends the Laboratory Event Horizon, adding another bonus to connect to! In particular, a boost to W6 Skill exp gain!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "The Crop Matrix",
+    "bonuses": [
+      "Yet again even further extends the Laboratory Event Horizon, adding another bonus to connect to! In particular, a boost to Crop Depot!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "MSA Expander I",
+    "bonuses": [
+      "Adds a new bonus type to the Miniature Soul Apparatus in World 3, specifically Farming EXP!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "MSA Expander II",
+    "bonuses": [
+      "Adds a new bonus type to the Miniature Soul Apparatus in World 3, specifically Jade Coin Gain!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "MSA Expander III",
+    "bonuses": [
+      "Adds a new bonus type to the Miniature Soul Apparatus in World 3, specifically All Essence Gain!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Deal Sweetening",
+    "bonuses": [
+      "Earn +25% more Magic Beans from the mysterious Legumulyte bean merchant found in the Troll Broodnest map."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "No Meal Left Behind",
+    "bonuses": [
+      "Every 24 hours, your lowest level Meal gets +1 Lv. This only works on Meals Lv 5 or higher, and doesn't trigger on days you don't play."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Jade Coin Magnetism",
+    "bonuses": [
+      "Adds a new bonus of +5% Jade Coin Gain per 10 items found after 1000 items, as shown at The Slab in World 5."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Essence Confetti",
+    "bonuses": [
+      "Adds a new bonus of +3% All Essence Gain per 10 items found after 1000 items, as shown at The Slab in World 5."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Shrine Collective Bargaining Agreement",
+    "bonuses": [
+      "Shrines no longer lose EXP when moved around, so you can finally bring those baddies out of retirement!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Papa Blob's Quality Guarantee",
+    "bonuses": [
+      "Increases the Max Level of all cooking meals by +10. Better meals, better levels, Papa Blob's."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Chef Geustloaf's Cutting Edge Philosophy",
+    "bonuses": [
+      "Increases the Max Level of all cooking meals by +10 again! But oh hoho, you sir are no Chef Geustloaf! Good luck cooking to these LVs!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Crop Depot Scientist",
+    "bonuses": [
+      "Employs a friendly scientist blobulyte to keep a Data Sheet of all the crops you've ever found!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Science Environmentally Sourced Pencil",
+    "bonuses": [
+      "Adds a new bonus type to your crop scientist's Data Sheet! Specifically '+15% Cash from Mobs' per crop found!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Science Pen",
+    "bonuses": [
+      "Adds a new bonus type to your crop scientist's Data Sheet! Specifically '1.02x Plant Evolution Chance in Gaming (multiplicative)' per Crop!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Science Marker",
+    "bonuses": [
+      "Adds a new bonus type to your crop scientist's Data Sheet! Specifically '+8% Jade Coin Gain' per Crop!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Science Featherpen",
+    "bonuses": [
+      "Adds a new bonus type to your crop scientist's Data Sheet! Specifically '1.10x Cooking Speed (multiplicative)' per Crop!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Reinforced Science Pencil",
+    "bonuses": [
+      "Adds a new bonus type to your crop scientist's Data Sheet! Specifically '+20% Total Damage' per Crop!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Science Crayon",
+    "bonuses": [
+      "Adds a new bonus type to your crop scientist's Data Sheet! Specifically '+7% Shiny Pet Lv Up Rate and Pet Breeding Rate' per Crop!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "UNDER CONSTRUCTION",
+    "bonuses": [
+      "This bonus isn't out yet, so you cant buy it! Please come back in a few updates there'll be more floors to sneak up to as well!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "NAME NEEDED",
+    "bonuses": [
+      "All Divinity Gods give 1.05x higher Blessing bonus (the passive bonus that affects all characters always) per God Rank."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Sovereign Artifacts",
+    "bonuses": [
+      "idk"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "INSERT SUMMONING 3",
+    "bonuses": [
+      "Idk yet"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "INSERT SUMMONING 4",
+    "bonuses": [
+      "Idk yet"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "IDK YET",
+    "bonuses": [
+      "Idk yet"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "LAND PLOTS",
+    "bonuses": [
+      "You get  extra plots of land to plant crops in"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "STRONGER VINES",
+    "bonuses": [
+      "+% chance for +1 crop when fully grown"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "NUTRITIOUS SOIL",
+    "bonuses": [
+      "+% growth speed for all land"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "SMARTER SEEDS",
+    "bonuses": [
+      "+% farming EXP gain from all sources"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "BIOLOGY BOOST",
+    "bonuses": [
+      "+% chance of crop evolution, or 'next crop' chance"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "PRODUCT DOUBLER",
+    "bonuses": [
+      "+% chance for crops to be worth 2x when collected"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "MORE BEENZ",
+    "bonuses": [
+      "+% magic beans gained when trading in crops"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "ENHANCED DEEDS",
+    "bonuses": [
+      "Nothing yet. A weekly update will change this, some day..."
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "OVERGROWTH",
+    "bonuses": [
+      "Unlocks Overgrowth (OG). Each OG doubles crop value ~ EXP"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "EVOLUTION GMO",
+    "bonuses": [
+      "x crop evolution chance per crop you have 200 of"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "SPEED GMO",
+    "bonuses": [
+      "+% growth speed per crop you have 1000 of"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "OG FERTILIZER",
+    "bonuses": [
+      "x higher chance for Overgrowth to occur"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "EXP GMO",
+    "bonuses": [
+      "+% farming EXP gain crop you have 2500 of"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "LAND RANK",
+    "bonuses": [
+      "Nothing yet. These nuts, so true."
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "VALUE GMO",
+    "bonuses": [
+      "+% crop value per per crop you have 10000 of"
+    ]
+  },
+  {
+    "source": "Farming Market",
+    "name": "SUPER GMO",
+    "bonuses": [
+      "+% all 'GMO' bonuses per crop you have 100K"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Straw Hat",
+    "bonuses": [
+      "A basic hat made of straw held together by string!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Wig Bandana",
+    "bonuses": [
+      "Really makes you FEEL like you have cool ninja hair!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Funky Hat",
+    "bonuses": [
+      "Woah what the heck is this? What does this have to do with ninjas?"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Reinforced Headband",
+    "bonuses": [
+      "The metal plate protects against downward strikes from opponents!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Shogun Helmet",
+    "bonuses": [
+      "Symbolizes the leader of feudalism itself!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gilded Headband",
+    "bonuses": [
+      "It's like the other headband, but recoloured to save time..."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Bamboo Hat",
+    "bonuses": [
+      "Shaved bamboo held together by a collective desire to be a hat!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Festive Beast Mask",
+    "bonuses": [
+      "Calm down it's not real, everyone knows masks aren't real!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Heiress Headdress",
+    "bonuses": [
+      "It's blue, it's ugly, and it doesn't deserve a full descri"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Spirited Mane",
+    "bonuses": [
+      "Elicits a sense of awe in all who gaze upon it."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Fiery Mane",
+    "bonuses": [
+      "Elicits a sense of awe in all who gaze upon it, but like, red."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Guardian Mane",
+    "bonuses": [
+      "Really makes you FEEL like you have endgame monster hair!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Fanned Blossomage",
+    "bonuses": [
+      "Bowing to someone with this on will really blow them away!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Dainty Brim",
+    "bonuses": [
+      "Fancy a spot of tea daaahling? Be a dear and pass the crumpets!"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Charcoal Hat",
+    "bonuses": [
+      "A basic hat made of straw, with some charcoal tossed in."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Nothing",
+    "bonuses": [
+      "0"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Wood Nunchaku",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Bamboo Nunchaku",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Charcoal Nunchaku",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Ignited Nunchaku",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Basic Kunai",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Basic Kunai",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Basic Kunai",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Basic Kunai",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Ninja Log",
+    "bonuses": [
+      "If detected, +% chance to not be knocked out"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Taunting Mark",
+    "bonuses": [
+      "If another ninja on this floor is detected, you are instead (if youre not already KO'd) Also, -% KO time"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Yellow Belt",
+    "bonuses": [
+      "Performs actions +% faster. If there are no other ninjas on floor, this bonus is doubled"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Strange Comb",
+    "bonuses": [
+      "Gives all EXP earned to ninja with highest Sneak LV. Also, +% Sneaking EXP"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Silk Veil",
+    "bonuses": [
+      "Gives you x Total Stealth"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Meteorite",
+    "bonuses": [
+      "Boosts Item Find Chance by +%, but you gain no Sneaking Exp"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Shiny Smoke",
+    "bonuses": [
+      "Find +% more Jade coins. If you have 0% Detection Rate, this bonus is doubled"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Scroll of Power",
+    "bonuses": [
+      "+% Sneaking EXP, Jade Coins, and Total Stealth. Can only be equipped by one ninja at a time"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Smoke Bomb",
+    "bonuses": [
+      "All other Ninjas on same floor get +% Stealth"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Coin",
+    "bonuses": [
+      "If in Inventory, all ninjas find x Jade Coins. Doesn't stack with other Gold Coins"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Eye",
+    "bonuses": [
+      "If in Inventory, all ninjas get +% Sneaking EXP. Doesn't stack with other Gold Eyes"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Coupon",
+    "bonuses": [
+      "If in Inventory, all Ninja Knowledge is % cheaper. Doesn't stack with other Gold Coupons"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Scroll",
+    "bonuses": [
+      "If in Inventory, most charms give x higher bonus than displayed. Doesn't stack with other Gold Scrolls"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Blue Belt",
+    "bonuses": [
+      "Gives +% Sneaking EXP. If there are no other ninjas on floor, this bonus is tripled"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Green Belt",
+    "bonuses": [
+      "Find +% more Jade Coins. If there are no other ninjas on floor, this bonus is tripled."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Goodie Bag",
+    "bonuses": [
+      "Find +% more Jade Coins."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Item Name",
+    "bonuses": [
+      "Item Desc"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Item Name",
+    "bonuses": [
+      "Item Desc"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Item Name",
+    "bonuses": [
+      "Item Desc"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Item Name",
+    "bonuses": [
+      "Item Desc"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Sparkle Log",
+    "bonuses": [
+      "x Total DMG"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Fruit Rolle",
+    "bonuses": [
+      "+% AGI"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Glowing Veil",
+    "bonuses": [
+      "x Artifact Find Chance"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Cotton Candy",
+    "bonuses": [
+      "x Drop Rate"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Sugar Bomb",
+    "bonuses": [
+      "+% STR"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gumm Eye",
+    "bonuses": [
+      "+% LUK"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Bubblegum Law",
+    "bonuses": [
+      "x Kill per Kill"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Sour Wowzer",
+    "bonuses": [
+      "+% Sneaking EXP gain"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Crystal Comb",
+    "bonuses": [
+      "x Bigger Summoning Winner Bonuses"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Rock Candy",
+    "bonuses": [
+      "+% Farming EXP gain"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Lollipop Law",
+    "bonuses": [
+      "+% WIS"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Taffy Disc",
+    "bonuses": [
+      "x Higher Overgrowth Chance"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Stick of Chew",
+    "bonuses": [
+      "x All Essence Generation"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Treat Sack",
+    "bonuses": [
+      "x Jade Coin gain"
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Name",
+    "bonuses": [
+      "Desc"
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Respect for the Art",
+    "bonuses": [
+      "+% bonus Sneaking EXP gain."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Way of Haste",
+    "bonuses": [
+      "+% action speed. So instead of actions taking an hour, it's under an hour!"
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Mahjong Boosters",
+    "bonuses": [
+      "+% Door Damage and Untie Rate."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Shuriken Sensei",
+    "bonuses": [
+      "Raise the max LV of Shuriken found to +, also increases rarity of Shuriken found."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Kunai Knowledge",
+    "bonuses": [
+      "Raise the max LV of Kunai found to +, also increases rarity of Kunai found."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Currency Conduit",
+    "bonuses": [
+      "+% bonus Jade Coins found per Sneaking LV"
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Glove Ingenuity",
+    "bonuses": [
+      "Raise the max LV of Gloves found to +, also increases rarity of Gloves found."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Charm Collector",
+    "bonuses": [
+      "Raise the max LV of Charms found to +, also increases rarity of Charms found."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Nunchaku Grip",
+    "bonuses": [
+      "Raise the max LV of Nunchaku found to +, also increases rarity of Nunchaku found."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Way of Stealth",
+    "bonuses": [
+      "+ Stealth per Sneaking Lv. Stealth is what lowers detection rate."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Looting Ambition",
+    "bonuses": [
+      "Successfully sneaking now has a small chance of finding items. x Item Find Chance."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Thick Skin",
+    "bonuses": [
+      "When detected, getting Knocked Out lasts for % less time."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Star Sweeping",
+    "bonuses": [
+      "Insta-revive a knocked out ninja by dragging them to the Safe Area, up to  times a day."
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 1",
+    "bonuses": [
+      "<x Total DMG"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 2",
+    "bonuses": [
+      "<x Jade Gain"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 3",
+    "bonuses": [
+      "<x Farming SPD"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 4",
+    "bonuses": [
+      "<x Artifact Find"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 5",
+    "bonuses": [
+      "+ Lab Con Range"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 6",
+    "bonuses": [
+      "<x All Essence"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 7",
+    "bonuses": [
+      "<x Sneak EXP"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 8",
+    "bonuses": [
+      "<x Sigil SPD"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 9",
+    "bonuses": [
+      "<x Farming EXP"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 10",
+    "bonuses": [
+      "+% Drop Rate"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 11",
+    "bonuses": [
+      "<x Crop EVO"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 12",
+    "bonuses": [
+      "+% AFK Gains"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 13",
+    "bonuses": [
+      "+% Skill EXP"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 14",
+    "bonuses": [
+      "<x Construct SPD"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 15",
+    "bonuses": [
+      "<x Skill Effncy."
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 16",
+    "bonuses": [
+      "<x Cooking SPD"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 17",
+    "bonuses": [
+      "<x Gaming Bits"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 18",
+    "bonuses": [
+      "<x Shiny EXP"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 19",
+    "bonuses": [
+      "+% All Stat"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 20",
+    "bonuses": [
+      "+ Library Max"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "White Essence Champ",
+    "bonuses": [
+      "+% White Essence generated per hour for each win across all colours. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Unit Health",
+    "bonuses": [
+      "Increases the HP of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Familiar",
+    "bonuses": [
+      "Summons a slime familiar to chill in your sanctuary, generating 10 Summoning EXP every hour. @ Cost resets in"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Unit Damage",
+    "bonuses": [
+      "Increases the DMG of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Green Summoning",
+    "bonuses": [
+      "Unlocks the Green Summoning Stone, and begins generating Green Essence. @ Also, +% Green Essence per hour"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Mana Generation",
+    "bonuses": [
+      "During competition, mana generation is +% higher than normal."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Familiar Merging",
+    "bonuses": [
+      "3 Slime Familiars merge into a Vrumbi Familiar which gives 4x Summoning Exp. 4 Vrumbies then merge and give 5x exp. This repeats many times."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Dodge Roll",
+    "bonuses": [
+      "All your units get a +% chance to dodge damage when colliding with an enemy"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Multi-Number Cards",
+    "bonuses": [
+      "There's a chance cards can played multiple times, indicated by the number in the top-left corner. These cards also come with a smaller cost!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Vrumbi",
+    "bonuses": [
+      "7% chance to draw a Vrumbi during competition. They have 1.5x SPD, 2.0x DMG, and +% Dodge Chance"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Unit Wellness",
+    "bonuses": [
+      "Increases the HP of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Green Essence Victor",
+    "bonuses": [
+      "+% Green Essence generated per hour for each Green circuit win. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Powerful Units",
+    "bonuses": [
+      "Increases the DMG of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Yellow Summoning",
+    "bonuses": [
+      "Unlocks the Yellow Summoning Stone, and begins generating Yellow Essence. @ Also, +% Yellow Essence per hour"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Mana Overflow",
+    "bonuses": [
+      "During competition, when your mana pool is full, expand max mana by 1.5x and boost mana generation by +15%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Spiked Placement",
+    "bonuses": [
+      "When summoning any unit, deal  damage to all enemies within 100 pixels of where you click... You don't have to click in your spawn!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Starting Mana frfr",
+    "bonuses": [
+      "Start each competition with + more mana"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Bloomy",
+    "bonuses": [
+      "4% chance to draw a Bloomy during competition. They sit in the backline and give +% Mana Generation while alive."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Yellow Essence Winnin'",
+    "bonuses": [
+      "+% Yellow Essence generated per hour for each Yellow circuit win. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Luck of the Draw",
+    "bonuses": [
+      "All special units are >x more likely to be drawn instead of slime."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Unit Constitution",
+    "bonuses": [
+      "Increases the HP of all summoned units in competition by +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Stronger Units",
+    "bonuses": [
+      "Increases the DMG of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Slime Cellsplit",
+    "bonuses": [
+      "When spawning any unit during competition, +% chance to also spawn an exact duplicate, free of charge!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Blue Summoning",
+    "bonuses": [
+      "Unlocks the Blue Summoning Stone, and begins generating Blue Essence. @ Also, +% Blue Essence per hour"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Re-Draw",
+    "bonuses": [
+      "Unlocks the Re-Draw button, allowing you to instantly redraw all your cards for a cost... but you get the first  for free!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Another Slot",
+    "bonuses": [
+      "Adds +1 Card Slot, letting you hold more cards at once!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Tonka",
+    "bonuses": [
+      "5% chance to draw a Tonka during competition. They have 0.75x SPD, 0.75x DMG, and 8.0x HP. Your upgrades here boost its HP by a further +%."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Blue Essence Ballin'",
+    "bonuses": [
+      "+% Blue Essence generated per hour for each Blue circuit win. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Slime Mitosis",
+    "bonuses": [
+      "When spawning any unit during competition, +% chance to also spawn an exact duplicate, free of charge!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Manaranarr",
+    "bonuses": [
+      "During competition, mana generation is +% higher than normal."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Blue Knowledge",
+    "bonuses": [
+      "+% Blue Essence generation per Summoning LV you have. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Beefier Units",
+    "bonuses": [
+      "Increases the DMG of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Jeweled Cards",
+    "bonuses": [
+      "% chance to draw a Jeweled variant of any card, which costs 3x Mana but spawns 4x Units!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Purple Summoning",
+    "bonuses": [
+      "Unlocks the Purple Summoning Stone, and begins generating Purple Essence. @ Also, +% Purple Essence per hour"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Unit Ache Pea",
+    "bonuses": [
+      "Increases the HP of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Regalis",
+    "bonuses": [
+      "3% chance to draw a Regalis during competition. They spawn a Slime Unit every 1 sec. Upgrading this boosts slime unit spawn rate by +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Unit Hitpoints",
+    "bonuses": [
+      "Increases the HP of all summoned units in competition by +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Purp Essence Pumpin'",
+    "bonuses": [
+      "+% Purple Essence generated per hour for each Purple circuit win. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Familiar Skipping",
+    "bonuses": [
+      "When summoning a Slime Familiar, there's a 1 in 8 to get a Vrumbi instead of Slime, and 1 in 50 to get a Bloomy. Upgrading this boosts this chance by +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Purple Knowledge",
+    "bonuses": [
+      "+% Purple Essence generation per Summoning LV you have. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Final Card",
+    "bonuses": [
+      "If you play every card in your hand, get +% Mana Regen per card played. Playing Multi-Number cards counts multiple times for this!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Mana Dividends",
+    "bonuses": [
+      "During competition, mana generation is +% higher than normal."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Brutal Units",
+    "bonuses": [
+      "Increases the DMG of all summoned units in competition by +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Red Summoning",
+    "bonuses": [
+      "You cannot obtain the Red Summoning Stone yet. This will come in a Weekly update."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Name",
+    "bonuses": [
+      "Unlocks"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "White Knowledge",
+    "bonuses": [
+      "+% White Essence generation per Summoning LV you have. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Green Knowledge",
+    "bonuses": [
+      "+% Green Essence generation per Summoning LV you have. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Yellow Knowledge",
+    "bonuses": [
+      "+% Yellow Essence generation per Summoning LV you have. @ Total bonus: +%"
+    ]
+  },
+  {
     "source": "Beginner Talents",
     "name": "Health Booster",
     "bonuses": [
