@@ -1,12 +1,4 @@
 const fs = require('fs');
-const { off } = require('process');
-
-let example = {
-    source: "",
-    name: "",
-    bonuses: [],
-    worksInGame: true,
-}
 
 let exportedPath = "IdleonWikiBot3.0/exported/";
 let output = [];
@@ -18,13 +10,16 @@ let ItemDetailRepo = getJSONFromFile(exportedPath + "repo/Item/ItemDetailRepo.js
 // repo/Worlds/*/
 runParser(parseBribeRepo, exportedPath + "repo/Worlds/1/BribeRepo.json");
 runParser(parseBubbleRepo, exportedPath + "repo/Worlds/2/BubbleRepo.json");
+
 runParser(parsePostOfficeUpgradesRepo, exportedPath + "repo/Worlds/2/PostOfficeUpgradesRepo.json");
 runParser(parseSigilRepo, exportedPath + "repo/Worlds/2/SigilRepo.json");
+
 runParser(parseBuildingRepo, exportedPath + "repo/Worlds/3/BuildingRepo.json");
 runParser(parsePrayerRepo, exportedPath + "repo/Worlds/3/PrayerRepo.json");
 runParser(parseSaltLickRepo, exportedPath + "repo/Worlds/3/SaltLickRepo.json");
 runParser(parseShrineRepo, exportedPath + "repo/Worlds/3/ShrineRepo.json");
 runParser(parseAtomColliderRepo, exportedPath + "repo/Worlds/3/AtomColliderRepo.json");
+
 runParser(parseArenaBonusRepo, exportedPath + "repo/Worlds/4/ArenaBonusRepo.json");
 runParser(parseChipRepo, exportedPath + "repo/Worlds/4/ChipRepo.json");
 runParser(parseJewelRepo, exportedPath + "repo/Worlds/4/JewelRepo.json");
@@ -40,7 +35,14 @@ runParser(parseGamingSuperbitsRepo, exportedPath + "repo/Worlds/5/GamingSuperBit
 runParser(parseGamingUpgraderepo, exportedPath + "repo/Worlds/5/GamingUpgradeRepo.json")
 runParser(parseGodInfoRepo, exportedPath + "repo/Worlds/5/GodInfoRepo.json")
 
-// repo/Talents/*
+// runParser(parseJadeUpgradeRepo, exportedPath + "repo/Worlds/6/JadeUpgradeRepo.json")
+// runParser(parseMarketInfoRepo, exportedPath + "repo/Worlds/6/MarketInfoRepo.json")
+// runParser(parseNinjaItemRepo, exportedPath + "repo/Worlds/6/NinjaItemRepo.json")
+// runParser(parseNinjaUpgradeRepo, exportedPath + "repo/Worlds/6/NinjaUpgradeRepo.json")
+// runParser(parseSummonEnemyBonusRepo, exportedPath + "repo/Worlds/6/SummonEnemyBonus.json")
+// runParser(parseSummonUpgradeRepo, exportedPath + "repo/Worlds/6/SummonUpgradeBonus.json")
+
+// repo/Talents/*ccc
 runParser(parseTalentTreeRepo, exportedPath + "repo/Talents/TalentTreeRepo.json");
 
 // repo/Misc/*
@@ -83,7 +85,6 @@ runParser(function(keyValue){
         source: body.source,
         name: body.name,
         bonuses: body.bonuses,
-        worksInGame: body.worksInGame
     })
 }, "manual/manual.json");
 
@@ -108,7 +109,6 @@ function parseBribeRepo(keyValue){
         source: "Bribe",
         name: key,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -124,7 +124,6 @@ function parseBubbleRepo(keyValue){
         source: body.cauldron,
         name: key,
         bonuses: [description],
-        worksInGame: true
     });
 }
 
@@ -141,7 +140,6 @@ function parsePostOfficeUpgradesRepo(keyValue){
             }
             return r;
         }(),
-        worksInGame: true
     });
 }
 
@@ -152,7 +150,6 @@ function parseSigilRepo(keyValue){
         source: "Sigil",
         name: key,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -164,7 +161,6 @@ function parseBuildingRepo(keyValue){
         source: "Building Upgrade",
         name: key,
         bonuses: [body.bonus],
-        worksInGame: true
     });
 }
 
@@ -175,7 +171,6 @@ function parsePrayerRepo(keyValue){
         source: "Prayer",
         name: key,
         bonuses: [body.bonus, body.curse],
-        worksInGame: true
     });
 }
 
@@ -186,7 +181,6 @@ function parseSaltLickRepo(keyValue){
         source: "Salt Lick",
         name: ItemDetailRepo[key].displayName,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -197,7 +191,6 @@ function parseShrineRepo(keyValue){
         source: "Shrine",
         name: key,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -208,7 +201,6 @@ function parseAtomColliderRepo(keyValue){
         source: "Atom Collider",
         name: key,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -222,7 +214,6 @@ function parseTalentTreeRepo(keyValue){
             source: key + " Talents",
             name: key2,
             bonuses: [body2.description],
-            worksInGame: true
         });
     })
 }
@@ -234,7 +225,6 @@ function parseAchievementRepo(keyValue){
         source: "Achievement",
         name: key,
         bonuses: [body.rewards],
-        worksInGame: true
     });
 }
 
@@ -245,7 +235,6 @@ function parseGemShopRepo(keyValue){
         source: "Gem Shop",
         name: body.mtxName,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -256,7 +245,6 @@ function parseGuildBonusRepo(keyValue){
         source: "Guild Bonus",
         name: key,
         bonuses: [body.bonus],
-        worksInGame: true
     });
 }
 
@@ -270,7 +258,6 @@ function parseStarSignsRepo(keyValue){
         source: "Star Sign",
         name: key,
         bonuses: [body.text],
-        worksInGame: true
     });
 }
 
@@ -281,7 +268,6 @@ function parseTaskShopDescRepo(keyValue){
         source: "Merit Shop",
         name: "Upgrade: " + key,
         bonuses: [body.descLine1 + " " + (body.descLine2 === "Descline2" ? "" : body.descLine2)],
-        worksInGame: true
     });
 }
 
@@ -292,7 +278,6 @@ function parseCardSetRepo(keyValue){
         source: "Card Set",
         name: key,
         bonuses: [body.bonus],
-        worksInGame: true
     });
 }
 
@@ -303,7 +288,6 @@ function parseSkullShopRepo(keyValue){
         source: "Skull Shop",
         name: body.rewardId,
         bonuses: [body.description],
-        worksInGame: true
     });
 }
 
@@ -314,7 +298,6 @@ function parseDreamChallengeRepo(keyValue){
         source: "Equinox Cloud",
         name: body.challenge,
         bonuses: [body.reward],
-        worksInGame: true
     });
 }
 
@@ -325,7 +308,6 @@ function parseDreamUpgradeRepo(keyValue){
         source: "Equinox Dream Upgrade",
         name: body.name,
         bonuses: [body.upgrade],
-        worksInGame: true
     });
 }
 
@@ -339,7 +321,6 @@ function parseCardRepo(keyValue){
         source: "Card",
         name: EnemyRepo[key].details.Name,
         bonuses: [body.effect],
-        worksInGame: true
     });
 }
 
@@ -350,7 +331,6 @@ function parseStatueRepo(keyValue){
         source: "Statue",
         name: body.name,
         bonuses: [body.effect],
-        worksInGame: true
     });
 }
 
@@ -362,7 +342,6 @@ function parseArcadeBonusRepo(keyValue){
         source: "Arcade Bonus",
         name: key,
         bonuses: [body.effect],
-        worksInGame: true
     });
 }
 
@@ -373,7 +352,6 @@ function parseCompanionRepo(keyValue){
         source: "Pet Companion",
         name: EnemyRepo[body.id].details.Name,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -387,7 +365,6 @@ function parseWeeklyActionRepo(keyValue){
             source: "Weekly Battle",
             name: "Misc Action",
             bonuses: [body.desc],
-            worksInGame: true
         })
     }
 }
@@ -414,7 +391,6 @@ function parseSpecificItemRepo(keyValue){
         source: source,
         name: displayName,
         bonuses: bonuses,
-        worksInGame: true
     });
 }
 
@@ -540,7 +516,6 @@ function parseDungPassivesRepo(keyValue){
                 source: "Dungeon",
                 name: "Flurbo passive",
                 bonuses: [passive.effect],
-                worksInGame: true
             });
         }
     }
@@ -554,7 +529,6 @@ function parseArenaBonusRepo(keyValue){
         source: "Pet Arena Bonus",
         name: key,
         bonuses: [body.desc],
-        worksInGame: true
     });
 }
 
@@ -565,7 +539,6 @@ function parseChipRepo(keyValue){
         source: "Lab Chip",
         name: key,
         bonuses: [body.bonus],
-        worksInGame: true
     });
 }
 
@@ -576,7 +549,6 @@ function parseJewelRepo(keyValue){
         source: "Lab Jewel",
         name: key,
         bonuses: [body.effect],
-        worksInGame: true
     });
 }
 
@@ -587,7 +559,6 @@ function parseLabBonusRepo(keyValue){
         source: "Lab Bonus",
         name: key,
         bonuses: [body.description],
-        worksInGame: true
     });
 }
 
@@ -598,7 +569,6 @@ function parseMealRepo(keyValue){
         source: "Meal",
         name: key,
         bonuses: [body.bonusText],
-        worksInGame: true
     });
 }
 
@@ -609,7 +579,6 @@ function parsePetUpgradeRepo(keyValue){
         source: "Pet Upgrade",
         name: key,
         bonuses: [body.description],
-        worksInGame: true
     });
 }
 
@@ -621,7 +590,6 @@ function parsePetRepo(keyValue){
         //defender is named _ for some reason. Not in EnemyRepo either...
         name: key == "_" ? "Defender" : EnemyRepo[key].details.Name,
         bonuses: [body.shinyBonus.shinyBonusDesc],
-        worksInGame: true
     });
 }
 
@@ -683,6 +651,61 @@ function parseGodInfoRepo(keyValue){
         source: "Divinity God",
         name: key,
         bonuses: [body.majorBonus, body.passiveBonus, body.blessingBonus]
+    })
+}
+
+function parseJadeUpgradeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "The Jade Emporium",
+        name: body.name,
+        bonuses: [body.bonus]
+    })
+}
+function parseMarketInfoRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Farming Market",
+        name: body.name,
+        bonuses: [body.bonus]
+    })
+}
+function parseNinjaItemRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Sneaking Items",
+        name: body.name,
+        bonuses: [body.bonus ?? body.desc] //TODO check this
+    })
+}
+function parseNinjaUpgradeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Sneaking Upgrades",
+        name: body.name,
+        bonuses: [body.bonus]
+    })
+}
+function parseSummonEnemyBonusRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Summoning Winner Bonuses",
+        name: "Bonus " + body.bonusId,
+        bonuses: [body.bonus]
+    })
+}
+function parseSummonUpgradeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Summoning Upgrades",
+        name: body.name,
+        bonuses: [body.bonus]
     })
 }
 
