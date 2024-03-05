@@ -115,16 +115,49 @@ function parseBribeRepo(keyValue){
 function parseBubbleRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
-    // include bubble tool descriptions as wiki data doesn't have right now
+    if(["Power Cauldron", "Quicc Cauldron", "High-IQ Cauldron", "Kazam Cauldron"].includes(key)){
+        body["bubbles"].forEach(bubble => {
+            parseCauldron(bubble);
+        })
+    }
+    if (key == "Vials"){
+        body["bubbles"].forEach(bubble => {
+            parseVial(bubble);
+        })
+    }
+    if (key == "Liquid Shop"){
+        body["bubbles"].forEach(bubble => {
+            parseLiquidShop(bubble);
+        })
+    }
+}
+
+function parseCauldron(body){
     let description = body.description;
-    if(key === "Le Brain Tools") description = description.replace("$", "Hatchets");
-    if(key === "Stronk Tools") description = description.replace("$", "Pickaxes and Fishing Rods");
-    if(key === "Sanic Tools") description = description.replace("$", "Catching Nets");
+    if(body.name === "Le Brain Tools") description = description.replace("$", "Hatchets");
+    if(body.name === "Stronk Tools") description = description.replace("$", "Pickaxes and Fishing Rods");
+    if(body.name === "Sanic Tools") description = description.replace("$", "Catching Nets");
     output.push({
         source: body.cauldron,
-        name: key,
-        bonuses: [description],
-    });
+        name: body.name,
+        bonuses: [description]
+    })
+}
+
+function parseVial(body){
+    output.push({
+        source: "Vials",
+        name: body.name,
+        bonuses: [body.description]
+    })
+}
+
+function parseLiquidShop(body){
+    output.push({
+        source: "Liquid Shop",
+        name: body.name,
+        bonuses: [body.description]
+    })
 }
 
 function parsePostOfficeUpgradesRepo(keyValue){

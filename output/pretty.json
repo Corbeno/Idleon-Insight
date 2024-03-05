@@ -185,7 +185,7 @@
     "source": "Bribe",
     "name": "The Art of the Bail",
     "bonuses": [
-      "You must unlock the next Bribe Set from the Garbage Tuna on Trash Island in World 2."
+      "Unlock the next Bribe Set from the Garbage Tuna on Trash Island in World 2 to buy."
     ]
   },
   {
@@ -233,6 +233,55 @@
   {
     "source": "Bribe",
     "name": "The Art of the Grail",
+    "bonuses": [
+      "You must unlock the next Bribe set from the Jade Emporium in World 6 to buy this."
+    ]
+  },
+  {
+    "source": "Bribe",
+    "name": "Artifact Pilfering",
+    "bonuses": [
+      "Boosts Artifact find chance by a pleasantly large +20%"
+    ]
+  },
+  {
+    "source": "Bribe",
+    "name": "Forge Cap Smuggling",
+    "bonuses": [
+      "Boosts Forge Capacity by a smoking hot 1.30x"
+    ]
+  },
+  {
+    "source": "Bribe",
+    "name": "Gold from Lead",
+    "bonuses": [
+      "Boosts all Golden Food bonuses by +10%"
+    ]
+  },
+  {
+    "source": "Bribe",
+    "name": "Nugget Fabrication",
+    "bonuses": [
+      "Boosts the rate at which the Shovel generates Nuggets in Gaming by +20%"
+    ]
+  },
+  {
+    "source": "Bribe",
+    "name": "Divine PTS Miscounting",
+    "bonuses": [
+      "Boosts Divinity PTS gain rate by +30%"
+    ]
+  },
+  {
+    "source": "Bribe",
+    "name": "Loot Table Tampering",
+    "bonuses": [
+      "All items from Random Event Bosses are 1.20x more likely to drop than before."
+    ]
+  },
+  {
+    "source": "Bribe",
+    "name": "The Art of the Flail",
     "bonuses": [
       "Look buddy, I ain't got no more bribes, maybe an associate of mine will sort it out later..."
     ]
@@ -434,10 +483,10 @@
     ]
   },
   {
-    "source": "Kazam Cauldron",
+    "source": "Power Cauldron",
     "name": "Essence Boost",
     "bonuses": [
-      "+% Yellow Essence Gain. This bonus doesn't increase based on anything!"
+      "+% Red Essence Gain, this bonus increases based on the total level of ALL your warriors!"
     ]
   },
   {
@@ -627,6 +676,13 @@
     "name": "Quickdraw Quiver",
     "bonuses": [
       "The effect AGI has on Damage is increased by +%"
+    ]
+  },
+  {
+    "source": "Quicc Cauldron",
+    "name": "Essence Boost",
+    "bonuses": [
+      "+% Green Essence Gain, this bonus increases based on the total level of ALL your archers!"
     ]
   },
   {
@@ -841,6 +897,13 @@
   },
   {
     "source": "High-IQ Cauldron",
+    "name": "Essence Boost",
+    "bonuses": [
+      "+% Purple Essence Gain, this bonus increases based on the total level of ALL your mages!"
+    ]
+  },
+  {
+    "source": "High-IQ Cauldron",
     "name": "Tome Wisdom",
     "bonuses": [
       "+% WIS for every 500 Tome Completion Points above 1000. NOTE: The tome is coming in an upcoming weekly update!"
@@ -1033,6 +1096,13 @@
     "name": "Cropius Mapper",
     "bonuses": [
       "+% Crop Evolution chance for EVERY map you unlock in world 6, across all characters! Total bonus: $"
+    ]
+  },
+  {
+    "source": "Kazam Cauldron",
+    "name": "Essence Boost",
+    "bonuses": [
+      "+% Yellow Essence Gain. This bonus doesn't increase based on anything!"
     ]
   },
   {
@@ -1575,6 +1645,13 @@
     ]
   },
   {
+    "source": "Vials",
+    "name": "Turtle Tisane",
+    "bonuses": [
+      "+% Artifact find chance, Sigil SPD, Cooking SPD, and Construction Build rate. All MULTIPLICATIVE! A very special vial indeed..."
+    ]
+  },
+  {
     "source": "Liquid Shop",
     "name": "Mediocre Obols",
     "bonuses": [
@@ -1627,7 +1704,7 @@
     "source": "Liquid Shop",
     "name": "Talent Point",
     "bonuses": [
-      "Gives a redeemable talent point for the 3rd Talent Tab. Applies to all characters. This item's cost will reset every 50,000,000 years."
+      "Gives a redeemable talent point for the 2nd Talent Tab. Applies to all characters. Also, this item's cost will never reset, never ever ever!"
     ]
   },
   {
@@ -1663,6 +1740,34 @@
     "name": "Empty Space",
     "bonuses": [
       "There's nothing here buddy, but that ain't gon stop me from selling it to ya!"
+    ]
+  },
+  {
+    "source": "Liquid Shop",
+    "name": "Empty Space",
+    "bonuses": [
+      "This is EXTRA rare nothing, sure ain't going for cheap!"
+    ]
+  },
+  {
+    "source": "Liquid Shop",
+    "name": "Empty Space",
+    "bonuses": [
+      "There's nothing here buddy, but that ain't gon stop me from selling it to ya!"
+    ]
+  },
+  {
+    "source": "Liquid Shop",
+    "name": "Empty Space",
+    "bonuses": [
+      "There's nothing here buddy, but that ain't gon stop me from selling it to ya!"
+    ]
+  },
+  {
+    "source": "Liquid Shop",
+    "name": "Talent Point",
+    "bonuses": [
+      "Gives a redeemable talent point for the 3rd Talent Tab. Applies to all characters. This item's cost will reset every 50,000,000 years."
     ]
   },
   {
@@ -3001,6 +3106,27 @@
     ]
   },
   {
+    "source": "Lab Jewel",
+    "name": "Pure Opal Rhinestone",
+    "bonuses": [
+      "'Slab Sovereignty' gives an additional % boost to all Slab Bonuses!"
+    ]
+  },
+  {
+    "source": "Lab Jewel",
+    "name": "Pure Opal Navette",
+    "bonuses": [
+      "+% higher effects from all active bonuses and jewels within the Mainframe, except for Spelunker Obol. @ This is a multiplier, so +10% would be 1.10x, ya feel me? @ This bonus always has a 80px connection range no matter what!"
+    ]
+  },
+  {
+    "source": "Lab Jewel",
+    "name": "Pure Opal Rhombol",
+    "bonuses": [
+      "'Depot Studies PhD' gives an additional % boost to all Crop Depot bonuses!"
+    ]
+  },
+  {
     "source": "Lab Bonus",
     "name": "Animal Farm",
     "bonuses": [
@@ -3096,6 +3222,34 @@
     "name": "Viral Connection",
     "bonuses": [
       "All mainframe bonuses and jewels have a 50% larger connection range, unless it states otherwise. @ This bonus always has a 80px connection range no matter what!"
+    ]
+  },
+  {
+    "source": "Lab Bonus",
+    "name": "Artifact Attraction",
+    "bonuses": [
+      "Artifact find chance is 1.5x higher! If you've found all artifacts at max rarity, then this bonus changes to 1,000x artifact find chance!"
+    ]
+  },
+  {
+    "source": "Lab Bonus",
+    "name": "Slab Sovereignty",
+    "bonuses": [
+      "All bonuses given by the Slab are 1.25x higher!"
+    ]
+  },
+  {
+    "source": "Lab Bonus",
+    "name": "Spiritual Growth",
+    "bonuses": [
+      "Boosts EXP multi for all three World 6 skills by +50%!"
+    ]
+  },
+  {
+    "source": "Lab Bonus",
+    "name": "Depot Studies PhD",
+    "bonuses": [
+      "All bonuses given at the Crop Depot are 1.30x higher!"
     ]
   },
   {
@@ -3991,7 +4145,7 @@
     "source": "Shiny Pet Bonus",
     "name": "Bop Box",
     "bonuses": [
-      "+ Base WIS"
+      "+ Infinite Star Signs"
     ]
   },
   {
@@ -4273,7 +4427,7 @@
     "source": "Artifact",
     "name": "Chilled Yarn",
     "bonuses": [
-      "All the Sigils in alchemy give 2x their displayed bonus.",
+      "All the Sigils in alchemy give 2x their displayed bonus. Ancient will give 3x, not 4x, just FYI",
       "Ancient: The artifact's main bonus is doubled!"
     ]
   },
@@ -4378,6 +4532,30 @@
     "name": "The True Lantern",
     "bonuses": [
       "+% total dmg per power of 10 Particles owned in atom collider. @ Total Bonus: +% dmg",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "The Onyx Lantern",
+    "bonuses": [
+      "Onyx Statues now give 2.30x their bonus, instead of just 2.0x!",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "The Shim Lantern",
+    "bonuses": [
+      "Shimmer bonuses from World 2 Islands give 2x their bonus! Further boosts to this are 3x, 4x, etc",
+      "Ancient: The artifact's main bonus is doubled!"
+    ]
+  },
+  {
+    "source": "Artifact",
+    "name": "The Winz Lantern",
+    "bonuses": [
+      "All Winner Bonuses from Summoning are 1.25x Bigger!",
       "Ancient: The artifact's main bonus is doubled!"
     ]
   },
@@ -4783,7 +4961,7 @@
     "source": "The Jade Emporium",
     "name": "Mob Cosplay Craze",
     "bonuses": [
-      "Certain monsters in World 6 will now have a rare chance to drop Ninja Hats, but only the hats that your Ninja Twins have equipped."
+      "Certain monsters in World 6 will now have a rare chance to drop Ninja Hats, but only the ones you've found already from the Ninja Castle!"
     ]
   },
   {
@@ -4956,37 +5134,65 @@
   },
   {
     "source": "The Jade Emporium",
-    "name": "UNDER CONSTRUCTION",
+    "name": "Science Paintbrush",
     "bonuses": [
-      "This bonus isn't out yet, so you cant buy it! Please come back in a few updates there'll be more floors to sneak up to as well!"
+      "Adds a new bonus type to your crop scientist's Data Sheet! Specifically '+0.1 Base Critter caught in Trapping' per Crop!"
     ]
   },
   {
     "source": "The Jade Emporium",
-    "name": "NAME NEEDED",
+    "name": "New Critter",
     "bonuses": [
-      "All Divinity Gods give 1.05x higher Blessing bonus (the passive bonus that affects all characters always) per God Rank."
+      "Unlocks a new critter type to capture! These have their own very special vial in Alchemy."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Ionized Sigils",
+    "bonuses": [
+      "Sigils can now be upgraded a 3rd time. Push past lame ol' yellow, and further increasing those sigil boosts!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "The Endercaptain",
+    "bonuses": [
+      "Adds the Endercaptain to Recruitment pool. They're very rare, and have a hidden account-wide +25% Loot Multi and Artifact Find."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "True Godly Blessings",
+    "bonuses": [
+      "All Divinity Gods give 1.05x higher Blessing bonus per God Rank. Whats a Blessing bonus? Select a god, it's the one on the bottom, go look."
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "Brighter Lighthouse Bulb",
+    "bonuses": [
+      "You can now find 3 additional Artifacts from The Edge island."
     ]
   },
   {
     "source": "The Jade Emporium",
     "name": "Sovereign Artifacts",
     "bonuses": [
-      "idk"
+      "You can now find Sovereign Artifacts from sailing, but only if you've found the Eldritch form first."
     ]
   },
   {
     "source": "The Jade Emporium",
-    "name": "INSERT SUMMONING 3",
+    "name": "New Bribes",
     "bonuses": [
-      "Idk yet"
+      "Mr. Pigibank is up to no good once again, and he's looking to get some funding from his favorite patron... you. Well, your wallet specifically."
     ]
   },
   {
     "source": "The Jade Emporium",
-    "name": "INSERT SUMMONING 4",
+    "name": "Laboratory Bling",
     "bonuses": [
-      "Idk yet"
+      "Adds 3 new Jewels to unlock at the Jewel Spinner in W4 Town. Or, get one for free every 700 total Lab LV as shown in Rift Skill Mastery."
     ]
   },
   {
@@ -4994,6 +5200,13 @@
     "name": "IDK YET",
     "bonuses": [
       "Idk yet"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "UNDER CONSTRUCTION",
+    "bonuses": [
+      "This bonus isn't out yet, so you cant buy it! Please come back in a few updates there'll be more floors to sneak up to as well!"
     ]
   },
   {
@@ -5250,7 +5463,7 @@
   },
   {
     "source": "Sneaking Items",
-    "name": "Basic Kunai",
+    "name": "Spiral Nunchaku",
     "bonuses": [
       "Basic Item"
     ]
@@ -5264,14 +5477,42 @@
   },
   {
     "source": "Sneaking Items",
-    "name": "Basic Kunai",
+    "name": "Jagged Kunai",
     "bonuses": [
       "Basic Item"
     ]
   },
   {
     "source": "Sneaking Items",
-    "name": "Basic Kunai",
+    "name": "Serrated Kunai",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Damascus Kunai",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Leather Gloves",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Chainmail Gloves",
+    "bonuses": [
+      "Basic Item"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Thundergloves",
     "bonuses": [
       "Basic Item"
     ]
@@ -5390,30 +5631,30 @@
   },
   {
     "source": "Sneaking Items",
-    "name": "Item Name",
+    "name": "Lotus Flower",
     "bonuses": [
-      "Item Desc"
+      "All other Ninjas on same floor get +% Stealth"
     ]
   },
   {
     "source": "Sneaking Items",
-    "name": "Item Name",
+    "name": "Rosaries",
     "bonuses": [
-      "Item Desc"
+      "Gives you x Total Stealth"
     ]
   },
   {
     "source": "Sneaking Items",
-    "name": "Item Name",
+    "name": "Gold Dagger",
     "bonuses": [
-      "Item Desc"
+      "If in Inventory, all ninjas get +% Nunchaku Damage. Doesn't stack with other Gold Daggers"
     ]
   },
   {
     "source": "Sneaking Items",
-    "name": "Item Name",
+    "name": "Black Belt",
     "bonuses": [
-      "Item Desc"
+      "+% Sneaking EXP and Jade coins. If there are no other ninjas on floor, this bonus is tripled."
     ]
   },
   {
@@ -5512,6 +5753,34 @@
     "name": "Treat Sack",
     "bonuses": [
       "x Jade Coin gain"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gumm Stick",
+    "bonuses": [
+      "+% Golden Food bonus"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Lolly Flower",
+    "bonuses": [
+      "+% Printer Output"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gumball Necklace",
+    "bonuses": [
+      "x Money from Monsters"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Liqorice Rolle",
+    "bonuses": [
+      "x Bigger Bonuses of Non Misc Stamps"
     ]
   },
   {
@@ -10584,9 +10853,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Smol Arcade Balls",
+    "name": "Free Balls",
     "bonuses": [
-      "30 arcade balls. Use these at the Arcade, found at the clown in World 2 town!"
+      "Excuse me sir, but would you be interested in some of my balls? You are?? Great! I have some here just for you, free of charge! 1 gem fee though."
     ]
   },
   {
@@ -10600,7 +10869,7 @@
     "source": "Gem Shop",
     "name": "Biggy Arcade Balls",
     "bonuses": [
-      "500 arcade balls. Use these at the Arcade, found at the clown in World 2 town! +33% better value compared to smol ball pack!"
+      "23% OFF NORMAL PRICE! 500 arcade balls. Use these at the Arcade, found at the clown in World 2 town!"
     ]
   },
   {
@@ -10633,58 +10902,37 @@
   },
   {
     "source": "Gem Shop",
-    "name": "World 5 Kill Ring",
+    "name": "Random Cape",
     "bonuses": [
-      "All kills in World 5 count for 1.30x for opening portals to the next map. Helps you get to World 6 faster! 30% Faster to be exact!"
+      "Gives you a random cape, it could be any one of them currently in IdleOn! There are 14 possibilities, including the ones from special bundles!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "World 4 Kill Ring",
+    "name": "Balling Nametag",
     "bonuses": [
-      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
+      "Instead of telling the world that you dropped 2500 gems with the chat ring, show them with this nametag instead! Comes with a 40% Drop Rate bonus."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "World 3 Kill Ring",
+    "name": "Gold Pocketwatch",
     "bonuses": [
-      "All kills in World 3 count for 1.30x for opening portals to the next map. Helps you get to World 4 faster! 30% Faster to be exact!"
+      "Gives you a pocketwatch that fast forwards a day, restocking shops and triggering various daily rewards and systems. One use only, of course."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "World 2 Kill Ring",
+    "name": "72 Hour Candy Maybe",
     "bonuses": [
-      "All kills in World 2 count for 1.30x for opening portals to the next map. Helps you get to World 3 faster! 30% Faster to be exact!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Random Hyper Obol",
-    "bonuses": [
-      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Crescent Moon Pendant",
-    "bonuses": [
-      "This necklace equipment comes with +42% Class EXP bonus, +5% Mob Respawn bonus, +3 Weapon Power, and +10 all stat!"
+      "READ THIS BEFORE YOU BUY. This purchase has a 50% chance for the coveted 72 hr candy, and a 50% chance to just be a lame 12 hour candy. Ok you can stop reading now."
     ]
   },
   {
     "source": "Gem Shop",
     "name": "5 Star Cardifier",
     "bonuses": [
-      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
-    "bonuses": [
-      "A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs. @ 20% DISCOUNTED PRICE"
+      "10% OFF NORMAL PRICE! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded!"
     ]
   },
   {
@@ -10999,14 +11247,14 @@
     "source": "Gem Shop",
     "name": "Compost Bag",
     "bonuses": [
-      "Gives you a Compost Bag usable item. Use it in your player inventory to instantly get 6 hours of Farming growth for all your crops, instantly! This item restocks each day."
+      "Gives you a Compost Bag usable item. Use it in your player inventory to instantly get 4 hours of Farming growth for all your crops, instantly! This item restocks each day."
     ]
   },
   {
     "source": "Gem Shop",
     "name": "Summoner Stone",
     "bonuses": [
-      "Gives you a Summoner Stone usable item Use it in your player inventory to instantly get 6 hours of Summoning Essence, instantly! This item restocks each day."
+      "Gives you a Summoner Stone usable item Use it in your player inventory to instantly get 4 hours of Summoning Essence, instantly! This item restocks each day."
     ]
   },
   {
@@ -11109,9 +11357,9 @@
   },
   {
     "source": "Guild Bonus",
-    "name": "Wait A Minute",
+    "name": "Skilley Skillet",
     "bonuses": [
-      "+% Nothing Yet"
+      "+% Skill EXP for all skills"
     ]
   },
   {
@@ -11126,6 +11374,13 @@
     "name": "Anotha One",
     "bonuses": [
       "+% chance for 2x EXP when claiming AFK"
+    ]
+  },
+  {
+    "source": "Guild Bonus",
+    "name": "Wait A Minute",
+    "bonuses": [
+      "+% Nothing Yet"
     ]
   },
   {
@@ -11525,6 +11780,174 @@
     "name": "S. Snoozer Major",
     "bonuses": [
       "+4% Fight AFK Gain (If Lv&100) "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Breedabilli",
+    "bonuses": [
+      "+35% Breedable Spd +15% Shiny Pet LV spd "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Gordonius Major",
+    "bonuses": [
+      "+15% Cooking SPD (Multiplicative!) "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Power Bowower",
+    "bonuses": [
+      "+30% Pet DMG for Breeding Skill "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Scienscion",
+    "bonuses": [
+      "+20% Lab EXP Gain  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Artifosho",
+    "bonuses": [
+      "+15% Artifact Find Chance (Multiplicative)"
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Divividov",
+    "bonuses": [
+      "+30% Divinity EXP  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "C. Shanti Minor",
+    "bonuses": [
+      "+20% Sailing SPD  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Muscle Magnus",
+    "bonuses": [
+      "+50 STR  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Cropiovo Minor",
+    "bonuses": [
+      "+3% Crop Evo chance per Farming LV "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Fabarmi",
+    "bonuses": [
+      "+20% Farming EXP  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "O.G. Signalais",
+    "bonuses": [
+      "+15% OG Chance  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Lightspeed Frog",
+    "bonuses": [
+      "+50 AGI  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Beanbie Major",
+    "bonuses": [
+      "+20% Golden Food bonuses "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Damarian Major",
+    "bonuses": [
+      "+25% Total Damage  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Lotto Larrinald",
+    "bonuses": [
+      "+50 LUK  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Intellostooge",
+    "bonuses": [
+      "+50 WIS  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "S. Tealio",
+    "bonuses": [
+      "+12% Ninja Twin Stealth "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Sneekee E. X.",
+    "bonuses": [
+      "+15% Sneaking EXP  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Jadaciussi",
+    "bonuses": [
+      "+10% Jade Gain (Multiplicative!) "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Druipi Major",
+    "bonuses": [
+      "+12% Drop Rarity  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Sumo Magno",
+    "bonuses": [
+      "+20% Summoning EXP  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Killian Maximus",
+    "bonuses": [
+      "+3% Multikill Per Tier  "
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Seraph Cosmos",
+    "bonuses": [
+      "All characters now get 1.10x Star Sign bonuses per 20 Summoning LV"
+    ]
+  },
+  {
+    "source": "Star Sign",
+    "name": "Glimmer of Beyond",
+    "bonuses": [
+      "This star sign is unreachable for now... "
     ]
   },
   {
@@ -13370,7 +13793,7 @@
   },
   {
     "source": "Card",
-    "name": "Crystal Brighton",
+    "name": "Crystal Candalight",
     "bonuses": [
       "+% Sneaking Stealth (Passive)"
     ]
@@ -14841,7 +15264,7 @@
       "Speed: 9",
       "Reach: 132",
       "60% Total Damage",
-      "20% Drop Rate"
+      "20% Drop Chance"
     ]
   },
   {
@@ -15079,7 +15502,7 @@
       "Speed: 10",
       "Reach: 370",
       "60% Total Damage",
-      "20% Drop Rate"
+      "20% Drop Chance"
     ]
   },
   {
@@ -19320,14 +19743,9 @@
   },
   {
     "source": "Name Tag",
-    "name": "Golden Nametag",
+    "name": "Balling Nametag",
     "bonuses": [
-      "Weapon Power: 3",
-      "STR: 5",
-      "AGI: 5",
-      "WIS: 5",
-      "LUK: 5",
-      "Defence: 20",
+      "LUK: 40",
       "40% Drop Chance"
     ]
   },
@@ -20573,7 +20991,7 @@
     "source": "Tool",
     "name": "Cultist Skull",
     "bonuses": [
-      "55 Worship Power",
+      "63 Worship Power",
       "9 Worship Speed",
       "15% Money"
     ]
@@ -20582,7 +21000,7 @@
     "source": "Tool",
     "name": "Crystal Skull of Esquire Vnoze",
     "bonuses": [
-      "55 Worship Power",
+      "70 Worship Power",
       "10 Worship Speed",
       "4% All Afk Gain",
       "10% Drop Chance"
@@ -21155,7 +21573,7 @@
     "source": "Food",
     "name": "Golden Dumpling",
     "bonuses": [
-      "Claiming all AFK Gains rate. Golden foods are never consumed."
+      "Increases all AFK Gains rate. Golden foods are never consumed."
     ]
   },
   {
@@ -22290,6 +22708,76 @@
     "name": "Bonus 27",
     "bonuses": [
       "+% Drop Rate"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 28",
+    "bonuses": [
+      "+% Cook SPD multi"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 29",
+    "bonuses": [
+      "+% Lab EXP gain"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 30",
+    "bonuses": [
+      "+% Breed Pet DMG"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 31",
+    "bonuses": [
+      "+% Nugget Regen"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 32",
+    "bonuses": [
+      "+% Arti Find"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 33",
+    "bonuses": [
+      "+% Sailing Loot"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 34",
+    "bonuses": [
+      "+% W Ess gain"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 35",
+    "bonuses": [
+      "+% Jade gain"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 36",
+    "bonuses": [
+      "+% Farming EXP"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 37",
+    "bonuses": [
+      "+% Divinity EXP"
     ]
   },
   {
