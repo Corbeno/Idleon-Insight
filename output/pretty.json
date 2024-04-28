@@ -374,7 +374,7 @@
     "source": "Power Cauldron",
     "name": "Carpenter",
     "bonuses": [
-      "+% Build Speed per Construction Level."
+      "+% Build Speed per Construction Level. Not affected by 'Warriors Rule' bubble."
     ]
   },
   {
@@ -479,7 +479,7 @@
     "source": "Power Cauldron",
     "name": "Tome Strength",
     "bonuses": [
-      "+% STR for every 500 Tome Completion Points above 1000. NOTE: The tome is coming in an upcoming weekly update!"
+      "+% STR for every 2000 Tome Completion Points over 5000. So you'd get one stack of this at 7000 pts, two at 9000, etc"
     ]
   },
   {
@@ -493,7 +493,7 @@
     "source": "Power Cauldron",
     "name": "Crop Chapter",
     "bonuses": [
-      "+% Crop Evolution chance for every 500 Tome Completion Points above 1000."
+      "+% Crop Evolution chance for every 2000 Tome Completion Points above 5000."
     ]
   },
   {
@@ -696,14 +696,14 @@
     "source": "Quicc Cauldron",
     "name": "Tome Agility",
     "bonuses": [
-      "+% AGI for every 500 Tome Completion Points above 1000. NOTE: The tome is coming in an upcoming weekly update!"
+      "+% AGI for every 2000 Tome Completion Points over 5000. So you'd get one stack of this at 7000 pts, two at 9000, etc"
     ]
   },
   {
     "source": "Quicc Cauldron",
     "name": "Stealth Chapter",
     "bonuses": [
-      "+% Stealth (the stat that lowers dedection rate in Sneaking) for every 500 Tome Completion Points above 1000."
+      "+% Stealth (the stat that lowers detection rate in Sneaking) for every 2000 Tome Completion Points above 5000."
     ]
   },
   {
@@ -906,14 +906,14 @@
     "source": "High-IQ Cauldron",
     "name": "Tome Wisdom",
     "bonuses": [
-      "+% WIS for every 500 Tome Completion Points above 1000. NOTE: The tome is coming in an upcoming weekly update!"
+      "+% WIS for every 2000 Tome Completion Points over 5000. So you'd get one stack of this at 7000 pts, two at 9000, etc"
     ]
   },
   {
     "source": "High-IQ Cauldron",
     "name": "Essence Chapter",
     "bonuses": [
-      "+% All Essence Gain for every 500 Tome Completion Points above 1000."
+      "+% All Essence Gain for every 2000 Tome Completion Points above 5000."
     ]
   },
   {
@@ -2459,7 +2459,7 @@
     "source": "Prayer",
     "name": "Vacuous Tissue",
     "bonuses": [
-      "+100% Dungeon Credits and Flurbos from Boosted Runs",
+      "+100% Dungeon Credits and Flurbos",
       "Use 2x Dungeon Passes per run."
     ]
   },
@@ -9420,7 +9420,7 @@
     "source": "Achievement",
     "name": "Golden Fly",
     "bonuses": [
-      "**5% Catching &Efficiency"
+      "*5% Catching &Efficiency"
     ]
   },
   {
@@ -10572,6 +10572,251 @@
     ]
   },
   {
+    "source": "Achievement",
+    "name": "Valley Visitor",
+    "bonuses": [
+      "10% Money for all &characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Scorin' the Ladies",
+    "bonuses": [
+      "10% Catching &Efficiency"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Effervess Enthusiess",
+    "bonuses": [
+      "10% Choppin Efficiency"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "That's MY Crown",
+    "bonuses": [
+      "*Dharma Mesa BG"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Leet Lanterns",
+    "bonuses": [
+      "4% Damage for all &characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Lil' Overgrowth",
+    "bonuses": [
+      "*1.05x Crop Evo &chance"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Major Overgrowth",
+    "bonuses": [
+      "15% Farming EXP"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Unreal Overgrowth",
+    "bonuses": [
+      "192x on a single crop."
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Doctor Repellant",
+    "bonuses": [
+      "*W6 Shop EZ Access"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Cob Enjoyer",
+    "bonuses": [
+      "15% All Skill EXP"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Science Undergrad",
+    "bonuses": [
+      "10% Farm EXP"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Science Graduate",
+    "bonuses": [
+      "*Spirit Fields BG"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Science Post Doc",
+    "bonuses": [
+      "1% All Stat &for all characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Crop Flooding",
+    "bonuses": [
+      "5% Magic Beans &from Legumulyte"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Legumulucky",
+    "bonuses": [
+      "2% Damage for all &characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Big Time Land Owner",
+    "bonuses": [
+      "*1.15x Crop OG Chance"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Ceramic Sneaking",
+    "bonuses": [
+      "*1.03x Jade Gain"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Top Floor Sneaking",
+    "bonuses": [
+      "*1.07x Jade Gain"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Untying Extraordinaire",
+    "bonuses": [
+      "*1.05x Stealth for &all Ninja Twins"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Lucky Stealy",
+    "bonuses": [
+      "*1.05x Jade Gain"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Yellow Belt",
+    "bonuses": [
+      "10% Sneaking EXP gain"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Straw Hat Stacking",
+    "bonuses": [
+      "*1.01x DMG Multiplier &for all characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Best Bloomie",
+    "bonuses": [
+      "*1.05x All Essence &Gain"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Regalis My Beloved",
+    "bonuses": [
+      "*1.01x larger Winners &Bonuses from Summoning"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "This, is, Summoning!",
+    "bonuses": [
+      "*1.05x All Essence &Gain"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Summoning CM",
+    "bonuses": [
+      "3% Damage for all &characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Summoning IM",
+    "bonuses": [
+      "20% Money for all &characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Summoning GM",
+    "bonuses": [
+      "6% Drop Chance &for all characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Penta Defence",
+    "bonuses": [
+      "*Lullaby Airways BG"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Spectre Stars",
+    "bonuses": [
+      "*1.01x larger Winners &Bonuses from Summoning"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Beanstacker Trainee",
+    "bonuses": [
+      "2% All Golden Food &Bonuses"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Big Big Hampter",
+    "bonuses": [
+      "4% Drop Chance &for all characters"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Ghost Buster",
+    "bonuses": [
+      "*Bamboo Forest BG"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "Beanstacker Prodigy",
+    "bonuses": [
+      "3% All Golden Food &Bonuses"
+    ]
+  },
+  {
+    "source": "Achievement",
+    "name": "W6 is Donezo",
+    "bonuses": [
+      "*1.01x DMG Multiplier &for all characters"
+    ]
+  },
+  {
     "source": "Gem Shop",
     "name": "Strawbiggy",
     "bonuses": [
@@ -10834,7 +11079,7 @@
     "source": "Gem Shop",
     "name": "4 Star Cardifier",
     "bonuses": [
-      "Use this on a 3 star card to upgrade it to 4 stars! You can use it on any 3 star card you have, it's up to you! Each purchase allows for one card of your choice to be upgraded."
+      "99.99999% OFF NORMAL PRICE! Use this on a 3 star card to upgrade it to 4 stars instantly! No randomness involved! You'll see where to use these by clicking a card in game."
     ]
   },
   {
@@ -10853,9 +11098,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Free Balls",
+    "name": "Smol Arcade Balls",
     "bonuses": [
-      "Excuse me sir, but would you be interested in some of my balls? You are?? Great! I have some here just for you, free of charge! 1 gem fee though."
+      "30 arcade balls. Use these at the Arcade, found at the clown in World 2 town!"
     ]
   },
   {
@@ -10869,7 +11114,7 @@
     "source": "Gem Shop",
     "name": "Biggy Arcade Balls",
     "bonuses": [
-      "23% OFF NORMAL PRICE! 500 arcade balls. Use these at the Arcade, found at the clown in World 2 town!"
+      "500 arcade balls. Use these at the Arcade, found at the clown in World 2 town! +33% better value compared to smol ball pack!"
     ]
   },
   {
@@ -10902,37 +11147,51 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Random Cape",
+    "name": "Square Hyper Obol",
     "bonuses": [
-      "Gives you a random cape, it could be any one of them currently in IdleOn! There are 14 possibilities, including the ones from special bundles!"
+      "Gives you a random Square Hyper Obol! The four equal possibilites are +10% DROP RATE, +5% ALL STAT, +12% DAMAGE, and +6% MULTIKILL PER TIER!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Balling Nametag",
+    "name": "Corgi Hat",
     "bonuses": [
-      "Instead of telling the world that you dropped 2500 gems with the chat ring, show them with this nametag instead! Comes with a 40% Drop Rate bonus."
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Gold Pocketwatch",
-    "bonuses": [
-      "Gives you a pocketwatch that fast forwards a day, restocking shops and triggering various daily rewards and systems. One use only, of course."
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "72 Hour Candy Maybe",
-    "bonuses": [
-      "READ THIS BEFORE YOU BUY. This purchase has a 50% chance for the coveted 72 hr candy, and a 50% chance to just be a lame 12 hour candy. Ok you can stop reading now."
+      ""
     ]
   },
   {
     "source": "Gem Shop",
     "name": "5 Star Cardifier",
     "bonuses": [
-      "10% OFF NORMAL PRICE! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded!"
+      "20% OFF NORMAL PRICE! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Elite Class Swap",
+    "bonuses": [
+      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "World 5 Kill Ring",
+    "bonuses": [
+      "All kills in World 5 count for 1.30x for opening portals to the next map. Helps you get to World 6 faster! 30% Faster to be exact!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "World 3 Kill Ring",
+    "bonuses": [
+      "All kills in World 3 count for 1.30x for opening portals to the next map. Helps you get to World 4 faster! 30% Faster to be exact!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Cosmic Time Candy",
+    "bonuses": [
+      "20% OFF NORMAL PRICE! A time candy that gives a random amount of time! @ These candies give up to 500 hours, but on average give 24 hrs."
     ]
   },
   {
@@ -12031,7 +12290,7 @@
     "source": "Merit Shop",
     "name": "Upgrade: 11",
     "bonuses": [
-      "Boosts Max Lv. to  for 'Convert Better Darnit' Talent. Probs still stinks..."
+      "Boosts Max Lv. to  for 'Convert Better Darnit' Talent."
     ]
   },
   {
@@ -12226,6 +12485,62 @@
   {
     "source": "Merit Shop",
     "name": "Upgrade: 39",
+    "bonuses": [
+      "IDK YET "
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 40",
+    "bonuses": [
+      "+ Talent Pts for Tab 5, for all the Classes that aren't out yet! Exciting!"
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 41",
+    "bonuses": [
+      "All Spirited Valley Mobs respawn +% faster. This boosts AFK kills per hour!"
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 42",
+    "bonuses": [
+      "+% Farming EXP and OG chance, and the first 3 purchases give +1 Land Plot."
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 43",
+    "bonuses": [
+      "+% Jade Gain, permanently. "
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 44",
+    "bonuses": [
+      "+% Larger bonuses to all your Winner's Bonuses from Summoning"
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 45",
+    "bonuses": [
+      "Unlocks recipe to craft Emperor . "
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 46",
+    "bonuses": [
+      "IDK YET "
+    ]
+  },
+  {
+    "source": "Merit Shop",
+    "name": "Upgrade: 47",
     "bonuses": [
       "IDK YET "
     ]
@@ -14094,6 +14409,13 @@
   },
   {
     "source": "Card",
+    "name": "Domeo Magmus",
+    "bonuses": [
+      "+% Total Drop Rate (Passive)"
+    ]
+  },
+  {
+    "source": "Card",
     "name": "Kattlekruk",
     "bonuses": [
       "+% Sailing Speed (Passive)"
@@ -14111,6 +14433,13 @@
     "name": "Sacrilegious Kattlekruk",
     "bonuses": [
       "+% Money from Monsters"
+    ]
+  },
+  {
+    "source": "Card",
+    "name": "Demented Spiritlord",
+    "bonuses": [
+      "+% Fighting AFK gain rate"
     ]
   },
   {
@@ -14718,6 +15047,14 @@
   },
   {
     "source": "Armor",
+    "name": "Shiny Bored Beanie",
+    "bonuses": [
+      "Weapon Power: 20",
+      "Defence: 100"
+    ]
+  },
+  {
+    "source": "Armor",
     "name": "Royal Turban",
     "bonuses": [
       "AGI: 15",
@@ -14799,6 +15136,16 @@
       "WIS: 1",
       "LUK: 1",
       "3% Xp From Monsters"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "3rd Anniversary Ice Cream Topper",
+    "bonuses": [
+      "Weapon Power: 2",
+      "Defence: 5",
+      "4% Xp From Monsters",
+      "3% Drop Chance"
     ]
   },
   {
@@ -16659,6 +17006,15 @@
   },
   {
     "source": "Armor",
+    "name": "Divvy Slippers",
+    "bonuses": [
+      "AGI: 5",
+      "WIS: 12",
+      "42% Divinity Exp"
+    ]
+  },
+  {
+    "source": "Armor",
     "name": "Lustre Shieldshoe",
     "bonuses": [
       "STR: 13",
@@ -17404,6 +17760,34 @@
       "Weapon Power: 5",
       "Defence: 3",
       "30% Kills In World 5"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Zero Point Stopwatch",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "Defence: 5",
+      "4% All Afk Gain",
+      "5% Skill Efficiency"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Demented Emperor Opal",
+    "bonuses": [
+      "Weapon Power: 12",
+      "STR: 50",
+      "AGI: 50",
+      "WIS: 50",
+      "LUK: 50",
+      "Defence: 15",
+      "10% All Stats",
+      "1% Damage Multi"
     ]
   },
   {
@@ -18880,6 +19264,38 @@
   },
   {
     "source": "Obol",
+    "name": "Hyper Six Obol",
+    "bonuses": [
+      "Weapon Power: 5",
+      "10% Drop Chance"
+    ]
+  },
+  {
+    "source": "Obol",
+    "name": "Hyper Pyre Obol",
+    "bonuses": [
+      "Weapon Power: 5",
+      "5% All Stats"
+    ]
+  },
+  {
+    "source": "Obol",
+    "name": "Hyper DMG Obol",
+    "bonuses": [
+      "Weapon Power: 5",
+      "12% Total Damage"
+    ]
+  },
+  {
+    "source": "Obol",
+    "name": "Hyper Skull Obol",
+    "bonuses": [
+      "Weapon Power: 8",
+      "6% Multikill Per Tier"
+    ]
+  },
+  {
+    "source": "Obol",
     "name": "Bronze STR Obol",
     "bonuses": [
       "STR: 1"
@@ -19669,6 +20085,14 @@
   },
   {
     "source": "Obol",
+    "name": "Magma Obol of Big Time Domeo",
+    "bonuses": [
+      "LUK: 10",
+      "14% Drop Chance"
+    ]
+  },
+  {
+    "source": "Obol",
     "name": "Jagged Obol of Massive Trolling",
     "bonuses": [
       "Weapon Power: 4",
@@ -19808,6 +20232,20 @@
       "STR: 10",
       "25% Mining Xp Gain",
       "3% Skill Afk Gain"
+    ]
+  },
+  {
+    "source": "Name Tag",
+    "name": "3rd Anniversary IdleOn Nametag",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "Defence: 3",
+      "3% All Afk Gain",
+      "3% Drop Chance"
     ]
   },
   {
@@ -20047,6 +20485,14 @@
     "name": "Key to Purgatory Chain",
     "bonuses": [
       "Weapon Power: 1",
+      "Defence: 5"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Spiritlord Horn Chain",
+    "bonuses": [
+      "Weapon Power: 25",
       "Defence: 5"
     ]
   },
@@ -21574,6 +22020,13 @@
     "name": "Golden Dumpling",
     "bonuses": [
       "Increases all AFK Gains rate. Golden foods are never consumed."
+    ]
+  },
+  {
+    "source": "Food",
+    "name": "Golden Cake",
+    "bonuses": [
+      "Increases Drop Rarity. Golden foods are never consumed."
     ]
   },
   {
