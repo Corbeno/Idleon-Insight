@@ -5045,7 +5045,7 @@
     "source": "The Jade Emporium",
     "name": "No Meal Left Behind",
     "bonuses": [
-      "Every 24 hours, your lowest level Meal gets +1 Lv. This only works on Meals Lv 5 or higher, and doesn't trigger on days you don't play."
+      "Every 24 hours, your lowest level Meal gets +1 Lv. This only works on Meals Lv 2 or higher, and doesn't trigger on days you don't play."
     ]
   },
   {
@@ -5659,6 +5659,83 @@
   },
   {
     "source": "Sneaking Items",
+    "name": "Gold Beads",
+    "bonuses": [
+      "If in Inventory, all ninjas get +% Total Stealth. Doesn't stack with other Gold Beads"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Star",
+    "bonuses": [
+      "If in Inventory, charms found have a + higher Max LV. Doesn't stack with other Gold Stars"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Sai",
+    "bonuses": [
+      "If in Inventory, all ninjas get +% Nunchaku Dmg Per 10 Sneak LV. Doesn't stack with other Gold Sais"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Envelope",
+    "bonuses": [
+      "If in Inventory, all ninjas find +% Jade Per 10 Sneak LV. Doesn't stack with other Gold Envelope"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Gold Q Mark",
+    "bonuses": [
+      "If in Inventory, all ninjas perform actions +% faster. Doesn't stack with other Gold Q Marks"
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Aquamarine",
+    "bonuses": [
+      "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Emerald",
+    "bonuses": [
+      "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Garnet",
+    "bonuses": [
+      "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Starite",
+    "bonuses": [
+      "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Topaz",
+    "bonuses": [
+      "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
+    "name": "Moissanite",
+    "bonuses": [
+      "Hold down to add this Gemstone to your collection. View collection and bonuses in Ninja Knowledge."
+    ]
+  },
+  {
+    "source": "Sneaking Items",
     "name": "Sparkle Log",
     "bonuses": [
       "x Total DMG"
@@ -5785,9 +5862,16 @@
   },
   {
     "source": "Sneaking Upgrades",
-    "name": "Name",
+    "name": "",
     "bonuses": [
-      "Desc"
+      ""
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Way of Bargain",
+    "bonuses": [
+      "Decreases the cost of all Ninja Knowledge upgrades by %."
     ]
   },
   {
@@ -5795,6 +5879,13 @@
     "name": "Respect for the Art",
     "bonuses": [
       "+% bonus Sneaking EXP gain."
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Mastery Loot",
+    "bonuses": [
+      "Raise the max LV of all items found by + per Mastery you are currently on."
     ]
   },
   {
@@ -5813,9 +5904,9 @@
   },
   {
     "source": "Sneaking Upgrades",
-    "name": "Shuriken Sensei",
+    "name": "Gemstone Pilfer",
     "bonuses": [
-      "Raise the max LV of Shuriken found to +, also increases rarity of Shuriken found."
+      "Raise the max LV of Gemstones found to +, counting as more for collection when used"
     ]
   },
   {
@@ -5830,6 +5921,13 @@
     "name": "Currency Conduit",
     "bonuses": [
       "+% bonus Jade Coins found per Sneaking LV"
+    ]
+  },
+  {
+    "source": "Sneaking Upgrades",
+    "name": "Name",
+    "bonuses": [
+      "Desc"
     ]
   },
   {
@@ -6249,7 +6347,7 @@
     "source": "Summoning Upgrades",
     "name": "Jeweled Cards",
     "bonuses": [
-      "% chance to draw a Jeweled variant of any card, which costs 3x Mana but spawns 4x Units!"
+      "% chance to draw a Jeweled variant of any card, which costs 2x Mana but spawns 4x Units!"
     ]
   },
   {
@@ -6326,14 +6424,147 @@
     "source": "Summoning Upgrades",
     "name": "Red Summoning",
     "bonuses": [
-      "You cannot obtain the Red Summoning Stone yet. This will come in a Weekly update."
+      "Unlocks the Red Summoning Stone, and begins generating Red Essence. @ Also, +% Red Essence per hour"
     ]
   },
   {
     "source": "Summoning Upgrades",
-    "name": "Name",
+    "name": "Sparkie",
     "bonuses": [
-      "Unlocks"
+      "5% chance to draw a Sparkie during competition. They have 3.0X DMG and explode on death. Your upgrades here boost it's DMG by a further +%."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Red Essence Ragin'",
+    "bonuses": [
+      "+% Red Essence generated per hour for each Red circuit win. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Seeing Red",
+    "bonuses": [
+      "When an enemy crosses your line and damages you, all units get % DMG for the rest of the fight. This stacks every time an enemy crosses your line."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Slime Duplication",
+    "bonuses": [
+      "When spawning any unit during competition, +% chance to also spawn an exact duplicate, free of charge!"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Cost Crashing",
+    "bonuses": [
+      "All Summoning upgrades cost % less Essence."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Unit Blood",
+    "bonuses": [
+      "Increases the HP of all summoned units in competition by a brand new multiplier of +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Merciless Units",
+    "bonuses": [
+      "Increases the DMG of all summoned units in competition by a brand new multiplier of +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Red Knowledge",
+    "bonuses": [
+      "+% Red Essence generation per Summoning LV you have. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Cyan Summoning",
+    "bonuses": [
+      "Unlocks the Cyan Summoning Stone, and begins generating Cyan Essence. @ Also, +% Cyan Essence per hour"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Cyan Essence King",
+    "bonuses": [
+      "+% Cyan Essence generated per hour for each Cyan circuit win. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "I Frames",
+    "bonuses": [
+      "All your units get a +% chance to dodge damage when colliding with an enemy"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Units of Destruction",
+    "bonuses": [
+      "Increases the DMG of all summoned units in competition by +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Cost Deflation",
+    "bonuses": [
+      "All Summoning upgrades cost % less Essence."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Cyan Knowledge",
+    "bonuses": [
+      "+% Cyan Essence generation per Summoning LV you have. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Undying Units",
+    "bonuses": [
+      "Increases the HP of all summoned units in competition by +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "DMG Laundering",
+    "bonuses": [
+      "Boosts the DMG of all summoned units by +% for every 100 total summoning upgrades purchased. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "HP Laundering",
+    "bonuses": [
+      "Boosts the HP of all summoned units by +% for every 100 total summoning upgrades purchased. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Timely Essence",
+    "bonuses": [
+      "The generation of all essence colours is increased by +% for every 10 seconds of your longest Endless Summoning time. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Timely Health",
+    "bonuses": [
+      "The HP of all summoned units is increased by +% for every 10 seconds of your longest Endless Summoning time. @ Total bonus: +%"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Timely Damage",
+    "bonuses": [
+      "The DMG of all summoned units is increased by +% for every 10 seconds of your longest Endless Summoning time. @ Total bonus: +%"
     ]
   },
   {
@@ -6358,6 +6589,13 @@
     ]
   },
   {
+    "source": "Summoning Upgrades",
+    "name": "Sharpened Spikes",
+    "bonuses": [
+      "Spike damage is increased by % of your base unit damage. @ Total Bonus Spike DMG: +"
+    ]
+  },
+  {
     "source": "Beginner Talents",
     "name": "Health Booster",
     "bonuses": [
@@ -6375,7 +6613,7 @@
     "source": "Beginner Talents",
     "name": "Star Player",
     "bonuses": [
-      "Gives  Star Talent Points. Star Talents are found throughout the game!"
+      "Gives  Star Talent Points. Star Talents are found later in the game"
     ]
   },
   {
@@ -6795,7 +7033,7 @@
     "source": "Rage Basics Talents",
     "name": "Star Player",
     "bonuses": [
-      "Gives  Star Talent Points. Star Talents are found throughout the game!"
+      "Gives  Star Talent Points. Star Talents are found later in the game"
     ]
   },
   {
@@ -7425,7 +7663,7 @@
     "source": "Calm Basics Talents",
     "name": "Star Player",
     "bonuses": [
-      "Gives  Star Talent Points. Star Talents are found throughout the game!"
+      "Gives  Star Talent Points. Star Talents are found later in the game"
     ]
   },
   {
@@ -8055,7 +8293,7 @@
     "source": "Savvy Basics Talents",
     "name": "Star Player",
     "bonuses": [
-      "Gives  Star Talent Points. Star Talents are found throughout the game!"
+      "Gives  Star Talent Points. Star Talents are found later in the game"
     ]
   },
   {
@@ -11079,7 +11317,7 @@
     "source": "Gem Shop",
     "name": "4 Star Cardifier",
     "bonuses": [
-      "99.99999% OFF NORMAL PRICE! Use this on a 3 star card to upgrade it to 4 stars instantly! No randomness involved! You'll see where to use these by clicking a card in game."
+      "Use this on a 3 star card to upgrade it to 4 stars! You can use it on any 3 star card you have, it's up to you! Each purchase allows for one card of your choice to be upgraded."
     ]
   },
   {
@@ -11147,51 +11385,51 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Square Hyper Obol",
+    "name": "Deathblossom Pendant",
     "bonuses": [
-      "Gives you a random Square Hyper Obol! The four equal possibilites are +10% DROP RATE, +5% ALL STAT, +12% DAMAGE, and +6% MULTIKILL PER TIER!"
+      "This necklace equipment comes with a 1.30X Damage Multi bonus, and +20% Mob Respawn bonus!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Corgi Hat",
+    "name": "Dragonic Cauldron",
     "bonuses": [
-      ""
+      "Turns the 1st liquid cauldron DRAGONIC (or 2nd or 3rd if you already own dragonic cauldrons). These give 2x Liquid Capacity, and 1.3x liquid generation."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "5 Star Cardifier",
+    "name": "Random Cape",
     "bonuses": [
-      "20% OFF NORMAL PRICE! Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Elite Class Swap",
-    "bonuses": [
-      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "World 5 Kill Ring",
-    "bonuses": [
-      "All kills in World 5 count for 1.30x for opening portals to the next map. Helps you get to World 6 faster! 30% Faster to be exact!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "World 3 Kill Ring",
-    "bonuses": [
-      "All kills in World 3 count for 1.30x for opening portals to the next map. Helps you get to World 4 faster! 30% Faster to be exact!"
+      "Gives you a random cape, it could be any one of them currently in IdleOn! There are 14 possibilities, including the ones from special bundles! 10% OFF NORMAL PRICE!"
     ]
   },
   {
     "source": "Gem Shop",
     "name": "Cosmic Time Candy",
     "bonuses": [
-      "20% OFF NORMAL PRICE! A time candy that gives a random amount of time! @ These candies give up to 500 hours, but on average give 24 hrs."
+      "These candies give up to 500 hours, but on average give 24 hrs. Click on them in game to see specific odds and possibilities!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "World 4 Kill Ring",
+    "bonuses": [
+      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Random Hyper Obol",
+    "bonuses": [
+      "FREEBIE ALERT! Gives you a random Circle Hyper Obol! The possibilities are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "5 Star Cardifier",
+    "bonuses": [
+      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!"
     ]
   },
   {
@@ -12697,6 +12935,41 @@
     "name": "Ladle",
     "bonuses": [
       "Get 3 Kitchen Ladles! Pick them up off the floor."
+    ]
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "1% Chance to permanently unlock the 3rd Killroy Weekly Fight!"
+    ]
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Permanently boosts Artifact Find Chance! Current bonus is x"
+    ]
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Adds 1 nugget to your Shovel in Gaming, go dig it up!"
+    ]
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Permanently boosts Crop Evolution Chance! Current bonus is x"
+    ]
+  },
+  {
+    "source": "Skull Shop",
+    "name": "Timecandy1",
+    "bonuses": [
+      "Permanently boosts Jade Gain! Current bonus is x"
     ]
   },
   {
@@ -14652,7 +14925,7 @@
       "STR: 2",
       "AGI: 1",
       "WIS: 1",
-      "Defence: 2"
+      "Defence: 3"
     ]
   },
   {
@@ -14688,7 +14961,7 @@
       "STR: 2",
       "AGI: 2",
       "WIS: 2",
-      "Defence: 4"
+      "Defence: 5"
     ]
   },
   {
@@ -14811,7 +15084,7 @@
       "STR: 3",
       "AGI: 3",
       "WIS: 3",
-      "Defence: 5"
+      "Defence: 7"
     ]
   },
   {
@@ -14821,7 +15094,7 @@
       "STR: 5",
       "AGI: 5",
       "WIS: 5",
-      "Defence: 9"
+      "Defence: 10"
     ]
   },
   {
@@ -17421,6 +17694,15 @@
   },
   {
     "source": "Armor",
+    "name": "Deathbloom Flower Pendant",
+    "bonuses": [
+      "Weapon Power: 5",
+      "30% Damage Multi",
+      "20% Mob Respawn"
+    ]
+  },
+  {
+    "source": "Armor",
     "name": "Gold Ring",
     "bonuses": [
       "Weapon Power: 5",
@@ -18067,6 +18349,17 @@
       "LUK: 40",
       "50% Damage Multi",
       "60% Money"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Giant Nightshade",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
+      "15% Xp From Monsters"
     ]
   },
   {
@@ -19011,7 +19304,7 @@
     "source": "Upgrade Stone",
     "name": "Armor Upgrade Stone II",
     "bonuses": [
-      "Drag onto any Armor to apply. +2 Defence, +2 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
+      "Drag onto any Armor to apply. +3 Defence, +2 Random Stat. Success Chance; 80% Uses up 1 slots only if Successful "
     ]
   },
   {
@@ -19025,7 +19318,7 @@
     "source": "Upgrade Stone",
     "name": "Armor Upgrade Stone III",
     "bonuses": [
-      "Drag onto any Armor to apply. +3 Defence, +4 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
+      "Drag onto any Armor to apply. +4 Defence, +4 Random Stat. Success Chance; 50% Uses up 1 slots only if Successful "
     ]
   },
   {
@@ -20249,6 +20542,15 @@
     ]
   },
   {
+    "source": "Name Tag",
+    "name": "Nightshade Nametag",
+    "bonuses": [
+      "Weapon Power: 2",
+      "Defence: 1",
+      "4% All Afk Gain"
+    ]
+  },
+  {
     "source": "Armor",
     "name": "Simple Key Chain",
     "bonuses": [
@@ -20714,6 +21016,28 @@
       "LUK: 50",
       "50% Drop Chance",
       "5% Luk"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Baller",
+    "bonuses": [
+      "Weapon Power: 3",
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "Defence: 3",
+      "3% All Stats",
+      "3% All Afk Gain"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Gladiator",
+    "bonuses": [
+      "Weapon Power: 1",
+      "10% Damage Multi"
     ]
   },
   {
@@ -22505,6 +22829,15 @@
   {
     "source": "Armor",
     "name": "Corgi Topper",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Husky Hat",
     "bonuses": [
       "STR: 1",
       "AGI: 1",
