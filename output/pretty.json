@@ -287,6 +287,238 @@
     ]
   },
   {
+    "source": "Orion Feathers",
+    "name": "Feather Generation",
+    "bonuses": [
+      "/sec",
+      "Generates +1 feather per second"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Bonuses of Orion",
+    "bonuses": [
+      "+% Class XP",
+      "Gain a permanent bonus for outside this map! This upgrade never resets..."
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Feather Multiplier",
+    "bonuses": [
+      "+ Base DMG",
+      "Boosts feather generation by +5%"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Feather Cheapener",
+    "bonuses": [
+      "+% Total DMG",
+      "All feather upgrades are 10% cheaper"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Feather Restart",
+    "bonuses": [
+      "+% Skill XP",
+      "Reset almost all Upgrades and Feathers. Generate x Feathers"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Super Feather Production",
+    "bonuses": [
+      "+% Drop Rate",
+      "Generates +5 feathers per second"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Shiny Feathers",
+    "bonuses": [
+      "+ All Stat",
+      "Rare chance for a Shiny Feather, each one gives +1% feather generation"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Super Feather Cheapener",
+    "bonuses": [
+      "",
+      "All feather upgrades are 20% cheaper"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "The Great Mega Reset",
+    "bonuses": [
+      "Nah",
+      "Reset almost everything. Gain a permanent Megafeather"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "tasty Fishbait",
+    "bonuses": [
+      "/minute",
+      "Catch  Fish every 30 seconds"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Quick Reeling",
+    "bonuses": [
+      "+% Fish Efficiency",
+      "Bluefin fishing speed is ]x Faster"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Shiny Lure",
+    "bonuses": [
+      "+ Defence",
+      "Catch Shiny Fish at a rate of %/hr"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Bonuses from Poppy",
+    "bonuses": [
+      "+% Fishing XP",
+      "Gain a permanent bonus for outside this map!"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "fishy discount",
+    "bonuses": [
+      "+% Accuracy",
+      "All fish upgrades are ~% cheaper"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Juicy Worm",
+    "bonuses": [
+      "+% Total DMG",
+      "Catch + more Bluefin Fish each time"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Fisheroo Reset",
+    "bonuses": [
+      "+% AFK Gains",
+      "Reset all upgrades and fish for bonuses!"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Fishing Buddy",
+    "bonuses": [
+      "+% Cash",
+      "Recruit a new Bluefin fisherman!"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Lightning Quickness",
+    "bonuses": [
+      "Nah",
+      "Shiny fishing speed is ]x faster"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Fisheroo Investing",
+    "bonuses": [
+      "Nah",
+      "Next Fisheroo Reset gives + more pts!"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Mutlihook Fishing",
+    "bonuses": [
+      "Nah",
+      "Catch + more Bluefin Fish each time"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Greatest Catch",
+    "bonuses": [
+      "Nah",
+      "Reset it all. Gain a permanent Megafish"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Super Yummy bait",
+    "bonuses": [
+      "+% Accuracy",
+      "Catch + more Bluefin Fish each time"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Bonus Catching",
+    "bonuses": [
+      "+% Total DMG",
+      "+?% chance for extra shiny catches"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Bluefin Frenzy",
+    "bonuses": [
+      "+% AFK Gains",
+      "Boosts the amount of Bluefin Fish caught by +%"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Fishy Reductions",
+    "bonuses": [
+      "+% Cash",
+      "All bluefin fish upgrades are ~% cheaper"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Super Tarbait",
+    "bonuses": [
+      "Nah",
+      "Catch Tartar Fish ]x faster"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Tarrific Resets",
+    "bonuses": [
+      "Nah",
+      "Next Fisheroo Reset gives + more pts to spend!"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "Mongo Multipliers",
+    "bonuses": [
+      "Nah",
+      "Multipliers in Shiny Fishing show up ?% more often!"
+    ]
+  },
+  {
+    "source": "Orion Feathers",
+    "name": "King Worm",
+    "bonuses": [
+      "Nah",
+      "Catch + more Bluefin Fish every 100 seconds"
+    ]
+  },
+  {
     "source": "Power Cauldron",
     "name": "Roid Ragin",
     "bonuses": [
@@ -5260,9 +5492,9 @@
   },
   {
     "source": "Farming Market",
-    "name": "ENHANCED DEEDS",
+    "name": "RANK BOOST",
     "bonuses": [
-      "Nothing yet. A weekly update will change this, some day..."
+      "Plots earn +% more Rank XP when a crop is collected"
     ]
   },
   {
@@ -5304,7 +5536,7 @@
     "source": "Farming Market",
     "name": "LAND RANK",
     "bonuses": [
-      "Nothing yet. These nuts, so true."
+      "Each plot now gets Rank XP when a crop is collected."
     ]
   },
   {
@@ -11329,9 +11561,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Spirit Card Pack",
+    "name": "Megafeather Nametag",
     "bonuses": [
-      "Blah"
+      "30% OFF NORMAL PRICE! Gives you 1 World 6 cardpack. You can see the drop table in the Cards section of the gemshop."
     ]
   },
   {
@@ -11385,51 +11617,51 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Deathblossom Pendant",
+    "name": "1 Hour Of Feathers",
     "bonuses": [
-      "This necklace equipment comes with a 1.30X Damage Multi bonus, and +20% Mob Respawn bonus!"
+      "Instantly generate 1 hour of fish at Poppy's Fisheroo Pool, a new gameplay feature in World 2! WARNING: Don't buy this until you start catching fish, or you'll get 1 hour of nothing!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Dragonic Cauldron",
+    "name": "Elemental Sorcerer Hat",
     "bonuses": [
-      "Turns the 1st liquid cauldron DRAGONIC (or 2nd or 3rd if you already own dragonic cauldrons). These give 2x Liquid Capacity, and 1.3x liquid generation."
+      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Random Cape",
+    "name": "Gold Pocketwatch",
     "bonuses": [
-      "Gives you a random cape, it could be any one of them currently in IdleOn! There are 14 possibilities, including the ones from special bundles! 10% OFF NORMAL PRICE!"
+      "Gives you a pocketwatch that fast forwards a day, restocking shops and triggering various daily rewards and systems. This wont impact Orion the Owl or Poppy the Kangaroo Mouse, nice try."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
+    "name": "Elite Class Swap",
     "bonuses": [
-      "These candies give up to 500 hours, but on average give 24 hrs. Click on them in game to see specific odds and possibilities!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "World 4 Kill Ring",
-    "bonuses": [
-      "All kills in World 4 count for 1.30x for opening portals to the next map. Helps you get to World 5 faster! 30% Faster to be exact!"
+      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
     ]
   },
   {
     "source": "Gem Shop",
     "name": "Random Hyper Obol",
     "bonuses": [
-      "FREEBIE ALERT! Gives you a random Circle Hyper Obol! The possibilities are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Cosmic Time Candy",
+    "bonuses": [
+      "99.9% OFF! FREEBIE! A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs."
     ]
   },
   {
     "source": "Gem Shop",
     "name": "5 Star Cardifier",
     "bonuses": [
-      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!"
+      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!"
     ]
   },
   {
@@ -18363,6 +18595,18 @@
     ]
   },
   {
+    "source": "Armor",
+    "name": "Timeless Watch",
+    "bonuses": [
+      "Weapon Power: 20",
+      "STR: 50",
+      "AGI: 50",
+      "WIS: 50",
+      "LUK: 50",
+      "40% All Afk Gain"
+    ]
+  },
+  {
     "source": "Stamp",
     "name": "Sword Stamp",
     "bonuses": [
@@ -20548,6 +20792,30 @@
       "Weapon Power: 2",
       "Defence: 1",
       "4% All Afk Gain"
+    ]
+  },
+  {
+    "source": "Name Tag",
+    "name": "Megafeather Nametag",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "20% Damage Multi"
+    ]
+  },
+  {
+    "source": "Name Tag",
+    "name": "Timeless Nametag",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "40% Damage Multi"
     ]
   },
   {
