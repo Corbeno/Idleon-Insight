@@ -20,3 +20,15 @@ https://raw.githubusercontent.com/Corbeno/Idleon-Insight/main/output/output.json
 ```
 node src/main.js
 ```
+
+## Git Maitenence
+
+When first cloning the repo, run the following
+```
+git submodule update --init --recursive
+```
+
+Then run
+```
+git submodule update --recursive --remote
+```
