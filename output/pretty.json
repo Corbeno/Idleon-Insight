@@ -4039,9 +4039,9 @@
   },
   {
     "source": "Pet Upgrade",
-    "name": "Filler",
+    "name": "Grand Martial of Shinytown",
     "bonuses": [
-      "Filler"
+      "Boosts the rate at which shiny pets level up from being in the fenceyard. This will help you rack up those 100+ Day requirements!"
     ]
   },
   {
@@ -9001,7 +9001,7 @@
     "source": "Elemental Sorcerer Talents",
     "name": "Polytheism",
     "bonuses": [
-      "Link to 2nd God based on Talents Lv. Stand under Omniphau God to De-Level."
+      "Get power of a 2nd God! It's based on Talent LV. Stand under Omniphau God to De-Level."
     ]
   },
   {
@@ -11288,58 +11288,44 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Strawbiggy",
+    "name": "Blinding Lantern",
     "bonuses": [
-      "This is the ACTUAL strawberry from the Buddhist story about the Tiger and the Strawberry. No wonder the dangling man thought it so tasty!"
+      "I heard about the recent disaster near that hole over in World 5, those poor villagers! Please, take these lanterns and go help them, they're on the house of course!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Pop Cat",
+    "name": "Parallel Villagers",
     "bonuses": [
-      "'Ew cringe.' Said the teenager, in a selfish attempt to diminish the joy others experience from something so they can feel better about not liking it."
+      "Permanently get a 2x EXP boost for the villager of your choice! @ You can only buy this once per villager."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Dairy Dunk",
+    "name": "Resource Boost",
     "bonuses": [
-      "It's like getting pied, but instead of pie it's ice cream and instead of a basketball and a hoop its this ice cream and your head."
+      "Permanently get a 1.50x boost to resources collected from The Well and The Harp caverns! Two purchases would mean 2.00x resources, three purchases are 2.50x, etc."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Hat Premiumifier",
+    "name": "Code Digger",
     "bonuses": [
-      "Turns any normal hat into a premium hat! This is the same item buyable in the Cosmetics section, but I'm putting it here also since it works great with the Premium Hat Swapper Stone!"
+      "She aint messin with no javascript fella"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "The Classic",
+    "name": "Conjuror Pts",
     "bonuses": [
-      "Oh this? Why, this is only the PEAK fashion statement in all of IdleOn! Influenced by trends of the late 2000s, its back and hotter than ever!"
+      "Gives you +1 Conjure Point to invest in bonuses! If you haven't rescued Cosmo the Conjuror Villager yet, you'll want to hold off buying any of these."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Green Beanie",
+    "name": "Opal",
     "bonuses": [
-      "Lets be honest... this is just the Bored Beanie but less cool"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Diamond Demon Horns",
-    "bonuses": [
-      "Definitely the coolest hat in the game, lets be real. That's why it's also the most expensive!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Invisible Hat",
-    "bonuses": [
-      "This hat is invisible, and your normal hat will show up instead. Buy this hat if you want to use some Premium Upgrade Stones, while still seeing your normal hat!"
+      "Gives you +1 Opal to invest into villagers! You'll find most of your opals in the caverns, but some ended up here! NOTE: You can only buy 4 per day."
     ]
   },
   {
@@ -11417,13 +11403,6 @@
     "name": "Absolute Sugar Maniac",
     "bonuses": [
       "Gives a random Time Candy. The chances are: 33% for 4 Hr, 40% for 12 Hr, 22% for 24 Hr, and 4% for 72 Hr."
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Cosmic Candy",
-    "bonuses": [
-      "Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs."
     ]
   },
   {
@@ -11561,9 +11540,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Megafeather Nametag",
+    "name": "Spirit Card Pack",
     "bonuses": [
-      "30% OFF NORMAL PRICE! Gives you 1 World 6 cardpack. You can see the drop table in the Cards section of the gemshop."
+      "Blah"
     ]
   },
   {
@@ -11617,23 +11596,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "1 Hour Of Feathers",
+    "name": "Random Hyper Obol",
     "bonuses": [
-      "Instantly generate 1 hour of fish at Poppy's Fisheroo Pool, a new gameplay feature in World 2! WARNING: Don't buy this until you start catching fish, or you'll get 1 hour of nothing!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Elemental Sorcerer Hat",
-    "bonuses": [
-      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Gold Pocketwatch",
-    "bonuses": [
-      "Gives you a pocketwatch that fast forwards a day, restocking shops and triggering various daily rewards and systems. This wont impact Orion the Owl or Poppy the Kangaroo Mouse, nice try."
+      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
     ]
   },
   {
@@ -11645,16 +11610,16 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Random Hyper Obol",
+    "name": "Divinity Pearl",
     "bonuses": [
-      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+      "Gives you 5 Divinity Pearls, which give 40% EXP for the skill that's shown in the corner of the screen! ONLY WORKS FOR SKILLS UNDER LV 50!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
+    "name": "72 Hour Candy Maybe",
     "bonuses": [
-      "99.9% OFF! FREEBIE! A time candy that gives a random amount of time for a nonrandom cost of gems? How inexplicable! @ These candies give up to 500 hours, but on average give 24 hrs."
+      "READ THIS BEFORE YOU BUY. This purchase has a 20% chance for the coveted 72 hr candy, and a 80% chance to just be a lame 12 hour candy. Ok you can stop reading now."
     ]
   },
   {
@@ -11662,6 +11627,13 @@
     "name": "5 Star Cardifier",
     "bonuses": [
       "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Deathblossom Pendant",
+    "bonuses": [
+      "This necklace equipment comes with a 1.30X Damage Multi bonus, and +20% Mob Respawn bonus! 20% OFF NORMAL PRICE!"
     ]
   },
   {
@@ -11690,6 +11662,13 @@
     "name": "Luk Stone",
     "bonuses": [
       "Gives +5 LUK to the applied item, and has a 100% Success Rate. Can ONLY be used on Premium Equipment bought in the Gem Shop!"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Hat Premiumifier",
+    "bonuses": [
+      "Turns any normal hat into a premium hat! This is the same item buyable in the Cosmetics section, but I'm putting it here also since it works great with the Premium Hat Swapper Stone!"
     ]
   },
   {
@@ -13422,6 +13401,41 @@
     ]
   },
   {
+    "source": "Equinox Cloud",
+    "name": "Acquire all 10 Megafeathers from Orion the Great Owl, and all 12 Megafish from Poppy the Kangaroo Mouse",
+    "bonuses": [
+      "Unlock next Equinox upgrade"
+    ]
+  },
+  {
+    "source": "Equinox Cloud",
+    "name": "Unlock 75 or more Portals on a single Voidwalker Speedrun",
+    "bonuses": [
+      "+6 Max LV for 'Slow Roast Wiz' Equinox Upgrade"
+    ]
+  },
+  {
+    "source": "Equinox Cloud",
+    "name": "Reach a total Cooking Meal Upgrade Lv of 4242 across all meals",
+    "bonuses": [
+      "'Food Lust' Equinox Upg now reduces cost by -42% per stack"
+    ]
+  },
+  {
+    "source": "Equinox Cloud",
+    "name": "Find every type of hat in Sneaking, including the Funky Hat, which is a SUPER rare drop from the lobby floor...",
+    "bonuses": [
+      "+10 Max LV for 'Matching Scims' Equinox Upgrade"
+    ]
+  },
+  {
+    "source": "Equinox Cloud",
+    "name": "Get at least 100 Killroy kills on all monsters in World 1, 2, 3, 4, 5 and 6, as shown in Killroy Prime in Rift",
+    "bonuses": [
+      "+15 Max LV for 'Voter Rights' Equinox Upgrade"
+    ]
+  },
+  {
     "source": "Equinox Dream Upgrade",
     "name": "Equinox Dreams",
     "bonuses": [
@@ -13500,9 +13514,9 @@
   },
   {
     "source": "Equinox Dream Upgrade",
-    "name": "Hmm...",
+    "name": "Voter Rights",
     "bonuses": [
-      "Huh..."
+      "1% higher Ballot Bonus from the voter slime in World 2 town. This boosts the bonus that players vote for each week!"
     ]
   },
   {
@@ -14504,6 +14518,13 @@
     "name": "Tremor Wurm",
     "bonuses": [
       "+% All Stat"
+    ]
+  },
+  {
+    "source": "Card",
+    "name": "Gloomie Mushroom",
+    "bonuses": [
+      "+% Villager EXP (Passive)"
     ]
   },
   {
@@ -23317,6 +23338,16 @@
     ]
   },
   {
+    "source": "Armor",
+    "name": "Yellow Beanie",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "LUK: 1"
+    ]
+  },
+  {
     "source": "Statue",
     "name": "Power",
     "bonuses": [
@@ -23510,6 +23541,13 @@
     "name": "Essence",
     "bonuses": [
       "%@White Ess"
+    ]
+  },
+  {
+    "source": "Statue",
+    "name": "Dragon",
+    "bonuses": [
+      "%@Statues Bonus"
     ]
   },
   {
