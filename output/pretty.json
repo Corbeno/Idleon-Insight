@@ -1936,7 +1936,7 @@
     "source": "Liquid Shop",
     "name": "Talent Point",
     "bonuses": [
-      "Gives a redeemable talent point for the 2nd Talent Tab. Applies to all characters. Also, this item's cost will never reset, never ever ever!"
+      "Gives a redeemable talent point for the 2nd Talent"
     ]
   },
   {
@@ -1999,7 +1999,7 @@
     "source": "Liquid Shop",
     "name": "Talent Point",
     "bonuses": [
-      "Gives a redeemable talent point for the 3rd Talent Tab. Applies to all characters. This item's cost will reset every 50,000,000 years."
+      "Gives a redeemable talent point for the 3rd Talent"
     ]
   },
   {
@@ -3327,7 +3327,7 @@
     "source": "Lab Jewel",
     "name": "Black Diamond Rhinestone",
     "bonuses": [
-      "All meal bonuses, as shown in the Dinner Table Menu, actually give 1.x higher bonus than what is shown. So if a bonus says +100%, it is actually giving +1%. @ Doesn't apply to Line Width bonus."
+      "All meals now give a 1.x higher bonus! Go ahead and check it out at the Dinner Menu! @ Doesn't apply to the meal that gives Line Width bonus."
     ]
   },
   {
@@ -3579,7 +3579,7 @@
     "source": "Meal",
     "name": "Cabbage",
     "bonuses": [
-      "+% All Cooking Spd per 10 upgrade Lvs"
+      "+% Cooking Spd per 10 Kitchen LVs"
     ]
   },
   {
@@ -3649,7 +3649,7 @@
     "source": "Meal",
     "name": "Eggplant",
     "bonuses": [
-      "+% Pet Breedability Speed in Fenceyard"
+      "+% Pet Breedability Speed"
     ]
   },
   {
@@ -6352,6 +6352,90 @@
     ]
   },
   {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 21",
+    "bonuses": [
+      "+ Stamp LV/day"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 22",
+    "bonuses": [
+      "+% Villager EXP"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 23",
+    "bonuses": [
+      "+% Ballot Bonus"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 24",
+    "bonuses": [
+      "+% Class EXP"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 25",
+    "bonuses": [
+      "+ Equinox Max LV"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 26",
+    "bonuses": [
+      "+% Monument AFK"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 27",
+    "bonuses": [
+      "<x Meal Bonuses"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 28",
+    "bonuses": [
+      "+% for World 7"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 29",
+    "bonuses": [
+      "+% for World 7"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 30",
+    "bonuses": [
+      "+% for World 7"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 31",
+    "bonuses": [
+      "+% for World 7"
+    ]
+  },
+  {
+    "source": "Summoning Winner Bonuses",
+    "name": "Bonus 32",
+    "bonuses": [
+      "<x Winner Bonuses"
+    ]
+  },
+  {
     "source": "Summoning Upgrades",
     "name": "White Essence Champ",
     "bonuses": [
@@ -6780,23 +6864,23 @@
   },
   {
     "source": "Summoning Upgrades",
-    "name": "Timely Essence",
+    "name": "Infinite Essence",
     "bonuses": [
-      "The generation of all essence colours is increased by +% for every 10 seconds of your longest Endless Summoning time. @ Total bonus: +%"
+      "The generation of all essence colours is increased by +% for every Endless Summoning victory you have. @ Total bonus: +%"
     ]
   },
   {
     "source": "Summoning Upgrades",
-    "name": "Timely Health",
+    "name": "Infinite Health",
     "bonuses": [
-      "The HP of all summoned units is increased by +% for every 10 seconds of your longest Endless Summoning time. @ Total bonus: +%"
+      "The HP of all summoned units is increased by +% for every Endless Summoning victory you have. @ Total bonus: +%"
     ]
   },
   {
     "source": "Summoning Upgrades",
-    "name": "Timely Damage",
+    "name": "Infinite Damage",
     "bonuses": [
-      "The DMG of all summoned units is increased by +% for every 10 seconds of your longest Endless Summoning time. @ Total bonus: +%"
+      "The DMG of all summoned units is increased by +% for every Endless Summoning victory you have. @ Total bonus: +%"
     ]
   },
   {
@@ -6825,6 +6909,20 @@
     "name": "Sharpened Spikes",
     "bonuses": [
       "Spike damage is increased by % of your base unit damage. @ Total Bonus Spike DMG: +"
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Guardio",
+    "bonuses": [
+      "4% chance to draw a Guardio! They sit in midfield, do 0 DMG, have 12x HP, and aren't knocked back. Your upgrades here boost its HP by a further +%."
+    ]
+  },
+  {
+    "source": "Summoning Upgrades",
+    "name": "Endless Summoning",
+    "bonuses": [
+      "Unlocks the Endless Summoning feature, accessed in the Top Right when selecting an opponent! Go to the Summoner's Table, you can't miss it!"
     ]
   },
   {
@@ -7531,7 +7629,7 @@
     "source": "Barbarian Talents",
     "name": "Worming Undercover",
     "bonuses": [
-      "% chance to wake the sleeper agent worm within the fish, letting you instantly catch"
+      "% chance"
     ]
   },
   {
@@ -11288,9 +11386,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Blinding Lantern",
+    "name": "2 Hour Lantern",
     "bonuses": [
-      "I heard about the recent disaster near that hole over in World 5, those poor villagers! Please, take these lanterns and go help them, they're on the house of course!"
+      "40% OFF SALE! Gives you a Lantern usable item, use it to instantly get 2 hours of ALL Cavern progress! And yes, this includes and 2 hours of Villager EXP gain!"
     ]
   },
   {
@@ -11309,9 +11407,9 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Code Digger",
+    "name": "Cosmic Candy",
     "bonuses": [
-      "She aint messin with no javascript fella"
+      "Gives 1 Cosmic Time Candy, which can give up to 500 HOURS of AFK time! On average, it will give 24 hrs."
     ]
   },
   {
@@ -11372,7 +11470,7 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Honk Ring",
+    "name": "Honk Chat Ring",
     "bonuses": [
       ""
     ]
@@ -11596,44 +11694,37 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Random Hyper Obol",
+    "name": "Elemental Sorcerer Hat",
     "bonuses": [
-      "Gives you a random Circle Hyper Obol! The four equal possibilites are +4% DROP RATE, +2% ALL STAT, +3% DAMAGE, and +2% MULTIKILL PER TIER!"
+      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Elite Class Swap",
+    "name": "Crescent Moon Pendant",
     "bonuses": [
-      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
+      "This necklace equipment comes with +35% Class EXP bonus, +5% Mob Respawn bonus, +3 Weapon Power, and +10 all stat!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Divinity Pearl",
+    "name": "Siege Captain Hat",
     "bonuses": [
-      "Gives you 5 Divinity Pearls, which give 40% EXP for the skill that's shown in the corner of the screen! ONLY WORKS FOR SKILLS UNDER LV 50!"
+      "Arr, ye can't consider yerself a REAL pirate without wearin' a hat like this! Comes with a +10% Drop rate bonus!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "72 Hour Candy Maybe",
+    "name": "Drop Rate Keychain",
     "bonuses": [
-      "READ THIS BEFORE YOU BUY. This purchase has a 20% chance for the coveted 72 hr candy, and a 80% chance to just be a lame 12 hour candy. Ok you can stop reading now."
+      "This keychain comes with +25% Drop Rate bonus! Currently, the best possible Drop Rate keychain is 16%, so this is the best Drop Rate Keychain in the game yo!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "5 Star Cardifier",
+    "name": "Cosmic Time Candy",
     "bonuses": [
-      "Use this on a 4 star card to upgrade it to 5 stars! It works like 4 star cardifiers do, you get to choose which card gets upgraded, no randomness involved!! Yippie!!!"
-    ]
-  },
-  {
-    "source": "Gem Shop",
-    "name": "Deathblossom Pendant",
-    "bonuses": [
-      "This necklace equipment comes with a 1.30X Damage Multi bonus, and +20% Mob Respawn bonus! 20% OFF NORMAL PRICE!"
+      "20% OFF SALE! A time candy that gives a random amount of time for a nonrandom cost of gems! @ These candies give up to 500 hours of AFK time, but on average give 24 hrs."
     ]
   },
   {
@@ -11948,7 +12039,7 @@
     "source": "Gem Shop",
     "name": "Life Refill",
     "bonuses": [
-      "Refills 1 life in Summoning, so you can give that battle you're stuck on one more try without waiting! This restocks every day."
+      "Refills 1 life in Summoning, so you can try again now without waiting for the free life refill you get every day. This restocks every day, so you can buy 12 every day."
     ]
   },
   {
@@ -13241,7 +13332,7 @@
   },
   {
     "source": "Equinox Cloud",
-    "name": "Defeat the Vengeful Grandfrogger, 4th difficulty, in a party of just yourself.",
+    "name": "Defeat the Vengeful Grandfrogger, 4th difficulty, in a party with others or alone.",
     "bonuses": [
       "Tick Tock book from alchemy can now go up to Lv.200"
     ]
@@ -13283,7 +13374,7 @@
   },
   {
     "source": "Equinox Cloud",
-    "name": "Defeat the Inevitable Snakenhotep in a party by yourself. That's the 3rd and final W2 Dungeon boss",
+    "name": "Defeat the Inevitable Snakenhotep in a party with others or alone. That's the 3rd and final W2 Dungeon boss",
     "bonuses": [
       "+20% Equinox Bar fill rate"
     ]
@@ -13318,7 +13409,7 @@
   },
   {
     "source": "Equinox Cloud",
-    "name": "Defeat the Caustic Glaciaxus in a party of just yourself. That's the 3rd and final W3 Dungeon boss",
+    "name": "Defeat the Caustic Glaciaxus in a party with others or alone. That's the 3rd and final W3 Dungeon boss",
     "bonuses": [
       "+25% Equinox Bar fill rate"
     ]
@@ -18019,7 +18110,7 @@
     "name": "Pugilist Demise",
     "bonuses": [
       "STR: 3",
-      "4% Boss Damage"
+      "20% Boss Damage"
     ]
   },
   {
@@ -20727,7 +20818,11 @@
     "source": "Name Tag",
     "name": "Balling Nametag",
     "bonuses": [
+      "STR: 5",
+      "AGI: 5",
+      "WIS: 5",
       "LUK: 40",
+      "Defence: 20",
       "40% Drop Chance"
     ]
   },
@@ -22952,7 +23047,7 @@
   },
   {
     "source": "Armor",
-    "name": "Diamon Horns",
+    "name": "Diamond Horns",
     "bonuses": [
       "STR: 1",
       "AGI: 1",
