@@ -439,7 +439,7 @@ function parseSpecificItemRepo(keyValue){
 }
 
 function getSpecificItemBonuses(body){
-    const armorList = ["aHelmet", "aShirt", "aPants", "aShoes", "aPendant", "aRing", "aChatRingMTX", "aTrophy", "aHelmetMTX", "aCape", "aKeychain"];
+    const armorList = ["aHelmet", "aShirt", "aPants", "aShoes", "aPendant", "aRing", "aChatRingMTX", "aTrophy", "aHelmetMTX", "aCape", "aKeychain", "aGown"];
     const toolList = ["aPick", "aHatchet", "aFishingRod", "aBugNet", "aTrap", "aSkull", "aDNAgun"];
     const obolList = ["aObolCircle", "aObolSquare", "aObolHexagon", "aObolSparkle"]; 
     const keysList = ["Weapon_Power", "STR", "AGI", "WIS", "LUK", "Defence"];

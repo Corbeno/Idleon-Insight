@@ -291,7 +291,7 @@
     "name": "Feather Generation",
     "bonuses": [
       "/sec",
-      "Generates +1 feather per second"
+      "Generates  feather per second"
     ]
   },
   {
@@ -307,7 +307,7 @@
     "name": "Feather Multiplier",
     "bonuses": [
       "+ Base DMG",
-      "Boosts feather generation by +5%"
+      "Boosts feather generation by +%"
     ]
   },
   {
@@ -315,7 +315,7 @@
     "name": "Feather Cheapener",
     "bonuses": [
       "+% Total DMG",
-      "All feather upgrades are 10% cheaper"
+      "All feather upgrades are @% cheaper"
     ]
   },
   {
@@ -331,7 +331,7 @@
     "name": "Super Feather Production",
     "bonuses": [
       "+% Drop Rate",
-      "Generates +5 feathers per second"
+      "Generates + more feathers per second"
     ]
   },
   {
@@ -339,7 +339,7 @@
     "name": "Shiny Feathers",
     "bonuses": [
       "+ All Stat",
-      "Rare chance for a Shiny Feather, each one gives +1% feather generation"
+      "Rare chance for a Shiny Feather, each one gives +% feather generation"
     ]
   },
   {
@@ -347,7 +347,7 @@
     "name": "Super Feather Cheapener",
     "bonuses": [
       "",
-      "All feather upgrades are 20% cheaper"
+      "All feather upgrades are % cheaper"
     ]
   },
   {
@@ -440,7 +440,7 @@
   },
   {
     "source": "Orion Feathers",
-    "name": "Mutlihook Fishing",
+    "name": "Multihook Fishing",
     "bonuses": [
       "Nah",
       "Catch + more Bluefin Fish each time"
@@ -522,7 +522,7 @@
     "source": "Power Cauldron",
     "name": "Roid Ragin",
     "bonuses": [
-      "+ Total STR. 'Total' here means that, for example, a +10% STR bonus from something else wouldn't affect this bonus."
+      "+ Total STR for all players"
     ]
   },
   {
@@ -613,7 +613,7 @@
     "source": "Power Cauldron",
     "name": "Buff Boi Talent",
     "bonuses": [
-      "+ Talent Points for EACH tab! Yea, it's amazing right? But it's just for warriors, don't tell the other classes!!"
+      "+ Talent Points for EACH tab! But it's just for warriors, don't tell the other classes!! NOTE: Doesn't affect Master Class"
     ]
   },
   {
@@ -732,7 +732,7 @@
     "source": "Quicc Cauldron",
     "name": "Swift Steppin",
     "bonuses": [
-      "+ Total AGI. Probably the lamest of the five stats... err, I mean four, hehe."
+      "+ Total AGI for all players"
     ]
   },
   {
@@ -823,7 +823,7 @@
     "source": "Quicc Cauldron",
     "name": "Fast Boi Talent",
     "bonuses": [
-      "+ Talent Points for EACH tab, but just for Archers! Well, and 'that' class, you know who you are!"
+      "+ Talent Points for EACH tab, but just for Archers! Oh, and also for the SECRET class... NOTE: Doesn't affect Master Class"
     ]
   },
   {
@@ -858,7 +858,7 @@
     "source": "Quicc Cauldron",
     "name": "Kill Per Kill",
     "bonuses": [
-      "+% extra Kills for Deathnote and opening portals to new maps. Shoutout to my I.S. players who fondly remember 'Kill Per Kill'!"
+      "+% extra Kills for Deathnote and opening portals to new maps. Shoutout to my Idle Skilling players who remember 'Kill Per Kill'!"
     ]
   },
   {
@@ -942,7 +942,7 @@
     "source": "High-IQ Cauldron",
     "name": "Stable Jenius",
     "bonuses": [
-      "+ Total WIS. Honesty the greatest bonus in any Idle Game, believe me. Absolutely incredible, everyone says so!"
+      "+ Total WIS for all players"
     ]
   },
   {
@@ -1033,7 +1033,7 @@
     "source": "High-IQ Cauldron",
     "name": "Smart Boi Talent",
     "bonuses": [
-      "Sorry, mages don't get anything because you're lame.... Ok fine, you can have + Talent Points for each tab, but I'm not happy about it."
+      "Sorry, mages don't get anything... Ok fine, you can have + Talent Points for each tab. NOTE: Doesn't affect Master Class"
     ]
   },
   {
@@ -1152,7 +1152,7 @@
     "source": "Kazam Cauldron",
     "name": "Lotto Skills",
     "bonuses": [
-      "+ LUK. Also, this will increase your chances of winning the lottery in real life from 0.0% to 0.000%! I'm not even joking, it's true!!"
+      "+ LUK. Also, this will increase your chances of winning the lottery in REAL LIFE from 0.0% to 0.000%! I'm not even joking!!"
     ]
   },
   {
@@ -1936,7 +1936,7 @@
     "source": "Liquid Shop",
     "name": "Talent Point",
     "bonuses": [
-      "Gives a redeemable talent point for the 2nd Talent"
+      "Gives a redeemable talent point for the 2nd Talent Tab. Applies to all characters. Also, this item's cost will never reset, never ever ever!"
     ]
   },
   {
@@ -1999,7 +1999,7 @@
     "source": "Liquid Shop",
     "name": "Talent Point",
     "bonuses": [
-      "Gives a redeemable talent point for the 3rd Talent"
+      "Gives a redeemable talent point for the 3rd Talent Tab. Applies to all characters. This item's cost will reset every 50,000,000 years."
     ]
   },
   {
@@ -2865,7 +2865,7 @@
     "source": "Shrine",
     "name": "Primordial Shrine",
     "bonuses": [
-      "Boosts AFK Gain Rate on this map by +%, up to 150% tot. @ AFK Time to next Lv: @"
+      "Boosts AFK Gain Rate on this map by +%. @ AFK Time to next Lv: @"
     ]
   },
   {
@@ -5429,9 +5429,9 @@
   },
   {
     "source": "The Jade Emporium",
-    "name": "IDK YET",
+    "name": "Science Highlighter",
     "bonuses": [
-      "Idk yet"
+      "Adds a new bonus type to your crop scientist! Specifically '+1% Drop Rate' per Crop after 100! So having 105 crops would only give +5%"
     ]
   },
   {
@@ -5439,6 +5439,13 @@
     "name": "UNDER CONSTRUCTION",
     "bonuses": [
       "This bonus isn't out yet, so you cant buy it! Please come back in a few updates there'll be more floors to sneak up to as well!"
+    ]
+  },
+  {
+    "source": "The Jade Emporium",
+    "name": "IDK YET",
+    "bonuses": [
+      "Idk yet"
     ]
   },
   {
@@ -6936,7 +6943,7 @@
     "source": "Beginner Talents",
     "name": "Mana Booster",
     "bonuses": [
-      "Increases Max MP by "
+      "Increases Max MP by , which is used to cast Class Attacks"
     ]
   },
   {
@@ -7356,7 +7363,7 @@
     "source": "Rage Basics Talents",
     "name": "Mana Booster",
     "bonuses": [
-      "Increases Max MP by "
+      "Increases Max MP by , which is used to cast Class Attacks"
     ]
   },
   {
@@ -7587,7 +7594,7 @@
     "source": "Barbarian Talents",
     "name": "Monster Decimator",
     "bonuses": [
-      "There is a % chance for a monster kill to be counted for double."
+      "There is a % chance for a monster kill to be counted as double for opening portals and killcount."
     ]
   },
   {
@@ -7629,7 +7636,7 @@
     "source": "Barbarian Talents",
     "name": "Worming Undercover",
     "bonuses": [
-      "% chance"
+      "% chance to wake the sleeper agent worm within the fish, letting you instantly catch"
     ]
   },
   {
@@ -7769,14 +7776,14 @@
     "source": "Blood Berserker Talents",
     "name": "Fired Up",
     "bonuses": [
-      "Inflame yourself, boosting attack spd. Basic attacks refresh time you are inflamed."
+      "Inflame yourself for s, boosting attack spd. Basic attacks refresh time you are inflamed."
     ]
   },
   {
     "source": "Blood Berserker Talents",
     "name": "Combustion",
     "bonuses": [
-      "If inflamed, releases your fire and deals % dmg to up to  mobs near you"
+      "If inflamed, set off a combustion explosion which deals % dmg to up to  mobs near you"
     ]
   },
   {
@@ -7790,7 +7797,7 @@
     "source": "Blood Berserker Talents",
     "name": "Ember Bear",
     "bonuses": [
-      "Ignites the bear claw, boosting max mobs hit to 10 and multihit by %"
+      "Ignites the bear claw, boosting max mobs hit to 12 and multihit by %"
     ]
   },
   {
@@ -7811,7 +7818,7 @@
     "source": "Blood Berserker Talents",
     "name": "Charred Skulls",
     "bonuses": [
-      "+% Kill per Kill per 1000 STR. Each kill is worth more kills!"
+      "+% Kill per Kill per 1000 STR. Each kill is worth more for opening portals and Deathnote!"
     ]
   },
   {
@@ -7916,7 +7923,7 @@
     "source": "Divine Knight Talents",
     "name": "Charred Skulls",
     "bonuses": [
-      "+% Kill per Kill per 1000 STR. Each kill is worth more kills!"
+      "+% Kill per Kill per 1000 STR. Each kill is worth more for opening portals and Deathnote!"
     ]
   },
   {
@@ -7976,6 +7983,111 @@
     ]
   },
   {
+    "source": "Death Bringer Talents",
+    "name": "Wraith Form",
+    "bonuses": [
+      "Enter/Exit Wraith Form to collect Bones from mobs, while coping with new combat stats. Also gives +% Wraith DMG"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Grimoire",
+    "bonuses": [
+      "Opens the Grimoire, which upgrades Wraith Form and much more. Also gives a passive +% boost to Bones found."
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Sentinel Axes",
+    "bonuses": [
+      "All axes are now +% bigger and hits  more mobs. You also throw axes every basic attack."
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Graveyard Shift",
+    "bonuses": [
+      "Spawns a Horde. When killed, respawns and boosts Bones found by +%. Also normal mobs respawn +% faster."
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Detonation",
+    "bonuses": [
+      "% chance to trigger a combustion explosion when defeating a horde. Also, +% larger combustion range"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Marauder Style",
+    "bonuses": [
+      "+% Wraith DMG and Accuracy per 100 Grimoire Upgrades total"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Bulwark Style",
+    "bonuses": [
+      "+% Wraith Defence and HP per 100 Grimoire Upgrades total"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Famine O' Fish",
+    "bonuses": [
+      "+% Wraith Crit Chance, and +% Wraith Crit DMG, per POW 10 Fishing Efficiency"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Built Different",
+    "bonuses": [
+      "+ base STR"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Ribbon Winning",
+    "bonuses": [
+      "There's a % chance to get an extra ribbon every day! Works for all players of course."
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Mass Irrigation",
+    "bonuses": [
+      "x Crop Evo chance. Also, instagrows give 2x more growth for selected crop, and also grow all crops above and below!"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Agricultural 'preciation",
+    "bonuses": [
+      "+% Farming EXP and +% Land Rank EXP gain. Works on all characters!"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Dank Ranks",
+    "bonuses": [
+      "All bonuses in Land Rank Database gives a x higher bonus!"
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Wraith Overlord",
+    "bonuses": [
+      "+% DMG MULTI for all characters per POW 10 wraith bones ever collected."
+    ]
+  },
+  {
+    "source": "Death Bringer Talents",
+    "name": "Apocalypse Wow",
+    "bonuses": [
+      "+% Gold Food Effect for every monster you kill 1 billion times on this class. Bonus works for all players!"
+    ]
+  },
+  {
     "source": "Calm Basics Talents",
     "name": "Health Booster",
     "bonuses": [
@@ -7986,7 +8098,7 @@
     "source": "Calm Basics Talents",
     "name": "Mana Booster",
     "bonuses": [
-      "Increases Max MP by "
+      "Increases Max MP by , which is used to cast Class Attacks"
     ]
   },
   {
@@ -8441,7 +8553,7 @@
     "source": "Siege Breaker Talents",
     "name": "Stacked Skulls",
     "bonuses": [
-      "+% Kill per Kill per 1000 AGI. Each kill is worth more kills!"
+      "+% Kill per Kill per 1000 AGI. Each kill is worth more for opening portals and Deathnote!"
     ]
   },
   {
@@ -8546,7 +8658,7 @@
     "source": "Beast Master Talents",
     "name": "Stacked Skulls",
     "bonuses": [
-      "+% Kill per Kill per 1000 AGI. Each kill is worth more kills!"
+      "+% Kill per Kill per 1000 AGI. Each kill is worth more for opening portals and Deathnote!"
     ]
   },
   {
@@ -8581,7 +8693,7 @@
     "source": "Beast Master Talents",
     "name": "I Dream Of Peace And Egg",
     "bonuses": [
-      "% Chance to get 1 egg per 10 hrs of AFK claims, up to 100 hrs. Candy wont work here."
+      "% Chance to get 3 eggs per 10 hrs of AFK claims, up to 100 hrs. Candy wont work here."
     ]
   },
   {
@@ -8616,7 +8728,7 @@
     "source": "Savvy Basics Talents",
     "name": "Mana Booster",
     "bonuses": [
-      "Increases Max MP by "
+      "Increases Max MP by , which is used to cast Class Attacks"
     ]
   },
   {
@@ -9050,7 +9162,7 @@
     "source": "Elemental Sorcerer Talents",
     "name": "Dimensional Wormhole",
     "bonuses": [
-      "Spawns Wormhole Mobs which give +% XP & Drop per Wormhole kill and spawn more."
+      "Spawns Wormhole Mobs which give +% XP & Drop per Wormhole kill. Also makes normal mobs respawn faster."
     ]
   },
   {
@@ -9071,7 +9183,7 @@
     "source": "Elemental Sorcerer Talents",
     "name": "Memorial Skulls",
     "bonuses": [
-      "+% Kill per Kill per 1000 WIS. Each kill is worth more kills!"
+      "+% Kill per Kill per 1000 WIS. Each kill is worth more for opening portals and Deathnote!"
     ]
   },
   {
@@ -9176,7 +9288,7 @@
     "source": "Bubonic Conjuror Talents",
     "name": "Memorial Skulls",
     "bonuses": [
-      "+% Kill per Kill per 1000 WIS. Each kill is worth more kills!"
+      "+% Kill per Kill per 1000 WIS. Each kill is worth more for opening portals and Deathnote!"
     ]
   },
   {
@@ -9237,30 +9349,30 @@
   },
   {
     "source": "Special Talent 1 Talents",
-    "name": "Bored To Death",
+    "name": "Cash Money",
     "bonuses": [
-      "Reduces the Respawn Timer to  sec. This will boost AFK Survival Percent!"
+      "All monsters drop +% more coins. Use these coins to buy all sorts of things!"
     ]
   },
   {
     "source": "Special Talent 1 Talents",
-    "name": "Beginner Best Class",
+    "name": "Quest Kapow!",
     "bonuses": [
-      "+1 Base Weapon Power every 10 Lvs of your best Beginner. Caps at +."
+      "Each Completed Quest on any character gives +1% Damage, up to a total of +% Damage"
     ]
   },
   {
     "source": "Special Talent 1 Talents",
     "name": "Studious Quester",
     "bonuses": [
-      "Each Completed Quest gives +0.10% All Skill efficiency. Total bonus caps at +%"
+      "Each Completed Quest on any character gives +0.10% All Skill efficiency. Total bonus caps at +%"
     ]
   },
   {
     "source": "Special Talent 1 Talents",
     "name": "Quest Chungus",
     "bonuses": [
-      "Each Completed Quest gives +1 LUK. Total bonus caps at + LUK"
+      "Each Completed Quest on any character gives +1 LUK. Total bonus caps at + LUK"
     ]
   },
   {
@@ -9307,9 +9419,9 @@
   },
   {
     "source": "Special Talent 1 Talents",
-    "name": "Toilet Paper Postage",
+    "name": "Beginner Best Class",
     "bonuses": [
-      "Stamps giving Skill Efficiency will give x higher bonuses."
+      "+1 Base Weapon Power every 10 Lvs of your best Beginner. Caps at +."
     ]
   },
   {
@@ -9454,6 +9566,13 @@
   },
   {
     "source": "Special Talent 3 Talents",
+    "name": "Toilet Paper Postage",
+    "bonuses": [
+      "Stamps giving Skill Efficiency will give x higher bonuses."
+    ]
+  },
+  {
+    "source": "Special Talent 3 Talents",
     "name": "Filthy Damage",
     "bonuses": [
       "+% damage for every power of 10 Garbage you have"
@@ -9506,6 +9625,13 @@
     "name": "Dreamer Damage",
     "bonuses": [
       "+% Damage per Equinox Dream cloud completed"
+    ]
+  },
+  {
+    "source": "Special Talent 4 Talents",
+    "name": "Bored To Death",
+    "bonuses": [
+      "Reduces the Respawn Timer to  sec. This will boost AFK Survival Percent!"
     ]
   },
   {
@@ -11388,7 +11514,7 @@
     "source": "Gem Shop",
     "name": "2 Hour Lantern",
     "bonuses": [
-      "40% OFF SALE! Gives you a Lantern usable item, use it to instantly get 2 hours of ALL Cavern progress! And yes, this includes and 2 hours of Villager EXP gain!"
+      "Gives you a Lantern usable item, use it to instantly get 2 hours of ALL cavern progress!! (Except for skilling caverns, like Motherlode) This item restocks each day."
     ]
   },
   {
@@ -11470,7 +11596,7 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Honk Chat Ring",
+    "name": "Honk Ring",
     "bonuses": [
       ""
     ]
@@ -11694,37 +11820,51 @@
   },
   {
     "source": "Gem Shop",
-    "name": "Elemental Sorcerer Hat",
+    "name": "Emerald Bling Pendant",
     "bonuses": [
-      "You can't be a real sorcerer without a big wizard hat! Comes with a +5% All Stats bonus, so your STR AGI WIS LUK will be in good hands!"
+      "Whoever wears this pendant will get 3.00X more money from monsters! Max out that Upgrade Vault in... well, not no time, but in slightly less time!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Crescent Moon Pendant",
+    "name": "Giant Violet Cape",
     "bonuses": [
-      "This necklace equipment comes with +35% Class EXP bonus, +5% Mob Respawn bonus, +3 Weapon Power, and +10 all stat!"
+      "Put this cape on, and you'll get 10% ALL STAT, 4 Weapon Power, and 10 Defence! Purple flower best flower!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Siege Captain Hat",
+    "name": "Giant Starflower Cape",
     "bonuses": [
-      "Arr, ye can't consider yerself a REAL pirate without wearin' a hat like this! Comes with a +10% Drop rate bonus!"
+      "Put this cape on, and you'll get +13% AFK GAINS, 6 Weapon Power, and 10 Defence! Don't listen to that purple noob flower, STARFLOWER BEST FLOWER!"
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Drop Rate Keychain",
+    "name": "72 Hour Candy Maybe",
     "bonuses": [
-      "This keychain comes with +25% Drop Rate bonus! Currently, the best possible Drop Rate keychain is 16%, so this is the best Drop Rate Keychain in the game yo!"
+      "READ THIS BEFORE YOU BUY. This purchase has a 15% chance for the coveted 72 hr candy, and a 85% chance to just be a lame 1 hour candy. Ok you can stop reading now."
     ]
   },
   {
     "source": "Gem Shop",
-    "name": "Cosmic Time Candy",
+    "name": "Elite Class Swap",
     "bonuses": [
-      "20% OFF SALE! A time candy that gives a random amount of time for a nonrandom cost of gems! @ These candies give up to 500 hours of AFK time, but on average give 24 hrs."
+      "Gives 1 Elite Class Swap token. Use this to swap between elite classes of a certain category, like Blood Berserker to Divine Knight"
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "5 Star Cardifier",
+    "bonuses": [
+      "Wait, how can this 5 star cardifier be here, when THAT 5 star cardifier is over THERE..? WAIT, WHY DOES THIS ONLY COST 1 GEM?? What has my shop become, how could I let this happen..."
+    ]
+  },
+  {
+    "source": "Gem Shop",
+    "name": "Super Tier Ribbon",
+    "bonuses": [
+      "Gives you a random ribbon for your Ribbon Shelf, found at the Meals Menu in World 4! 40% chance for Tier 10, 30% chance for Tier 11, 20% for Tier 12, 7% for Tier 13, and 3% for Tier 15!"
     ]
   },
   {
@@ -14893,6 +15033,13 @@
   },
   {
     "source": "Card",
+    "name": "Glunko The Massive",
+    "bonuses": [
+      "+ Weapon Power"
+    ]
+  },
+  {
+    "source": "Card",
     "name": "Baba Yaga",
     "bonuses": [
       "+% Money from Monsters"
@@ -15282,11 +15429,11 @@
   },
   {
     "source": "Armor",
-    "name": "Ice Cream Sunday",
+    "name": "Ice Cream Sundae",
     "bonuses": [
-      "WIS: 6",
-      "Defence: 5",
-      "10% Gold Food Effect"
+      "LUK: 10",
+      "Defence: 2",
+      "25% Money"
     ]
   },
   {
@@ -15725,6 +15872,19 @@
       "AGI: 1",
       "WIS: 1",
       "5% Xp From Monsters"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Epic Santa Hat",
+    "bonuses": [
+      "Weapon Power: 2",
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "LUK: 3",
+      "Defence: 15",
+      "10% Xp From Monsters"
     ]
   },
   {
@@ -16630,8 +16790,9 @@
     "source": "Armor",
     "name": "Orange Tee",
     "bonuses": [
-      "STR: 2",
+      "STR: 1",
       "AGI: 1",
+      "WIS: 1",
       "Defence: 3"
     ]
   },
@@ -16680,10 +16841,10 @@
     "source": "Armor",
     "name": "Blue Tee",
     "bonuses": [
-      "AGI: 3",
-      "WIS: 4",
-      "Defence: 4",
-      "2% Xp From Monsters"
+      "AGI: 5",
+      "WIS: 5",
+      "Defence: 7",
+      "15% Xp From Monsters"
     ]
   },
   {
@@ -16762,20 +16923,20 @@
     "source": "Armor",
     "name": "Copper Platebody",
     "bonuses": [
-      "STR: 2",
-      "AGI: 2",
-      "WIS: 2",
-      "Defence: 7"
+      "STR: 3",
+      "AGI: 3",
+      "WIS: 3",
+      "Defence: 10"
     ]
   },
   {
     "source": "Armor",
     "name": "Iron Platebody",
     "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "Defence: 12",
+      "STR: 4",
+      "AGI: 4",
+      "WIS: 4",
+      "Defence: 16",
       "50"
     ]
   },
@@ -16786,17 +16947,18 @@
       "STR: 5",
       "AGI: 5",
       "WIS: 5",
-      "Defence: 18"
+      "Defence: 20"
     ]
   },
   {
     "source": "Armor",
     "name": "Amarok Bodyplate",
     "bonuses": [
-      "STR: 3",
-      "AGI: 3",
-      "WIS: 3",
-      "Defence: 22"
+      "Weapon Power: 3",
+      "STR: 7",
+      "AGI: 7",
+      "WIS: 7",
+      "Defence: 25"
     ]
   },
   {
@@ -16806,7 +16968,7 @@
       "STR: 8",
       "AGI: 8",
       "WIS: 8",
-      "Defence: 25"
+      "Defence: 30"
     ]
   },
   {
@@ -16815,7 +16977,7 @@
     "bonuses": [
       "STR: 10",
       "WIS: 4",
-      "Defence: 22",
+      "Defence: 25",
       "10% Fishin Efficincy"
     ]
   },
@@ -16825,7 +16987,7 @@
     "bonuses": [
       "STR: 2",
       "AGI: 12",
-      "Defence: 18",
+      "Defence: 19",
       "10% Catch Efficincy"
     ]
   },
@@ -16835,8 +16997,8 @@
     "bonuses": [
       "AGI: 1",
       "WIS: 13",
-      "Defence: 14",
-      "10% Chop Efficiency"
+      "Defence: 15",
+      "20% Chop Efficiency"
     ]
   },
   {
@@ -16846,7 +17008,7 @@
       "STR: 10",
       "AGI: 10",
       "WIS: 10",
-      "Defence: 35"
+      "Defence: 40"
     ]
   },
   {
@@ -16856,7 +17018,7 @@
       "STR: 5",
       "AGI: 5",
       "WIS: 5",
-      "Defence: 30",
+      "Defence: 50",
       "4% Mastery"
     ]
   },
@@ -16867,7 +17029,7 @@
       "STR: 13",
       "AGI: 13",
       "WIS: 13",
-      "Defence: 45"
+      "Defence: 55"
     ]
   },
   {
@@ -16885,7 +17047,7 @@
     "bonuses": [
       "STR: 17",
       "WIS: 5",
-      "Defence: 52"
+      "Defence: 60"
     ]
   },
   {
@@ -16894,7 +17056,7 @@
     "bonuses": [
       "STR: 4",
       "AGI: 19",
-      "Defence: 49"
+      "Defence: 53"
     ]
   },
   {
@@ -16913,7 +17075,7 @@
       "STR: 15",
       "AGI: 15",
       "WIS: 15",
-      "Defence: 55",
+      "Defence: 70",
       "7% Mastery",
       "3% Total Damage"
     ]
@@ -16926,7 +17088,7 @@
       "AGI: 16",
       "WIS: 16",
       "LUK: 16",
-      "Defence: 60",
+      "Defence: 80",
       "6% Defence"
     ]
   },
@@ -16938,7 +17100,7 @@
       "AGI: 20",
       "WIS: 20",
       "LUK: 20",
-      "Defence: 75",
+      "Defence: 90",
       "11% Defence"
     ]
   },
@@ -16951,7 +17113,7 @@
       "AGI: 24",
       "WIS: 24",
       "LUK: 24",
-      "Defence: 80",
+      "Defence: 100",
       "3% All Stats"
     ]
   },
@@ -16964,7 +17126,7 @@
       "AGI: 30",
       "WIS: 30",
       "LUK: 30",
-      "Defence: 100",
+      "Defence: 115",
       "4% All Stats",
       "4% Total Damage"
     ]
@@ -16978,7 +17140,7 @@
       "AGI: 40",
       "WIS: 40",
       "LUK: 40",
-      "Defence: 120",
+      "Defence: 135",
       "8% Mob Respawn",
       "6% Total Damage"
     ]
@@ -16992,7 +17154,7 @@
       "AGI: 45",
       "WIS: 45",
       "LUK: 45",
-      "Defence: 150",
+      "Defence: 170",
       "8% All Stats",
       "26% Money"
     ]
@@ -17460,11 +17622,11 @@
     "source": "Armor",
     "name": "Goo Galoshes",
     "bonuses": [
-      "STR: 1",
-      "AGI: 1",
-      "WIS: 1",
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
       "LUK: 2",
-      "5% Money"
+      "15% Money"
     ]
   },
   {
@@ -17895,7 +18057,9 @@
     "name": "Chaotic Amarok Pendant",
     "bonuses": [
       "Weapon Power: 2",
-      "WIS: 12"
+      "WIS: 12",
+      "20% Total Damage",
+      "5% Drop Chance"
     ]
   },
   {
@@ -17964,7 +18128,7 @@
     "name": "Chizoars Blankie",
     "bonuses": [
       "Weapon Power: 5",
-      "15% Total Damage",
+      "27% Total Damage",
       "3% Mob Respawn"
     ]
   },
@@ -17972,8 +18136,8 @@
     "source": "Armor",
     "name": "Chizoars Caustic Scarf",
     "bonuses": [
-      "Weapon Power: 7",
-      "20% Total Damage",
+      "Weapon Power: 8",
+      "40% Total Damage",
       "5% Mob Respawn"
     ]
   },
@@ -18043,6 +18207,29 @@
       "Weapon Power: 5",
       "30% Damage Multi",
       "20% Mob Respawn"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Slimy Necklace",
+    "bonuses": [
+      "Weapon Power: 1",
+      "STR: 2",
+      "AGI: 2",
+      "WIS: 2",
+      "Defence: 1",
+      "15% Total Damage"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Emerald Bling Pendant",
+    "bonuses": [
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "200% Bonus Money"
     ]
   },
   {
@@ -20789,6 +20976,47 @@
     ]
   },
   {
+    "source": "Armor",
+    "name": "Pyromancer Robes",
+    "bonuses": [
+      "Weapon Power: 999",
+      "STR: 1200",
+      "AGI: 1200",
+      "WIS: 1200",
+      "LUK: 1200",
+      "Defence: 3",
+      "163Frames"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Cobalt Robe",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 10",
+      "AGI: 10",
+      "WIS: 10",
+      "LUK: 10",
+      "Defence: 30",
+      "100% Damage Bonus",
+      "60% Drop Chance"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Abyssal Robe",
+    "bonuses": [
+      "Weapon Power: 10",
+      "STR: 7",
+      "AGI: 7",
+      "WIS: 7",
+      "LUK: 7",
+      "Defence: 40",
+      "60% All Afk Gain",
+      "50% Damage Bonus"
+    ]
+  },
+  {
     "source": "Name Tag",
     "name": "Riftwalker Nametag",
     "bonuses": [
@@ -20932,6 +21160,43 @@
       "WIS: 10",
       "LUK: 10",
       "40% Damage Multi"
+    ]
+  },
+  {
+    "source": "Name Tag",
+    "name": "Snowflake Nametag",
+    "bonuses": [
+      "Weapon Power: 2",
+      "Defence: 5",
+      "3% All Afk Gain",
+      "3% Damage Multi"
+    ]
+  },
+  {
+    "source": "Name Tag",
+    "name": "Frostyman Nametag",
+    "bonuses": [
+      "Weapon Power: 5",
+      "STR: 6",
+      "AGI: 6",
+      "WIS: 6",
+      "LUK: 6",
+      "Defence: 25",
+      "25% All Afk Gain",
+      "15% Damage Multi"
+    ]
+  },
+  {
+    "source": "Name Tag",
+    "name": "Lovely Day Nametag",
+    "bonuses": [
+      "Weapon Power: 10",
+      "STR: 8",
+      "AGI: 8",
+      "WIS: 8",
+      "Defence: 25",
+      "60% Damage Bonus",
+      "200% Money"
     ]
   },
   {
@@ -22356,84 +22621,84 @@
     "source": "Food",
     "name": "Small Strength Potion",
     "bonuses": [
-      "Increases Base Dmg by 10. 15% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base Dmg by 50. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Average Strength Potion",
     "bonuses": [
-      "Increases Base Dmg by 30. 13% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base Dmg by 150. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Decent Strength Potion",
     "bonuses": [
-      "Increases Base Dmg by 100. 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base Dmg by 400. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Potent Strength Potion",
     "bonuses": [
-      "Increases Base Dmg by 250. 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base Dmg by 1000. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Small Life Potion",
     "bonuses": [
-      "Increases Base HP by 30. 5% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base HP by 75. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Average Life Potion",
     "bonuses": [
-      "Increases Base HP by 120. 4% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base HP by 200. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Decent Life Potion",
     "bonuses": [
-      "Increases Base HP by 250. 3% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base HP by 400. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Potent Life Potion",
     "bonuses": [
-      "Increases Base HP by 700. 2% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Base HP by 800. 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Small Speed Potion",
     "bonuses": [
-      "Increases Move Spd by 5%. 15% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Move Spd by 10%. 1% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Average Speed Potion",
     "bonuses": [
-      "Increases Move Spd by 10%. 13% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Move Spd by 15%. 1% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Decent Speed Potion",
     "bonuses": [
-      "Increases Move Spd by 15%. 10% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Move Spd by 17%. 1% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Potent Speed Potion",
     "bonuses": [
-      "Increases Move Spd by 20%. 7% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Move Spd by 20%. 1% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
@@ -22447,63 +22712,63 @@
     "source": "Food",
     "name": "Small Mana Potion",
     "bonuses": [
-      "Boosts Mana Regen Rate by 10% 40% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
+      "Boosts Mana Regen Rate by 20% 2% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Average Mana Potion",
     "bonuses": [
-      "Boosts Mana Regen Rate by 17% 35% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
+      "Boosts Mana Regen Rate by 30% 2% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Decent Mana Potion",
     "bonuses": [
-      "Boosts Mana Regen Rate by 25% 30% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
+      "Boosts Mana Regen Rate by 40% 1% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Potent Mana Potion",
     "bonuses": [
-      "Boosts Mana Regen Rate by 40% 30% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
+      "Boosts Mana Regen Rate by 50% 1% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Small EXP Potion",
     "bonuses": [
-      "Increases Exp Gain by 5% 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Exp Gain by 30% 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Average EXP Potion",
     "bonuses": [
-      "Increases Exp Gain by 10% 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Exp Gain by 45% 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Decent EXP Potion",
     "bonuses": [
-      "Increases Exp Gain by 15% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Exp Gain by 60% 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Potent EXP Potion",
     "bonuses": [
-      "Increases Exp Gain by 20% 3% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Exp Gain by 75% 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
     "source": "Food",
     "name": "Quotient EXP Potion",
     "bonuses": [
-      "Increases Exp Gain by 25% 2% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
+      "Increases Exp Gain by 90% 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus. "
     ]
   },
   {
@@ -23443,6 +23708,26 @@
     ]
   },
   {
+    "source": "Armor",
+    "name": "Deathbringer Hood of Death",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "25% Extra Bones"
+    ]
+  },
+  {
+    "source": "Armor",
+    "name": "Pink Beanie",
+    "bonuses": [
+      "STR: 1",
+      "AGI: 1",
+      "WIS: 1",
+      "5% Xp From Monsters"
+    ]
+  },
+  {
     "source": "Statue",
     "name": "Power",
     "bonuses": [
@@ -23965,6 +24250,20 @@
     "name": "Bonus 37",
     "bonuses": [
       "+% Divinity EXP"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 38",
+    "bonuses": [
+      "+% Villager XP multi"
+    ]
+  },
+  {
+    "source": "Arcade Bonus",
+    "name": "Bonus 39",
+    "bonuses": [
+      "+% Gold Ball Gain"
     ]
   },
   {
