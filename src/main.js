@@ -35,6 +35,11 @@ runParser(parseDivinityStyleRepo, exportedPath + "repo/Worlds/5/DivinityStyleRep
 runParser(parseGamingSuperbitsRepo, exportedPath + "repo/Worlds/5/GamingSuperBitsRepo.json")
 runParser(parseGamingUpgraderepo, exportedPath + "repo/Worlds/5/GamingUpgradeRepo.json")
 runParser(parseGodInfoRepo, exportedPath + "repo/Worlds/5/GodInfoRepo.json")
+runParser(parseAmplifierStoneRepo, exportedPath + "repo/Worlds/5/Hole/AmplifierStoneRepo.json")
+runParser(parseCosmoUpgradeRepo, exportedPath + "repo/Worlds/5/Hole/CosmoUpgradeRepo.json")
+runParser(parseHoleBuildingRepo, exportedPath + "repo/Worlds/5/Hole/HoleBuildingRepo.json")
+runParser(parseLampWishRepo, exportedPath + "repo/Worlds/5/Hole/LampWishRepo.json")
+
 
 runParser(parseJadeUpgradeRepo, exportedPath + "repo/Worlds/6/JadeUpgradeRepo.json")
 runParser(parseMarketInfoRepo, exportedPath + "repo/Worlds/6/MarketInfoRepo.json")
@@ -695,6 +700,46 @@ function parseGodInfoRepo(keyValue){
         source: "Divinity God",
         name: key,
         bonuses: [body.majorBonus, body.passiveBonus, body.blessingBonus]
+    })
+}
+
+function parseAmplifierStoneRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "(Hole) Amplifier Stone",
+        name: key,
+        bonuses: [body.desc]
+    })
+}
+
+function parseCosmoUpgradeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "(Hole) Cosmo Upgrade",
+        name: key,
+        bonuses: [body.desc]
+    })
+}
+
+function parseHoleBuildingRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "(Hole) Building",
+        name: key,
+        bonuses: [body.desc]
+    })
+}
+
+function parseLampWishRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "(Hole) Lamp Wish",
+        name: key,
+        bonuses: [body.desc]
     })
 }
 
