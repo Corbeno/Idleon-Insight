@@ -61,7 +61,7 @@ runParser(parseCardSetRepo, exportedPath + "repo/Misc/CardSetRepo.json");
 runParser(parseSkullShopRepo, exportedPath + "repo/Misc/SkullShopRepo.json");
 runParser(parseDreamChallengeRepo, exportedPath + "repo/Misc/Equinox/DreamChallengeRepo.json");
 runParser(parseDreamUpgradeRepo, exportedPath + "repo/Misc/Equinox/DreamUpgradeRepo.json");
-
+runParser(parseGrimoireUpgradeRepo, exportedPath + "repo/Misc/GrimoireUpgradeRepo.json");
 
 // repo/Item/* 
 runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
@@ -357,6 +357,16 @@ function parseDreamUpgradeRepo(keyValue){
         source: "Equinox Dream Upgrade",
         name: body.name,
         bonuses: [body.upgrade],
+    });
+}
+
+function parseGrimoireUpgradeRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Grimoire",
+        name: key,
+        bonuses: [body.description],
     });
 }
 
@@ -727,7 +737,7 @@ function parseHoleBuildingRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "(Hole) Building",
+        source: "(Hole) Engineering",
         name: key,
         bonuses: [body.desc]
     })
