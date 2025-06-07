@@ -79,6 +79,7 @@ runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json
 // repo/Misc
 runParser(parseCompanionRepo, exportedPath + "repo/Misc/CompanionRepo.json");
 runParser(parseWeeklyActionRepo, exportedPath + "repo/Misc/WeeklyTask/WeeklyActionRepo.json")
+runParser(parseUpgradeVaultRepo, exportedPath + "repo/Misc/UpgradeVaultRepo.json")
 
 // ------------------------------- Add Manual ----------------------------
 runParser(function(keyValue){
@@ -426,6 +427,16 @@ function parseWeeklyActionRepo(keyValue){
             bonuses: [body.desc],
         })
     }
+}
+
+function parseUpgradeVaultRepo(keyValue){
+    let key = keyValue[0];
+    let body = keyValue[1];
+    output.push({
+        source: "Upgrade Vault",
+        name: body.name,
+        bonuses: [body.description_line1 + " " + (body.description_line2 === "" ? "" : body.description_line2)],
+    });
 }
 
 function parseSpecificItemRepo(keyValue){
