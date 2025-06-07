@@ -728,7 +728,7 @@ function parseAmplifierStoneRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "(Hole) Amplifier Stone",
+        source: "Hole - Amplifier Stone",
         name: key,
         bonuses: [body.desc]
     })
@@ -738,7 +738,7 @@ function parseCosmoUpgradeRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "(Hole) Cosmo Upgrade",
+        source: "Hole - Cosmo Upgrade",
         name: key,
         bonuses: [body.desc]
     })
@@ -748,7 +748,7 @@ function parseHoleBuildingRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "(Hole) Engineering",
+        source: "Hole - Engineering",
         name: key,
         bonuses: [body.desc]
     })
@@ -758,7 +758,7 @@ function parseLampWishRepo(keyValue){
     let key = keyValue[0];
     let body = keyValue[1];
     output.push({
-        source: "(Hole) Lamp Wish",
+        source: "Hole - Lamp Wish",
         name: key,
         bonuses: [body.desc]
     })
