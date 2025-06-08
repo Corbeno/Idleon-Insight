@@ -558,5 +558,110 @@
         "bonuses": [
             "+% drop rate"
         ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "The Well",
+        "bonuses": [
+            "You only lose 25% sediment when bar expanding instead of 50% Also, +(10 per lvl)% Bucket Fill Rate per Bar Expansion"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Motherlode",
+        "bonuses": [
+            "Every layer destroyed lowers the resources needed to destroy other skilling caverns by (2 per lvl)%"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "The Den",
+        "bonuses": [
+            "Defeating the Golden Hound gives a (5 per lvl)x score multi and spawns another Golden Hound!"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Bravery",
+        "bonuses": [
+            "Minimum DMG is at least (3 per lvl)% of Max, and you now skip trivial fights! starts at 12% and caps at 32%(lvl 7)"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "The Bell",
+        "bonuses": [
+            "Every 20th Bell Ring gives a random bonus +(20 per lvl) LVs. Biiig Ring baby!"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "The Harp",
+        "bonuses": [
+            "All strings give 2x EXP, and have a 1% chance of getting a massive (100 per lvl)x EXP multi"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "The Lamp",
+        "bonuses": [
+            "Get (1 per lvl) more lamp wishes every day. No, you can't wish to change this!"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "The Hive",
+        "bonuses": [
+            "Every hive harvested lowers the resources needed to destroy other skilling caverns by {%"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Grotto",
+        "bonuses": [
+            "Each Gloomie kill counts for }x more toward challenging the Monarch"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Justice",
+        "bonuses": [
+            "Justice Reward Multi goes up 100% every day for +14 more days! Also, (1 per lvl)x chance for opal reward!"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "The Jars",
+        "bonuses": [
+            "Double click to choose a collectible to be most likely enchanted! Also, (0.25 per lvl)x Enchantment Chance!"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Evertree",
+        "bonuses": [
+            "Every trunk whittled lowers the resources needed to destroy other skilling caverns by (5 per lvl)%"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Wisdom",
+        "bonuses": [
+            "If you end a round with no instamatches, you get one! Also, start with (1 per lvl) more attempts!"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Gambit",
+        "bonuses": [
+            "+(5 per lvl)% Total Gambit Points. Also, 50% chance to not use up your daily Gambit attempt when starting a Gambit!"
+        ]
+    },
+    {
+        "source": "Hole - Studies",
+        "name": "Temple",
+        "bonuses": [
+            "There is an extra +(30 per lvl)% chance to get double torches when picking them up!"
+        ]
     }
 ]
