@@ -446,5 +446,117 @@
             "Lv 1500: +100 Max Lv For All Shrines",
             "Lv 2500: +30 Max Lv For All Wizard Towers"
         ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Opal",
+        "bonuses": [
+            "+% Villager EXP Gain"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 1",
+        "bonuses": [
+            "+% Bravery Sword Max Dmg"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 2",
+        "bonuses": [
+            "+% Bell Ring & Ping Rate"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 3",
+        "bonuses": [
+            "+% Harp Note Gain"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 4",
+        "bonuses": [
+            "+% Daily Lamp Wishes"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 5",
+        "bonuses": [
+            "+% Bucket Fill Rate"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 6",
+        "bonuses": [
+            "+% Harp String Exp"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 7",
+        "bonuses": [
+            "+% Villager EXP Gain"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 8",
+        "bonuses": [
+            "+% Harp Note Gain"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 9",
+        "bonuses": [
+            "+% Multikill Per Tier"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 10",
+        "bonuses": [
+            "+% rupie value"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 11",
+        "bonuses": [
+            "+% Monument AFK Gains"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 12",
+        "bonuses": [
+            "+% jar produce spd"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 13",
+        "bonuses": [
+            "+% gambit points"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 14",
+        "bonuses": [
+            "+% rupie value"
+        ]
+    },
+    {
+        "source": "Hole - Measurement",
+        "name": "Measure 15",
+        "bonuses": [
+            "+% drop rate"
+        ]
     }
 ]
