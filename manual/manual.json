@@ -796,5 +796,75 @@
         "bonuses": [
             "x Bravery Bonuses Multi"
         ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Ring",
+        "bonuses": [
+            "Ring the bell to get +1 LV of a random bonus: +10% Bucket Fill Rate, +10% Harp Note Gains, +0.5% Extra Rupie Chance, +0.5% All Villager EXP, +0.3% Daily Lamp Wished, +2% Double Torch Chance"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Ping",
+        "bonuses": [
+            "Ping the bell to find an Opal instantly!"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Clean",
+        "bonuses": [
+            "Clean the bell for a % chance to unlock a new improvement method!"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Renew",
+        "bonuses": [
+            "Renew the bell to reset all bonuses... but you keep improvement methods and opals!"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Ring Rate (Coins)",
+        "bonuses": [
+            "+% Bell Ring/hr"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Clean Rate (Mythril)",
+        "bonuses": [
+            "+% Bell Clean/hr"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Ring Rate (Bits)",
+        "bonuses": [
+            "+% Bell Ring/hr"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Ping Rate (Eighth Note)",
+        "bonuses": [
+            "+% Bell Ping/hr"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Ring Rate (Atoms)",
+        "bonuses": [
+            "+% Bell Ring/hr"
+        ]
+    },
+    {
+        "source": "Hole - Bell",
+        "name": "Ring Rate (Turquoise Rupie)",
+        "bonuses": [
+            "+% Bell Ring/hr"
+        ]
     }
 ]
