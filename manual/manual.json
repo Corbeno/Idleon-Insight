@@ -915,5 +915,82 @@
         "bonuses": [
             "N/A"
         ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 1",
+        "bonuses": [
+            "+1 Opal"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 2",
+        "bonuses": [
+            "+% Catching Efficiency"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 3",
+        "bonuses": [
+            "x Harp Note Gain"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 4",
+        "bonuses": [
+            "x Artifact Find Chance"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 5",
+        "bonuses": [
+            "+% EXP Gain for Villagers"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 6",
+        "bonuses": [
+            "x All Summoning Essence Gain"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 7",
+        "bonuses": [
+            "+% Chance for Justice Opals"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 8",
+        "bonuses": [
+            "+% Class EXP Gain"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 9",
+        "bonuses": [
+            "+% More daily Lamp Wishes"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 10",
+        "bonuses": [
+            "+% All Monument AFK Gain"
+        ]
+    },
+    {
+        "source": "Hole - Justice",
+        "name": "Justice Reward 11",
+        "bonuses": [
+            "x Justice Bonuses Multi"
+        ]
     }
 ]
