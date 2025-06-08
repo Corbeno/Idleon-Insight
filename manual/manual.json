@@ -2,8 +2,7 @@
     {
         "source": "example",
         "name": "example",
-        "bonuses": ["bonus1", "bonus2"],
-        "worksInGame": true
+        "bonuses": ["bonus1", "bonus2"]
     },
     {
         "source": "Main Stat",
@@ -16,8 +15,7 @@
             "Mining Efficiency",
             "Fishing Efficiency",
             "Construction build speed"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Main Stat",
@@ -30,8 +28,7 @@
             "Catchin Efficiency",
             "Smithing production speed",
             "Trapping Effiency"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Main Stat",
@@ -43,8 +40,7 @@
             "Boss damage",
             "Choppin Efficiency",
             "Alchemy brew speed"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Main Stat",
@@ -53,224 +49,196 @@
             "Damage & Accuracy for Beginner-based Classes",
             "item drop rates",
             "Class xp gain rates"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Warrior",
         "bonuses": [
             "+ Total Strength"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Archer",
         "bonuses": [
             "+ Total Agility"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Mage",
         "bonuses": [
             "+ Total Wisdom"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Journeyman",
         "bonuses": [
             "+ Total Luck"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Barbarian",
         "bonuses": [
             "+ Weapon Power"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Squire",
         "bonuses": [
             "+% Total HP"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Bowman",
         "bonuses": [
             "+% EXP when fighting monsters actively"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Hunter",
         "bonuses": [
             "+% Efficiency for all skills"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Wizard",
         "bonuses": [
             "+ Star Talent Points"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Shaman",
         "bonuses": [
             "Higher Bonuses from Golden Foods"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Maestro",
         "bonuses": [
             "+ 3D Printer Sample Size"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Blood Berserker",
         "bonuses": [
             "+% Total Damage"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Divine Knight",
         "bonuses": [
             "+% Refinery Speed"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Siege Breaker",
         "bonuses": [
             "+% Faster Minimum Boat Travel Time"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Beast Master",
         "bonuses": [
             "+% All Skill AFK Gains"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Elemental Sorcerer",
         "bonuses": [
             "+Lv For All Talents Above Lv 1"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Bubonic Conjuror",
         "bonuses": [
             "+% All Stat. STR, AGI, WIS, LUK"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Family Bonus",
         "name": "Voidwalker",
         "bonuses": [
             "+% Fighting AFK Gains"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 6 Unlock",
         "bonuses": [
             "Trap Box Vacuum: The trapper drone in World 3 will automatically collect traps every 24 hours, and will deposit the critters into your Storage Chest if there is space. The EXP from the Traps goes to the one who placed the traps."
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 11 Unlock",
         "bonuses": [
             "Infinite Stars: Permanently transforms Star Signs into Infinite Star Signs, which always give their bonus AND don't give the negatives. Infinite Star Signs are indicated by a little infinity icon, and are transformed in a specific order, so you don't get to choose. Get more from Shiny Pets in Breeding..."
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 16 Unlock",
         "bonuses": [
             "Skill Mastery: No in game description. Gain various account wide bonuses based on each skill's total skill level across all players. Bonuses can be seen by going into the rift map and pressing the bonus."
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 21 Unlock",
         "bonuses": [
             "Eclipse Skulls: You can now get Eclipse Skulls in Deathnote, unlocked at 1,000,000,000 kills. Eclipse Skulls are worth 20 points, and you also get +5% Multiplicative Damage."
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 26 Unlock",
         "bonuses": [
             "Stamp Mastery: Every 100 total levels of all your stamps, you get a 1% chance to get a 'Gilded Stamp' 95% Reduction in Stamp Upgrade costs. This chance happens every day you log in, and they stack for whenever you want to use them!"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 31 Unlock",
         "bonuses": [
             "Eldritch Artifact: You can now get Eldritch Artifacts from sailing, but only if you've found the Ancient form first."
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 36 Unlock",
         "bonuses": [
             "Vial Mastery: Each Gold Crown Vial you have, which is the 13th and final vial you upgrade to for 1 Billion Resource, now gives you a 1.02x boost to ALL Vial Bonuses!"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 41 Unlock",
         "bonuses": [
             "Construct Mastery: No in game description. Total construction levels across buildings grant bonuses. Bonuses can be seen by going into the rift map and pressing the bonus."
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Rift",
         "name": "Round 46 Unlock",
         "bonuses": [
             "Ruby Cards: You can now level up your cards to Lv 6. Yea, you'd think it would be Lv 5 but remember, 0 stars is actually Lv 1. So yea, Ruby Cards are 5 star cards, which means they are technically lv 6!"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -283,8 +251,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -297,8 +264,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -311,8 +277,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -325,8 +290,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -339,8 +303,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -353,8 +316,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -367,8 +329,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -381,8 +342,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -395,8 +355,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -409,8 +368,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -423,8 +381,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -437,8 +394,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -463,8 +419,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Skill Mastery",
@@ -477,8 +432,7 @@
             "Lv 500: +5% All Skill Efficiency",
             "Lv 750: +1% Printer Output",
             "Lv 1000: +25% All Skill Exp"
-        ],
-        "worksInGame": true
+        ]
     },
     {
         "source": "Construct Mastery",
@@ -491,7 +445,6 @@
             "Lv 1250: +5% Build Spd Per 10 Tot Lv Over 1250",
             "Lv 1500: +100 Max Lv For All Shrines",
             "Lv 2500: +30 Max Lv For All Wizard Towers"
-        ],
-        "worksInGame": true
+        ]
     }
 ]
