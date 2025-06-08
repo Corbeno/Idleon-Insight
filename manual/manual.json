@@ -1398,5 +1398,278 @@
         "bonuses": [
             "Boosts a future cavern... futuuure..!"
         ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "1 Hour",
+        "bonuses": [
+            "Start with X Attempts"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "80 Hours",
+        "bonuses": [
+            "Get +2 Attempts per Board Clear"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "300 Hours",
+        "bonuses": [
+            "1st Attempt each Board reveals row"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "750 Hours",
+        "bonuses": [
+            "Start with 4 Insta Matches per story"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "2000 Hours",
+        "bonuses": [
+            "+4 additional Starting Attempts"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "5000 Hours",
+        "bonuses": [
+            "4th Attempt each Board reveals square"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "10000 Hours",
+        "bonuses": [
+            "Get +1 Attempts per Board Clear"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom Unlocks",
+        "name": "24000 Hours",
+        "bonuses": [
+            "+5 additional Insta Matches"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 1",
+        "bonuses": [
+            "+1 Opal"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 2",
+        "bonuses": [
+            "+% Choppin Efficiency"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 3",
+        "bonuses": [
+            "x Jar Rupie Value"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 4",
+        "bonuses": [
+            "x Jade Coin Gain"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 5",
+        "bonuses": [
+            "+% EXP Gain for Villagers"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 6",
+        "bonuses": [
+            "x Farming Crop Evo Chance"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 7",
+        "bonuses": [
+            "+% Chance for Wisdom Opals"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 8",
+        "bonuses": [
+            "+% Player Drop Rate"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 9",
+        "bonuses": [
+            "+% Gambit Points"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 10",
+        "bonuses": [
+            "+% All Monument AFK Gain"
+        ]
+    },
+    {
+        "source": "Hole - Wisdom",
+        "name": "Wisdom Reward 11",
+        "bonuses": [
+            "x Wisdom Bonuses Multi"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "3,000 Points",
+        "bonuses": [
+            "X Summoning Doublers"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "5,024 Points",
+        "bonuses": [
+            "1 Opal per pow 10 points"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "8,668 Points",
+        "bonuses": [
+            "+20% Flurbos per party member"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "14,802 Points",
+        "bonuses": [
+            "+% Resources from caverns"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "24,684 Points",
+        "bonuses": [
+            "+20% Upgrade stone success"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "40,110 Points",
+        "bonuses": [
+            "x Essence gain"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "63,623 Points",
+        "bonuses": [
+            "35% Chance for 2x ribbon combine"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "98,804 Points",
+        "bonuses": [
+            "x Coins from monsters"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "150.7 K Points",
+        "bonuses": [
+            "x Gains from clickers"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "226.1 K Points",
+        "bonuses": [
+            "+1 Trim slot and +100 wiz max lvl"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "334.8 K Points",
+        "bonuses": [
+            "2x Extra snail mail every day"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "490 K Points",
+        "bonuses": [
+            "x Ninja stealth"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "709.7 K Points",
+        "bonuses": [
+            "2x Extra bones on Deathbringer"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "1 M Points",
+        "bonuses": [
+            "2x Daily particle bubble upg"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "1.5 M Points",
+        "bonuses": [
+            "World 7 bonus... what will it be...?"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "2.1 M Points",
+        "bonuses": [
+            "World 7 bonus... what will it be...?"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "2.9 M Points",
+        "bonuses": [
+            "World 7 bonus... what will it be...?"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "4 M Points",
+        "bonuses": [
+            "World 7 bonus... what will it be...?"
+        ]
+    },
+    {
+        "source": "Hole - Gambit",
+        "name": "5.6 M Points",
+        "bonuses": [
+            "world 8 bonus... what will it be...?"
+        ]
+    },
+    {
+        "source": "Hole - Temple",
+        "name": "Killing the Centurion",
+        "bonuses": [
+            "+1 Opal"
+        ]
     }
 ]
