@@ -663,5 +663,138 @@
         "bonuses": [
             "There is an extra +(30 per lvl)% chance to get double torches when picking them up!"
         ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 1",
+        "bonuses": [
+            "Swords deal MinDmg-MaxDmg damage"
+        ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 2",
+        "bonuses": [
+            "+2 additional Sword"
+        ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 3",
+        "bonuses": [
+            "You can Re-Throw 5 swords per story"
+        ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 4",
+        "bonuses": [
+            "+1 additional Sword"
+        ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 5",
+        "bonuses": [
+            "You get 1 Retelling per story"
+        ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 6",
+        "bonuses": [
+            "+1 additional Sword"
+        ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 7",
+        "bonuses": [
+            "+10 Re-Throws per story"
+        ]
+    },
+    {
+        "source": "Hole - Monument Unlocks",
+        "name": "Unlock 8",
+        "bonuses": [
+            "+1 additional Sword"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 1",
+        "bonuses": [
+            "+1 Opal"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 2",
+        "bonuses": [
+            "+% Mining Efficiency"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 3",
+        "bonuses": [
+            "x Bucket Fill Rate"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 4",
+        "bonuses": [
+            "x Cooking Speed"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 5",
+        "bonuses": [
+            "+% EXP Gain for Villagers"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 6",
+        "bonuses": [
+            "x Gaming Bits Gain"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 7",
+        "bonuses": [
+            "+% Chance for Bravery Opals"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 8",
+        "bonuses": [
+            "+% DMG for all Characters"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 9",
+        "bonuses": [
+            "x Bell Ring & Ping Rate"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 10",
+        "bonuses": [
+            "+% All Monument AFK Gain"
+        ]
+    },
+    {
+        "source": "Hole - Monument Bonuses",
+        "name": "Bonus 11",
+        "bonuses": [
+            "x Bravery Bonuses Multi"
+        ]
     }
 ]
