@@ -26696,5 +26696,54 @@
     "bonuses": [
       "+% Bell Ring/hr"
     ]
+  },
+  {
+    "source": "Hole - Harp",
+    "name": "C String",
+    "bonuses": [
+      "+% Harp Note Gain"
+    ]
+  },
+  {
+    "source": "Hole - Harp",
+    "name": "D String",
+    "bonuses": [
+      "x Harp Note Gain"
+    ]
+  },
+  {
+    "source": "Hole - Harp",
+    "name": "E String",
+    "bonuses": [
+      "x Harp Power/hr"
+    ]
+  },
+  {
+    "source": "Hole - Harp",
+    "name": "F String",
+    "bonuses": [
+      "+% Harp Note Gain"
+    ]
+  },
+  {
+    "source": "Hole - Harp",
+    "name": "G String",
+    "bonuses": [
+      "+% String EXP Gain"
+    ]
+  },
+  {
+    "source": "Hole - Harp",
+    "name": "A String",
+    "bonuses": [
+      "+% Harp Note Gain"
+    ]
+  },
+  {
+    "source": "Hole - Harp",
+    "name": "B String",
+    "bonuses": [
+      "N/A"
+    ]
   }
 ]
