@@ -992,5 +992,355 @@
         "bonuses": [
             "x Justice Bonuses Multi"
         ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Simple Jar",
+        "bonuses": [
+            "Contains a random basic rupie"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Tall Jar",
+        "bonuses": [
+            "Has a % chance to contain an opal"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Ornate Jar",
+        "bonuses": [
+            "Has a % chance to contain a new collectible"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Great Jar",
+        "bonuses": [
+            "Contains a random decent rupie"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Enchanted Jar",
+        "bonuses": [
+            "Has a % chance to enchant a collectible, doubling its bonus"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Artisan Jar",
+        "bonuses": [
+            "Contains a white rupie"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Epic Jar",
+        "bonuses": [
+            "Contains a random elegant rupie"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Gilded Jar",
+        "bonuses": [
+            "Doubles the amount of rupies from the next jar opened"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Ceremony Jar",
+        "bonuses": [
+            "Contains a dark rupie"
+        ]
+    },
+    {
+        "source": "Hole - Jar",
+        "name": "Heirloom Jar",
+        "bonuses": [
+            "Contains the one and only master rupie"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Abnormal Rupie",
+        "bonuses": [
+            "Rupies found are worth +20% more."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Sapphire Droplet",
+        "bonuses": [
+            "Jar production rate is +10% faster."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Effervescent Diamond",
+        "bonuses": [
+            "1.20x higher chance to find Opals in Tall Jars."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Tortole Rock",
+        "bonuses": [
+            "All rupies found are worth a whopping 1.25x more!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Natural Pearl",
+        "bonuses": [
+            "All villagers gain +15% more EXP."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Amethyst Heartstone",
+        "bonuses": [
+            "All skilling caverns require 10% less Resources to get opals!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Amber Square",
+        "bonuses": [
+            "Rupies found are worth +25% more."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Verdant Thorns",
+        "bonuses": [
+            "1.25x higher chance to find new Collectibles."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Violent Violets",
+        "bonuses": [
+            "All buckets get 1.20x Bucket Fill Rate!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Blue Faberge Egg",
+        "bonuses": [
+            "1.15x higher chance to enchant a Collectible"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Shadow Prism",
+        "bonuses": [
+            "All villagers gain +20% more EXP."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Big Beef Rock",
+        "bonuses": [
+            "1.25x faster Bell Ring Rate!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Emerald Ore",
+        "bonuses": [
+            "All villagers gain +30% more EXP."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Dawn Prism",
+        "bonuses": [
+            "Rupies found are worth +30% more."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Swampstone",
+        "bonuses": [
+            "1.25x higher chance to find Opals in Tall Jars."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Frost Spirestone",
+        "bonuses": [
+            "Jar production rate is +12% faster."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Rosemerald",
+        "bonuses": [
+            "1.1x Faster study rate for villager Bolaia."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Blood Glass",
+        "bonuses": [
+            "All rupies found are worth a whopping 1.4x more!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Sunrise Diamond",
+        "bonuses": [
+            "1.25x higher chance to enchant a Collectible"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Minceraft Gem",
+        "bonuses": [
+            "+20% Monument AFK Gain rate."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Crimson Spade",
+        "bonuses": [
+            "The harp produces 1.2x more Notes!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Stained Glassdrop",
+        "bonuses": [
+            "Rupies found are worth +35% more."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Tabula Rasastone",
+        "bonuses": [
+            "All villagers gain +32% more EXP."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Deep Blue Square",
+        "bonuses": [
+            "+1% Gambit PTS"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Earthbound Geode",
+        "bonuses": [
+            "Jar production rate is +15% faster."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Inferno Droplet",
+        "bonuses": [
+            "1.4x higher chance to find new Collectibles."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Octogonal Gem",
+        "bonuses": [
+            "1.3x higher chance to enchant a Collectible"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Solarfang",
+        "bonuses": [
+            "1.32x higher chance to find Opals in Tall Jars."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Mystic Ore",
+        "bonuses": [
+            "All rupies found are worth a whopping 1.5x more!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Arcane Prism",
+        "bonuses": [
+            "All villagers gain +38% more EXP."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Murky Fabrege Egg",
+        "bonuses": [
+            "+1% Gambit PTS"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Corpore Rock",
+        "bonuses": [
+            "Boosts a future cavern... futuuure..!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Twilight Prism",
+        "bonuses": [
+            "Boosts a future cavern... futuuure..!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Tewball Orbstone",
+        "bonuses": [
+            "Rupies found are worth +40% more."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Mad Muscle Rock",
+        "bonuses": [
+            "1.4x higher chance to enchant a Collectible"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Sunroot Splinters",
+        "bonuses": [
+            "All villagers gain +40% more EXP."
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Twisted Rupie",
+        "bonuses": [
+            "1.75x faster Bell Ring Rate!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Overloaded Relic",
+        "bonuses": [
+            "Boosts a future cavern... futuuure..!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Sunburst Pearl",
+        "bonuses": [
+            "Boosts a future cavern... futuuure..!"
+        ]
+    },
+    {
+        "source": "Hole - Jar Collectibles",
+        "name": "Bloodfang Spires",
+        "bonuses": [
+            "Boosts a future cavern... futuuure..!"
+        ]
     }
 ]
