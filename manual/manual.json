@@ -1671,5 +1671,229 @@
         "bonuses": [
             "+1 Opal"
         ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Reinforced Science Pencil",
+        "bonuses": [
+            "+20% Total Damage per Crop"
+        ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Science Pen",
+        "bonuses": [
+            "1.02x Plant Evolution Chance in Gaming (Multiplicative) per Crop"
+        ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Science Marker",
+        "bonuses": [
+            "+8% Jade Coin Gain per Crop"
+        ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Science Featherpen",
+        "bonuses": [
+            "1.10x Cooking Speed (Multiplicative) per Crop"
+        ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Science Environmentally Sourced Pencil",
+        "bonuses": [
+            "+15% Cash from Mobs per crop"
+        ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Science Crayon",
+        "bonuses": [
+            "+7% Shiny Pet Lv Up Rate and Pet Breeding Rate per Crop"
+        ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Science Paintbrush",
+        "bonuses": [
+            "+0.1 Base Critter caught in Trapping per Crop"
+        ]
+    },
+    {
+        "source": "Farming - Scientist Blobulyte",
+        "name": "Science Highlighter",
+        "bonuses": [
+            "+1% Drop Rate per Crop after 100"
+        ]
+    },
+    {
+        "source": "The Tome",
+        "name": "Bonus 1",
+        "bonuses": [
+            "+% DMG"
+        ]
+    },
+    {
+        "source": "The Tome",
+        "name": "Bonus 2",
+        "bonuses": [
+            "+% Skill Eff"
+        ]
+    },
+    {
+        "source": "The Tome",
+        "name": "Bonus 3",
+        "bonuses": [
+            "+% Drop Rarity"
+        ]
+    },
+    {
+        "source": "The Tome",
+        "name": "Bonus 4",
+        "bonuses": [
+            "+% STR"
+        ]
+    },
+    {
+        "source": "The Tome",
+        "name": "Bonus 5",
+        "bonuses": [
+            "+% AGI"
+        ]
+    },
+    {
+        "source": "The Tome",
+        "name": "Bonus 6",
+        "bonuses": [
+            "+% WIS"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Copper Set",
+        "bonuses": [
+            "+60% Mining and Chopping Efficiency"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Iron Set",
+        "bonuses": [
+            "+25% Class EXP Gain"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Amarok Set",
+        "bonuses": [
+            "+40% Accuracy and Defence"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Gold Set",
+        "bonuses": [
+            "1.50x Coins Dropped by Monsters"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Platinum Set",
+        "bonuses": [
+            "+60% Fishing and Catching Efficiency"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Efaunt Set",
+        "bonuses": [
+            "+25% Drop Rate"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Dementia Set",
+        "bonuses": [
+            "+50% Critters and Souls gained"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Void Set",
+        "bonuses": [
+            "+10% AFK Gains"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Chizoar Set",
+        "bonuses": [
+            "+40% All Skill EXP Gain"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Lustre Set",
+        "bonuses": [
+            "+75% Total Damage"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Diabolical Set",
+        "bonuses": [
+            "+20% Faster Monster Respawning"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Troll Set",
+        "bonuses": [
+            "1.25x Higher Bonuses from Tome"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Magma Set",
+        "bonuses": [
+            "+100% Lab and Divinity EXP Gain"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Kattlekruk Set",
+        "bonuses": [
+            "+5 LV for all Talents"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Marbiglass Set",
+        "bonuses": [
+            "+10% All Stat"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Godshard Set",
+        "bonuses": [
+            "1.15x Higher Winners Bonuses from Summoning"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Emperor Set",
+        "bonuses": [
+            "Ribbons and Exalted Stamps give 1.20x more multi"
+        ]
+    },
+    {
+        "source": "Armor Set",
+        "name": "Secret Set",
+        "bonuses": [
+            "1.25x Gold Food effect"
+        ]
     }
 ]

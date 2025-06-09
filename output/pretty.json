@@ -14801,6 +14801,538 @@
     ]
   },
   {
+    "source": "Pet Companion",
+    "name": "King Doot",
+    "bonuses": [
+      "All Divinities from World 5 count as Active"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Rift Slug",
+    "bonuses": [
+      "+25 Lv for all Talents"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Dedotated Ram",
+    "bonuses": [
+      "You can use Storage Chest anywhere in Quickref"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Crystal Custard",
+    "bonuses": [
+      "100% Drop Rate and Exp from monsters"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Sheepie",
+    "bonuses": [
+      "All big bubbles in Alchemy count as equipped"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Molti",
+    "bonuses": [
+      "5% All Skill Efficiency"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Bored Bean",
+    "bonuses": [
+      "5% AFK Gains Rate for Fighting and Skills"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Slime",
+    "bonuses": [
+      "+25% Golden Balls earned in Arcade for Upgrades"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Sandy Pot",
+    "bonuses": [
+      "+15 Base All Stats (STR/AGI/WIS/LUK)"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Bloque",
+    "bonuses": [
+      "+20% All Skill EXP"
+    ]
+  },
+  {
+    "source": "Pet Companion",
+    "name": "Frog",
+    "bonuses": [
+      "+10% Total Damage"
+    ]
+  },
+  {
+    "source": "Weekly Battle",
+    "name": "Misc Action",
+    "bonuses": [
+      "Tired and slightly agitated, you take a tea drinking break, giving +% Class EXP for all characters."
+    ]
+  },
+  {
+    "source": "Weekly Battle",
+    "name": "Misc Action",
+    "bonuses": [
+      "You add extra chilly cheese to everyone's hotdogs outside the fight, giving +% DMG to all characters"
+    ]
+  },
+  {
+    "source": "Weekly Battle",
+    "name": "Misc Action",
+    "bonuses": [
+      "You notice a trophy on the ground, and run to pick it up instead of attacking."
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Bigger Damage",
+    "bonuses": [
+      "+ Damage. Monsters hate this upgrade! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Natural Talent 製 (Tap for Info)",
+    "bonuses": [
+      "+ Talent Points. Go spend them! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Monster Tax",
+    "bonuses": [
+      "+% Coins dropped by Monsters. Total Coin Bonus from@all@sources;~x"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Wicked Smart",
+    "bonuses": [
+      "+% Class EXP Gain. Leveling up gives you Talent Pts!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Bullseye 製",
+    "bonuses": [
+      "+ Accuracy. Useful when you start missing! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Steel Guard",
+    "bonuses": [
+      "+ Defence. Useful when monsters start hurting! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Evolving Talent 製",
+    "bonuses": [
+      "+ Talent Points for Warrior, Archer, and Mage! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Massive Whirl",
+    "bonuses": [
+      "Whirl is 2x as big and can hit + more monsters! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Rapid Arrows",
+    "bonuses": [
+      "Piercing Arrow fires double arrows! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Dual Fireballs",
+    "bonuses": [
+      "Fireball casts in both directions at the same time! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Weapon Craft 製",
+    "bonuses": [
+      "All crafted weapons give +% more damage. Go craft a new weapon at the Anvil in town!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Mining Payday$ 製",
+    "bonuses": [
+      "+% Coins (Total:+^%) per POW 10 ores mined. Go make a 2nd player to go mining for you!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Baby on Board 製",
+    "bonuses": [
+      "+% Class EXP Gain for your Lowest LV Player "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Major Discount",
+    "bonuses": [
+      "All upgrades in the Vault are % cheaper "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Bored to Death 製",
+    "bonuses": [
+      "+% Coins from Monsters per POW 10 Bean Kills. $% Coins"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Knockout! 製",
+    "bonuses": [
+      "+% Total Damage per Knockout! Current Target:&    Total:+$% DMG"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Stamp Bonanza",
+    "bonuses": [
+      "x higher bonuses from Sword, Heart, Target, and Shield Stamps"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Carry Capacity 製",
+    "bonuses": [
+      "Can carry + more resources per slot! Craft Bags at the anvil to boost this way more!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Drops for Days",
+    "bonuses": [
+      "+% Drop Rarity, also known by the IdleOn community as Drop Rate, or DR"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Happy Doggy 製",
+    "bonuses": [
+      "+% Dog Happiness "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Slice N Dice 製",
+    "bonuses": [
+      "+ Base Damage per POW 10 Carrot Kills. $ Dmg"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Go Go Secret Owl 製",
+    "bonuses": [
+      "+% Feathers/sec for Orion the Horned Owl "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Boss Decimation",
+    "bonuses": [
+      "+% Boss Damage "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Sleepy Time",
+    "bonuses": [
+      "+% AFK Gains for Fighting and Skilling "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Production Revolution 製",
+    "bonuses": [
+      "+% faster Anvil Production "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Statue Bonanza",
+    "bonuses": [
+      "x higher bonuses from Power, Speed, Mining, and Lumberbob Statues"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Beeg Forge",
+    "bonuses": [
+      "+% higher Forge Capacity "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Stick Snapping 製",
+    "bonuses": [
+      "+% Total Damage per POW 10 Branch Kills. $% DMG"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Liquid Knowledge",
+    "bonuses": [
+      "+% Alchemy EXP Gain "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Bug Knowledge",
+    "bonuses": [
+      "+% Catching EXP Gain "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Fish Knowledge",
+    "bonuses": [
+      "+% Fishing EXP Gain "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Dirty Money 製",
+    "bonuses": [
+      "+% Coins from Monsters per POW 10 Poop Kills $% Coins"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Vault Mastery",
+    "bonuses": [
+      "x higher bonuses from all the Vault Upgrades above with the Blue Highlight!!!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Storage Slots",
+    "bonuses": [
+      "+ more slots in your Storage Chest! Great for moving items between players!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Recipe for Profit 製",
+    "bonuses": [
+      "+% Coins per recipe unlocked from Taskboard! Total bonus:+$% Coins"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Schoolin' the Fish$ 製",
+    "bonuses": [
+      "+% Class EXP per POW 10 fish caught. Total Bonus:+$% Class EXP"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Straight to Storage",
+    "bonuses": [
+      "You can now deposit resources from AFK straight to storage. Other items will still drop on the ground."
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Bubble Money 製",
+    "bonuses": [
+      "+% Coins from Mobs for each time you upgrade an Alchemy Bubble. Total Bonus:+$% Coins"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Drip Drip Drip",
+    "bonuses": [
+      "+% faster Liquid Generation for Alchemy. This is one of the costs to upgrade bubbles!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Active Learning",
+    "bonuses": [
+      "x more Class EXP gained from defeating monsters while the game is open."
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Stunning Talent",
+    "bonuses": [
+      "+ Talent Points for your Subclass. Talk to Specius in World 2 Map 3 to get your subclass!!!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Bug Power En Masse$",
+    "bonuses": [
+      "+% Total Damage per POW 10 bugs caught. Total Bonus:+$% DMG"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Vial Overtune 製",
+    "bonuses": [
+      "All vials give x higher bonuses. "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Active Murdering",
+    "bonuses": [
+      "Killing monsters open portals x faster while the game is open."
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Card Retirement 製",
+    "bonuses": [
+      "Cards that give Card Drop Rate bonuses become PASSIVE, so you never need to equip them again!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Go Go Secret Kangaroo Mouse 製",
+    "bonuses": [
+      "+% Bluefish for Poppy the Kangaroo Mouse! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "All Armoured Up",
+    "bonuses": [
+      "All equipment gives x more DEF stat. You'll need this to not die from monsters!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Daily Mailbox",
+    "bonuses": [
+      "Get  Post Office boxes every day you open up IdleOn and play it!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Buildie Sheepie 製",
+    "bonuses": [
+      "+% Construction SPD per POW 10 Sheepie Kills. $% Build SPD"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Quest KAPOW! 製",
+    "bonuses": [
+      "Raises the max LV of the star talent to  You'll see this star talent on Page 1."
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Critters 'n Souls 製",
+    "bonuses": [
+      "+% more Critters and Souls from all sources! "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Slight Do-Over",
+    "bonuses": [
+      "Hold down on a Talent to refund, doable  times every day. This will refund the points!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Duplicate Entries",
+    "bonuses": [
+      "Whenever you get new colosseum tickets, you get DOUBLE the amount!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Special Talent",
+    "bonuses": [
+      "+ Star Talent Points "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Kitchen Dream-mare",
+    "bonuses": [
+      "x meal cooking speed Go on lad, turn that kitchen around!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Lab Knowledge",
+    "bonuses": [
+      "+% Lab EXP Gain for all players "
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Foraging Forever",
+    "bonuses": [
+      "+% Foraging Speed for all pets, so you can gather spices so much faster!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Teh TOM",
+    "bonuses": [
+      "+ Tome Score. Maybe this will get you into the Top 1% Score of all IdleOn players?"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Pet Punchies",
+    "bonuses": [
+      "+% Pet Damage for all pets, so you can win pet battles easier and collect new spices!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Breeding Knowledge",
+    "bonuses": [
+      "+% Breeding EXP Gain. Also, rare eggs now have a HUGE exp multi!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Cooking Knowledge",
+    "bonuses": [
+      "+% Cooking EXP Gain. This bonus is weird, it actually goes up faster the more you level it!"
+    ]
+  },
+  {
+    "source": "Upgrade Vault",
+    "name": "Vault Mastery II",
+    "bonuses": [
+      "x higher bonuses from all the Vault Upgrades above with the Green Highlight!!!"
+    ]
+  },
+  {
     "source": "Card",
     "name": "Green Mushroom",
     "bonuses": [
@@ -25303,538 +25835,6 @@
     ]
   },
   {
-    "source": "Pet Companion",
-    "name": "King Doot",
-    "bonuses": [
-      "All Divinities from World 5 count as Active"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Rift Slug",
-    "bonuses": [
-      "+25 Lv for all Talents"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Dedotated Ram",
-    "bonuses": [
-      "You can use Storage Chest anywhere in Quickref"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Crystal Custard",
-    "bonuses": [
-      "100% Drop Rate and Exp from monsters"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Sheepie",
-    "bonuses": [
-      "All big bubbles in Alchemy count as equipped"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Molti",
-    "bonuses": [
-      "5% All Skill Efficiency"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Bored Bean",
-    "bonuses": [
-      "5% AFK Gains Rate for Fighting and Skills"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Slime",
-    "bonuses": [
-      "+25% Golden Balls earned in Arcade for Upgrades"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Sandy Pot",
-    "bonuses": [
-      "+15 Base All Stats (STR/AGI/WIS/LUK)"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Bloque",
-    "bonuses": [
-      "+20% All Skill EXP"
-    ]
-  },
-  {
-    "source": "Pet Companion",
-    "name": "Frog",
-    "bonuses": [
-      "+10% Total Damage"
-    ]
-  },
-  {
-    "source": "Weekly Battle",
-    "name": "Misc Action",
-    "bonuses": [
-      "Tired and slightly agitated, you take a tea drinking break, giving +% Class EXP for all characters."
-    ]
-  },
-  {
-    "source": "Weekly Battle",
-    "name": "Misc Action",
-    "bonuses": [
-      "You add extra chilly cheese to everyone's hotdogs outside the fight, giving +% DMG to all characters"
-    ]
-  },
-  {
-    "source": "Weekly Battle",
-    "name": "Misc Action",
-    "bonuses": [
-      "You notice a trophy on the ground, and run to pick it up instead of attacking."
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Bigger Damage",
-    "bonuses": [
-      "+ Damage. Monsters hate this upgrade! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Natural Talent 製 (Tap for Info)",
-    "bonuses": [
-      "+ Talent Points. Go spend them! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Monster Tax",
-    "bonuses": [
-      "+% Coins dropped by Monsters. Total Coin Bonus from@all@sources;~x"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Wicked Smart",
-    "bonuses": [
-      "+% Class EXP Gain. Leveling up gives you Talent Pts!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Bullseye 製",
-    "bonuses": [
-      "+ Accuracy. Useful when you start missing! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Steel Guard",
-    "bonuses": [
-      "+ Defence. Useful when monsters start hurting! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Evolving Talent 製",
-    "bonuses": [
-      "+ Talent Points for Warrior, Archer, and Mage! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Massive Whirl",
-    "bonuses": [
-      "Whirl is 2x as big and can hit + more monsters! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Rapid Arrows",
-    "bonuses": [
-      "Piercing Arrow fires double arrows! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Dual Fireballs",
-    "bonuses": [
-      "Fireball casts in both directions at the same time! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Weapon Craft 製",
-    "bonuses": [
-      "All crafted weapons give +% more damage. Go craft a new weapon at the Anvil in town!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Mining Payday$ 製",
-    "bonuses": [
-      "+% Coins (Total:+^%) per POW 10 ores mined. Go make a 2nd player to go mining for you!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Baby on Board 製",
-    "bonuses": [
-      "+% Class EXP Gain for your Lowest LV Player "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Major Discount",
-    "bonuses": [
-      "All upgrades in the Vault are % cheaper "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Bored to Death 製",
-    "bonuses": [
-      "+% Coins from Monsters per POW 10 Bean Kills. $% Coins"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Knockout! 製",
-    "bonuses": [
-      "+% Total Damage per Knockout! Current Target:&    Total:+$% DMG"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Stamp Bonanza",
-    "bonuses": [
-      "x higher bonuses from Sword, Heart, Target, and Shield Stamps"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Carry Capacity 製",
-    "bonuses": [
-      "Can carry + more resources per slot! Craft Bags at the anvil to boost this way more!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Drops for Days",
-    "bonuses": [
-      "+% Drop Rarity, also known by the IdleOn community as Drop Rate, or DR"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Happy Doggy 製",
-    "bonuses": [
-      "+% Dog Happiness "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Slice N Dice 製",
-    "bonuses": [
-      "+ Base Damage per POW 10 Carrot Kills. $ Dmg"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Go Go Secret Owl 製",
-    "bonuses": [
-      "+% Feathers/sec for Orion the Horned Owl "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Boss Decimation",
-    "bonuses": [
-      "+% Boss Damage "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Sleepy Time",
-    "bonuses": [
-      "+% AFK Gains for Fighting and Skilling "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Production Revolution 製",
-    "bonuses": [
-      "+% faster Anvil Production "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Statue Bonanza",
-    "bonuses": [
-      "x higher bonuses from Power, Speed, Mining, and Lumberbob Statues"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Beeg Forge",
-    "bonuses": [
-      "+% higher Forge Capacity "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Stick Snapping 製",
-    "bonuses": [
-      "+% Total Damage per POW 10 Branch Kills. $% DMG"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Liquid Knowledge",
-    "bonuses": [
-      "+% Alchemy EXP Gain "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Bug Knowledge",
-    "bonuses": [
-      "+% Catching EXP Gain "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Fish Knowledge",
-    "bonuses": [
-      "+% Fishing EXP Gain "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Dirty Money 製",
-    "bonuses": [
-      "+% Coins from Monsters per POW 10 Poop Kills $% Coins"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Vault Mastery",
-    "bonuses": [
-      "x higher bonuses from all the Vault Upgrades above with the Blue Highlight!!!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Storage Slots",
-    "bonuses": [
-      "+ more slots in your Storage Chest! Great for moving items between players!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Recipe for Profit 製",
-    "bonuses": [
-      "+% Coins per recipe unlocked from Taskboard! Total bonus:+$% Coins"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Schoolin' the Fish$ 製",
-    "bonuses": [
-      "+% Class EXP per POW 10 fish caught. Total Bonus:+$% Class EXP"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Straight to Storage",
-    "bonuses": [
-      "You can now deposit resources from AFK straight to storage. Other items will still drop on the ground."
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Bubble Money 製",
-    "bonuses": [
-      "+% Coins from Mobs for each time you upgrade an Alchemy Bubble. Total Bonus:+$% Coins"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Drip Drip Drip",
-    "bonuses": [
-      "+% faster Liquid Generation for Alchemy. This is one of the costs to upgrade bubbles!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Active Learning",
-    "bonuses": [
-      "x more Class EXP gained from defeating monsters while the game is open."
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Stunning Talent",
-    "bonuses": [
-      "+ Talent Points for your Subclass. Talk to Specius in World 2 Map 3 to get your subclass!!!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Bug Power En Masse$",
-    "bonuses": [
-      "+% Total Damage per POW 10 bugs caught. Total Bonus:+$% DMG"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Vial Overtune 製",
-    "bonuses": [
-      "All vials give x higher bonuses. "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Active Murdering",
-    "bonuses": [
-      "Killing monsters open portals x faster while the game is open."
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Card Retirement 製",
-    "bonuses": [
-      "Cards that give Card Drop Rate bonuses become PASSIVE, so you never need to equip them again!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Go Go Secret Kangaroo Mouse 製",
-    "bonuses": [
-      "+% Bluefish for Poppy the Kangaroo Mouse! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "All Armoured Up",
-    "bonuses": [
-      "All equipment gives x more DEF stat. You'll need this to not die from monsters!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Daily Mailbox",
-    "bonuses": [
-      "Get  Post Office boxes every day you open up IdleOn and play it!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Buildie Sheepie 製",
-    "bonuses": [
-      "+% Construction SPD per POW 10 Sheepie Kills. $% Build SPD"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Quest KAPOW! 製",
-    "bonuses": [
-      "Raises the max LV of the star talent to  You'll see this star talent on Page 1."
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Critters 'n Souls 製",
-    "bonuses": [
-      "+% more Critters and Souls from all sources! "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Slight Do-Over",
-    "bonuses": [
-      "Hold down on a Talent to refund, doable  times every day. This will refund the points!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Duplicate Entries",
-    "bonuses": [
-      "Whenever you get new colosseum tickets, you get DOUBLE the amount!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Special Talent",
-    "bonuses": [
-      "+ Star Talent Points "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Kitchen Dream-mare",
-    "bonuses": [
-      "x meal cooking speed Go on lad, turn that kitchen around!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Lab Knowledge",
-    "bonuses": [
-      "+% Lab EXP Gain for all players "
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Foraging Forever",
-    "bonuses": [
-      "+% Foraging Speed for all pets, so you can gather spices so much faster!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Teh TOM",
-    "bonuses": [
-      "+ Tome Score. Maybe this will get you into the Top 1% Score of all IdleOn players?"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Pet Punchies",
-    "bonuses": [
-      "+% Pet Damage for all pets, so you can win pet battles easier and collect new spices!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Breeding Knowledge",
-    "bonuses": [
-      "+% Breeding EXP Gain. Also, rare eggs now have a HUGE exp multi!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Cooking Knowledge",
-    "bonuses": [
-      "+% Cooking EXP Gain. This bonus is weird, it actually goes up faster the more you level it!"
-    ]
-  },
-  {
-    "source": "Upgrade Vault",
-    "name": "Vault Mastery II",
-    "bonuses": [
-      "x higher bonuses from all the Vault Upgrades above with the Green Highlight!!!"
-    ]
-  },
-  {
     "source": "Main Stat",
     "name": "Strength (STR)",
     "bonuses": [
@@ -27500,6 +27500,230 @@
     "name": "Killing the Centurion",
     "bonuses": [
       "+1 Opal"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Reinforced Science Pencil",
+    "bonuses": [
+      "+20% Total Damage per Crop"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Science Pen",
+    "bonuses": [
+      "1.02x Plant Evolution Chance in Gaming (Multiplicative) per Crop"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Science Marker",
+    "bonuses": [
+      "+8% Jade Coin Gain per Crop"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Science Featherpen",
+    "bonuses": [
+      "1.10x Cooking Speed (Multiplicative) per Crop"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Science Environmentally Sourced Pencil",
+    "bonuses": [
+      "+15% Cash from Mobs per crop"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Science Crayon",
+    "bonuses": [
+      "+7% Shiny Pet Lv Up Rate and Pet Breeding Rate per Crop"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Science Paintbrush",
+    "bonuses": [
+      "+0.1 Base Critter caught in Trapping per Crop"
+    ]
+  },
+  {
+    "source": "Farming - Scientist Blobulyte",
+    "name": "Science Highlighter",
+    "bonuses": [
+      "+1% Drop Rate per Crop after 100"
+    ]
+  },
+  {
+    "source": "The Tome",
+    "name": "Bonus 1",
+    "bonuses": [
+      "+% DMG"
+    ]
+  },
+  {
+    "source": "The Tome",
+    "name": "Bonus 2",
+    "bonuses": [
+      "+% Skill Eff"
+    ]
+  },
+  {
+    "source": "The Tome",
+    "name": "Bonus 3",
+    "bonuses": [
+      "+% Drop Rarity"
+    ]
+  },
+  {
+    "source": "The Tome",
+    "name": "Bonus 4",
+    "bonuses": [
+      "+% STR"
+    ]
+  },
+  {
+    "source": "The Tome",
+    "name": "Bonus 5",
+    "bonuses": [
+      "+% AGI"
+    ]
+  },
+  {
+    "source": "The Tome",
+    "name": "Bonus 6",
+    "bonuses": [
+      "+% WIS"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Copper Set",
+    "bonuses": [
+      "+60% Mining and Chopping Efficiency"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Iron Set",
+    "bonuses": [
+      "+25% Class EXP Gain"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Amarok Set",
+    "bonuses": [
+      "+40% Accuracy and Defence"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Gold Set",
+    "bonuses": [
+      "1.50x Coins Dropped by Monsters"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Platinum Set",
+    "bonuses": [
+      "+60% Fishing and Catching Efficiency"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Efaunt Set",
+    "bonuses": [
+      "+25% Drop Rate"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Dementia Set",
+    "bonuses": [
+      "+50% Critters and Souls gained"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Void Set",
+    "bonuses": [
+      "+10% AFK Gains"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Chizoar Set",
+    "bonuses": [
+      "+40% All Skill EXP Gain"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Lustre Set",
+    "bonuses": [
+      "+75% Total Damage"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Diabolical Set",
+    "bonuses": [
+      "+20% Faster Monster Respawning"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Troll Set",
+    "bonuses": [
+      "1.25x Higher Bonuses from Tome"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Magma Set",
+    "bonuses": [
+      "+100% Lab and Divinity EXP Gain"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Kattlekruk Set",
+    "bonuses": [
+      "+5 LV for all Talents"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Marbiglass Set",
+    "bonuses": [
+      "+10% All Stat"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Godshard Set",
+    "bonuses": [
+      "1.15x Higher Winners Bonuses from Summoning"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Emperor Set",
+    "bonuses": [
+      "Ribbons and Exalted Stamps give 1.20x more multi"
+    ]
+  },
+  {
+    "source": "Armor Set",
+    "name": "Secret Set",
+    "bonuses": [
+      "1.25x Gold Food effect"
     ]
   }
 ]

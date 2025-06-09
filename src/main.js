@@ -62,6 +62,9 @@ runParser(parseSkullShopRepo, exportedPath + "repo/Misc/SkullShopRepo.json");
 runParser(parseDreamChallengeRepo, exportedPath + "repo/Misc/Equinox/DreamChallengeRepo.json");
 runParser(parseDreamUpgradeRepo, exportedPath + "repo/Misc/Equinox/DreamUpgradeRepo.json");
 runParser(parseGrimoireUpgradeRepo, exportedPath + "repo/Misc/GrimoireUpgradeRepo.json");
+runParser(parseCompanionRepo, exportedPath + "repo/Misc/CompanionRepo.json");
+runParser(parseWeeklyActionRepo, exportedPath + "repo/Misc/WeeklyTask/WeeklyActionRepo.json")
+runParser(parseUpgradeVaultRepo, exportedPath + "repo/Misc/UpgradeVaultRepo.json")
 
 // repo/Item/* 
 runParser(parseCardRepo, exportedPath + "repo/Item/CardRepo.json");
@@ -75,11 +78,6 @@ runParser(parseDungPassivesRepo, exportedPath + "repo/Dungeon/DungPassivesRepo.j
 
 // repo/Arcade/*
 runParser(parseArcadeBonusRepo, exportedPath + "repo/Arcade/ArcadeBonusRepo.json");
-
-// repo/Misc
-runParser(parseCompanionRepo, exportedPath + "repo/Misc/CompanionRepo.json");
-runParser(parseWeeklyActionRepo, exportedPath + "repo/Misc/WeeklyTask/WeeklyActionRepo.json")
-runParser(parseUpgradeVaultRepo, exportedPath + "repo/Misc/UpgradeVaultRepo.json")
 
 // ------------------------------- Add Manual ----------------------------
 runParser(function(keyValue){
